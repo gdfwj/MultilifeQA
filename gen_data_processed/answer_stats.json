@@ -1,0 +1,1065 @@
+{
+  "simple": {
+    "overall": {
+      "total_lines": 13452,
+      "pattern_counts": {
+        "{}": 5998,
+        "{yes or no}": 1564,
+        "{real number (two decimal)}": 1449,
+        "{word}": 1191,
+        "{else}": 870,
+        "{real number (two decimal), word}": 620,
+        "{real number (two decimal)×2}": 347,
+        "{real number (two decimal)×2, word}": 279,
+        "{else×2}": 235,
+        "{word, else}": 172,
+        "{real number (two decimal)×3}": 124,
+        "{date, word}": 119,
+        "{real number (two decimal), else}": 117,
+        "{real number (two decimal)×3, word}": 117,
+        "{date, real number (two decimal), word}": 53,
+        "{word×5}": 34,
+        "{real number (two decimal)×2, word×2}": 30,
+        "{word×3}": 27,
+        "{word, else×2}": 25,
+        "{word×2}": 25,
+        "{real number (two decimal)×2, else}": 9,
+        "{word×4}": 8,
+        "{word×2, else}": 6,
+        "{date, else}": 4,
+        "{date, word, else}": 4,
+        "{else×3}": 4,
+        "{real number (two decimal), word, else}": 4,
+        "{word×4, else}": 4,
+        "{real number (two decimal)×3, else}": 3,
+        "{word×7}": 3,
+        "{word×6}": 2,
+        "{real number (two decimal), else×2}": 1,
+        "{word×3, else}": 1,
+        "{word×3, else×2}": 1,
+        "{word×6, else×2}": 1,
+        "{word×9, else}": 1
+      },
+      "type_counts": {
+        "integer": 8300,
+        "real number (two decimal)": 4306,
+        "word": 3059,
+        "else": 1733,
+        "yes or no": 1564,
+        "date": 180
+      }
+    },
+    "by_qtype": {
+      "AS": {
+        "total_lines": 2725,
+        "pattern_counts": {
+          "{real number (two decimal)}": 909,
+          "{}": 536,
+          "{real number (two decimal), word}": 356,
+          "{real number (two decimal)×2}": 320,
+          "{word}": 153,
+          "{real number (two decimal)×2, word}": 104,
+          "{else}": 96,
+          "{real number (two decimal)×3}": 64,
+          "{real number (two decimal), else}": 63,
+          "{real number (two decimal)×3, word}": 58,
+          "{word×5}": 25,
+          "{word, else}": 23,
+          "{real number (two decimal), word, else}": 4,
+          "{real number (two decimal)×2, else}": 4,
+          "{word×4, else}": 4,
+          "{real number (two decimal)×3, else}": 2,
+          "{else×2}": 1,
+          "{real number (two decimal), else×2}": 1,
+          "{word, else×2}": 1,
+          "{word×3, else×2}": 1
+        },
+        "type_counts": {
+          "real number (two decimal)": 2561,
+          "integer": 1439,
+          "word": 843,
+          "else": 204
+        }
+      },
+      "CQ": {
+        "total_lines": 3065,
+        "pattern_counts": {
+          "{}": 3065
+        },
+        "type_counts": {
+          "integer": 3065
+        }
+      },
+      "FQ": {
+        "total_lines": 2121,
+        "pattern_counts": {
+          "{}": 699,
+          "{real number (two decimal)}": 387,
+          "{else}": 204,
+          "{word}": 181,
+          "{real number (two decimal), word}": 137,
+          "{real number (two decimal)×2, word}": 116,
+          "{word, else}": 70,
+          "{real number (two decimal)×3}": 60,
+          "{real number (two decimal)×3, word}": 59,
+          "{real number (two decimal), else}": 52,
+          "{real number (two decimal)×2}": 27,
+          "{word×3}": 27,
+          "{word×2}": 25,
+          "{word, else×2}": 24,
+          "{else×2}": 17,
+          "{word×5}": 9,
+          "{word×4}": 8,
+          "{word×2, else}": 6,
+          "{real number (two decimal)×2, else}": 4,
+          "{word×7}": 3,
+          "{word×6}": 2,
+          "{real number (two decimal)×3, else}": 1,
+          "{word×3, else}": 1,
+          "{word×6, else×2}": 1,
+          "{word×9, else}": 1
+        },
+        "type_counts": {
+          "integer": 1977,
+          "real number (two decimal)": 1230,
+          "word": 858,
+          "else": 423
+        }
+      },
+      "NC": {
+        "total_lines": 2735,
+        "pattern_counts": {
+          "{else}": 570,
+          "{yes or no}": 544,
+          "{word}": 437,
+          "{}": 332,
+          "{else×2}": 217,
+          "{real number (two decimal)}": 153,
+          "{real number (two decimal), word}": 127,
+          "{date, word}": 119,
+          "{word, else}": 79,
+          "{real number (two decimal)×2, word}": 59,
+          "{date, real number (two decimal), word}": 53,
+          "{real number (two decimal)×2, word×2}": 30,
+          "{date, else}": 4,
+          "{date, word, else}": 4,
+          "{else×3}": 4,
+          "{real number (two decimal), else}": 2,
+          "{real number (two decimal)×2, else}": 1
+        },
+        "type_counts": {
+          "else": 1106,
+          "word": 938,
+          "yes or no": 544,
+          "real number (two decimal)": 515,
+          "integer": 453,
+          "date": 180
+        }
+      },
+      "TA": {
+        "total_lines": 2806,
+        "pattern_counts": {
+          "{}": 1366,
+          "{yes or no}": 1020,
+          "{word}": 420
+        },
+        "type_counts": {
+          "integer": 1366,
+          "yes or no": 1020,
+          "word": 420
+        }
+      },
+      "UNKNOWN": {
+        "total_lines": 0,
+        "pattern_counts": {},
+        "type_counts": {}
+      }
+    },
+    "by_folder_flag": {
+      "none": {
+        "total_lines": 4029,
+        "pattern_counts": {
+          "{}": 1839,
+          "{real number (two decimal)}": 760,
+          "{word}": 665,
+          "{else}": 659,
+          "{word×5}": 30,
+          "{yes or no}": 30,
+          "{word×3}": 13,
+          "{word×2}": 9,
+          "{word×4}": 6,
+          "{word×2, else}": 4,
+          "{word×4, else}": 4,
+          "{word, else}": 3,
+          "{else×2}": 1,
+          "{word×3, else}": 1,
+          "{word×3, else×2}": 1,
+          "{word×6, else×2}": 1,
+          "{word×6}": 1,
+          "{word×7}": 1,
+          "{word×9, else}": 1
+        },
+        "type_counts": {
+          "integer": 1839,
+          "word": 957,
+          "real number (two decimal)": 760,
+          "else": 678,
+          "yes or no": 30
+        }
+      },
+      "joint_only": {
+        "total_lines": 9423,
+        "pattern_counts": {
+          "{}": 4159,
+          "{yes or no}": 1534,
+          "{real number (two decimal)}": 689,
+          "{real number (two decimal), word}": 620,
+          "{word}": 526,
+          "{real number (two decimal)×2}": 347,
+          "{real number (two decimal)×2, word}": 279,
+          "{else×2}": 234,
+          "{else}": 211,
+          "{word, else}": 169,
+          "{real number (two decimal)×3}": 124,
+          "{date, word}": 119,
+          "{real number (two decimal), else}": 117,
+          "{real number (two decimal)×3, word}": 117,
+          "{date, real number (two decimal), word}": 53,
+          "{real number (two decimal)×2, word×2}": 30,
+          "{word, else×2}": 25,
+          "{word×2}": 16,
+          "{word×3}": 14,
+          "{real number (two decimal)×2, else}": 9,
+          "{date, else}": 4,
+          "{date, word, else}": 4,
+          "{else×3}": 4,
+          "{real number (two decimal), word, else}": 4,
+          "{word×5}": 4,
+          "{real number (two decimal)×3, else}": 3,
+          "{word×2, else}": 2,
+          "{word×4}": 2,
+          "{word×7}": 2,
+          "{real number (two decimal), else×2}": 1,
+          "{word×6}": 1
+        },
+        "type_counts": {
+          "integer": 6461,
+          "real number (two decimal)": 3546,
+          "word": 2102,
+          "yes or no": 1534,
+          "else": 1055,
+          "date": 180
+        }
+      },
+      "multi_only": {
+        "total_lines": 0,
+        "pattern_counts": {},
+        "type_counts": {}
+      },
+      "both": {
+        "total_lines": 0,
+        "pattern_counts": {},
+        "type_counts": {}
+      }
+    },
+    "by_folder": {
+      "activity_food_joint": {
+        "total_lines": 810,
+        "qtype_counts": {
+          "AS": 270,
+          "CQ": 90,
+          "FQ": 90,
+          "NC": 180,
+          "TA": 180
+        }
+      },
+      "activity_sleep_joint": {
+        "total_lines": 355,
+        "qtype_counts": {
+          "AS": 75,
+          "CQ": 75,
+          "FQ": 75,
+          "NC": 75,
+          "TA": 55
+        }
+      },
+      "additional_sleep": {
+        "total_lines": 420,
+        "qtype_counts": {
+          "AS": 90,
+          "CQ": 120,
+          "FQ": 30,
+          "NC": 120,
+          "TA": 60
+        }
+      },
+      "all_joint": {
+        "total_lines": 960,
+        "qtype_counts": {
+          "AS": 150,
+          "CQ": 240,
+          "FQ": 240,
+          "NC": 150,
+          "TA": 180
+        }
+      },
+      "emotion_food_joint": {
+        "total_lines": 420,
+        "qtype_counts": {
+          "AS": 90,
+          "CQ": 90,
+          "FQ": 60,
+          "NC": 90,
+          "TA": 90
+        }
+      },
+      "food_meal_labels": {
+        "total_lines": 360,
+        "qtype_counts": {
+          "AS": 90,
+          "CQ": 30,
+          "FQ": 90,
+          "NC": 90,
+          "TA": 60
+        }
+      },
+      "food_sleep_joint": {
+        "total_lines": 1710,
+        "qtype_counts": {
+          "AS": 390,
+          "CQ": 510,
+          "FQ": 300,
+          "NC": 360,
+          "TA": 150
+        }
+      },
+      "heart_rate_variability": {
+        "total_lines": 582,
+        "qtype_counts": {
+          "AS": 90,
+          "CQ": 90,
+          "FQ": 90,
+          "NC": 180,
+          "TA": 132
+        }
+      },
+      "oxygen_sat_daily": {
+        "total_lines": 240,
+        "qtype_counts": {
+          "AS": 30,
+          "CQ": 30,
+          "FQ": 30,
+          "NC": 90,
+          "TA": 60
+        }
+      },
+      "pa_active_minutes": {
+        "total_lines": 507,
+        "qtype_counts": {
+          "AS": 90,
+          "CQ": 60,
+          "FQ": 30,
+          "NC": 150,
+          "TA": 177
+        }
+      },
+      "pa_daily_summary": {
+        "total_lines": 240,
+        "qtype_counts": {
+          "AS": 30,
+          "CQ": 60,
+          "FQ": 30,
+          "NC": 60,
+          "TA": 60
+        }
+      },
+      "pa_emotion_joint": {
+        "total_lines": 1140,
+        "qtype_counts": {
+          "AS": 210,
+          "CQ": 270,
+          "FQ": 330,
+          "NC": 150,
+          "TA": 180
+        }
+      },
+      "pa_reports": {
+        "total_lines": 750,
+        "qtype_counts": {
+          "AS": 240,
+          "CQ": 150,
+          "FQ": 90,
+          "NC": 150,
+          "TA": 120
+        }
+      },
+      "physical_activity_joint": {
+        "total_lines": 1710,
+        "qtype_counts": {
+          "AS": 330,
+          "CQ": 540,
+          "FQ": 210,
+          "NC": 120,
+          "TA": 510
+        }
+      },
+      "respiratory_rate": {
+        "total_lines": 270,
+        "qtype_counts": {
+          "AS": 30,
+          "CQ": 60,
+          "FQ": 30,
+          "NC": 90,
+          "TA": 60
+        }
+      },
+      "skin_temp_sleep_nightly": {
+        "total_lines": 300,
+        "qtype_counts": {
+          "AS": 60,
+          "CQ": 60,
+          "FQ": 30,
+          "NC": 90,
+          "TA": 60
+        }
+      },
+      "sleep_joint": {
+        "total_lines": 278,
+        "qtype_counts": {
+          "AS": 100,
+          "CQ": 20,
+          "FQ": 96,
+          "NC": 20,
+          "TA": 42
+        }
+      },
+      "sleep_stress_joint": {
+        "total_lines": 2040,
+        "qtype_counts": {
+          "AS": 270,
+          "CQ": 540,
+          "FQ": 240,
+          "NC": 450,
+          "TA": 540
+        }
+      },
+      "stress_daily_scores": {
+        "total_lines": 360,
+        "qtype_counts": {
+          "AS": 90,
+          "CQ": 30,
+          "FQ": 30,
+          "NC": 120,
+          "TA": 90
+        }
+      }
+    }
+  },
+  "sql": {
+    "overall": {
+      "total_lines": 22573,
+      "pattern_counts": {
+        "{}": 9037,
+        "{yes or no}": 3500,
+        "{real number (two decimal)}": 2456,
+        "{word}": 2323,
+        "{uid}": 1621,
+        "{else}": 1160,
+        "{real number (two decimal), word}": 620,
+        "{real number (two decimal)×2}": 383,
+        "{real number (two decimal)×2, word}": 279,
+        "{else×2}": 235,
+        "{word, else}": 172,
+        "{real number (two decimal)×3}": 124,
+        "{date, word}": 119,
+        "{real number (two decimal), else}": 117,
+        "{real number (two decimal)×3, word}": 117,
+        "{word×5}": 94,
+        "{date, real number (two decimal), word}": 53,
+        "{real number (two decimal)×2, word×2}": 30,
+        "{word×3}": 27,
+        "{word, else×2}": 25,
+        "{word×2}": 25,
+        "{real number (two decimal)×2, else}": 9,
+        "{word×4}": 8,
+        "{word×2, else}": 6,
+        "{date, else}": 4,
+        "{date, word, else}": 4,
+        "{else×3}": 4,
+        "{real number (two decimal), word, else}": 4,
+        "{word×4, else}": 4,
+        "{real number (two decimal)×3, else}": 3,
+        "{word×7}": 3,
+        "{word×6}": 2,
+        "{real number (two decimal), else×2}": 1,
+        "{word×3, else}": 1,
+        "{word×3, else×2}": 1,
+        "{word×6, else×2}": 1,
+        "{word×9, else}": 1
+      },
+      "type_counts": {
+        "integer": 11339,
+        "real number (two decimal)": 5385,
+        "word": 4491,
+        "yes or no": 3500,
+        "else": 2023,
+        "uid": 1621,
+        "date": 180
+      }
+    },
+    "by_qtype": {
+      "AS": {
+        "total_lines": 4732,
+        "pattern_counts": {
+          "{real number (two decimal)}": 1520,
+          "{}": 1025,
+          "{uid}": 591,
+          "{real number (two decimal), word}": 356,
+          "{real number (two decimal)×2}": 356,
+          "{else}": 256,
+          "{word}": 213,
+          "{real number (two decimal)×2, word}": 104,
+          "{word×5}": 85,
+          "{real number (two decimal)×3}": 64,
+          "{real number (two decimal), else}": 63,
+          "{real number (two decimal)×3, word}": 58,
+          "{word, else}": 23,
+          "{real number (two decimal), word, else}": 4,
+          "{real number (two decimal)×2, else}": 4,
+          "{word×4, else}": 4,
+          "{real number (two decimal)×3, else}": 2,
+          "{else×2}": 1,
+          "{real number (two decimal), else×2}": 1,
+          "{word, else×2}": 1,
+          "{word×3, else×2}": 1
+        },
+        "type_counts": {
+          "real number (two decimal)": 3244,
+          "integer": 1928,
+          "word": 1203,
+          "uid": 591,
+          "else": 364
+        }
+      },
+      "CQ": {
+        "total_lines": 5134,
+        "pattern_counts": {
+          "{}": 4492,
+          "{uid}": 529,
+          "{real number (two decimal)}": 69,
+          "{else}": 44
+        },
+        "type_counts": {
+          "integer": 4492,
+          "uid": 529,
+          "real number (two decimal)": 69,
+          "else": 44
+        }
+      },
+      "FQ": {
+        "total_lines": 3402,
+        "pattern_counts": {
+          "{}": 1036,
+          "{real number (two decimal)}": 714,
+          "{uid}": 441,
+          "{else}": 290,
+          "{word}": 241,
+          "{real number (two decimal), word}": 137,
+          "{real number (two decimal)×2, word}": 116,
+          "{word, else}": 70,
+          "{real number (two decimal)×3}": 60,
+          "{real number (two decimal)×3, word}": 59,
+          "{real number (two decimal), else}": 52,
+          "{yes or no}": 30,
+          "{real number (two decimal)×2}": 27,
+          "{word×3}": 27,
+          "{word×2}": 25,
+          "{word, else×2}": 24,
+          "{else×2}": 17,
+          "{word×5}": 9,
+          "{word×4}": 8,
+          "{word×2, else}": 6,
+          "{real number (two decimal)×2, else}": 4,
+          "{word×7}": 3,
+          "{word×6}": 2,
+          "{real number (two decimal)×3, else}": 1,
+          "{word×3, else}": 1,
+          "{word×6, else×2}": 1,
+          "{word×9, else}": 1
+        },
+        "type_counts": {
+          "integer": 2314,
+          "real number (two decimal)": 1557,
+          "word": 918,
+          "else": 509,
+          "uid": 441,
+          "yes or no": 30
+        }
+      },
+      "NC": {
+        "total_lines": 4550,
+        "pattern_counts": {
+          "{yes or no}": 1879,
+          "{word}": 857,
+          "{else}": 570,
+          "{}": 332,
+          "{else×2}": 217,
+          "{real number (two decimal)}": 153,
+          "{real number (two decimal), word}": 127,
+          "{date, word}": 119,
+          "{word, else}": 79,
+          "{uid}": 60,
+          "{real number (two decimal)×2, word}": 59,
+          "{date, real number (two decimal), word}": 53,
+          "{real number (two decimal)×2, word×2}": 30,
+          "{date, else}": 4,
+          "{date, word, else}": 4,
+          "{else×3}": 4,
+          "{real number (two decimal), else}": 2,
+          "{real number (two decimal)×2, else}": 1
+        },
+        "type_counts": {
+          "yes or no": 1879,
+          "word": 1358,
+          "else": 1106,
+          "real number (two decimal)": 515,
+          "integer": 453,
+          "date": 180,
+          "uid": 60
+        }
+      },
+      "TA": {
+        "total_lines": 4755,
+        "pattern_counts": {
+          "{}": 2152,
+          "{yes or no}": 1591,
+          "{word}": 1012
+        },
+        "type_counts": {
+          "integer": 2152,
+          "yes or no": 1591,
+          "word": 1012
+        }
+      },
+      "UNKNOWN": {
+        "total_lines": 0,
+        "pattern_counts": {},
+        "type_counts": {}
+      }
+    },
+    "by_folder_flag": {
+      "none": {
+        "total_lines": 4029,
+        "pattern_counts": {
+          "{}": 1839,
+          "{real number (two decimal)}": 760,
+          "{word}": 665,
+          "{else}": 659,
+          "{word×5}": 30,
+          "{yes or no}": 30,
+          "{word×3}": 13,
+          "{word×2}": 9,
+          "{word×4}": 6,
+          "{word×2, else}": 4,
+          "{word×4, else}": 4,
+          "{word, else}": 3,
+          "{else×2}": 1,
+          "{word×3, else}": 1,
+          "{word×3, else×2}": 1,
+          "{word×6, else×2}": 1,
+          "{word×6}": 1,
+          "{word×7}": 1,
+          "{word×9, else}": 1
+        },
+        "type_counts": {
+          "integer": 1839,
+          "word": 957,
+          "real number (two decimal)": 760,
+          "else": 678,
+          "yes or no": 30
+        }
+      },
+      "joint_only": {
+        "total_lines": 9423,
+        "pattern_counts": {
+          "{}": 4159,
+          "{yes or no}": 1534,
+          "{real number (two decimal)}": 689,
+          "{real number (two decimal), word}": 620,
+          "{word}": 526,
+          "{real number (two decimal)×2}": 347,
+          "{real number (two decimal)×2, word}": 279,
+          "{else×2}": 234,
+          "{else}": 211,
+          "{word, else}": 169,
+          "{real number (two decimal)×3}": 124,
+          "{date, word}": 119,
+          "{real number (two decimal), else}": 117,
+          "{real number (two decimal)×3, word}": 117,
+          "{date, real number (two decimal), word}": 53,
+          "{real number (two decimal)×2, word×2}": 30,
+          "{word, else×2}": 25,
+          "{word×2}": 16,
+          "{word×3}": 14,
+          "{real number (two decimal)×2, else}": 9,
+          "{date, else}": 4,
+          "{date, word, else}": 4,
+          "{else×3}": 4,
+          "{real number (two decimal), word, else}": 4,
+          "{word×5}": 4,
+          "{real number (two decimal)×3, else}": 3,
+          "{word×2, else}": 2,
+          "{word×4}": 2,
+          "{word×7}": 2,
+          "{real number (two decimal), else×2}": 1,
+          "{word×6}": 1
+        },
+        "type_counts": {
+          "integer": 6461,
+          "real number (two decimal)": 3546,
+          "word": 2102,
+          "yes or no": 1534,
+          "else": 1055,
+          "date": 180
+        }
+      },
+      "multi_only": {
+        "total_lines": 7901,
+        "pattern_counts": {
+          "{}": 2755,
+          "{uid}": 1485,
+          "{yes or no}": 1172,
+          "{word}": 1132,
+          "{real number (two decimal)}": 1007,
+          "{else}": 290,
+          "{word×5}": 60
+        },
+        "type_counts": {
+          "integer": 2755,
+          "uid": 1485,
+          "word": 1432,
+          "yes or no": 1172,
+          "real number (two decimal)": 1007,
+          "else": 290
+        }
+      },
+      "both": {
+        "total_lines": 1220,
+        "pattern_counts": {
+          "{yes or no}": 764,
+          "{}": 284,
+          "{uid}": 136,
+          "{real number (two decimal)×2}": 36
+        },
+        "type_counts": {
+          "yes or no": 764,
+          "integer": 284,
+          "uid": 136,
+          "real number (two decimal)": 72
+        }
+      }
+    },
+    "by_folder": {
+      "activity_food_joint": {
+        "total_lines": 810,
+        "qtype_counts": {
+          "AS": 270,
+          "CQ": 90,
+          "FQ": 90,
+          "NC": 180,
+          "TA": 180
+        }
+      },
+      "activity_sleep_joint": {
+        "total_lines": 355,
+        "qtype_counts": {
+          "AS": 75,
+          "CQ": 75,
+          "FQ": 75,
+          "NC": 75,
+          "TA": 55
+        }
+      },
+      "additional_sleep": {
+        "total_lines": 420,
+        "qtype_counts": {
+          "AS": 90,
+          "CQ": 120,
+          "FQ": 30,
+          "NC": 120,
+          "TA": 60
+        }
+      },
+      "additional_sleep_multi": {
+        "total_lines": 865,
+        "qtype_counts": {
+          "AS": 210,
+          "CQ": 180,
+          "FQ": 120,
+          "NC": 180,
+          "TA": 175
+        }
+      },
+      "all_joint": {
+        "total_lines": 960,
+        "qtype_counts": {
+          "AS": 150,
+          "CQ": 240,
+          "FQ": 240,
+          "NC": 150,
+          "TA": 180
+        }
+      },
+      "all_joint_multi": {
+        "total_lines": 1220,
+        "qtype_counts": {
+          "AS": 87,
+          "CQ": 284,
+          "FQ": 85,
+          "NC": 283,
+          "TA": 481
+        }
+      },
+      "emotion_food_joint": {
+        "total_lines": 420,
+        "qtype_counts": {
+          "AS": 90,
+          "CQ": 90,
+          "FQ": 60,
+          "NC": 90,
+          "TA": 90
+        }
+      },
+      "food_meal_labels": {
+        "total_lines": 360,
+        "qtype_counts": {
+          "AS": 90,
+          "CQ": 30,
+          "FQ": 90,
+          "NC": 90,
+          "TA": 60
+        }
+      },
+      "food_meal_labels_multi": {
+        "total_lines": 733,
+        "qtype_counts": {
+          "AS": 180,
+          "CQ": 180,
+          "FQ": 120,
+          "NC": 150,
+          "TA": 103
+        }
+      },
+      "food_sleep_joint": {
+        "total_lines": 1710,
+        "qtype_counts": {
+          "AS": 390,
+          "CQ": 510,
+          "FQ": 300,
+          "NC": 360,
+          "TA": 150
+        }
+      },
+      "heart_rate_variability": {
+        "total_lines": 582,
+        "qtype_counts": {
+          "AS": 90,
+          "CQ": 90,
+          "FQ": 90,
+          "NC": 180,
+          "TA": 132
+        }
+      },
+      "heart_rate_variability_multi": {
+        "total_lines": 771,
+        "qtype_counts": {
+          "AS": 210,
+          "CQ": 120,
+          "FQ": 120,
+          "NC": 180,
+          "TA": 141
+        }
+      },
+      "oxygen_sat_daily": {
+        "total_lines": 240,
+        "qtype_counts": {
+          "AS": 30,
+          "CQ": 30,
+          "FQ": 30,
+          "NC": 90,
+          "TA": 60
+        }
+      },
+      "oxygen_sat_daily_multi": {
+        "total_lines": 834,
+        "qtype_counts": {
+          "AS": 180,
+          "CQ": 180,
+          "FQ": 120,
+          "NC": 180,
+          "TA": 174
+        }
+      },
+      "pa_active_minutes": {
+        "total_lines": 507,
+        "qtype_counts": {
+          "AS": 90,
+          "CQ": 60,
+          "FQ": 30,
+          "NC": 150,
+          "TA": 177
+        }
+      },
+      "pa_active_minutes_multi": {
+        "total_lines": 724,
+        "qtype_counts": {
+          "AS": 120,
+          "CQ": 176,
+          "FQ": 116,
+          "NC": 152,
+          "TA": 160
+        }
+      },
+      "pa_daily_summary": {
+        "total_lines": 240,
+        "qtype_counts": {
+          "AS": 30,
+          "CQ": 60,
+          "FQ": 30,
+          "NC": 60,
+          "TA": 60
+        }
+      },
+      "pa_daily_summary_multi": {
+        "total_lines": 763,
+        "qtype_counts": {
+          "AS": 210,
+          "CQ": 210,
+          "FQ": 90,
+          "NC": 90,
+          "TA": 163
+        }
+      },
+      "pa_emotion_joint": {
+        "total_lines": 1140,
+        "qtype_counts": {
+          "AS": 210,
+          "CQ": 270,
+          "FQ": 330,
+          "NC": 150,
+          "TA": 180
+        }
+      },
+      "pa_reports": {
+        "total_lines": 750,
+        "qtype_counts": {
+          "AS": 240,
+          "CQ": 150,
+          "FQ": 90,
+          "NC": 150,
+          "TA": 120
+        }
+      },
+      "pa_reports_multi": {
+        "total_lines": 824,
+        "qtype_counts": {
+          "AS": 210,
+          "CQ": 199,
+          "FQ": 150,
+          "NC": 120,
+          "TA": 145
+        }
+      },
+      "physical_activity_joint": {
+        "total_lines": 1710,
+        "qtype_counts": {
+          "AS": 330,
+          "CQ": 540,
+          "FQ": 210,
+          "NC": 120,
+          "TA": 510
+        }
+      },
+      "respiratory_rate": {
+        "total_lines": 270,
+        "qtype_counts": {
+          "AS": 30,
+          "CQ": 60,
+          "FQ": 30,
+          "NC": 90,
+          "TA": 60
+        }
+      },
+      "respiratory_rate_multi": {
+        "total_lines": 870,
+        "qtype_counts": {
+          "AS": 210,
+          "CQ": 240,
+          "FQ": 120,
+          "NC": 180,
+          "TA": 120
+        }
+      },
+      "skin_temp_sleep_nightly": {
+        "total_lines": 300,
+        "qtype_counts": {
+          "AS": 60,
+          "CQ": 60,
+          "FQ": 30,
+          "NC": 90,
+          "TA": 60
+        }
+      },
+      "skin_temp_sleep_nightly_multi": {
+        "total_lines": 707,
+        "qtype_counts": {
+          "AS": 180,
+          "CQ": 180,
+          "FQ": 120,
+          "NC": 120,
+          "TA": 107
+        }
+      },
+      "sleep_joint": {
+        "total_lines": 278,
+        "qtype_counts": {
+          "AS": 100,
+          "CQ": 20,
+          "FQ": 96,
+          "NC": 20,
+          "TA": 42
+        }
+      },
+      "sleep_stress_joint": {
+        "total_lines": 2040,
+        "qtype_counts": {
+          "AS": 270,
+          "CQ": 540,
+          "FQ": 240,
+          "NC": 450,
+          "TA": 540
+        }
+      },
+      "stress_daily_scores": {
+        "total_lines": 360,
+        "qtype_counts": {
+          "AS": 90,
+          "CQ": 30,
+          "FQ": 30,
+          "NC": 120,
+          "TA": 90
+        }
+      },
+      "stress_daily_scores_multi": {
+        "total_lines": 810,
+        "qtype_counts": {
+          "AS": 210,
+          "CQ": 120,
+          "FQ": 120,
+          "NC": 180,
+          "TA": 180
+        }
+      }
+    }
+  }
+}
