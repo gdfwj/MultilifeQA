@@ -1,0 +1,120 @@
+{"Query": "Which user had the highest {minutes_in_light_sleep} on 2022-06-01?", "Answer": "A4F_32988"}
+{"Query": "Which user had the highest {minutes_asleep} on 2022-05-27?", "Answer": "A4F_43794"}
+{"Query": "Which user had the highest {minutes_asleep} on 2022-06-22?", "Answer": "A4F_92332"}
+{"Query": "Which user had the highest {minutes_in_deep_sleep} on 2022-06-19?", "Answer": "A4F_70954"}
+{"Query": "Which user had the highest {minutes_in_light_sleep} on 2022-06-08?", "Answer": "A4F_24211"}
+{"Query": "Which user had the highest {minutes_asleep} on 2022-06-01?", "Answer": "A4F_17705"}
+{"Query": "Which user had the highest {minutes_in_light_sleep} on 2022-05-21?", "Answer": "A4F_44160"}
+{"Query": "Which user had the highest {minutes_asleep} on 2022-05-24?", "Answer": "A4F_28689"}
+{"Query": "Which user had the highest {minutes_asleep} on 2022-05-17?", "Answer": "A4F_33497"}
+{"Query": "Which user had the highest {minutes_in_light_sleep} on 2022-06-16?", "Answer": "A4F_60728"}
+{"Query": "Which user had the highest {minutes_in_rem} on 2022-06-09?", "Answer": "A4F_74720"}
+{"Query": "Which user had the highest {minutes_in_rem} on 2022-06-13?", "Answer": "A4F_98453"}
+{"Query": "Which user had the highest {minutes_in_rem} on 2022-05-25?", "Answer": "A4F_60983"}
+{"Query": "Which user had the highest {minutes_in_deep_sleep} on 2022-06-15?", "Answer": "A4F_97386"}
+{"Query": "Which user had the highest {minutes_in_deep_sleep} on 2022-06-09?", "Answer": "A4F_41207"}
+{"Query": "Which user had the highest {minutes_in_rem} on 2022-06-02?", "Answer": "A4F_77391"}
+{"Query": "Which user had the highest {minutes_in_deep_sleep} on 2022-05-30?", "Answer": "A4F_17705"}
+{"Query": "Which user had the highest {minutes_asleep} on 2022-05-20?", "Answer": "A4F_80622"}
+{"Query": "Which user had the highest {minutes_in_rem} on 2022-06-16?", "Answer": "A4F_60728"}
+{"Query": "Which user had the highest {minutes_in_light_sleep} on 2022-06-04?", "Answer": "A4F_20573"}
+{"Query": "Which user had the highest {minutes_in_deep_sleep} on 2022-06-21?", "Answer": "A4F_94120"}
+{"Query": "Which user had the highest {minutes_in_rem} on 2022-05-18?", "Answer": "A4F_44160"}
+{"Query": "Which user had the highest {minutes_asleep} on 2022-06-07?", "Answer": "A4F_18098"}
+{"Query": "Which user had the highest {minutes_in_deep_sleep} on 2022-05-22?", "Answer": "A4F_17705"}
+{"Query": "Which user had the highest {minutes_in_deep_sleep} on 2022-06-18?", "Answer": "A4F_98040"}
+{"Query": "Which user had the highest {minutes_in_deep_sleep} on 2022-06-20?", "Answer": "A4F_98040"}
+{"Query": "Which user had the highest {minutes_in_rem} on 2022-05-30?", "Answer": "A4F_43794"}
+{"Query": "Which user had the highest {minutes_in_deep_sleep} on 2022-05-28?", "Answer": "A4F_62344"}
+{"Query": "Which user had the highest {minutes_in_rem} on 2022-06-23?", "Answer": "A4F_94120"}
+{"Query": "Which user had the highest {minutes_in_light_sleep} on 2022-05-22?", "Answer": "A4F_13504"}
+{"Query": "What was A4F_70954's rank among all users for {minutes_in_deep_sleep} on 2022-06-07?", "Answer": "19"}
+{"Query": "What was A4F_25413's rank among all users for {minutes_in_deep_sleep} on 2022-06-23?", "Answer": "3"}
+{"Query": "What was A4F_97386's rank among all users for {minutes_in_deep_sleep} on 2022-06-12?", "Answer": "18"}
+{"Query": "What was A4F_60728's rank among all users for {minutes_in_deep_sleep} on 2022-06-11?", "Answer": "8"}
+{"Query": "What was A4F_40008's rank among all users for {minutes_in_deep_sleep} on 2022-06-20?", "Answer": "27"}
+{"Query": "What was A4F_65724's rank among all users for {minutes_in_deep_sleep} on 2022-05-22?", "Answer": "31"}
+{"Query": "What was A4F_56296's rank among all users for {minutes_in_deep_sleep} on 2022-06-11?", "Answer": "22"}
+{"Query": "What was A4F_39976's rank among all users for {minutes_in_deep_sleep} on 2022-06-05?", "Answer": "5"}
+{"Query": "What was A4F_72388's rank among all users for {minutes_in_deep_sleep} on 2022-06-20?", "Answer": "8"}
+{"Query": "What was A4F_31649's rank among all users for {minutes_in_deep_sleep} on 2022-06-18?", "Answer": "6"}
+{"Query": "What was A4F_60728's rank among all users for {minutes_in_deep_sleep} on 2022-06-02?", "Answer": "13"}
+{"Query": "What was A4F_99000's rank among all users for {minutes_in_deep_sleep} on 2022-06-07?", "Answer": "6"}
+{"Query": "What was A4F_65695's rank among all users for {minutes_in_deep_sleep} on 2022-05-25?", "Answer": "40"}
+{"Query": "What was A4F_45118's rank among all users for {minutes_in_deep_sleep} on 2022-05-25?", "Answer": "31"}
+{"Query": "What was A4F_50227's rank among all users for {minutes_in_deep_sleep} on 2022-06-12?", "Answer": "5"}
+{"Query": "What was A4F_99000's rank among all users for {minutes_in_deep_sleep} on 2022-06-11?", "Answer": "18"}
+{"Query": "What was A4F_98453's rank among all users for {minutes_in_deep_sleep} on 2022-06-23?", "Answer": "1"}
+{"Query": "What was A4F_27052's rank among all users for {minutes_in_deep_sleep} on 2022-05-26?", "Answer": "10"}
+{"Query": "What was A4F_65060's rank among all users for {minutes_in_deep_sleep} on 2022-05-19?", "Answer": "6"}
+{"Query": "What was A4F_76068's rank among all users for {minutes_in_deep_sleep} on 2022-06-02?", "Answer": "18"}
+{"Query": "What was A4F_10660's rank among all users for {minutes_in_deep_sleep} on 2022-06-19?", "Answer": "32"}
+{"Query": "What was A4F_53145's rank among all users for {minutes_in_deep_sleep} on 2022-06-03?", "Answer": "19"}
+{"Query": "What was A4F_80622's rank among all users for {minutes_in_deep_sleep} on 2022-05-19?", "Answer": "24"}
+{"Query": "What was A4F_32988's rank among all users for {minutes_in_deep_sleep} on 2022-05-18?", "Answer": "9"}
+{"Query": "What was A4F_41207's rank among all users for {minutes_in_deep_sleep} on 2022-06-21?", "Answer": "5"}
+{"Query": "What was A4F_65060's rank among all users for {minutes_in_deep_sleep} on 2022-05-21?", "Answer": "24"}
+{"Query": "What was A4F_85240's rank among all users for {minutes_in_deep_sleep} on 2022-05-22?", "Answer": "34"}
+{"Query": "What was A4F_65724's rank among all users for {minutes_in_deep_sleep} on 2022-06-06?", "Answer": "23"}
+{"Query": "What was A4F_33497's rank among all users for {minutes_in_deep_sleep} on 2022-05-24?", "Answer": "28"}
+{"Query": "What was A4F_17705's rank among all users for {minutes_in_deep_sleep} on 2022-05-18?", "Answer": "5"}
+{"Query": "What was the average {minutes_in_rem} across all users on 2022-06-01?", "Answer": "75.73"}
+{"Query": "What was the average {minutes_in_rem} across all users on 2022-06-03?", "Answer": "63.55"}
+{"Query": "What was the average {minutes_in_rem} across all users on 2022-06-15?", "Answer": "89.66"}
+{"Query": "What was the average {minutes_in_rem} across all users on 2022-06-06?", "Answer": "94"}
+{"Query": "What was the average {minutes_in_rem} across all users on 2022-06-16?", "Answer": "83.65"}
+{"Query": "What was the average {minutes_in_rem} across all users on 2022-06-18?", "Answer": "76.29"}
+{"Query": "What was the average {minutes_in_rem} across all users on 2022-05-17?", "Answer": "66.57"}
+{"Query": "What was the average {minutes_in_rem} across all users on 2022-05-20?", "Answer": "82.41"}
+{"Query": "What was the average {minutes_in_rem} across all users on 2022-06-19?", "Answer": "99.23"}
+{"Query": "What was the average {minutes_in_rem} across all users on 2022-06-02?", "Answer": "77.9"}
+{"Query": "What was the average {minutes_in_rem} across all users on 2022-06-05?", "Answer": "98.07"}
+{"Query": "What was the average {minutes_in_rem} across all users on 2022-06-08?", "Answer": "79.88"}
+{"Query": "What was the average {minutes_in_rem} across all users on 2022-05-22?", "Answer": "81.18"}
+{"Query": "What was the average {minutes_in_rem} across all users on 2022-06-22?", "Answer": "92"}
+{"Query": "What was the average {minutes_in_rem} across all users on 2022-06-12?", "Answer": "82.35"}
+{"Query": "What was the average {minutes_in_rem} across all users on 2022-05-31?", "Answer": "90.13"}
+{"Query": "What was the average {minutes_in_rem} across all users on 2022-05-18?", "Answer": "68"}
+{"Query": "What was the average {minutes_in_rem} across all users on 2022-06-04?", "Answer": "94.46"}
+{"Query": "What was the average {minutes_in_rem} across all users on 2022-05-23?", "Answer": "82.77"}
+{"Query": "What was the average {minutes_in_rem} across all users on 2022-05-26?", "Answer": "75.4"}
+{"Query": "What was the average {minutes_in_rem} across all users on 2022-05-19?", "Answer": "61.78"}
+{"Query": "What was the average {minutes_in_rem} across all users on 2022-05-29?", "Answer": "89.81"}
+{"Query": "What was the average {minutes_in_rem} across all users on 2022-05-25?", "Answer": "82.62"}
+{"Query": "What was the average {minutes_in_rem} across all users on 2022-06-09?", "Answer": "91.85"}
+{"Query": "What was the average {minutes_in_rem} across all users on 2022-06-10?", "Answer": "83.28"}
+{"Query": "What was the average {minutes_in_rem} across all users on 2022-06-17?", "Answer": "76.53"}
+{"Query": "What was the average {minutes_in_rem} across all users on 2022-06-14?", "Answer": "71.6"}
+{"Query": "What was the average {minutes_in_rem} across all users on 2022-05-28?", "Answer": "82.86"}
+{"Query": "What was the average {minutes_in_rem} across all users on 2022-05-30?", "Answer": "96.64"}
+{"Query": "What was the average {minutes_in_rem} across all users on 2022-06-20?", "Answer": "83.39"}
+{"Query": "What was the median {minutes_awake} across all users on 2022-06-11?", "Answer": "52.5"}
+{"Query": "What was the median {minutes_awake} across all users on 2022-06-19?", "Answer": "66"}
+{"Query": "What was the median {minutes_awake} across all users on 2022-05-19?", "Answer": "51"}
+{"Query": "What was the median {minutes_awake} across all users on 2022-05-30?", "Answer": "55"}
+{"Query": "What was the median {minutes_awake} across all users on 2022-05-31?", "Answer": "54.5"}
+{"Query": "What was the median {minutes_awake} across all users on 2022-06-15?", "Answer": "59"}
+{"Query": "What was the median {minutes_awake} across all users on 2022-05-24?", "Answer": "45.5"}
+{"Query": "What was the median {minutes_awake} across all users on 2022-05-18?", "Answer": "42"}
+{"Query": "What was the median {minutes_awake} across all users on 2022-06-17?", "Answer": "49.5"}
+{"Query": "What was the median {minutes_awake} across all users on 2022-05-17?", "Answer": "53"}
+{"Query": "What was the median {minutes_awake} across all users on 2022-05-29?", "Answer": "65"}
+{"Query": "What was the median {minutes_awake} across all users on 2022-06-07?", "Answer": "49"}
+{"Query": "What was the median {minutes_awake} across all users on 2022-05-22?", "Answer": "57"}
+{"Query": "What was the median {minutes_awake} across all users on 2022-06-14?", "Answer": "50.5"}
+{"Query": "What was the median {minutes_awake} across all users on 2022-05-27?", "Answer": "56"}
+{"Query": "What was the median {minutes_awake} across all users on 2022-06-18?", "Answer": "56"}
+{"Query": "What was the median {minutes_awake} across all users on 2022-05-25?", "Answer": "50.5"}
+{"Query": "What was the median {minutes_awake} across all users on 2022-06-04?", "Answer": "55"}
+{"Query": "What was the median {minutes_awake} across all users on 2022-06-16?", "Answer": "53"}
+{"Query": "What was the median {minutes_awake} across all users on 2022-06-08?", "Answer": "56"}
+{"Query": "What was the median {minutes_awake} across all users on 2022-06-03?", "Answer": "43"}
+{"Query": "What was the median {minutes_awake} across all users on 2022-05-20?", "Answer": "51.5"}
+{"Query": "What was the median {minutes_awake} across all users on 2022-06-20?", "Answer": "58"}
+{"Query": "What was the median {minutes_awake} across all users on 2022-05-26?", "Answer": "49.5"}
+{"Query": "What was the median {minutes_awake} across all users on 2022-05-21?", "Answer": "52"}
+{"Query": "What was the median {minutes_awake} across all users on 2022-06-13?", "Answer": "51"}
+{"Query": "What was the median {minutes_awake} across all users on 2022-06-12?", "Answer": "62"}
+{"Query": "What was the median {minutes_awake} across all users on 2022-06-23?", "Answer": "56"}
+{"Query": "What was the median {minutes_awake} across all users on 2022-06-10?", "Answer": "51"}
+{"Query": "What was the median {minutes_awake} across all users on 2022-05-23?", "Answer": "55"}

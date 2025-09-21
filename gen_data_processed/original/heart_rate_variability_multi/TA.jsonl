@@ -1,0 +1,141 @@
+{"Query": "Did the average {rmssd} across all users increase, decrease, or remain the same on 2022-05-23T00:00:00 compared to the previous day?", "Answer": "increase"}
+{"Query": "Did the average {rmssd} across all users increase, decrease, or remain the same on 2022-06-02T00:00:00 compared to the previous day?", "Answer": "decrease"}
+{"Query": "Did the average {rmssd} across all users increase, decrease, or remain the same on 2022-06-21T00:00:00 compared to the previous day?", "Answer": "decrease"}
+{"Query": "Did the average {rmssd} across all users increase, decrease, or remain the same on 2022-06-15T00:00:00 compared to the previous day?", "Answer": "decrease"}
+{"Query": "Did the average {rmssd} across all users increase, decrease, or remain the same on 2022-06-08T00:00:00 compared to the previous day?", "Answer": "decrease"}
+{"Query": "Did the average {rmssd} across all users increase, decrease, or remain the same on 2022-06-22T00:00:00 compared to the previous day?", "Answer": "decrease"}
+{"Query": "Did the average {rmssd} across all users increase, decrease, or remain the same on 2022-05-20T00:00:00 compared to the previous day?", "Answer": "increase"}
+{"Query": "Did the average {rmssd} across all users increase, decrease, or remain the same on 2022-06-23T00:00:00 compared to the previous day?", "Answer": "decrease"}
+{"Query": "Did the average {rmssd} across all users increase, decrease, or remain the same on 2022-06-03T00:00:00 compared to the previous day?", "Answer": "decrease"}
+{"Query": "Did the average {rmssd} across all users increase, decrease, or remain the same on 2022-06-20T00:00:00 compared to the previous day?", "Answer": "increase"}
+{"Query": "Did the average {rmssd} across all users increase, decrease, or remain the same on 2022-06-11T00:00:00 compared to the previous day?", "Answer": "decrease"}
+{"Query": "Did the average {rmssd} across all users increase, decrease, or remain the same on 2022-05-27T00:00:00 compared to the previous day?", "Answer": "decrease"}
+{"Query": "Did the average {rmssd} across all users increase, decrease, or remain the same on 2022-05-19T00:00:00 compared to the previous day?", "Answer": "decrease"}
+{"Query": "Did the average {rmssd} across all users increase, decrease, or remain the same on 2022-06-06T00:00:00 compared to the previous day?", "Answer": "increase"}
+{"Query": "Did the average {rmssd} across all users increase, decrease, or remain the same on 2022-06-01T00:00:00 compared to the previous day?", "Answer": "decrease"}
+{"Query": "Did the average {rmssd} across all users increase, decrease, or remain the same on 2022-06-09T00:00:00 compared to the previous day?", "Answer": "increase"}
+{"Query": "Did the average {rmssd} across all users increase, decrease, or remain the same on 2022-05-24T00:00:00 compared to the previous day?", "Answer": "increase"}
+{"Query": "Did the average {rmssd} across all users increase, decrease, or remain the same on 2022-05-29T00:00:00 compared to the previous day?", "Answer": "decrease"}
+{"Query": "Did the average {rmssd} across all users increase, decrease, or remain the same on 2022-05-30T00:00:00 compared to the previous day?", "Answer": "increase"}
+{"Query": "Did the average {rmssd} across all users increase, decrease, or remain the same on 2022-05-22T00:00:00 compared to the previous day?", "Answer": "increase"}
+{"Query": "Did the average {rmssd} across all users increase, decrease, or remain the same on 2022-06-19T00:00:00 compared to the previous day?", "Answer": "decrease"}
+{"Query": "Did the average {rmssd} across all users increase, decrease, or remain the same on 2022-06-05T00:00:00 compared to the previous day?", "Answer": "increase"}
+{"Query": "Did the average {rmssd} across all users increase, decrease, or remain the same on 2022-06-16T00:00:00 compared to the previous day?", "Answer": "increase"}
+{"Query": "Did the average {rmssd} across all users increase, decrease, or remain the same on 2022-06-14T00:00:00 compared to the previous day?", "Answer": "decrease"}
+{"Query": "Did the average {rmssd} across all users increase, decrease, or remain the same on 2022-05-25T00:00:00 compared to the previous day?", "Answer": "decrease"}
+{"Query": "Did the average {rmssd} across all users increase, decrease, or remain the same on 2022-06-07T00:00:00 compared to the previous day?", "Answer": "increase"}
+{"Query": "Did the average {rmssd} across all users increase, decrease, or remain the same on 2022-05-21T00:00:00 compared to the previous day?", "Answer": "decrease"}
+{"Query": "Did the average {rmssd} across all users increase, decrease, or remain the same on 2022-06-18T00:00:00 compared to the previous day?", "Answer": "decrease"}
+{"Query": "Did the average {rmssd} across all users increase, decrease, or remain the same on 2022-06-10T00:00:00 compared to the previous day?", "Answer": "decrease"}
+{"Query": "Did the average {rmssd} across all users increase, decrease, or remain the same on 2022-05-26T00:00:00 compared to the previous day?", "Answer": "decrease"}
+{"Query": "Was the average {entropy} across all users higher, lower, or the same within one week, starting from 2022-06-06T00:00:00, compared to the previous week?", "Answer": "decrease"}
+{"Query": "Was the average {entropy} across all users higher, lower, or the same within one week, starting from 2022-06-05T00:00:00, compared to the previous week?", "Answer": "decrease"}
+{"Query": "Was the average {entropy} across all users higher, lower, or the same within one week, starting from 2022-06-15T00:00:00, compared to the previous week?", "Answer": "increase"}
+{"Query": "Was the average {entropy} across all users higher, lower, or the same within one week, starting from 2022-06-17T00:00:00, compared to the previous week?", "Answer": "increase"}
+{"Query": "Was the average {entropy} across all users higher, lower, or the same within one week, starting from 2022-05-27T00:00:00, compared to the previous week?", "Answer": "increase"}
+{"Query": "Was the average {entropy} across all users higher, lower, or the same within one week, starting from 2022-06-11T00:00:00, compared to the previous week?", "Answer": "increase"}
+{"Query": "Was the average {entropy} across all users higher, lower, or the same within one week, starting from 2022-06-09T00:00:00, compared to the previous week?", "Answer": "decrease"}
+{"Query": "Was the average {entropy} across all users higher, lower, or the same within one week, starting from 2022-06-12T00:00:00, compared to the previous week?", "Answer": "increase"}
+{"Query": "Was the average {entropy} across all users higher, lower, or the same within one week, starting from 2022-05-29T00:00:00, compared to the previous week?", "Answer": "decrease"}
+{"Query": "Was the average {entropy} across all users higher, lower, or the same within one week, starting from 2022-06-04T00:00:00, compared to the previous week?", "Answer": "decrease"}
+{"Query": "Was the average {entropy} across all users higher, lower, or the same within one week, starting from 2022-06-08T00:00:00, compared to the previous week?", "Answer": "decrease"}
+{"Query": "Was the average {entropy} across all users higher, lower, or the same within one week, starting from 2022-06-13T00:00:00, compared to the previous week?", "Answer": "increase"}
+{"Query": "Was the average {entropy} across all users higher, lower, or the same within one week, starting from 2022-05-28T00:00:00, compared to the previous week?", "Answer": "increase"}
+{"Query": "Was the average {entropy} across all users higher, lower, or the same within one week, starting from 2022-06-16T00:00:00, compared to the previous week?", "Answer": "increase"}
+{"Query": "Was the average {entropy} across all users higher, lower, or the same within one week, starting from 2022-05-31T00:00:00, compared to the previous week?", "Answer": "decrease"}
+{"Query": "Was the average {entropy} across all users higher, lower, or the same within one week, starting from 2022-05-25T00:00:00, compared to the previous week?", "Answer": "increase"}
+{"Query": "Was the average {entropy} across all users higher, lower, or the same within one week, starting from 2022-06-02T00:00:00, compared to the previous week?", "Answer": "decrease"}
+{"Query": "Was the average {entropy} across all users higher, lower, or the same within one week, starting from 2022-06-01T00:00:00, compared to the previous week?", "Answer": "decrease"}
+{"Query": "Was the average {entropy} across all users higher, lower, or the same within one week, starting from 2022-05-30T00:00:00, compared to the previous week?", "Answer": "decrease"}
+{"Query": "Was the average {entropy} across all users higher, lower, or the same within one week, starting from 2022-06-14T00:00:00, compared to the previous week?", "Answer": "increase"}
+{"Query": "Was the average {entropy} across all users higher, lower, or the same within one week, starting from 2022-06-03T00:00:00, compared to the previous week?", "Answer": "decrease"}
+{"Query": "Was the average {entropy} across all users higher, lower, or the same within one week, starting from 2022-05-26T00:00:00, compared to the previous week?", "Answer": "increase"}
+{"Query": "Was the average {entropy} across all users higher, lower, or the same within one week, starting from 2022-06-07T00:00:00, compared to the previous week?", "Answer": "decrease"}
+{"Query": "Was the average {entropy} across all users higher, lower, or the same within one week, starting from 2022-05-24T00:00:00, compared to the previous week?", "Answer": "increase"}
+{"Query": "Was the average {entropy} across all users higher, lower, or the same within one week, starting from 2022-06-10T00:00:00, compared to the previous week?", "Answer": "decrease"}
+{"Query": "How many consecutive days did the average {rmssd} across all users increase, starting from 2022-06-15T00:00:00?", "Answer": "2"}
+{"Query": "How many consecutive days did the average {rmssd} across all users increase, starting from 2022-05-29T00:00:00?", "Answer": "3"}
+{"Query": "How many consecutive days did the average {rmssd} across all users increase, starting from 2022-05-21T00:00:00?", "Answer": "4"}
+{"Query": "How many consecutive days did the average {rmssd} across all users increase, starting from 2022-05-22T00:00:00?", "Answer": "3"}
+{"Query": "How many consecutive days did the average {rmssd} across all users increase, starting from 2022-05-19T00:00:00?", "Answer": "2"}
+{"Query": "How many consecutive days did the average {rmssd} across all users increase, starting from 2022-05-30T00:00:00?", "Answer": "2"}
+{"Query": "How many consecutive days did the average {rmssd} across all users increase, starting from 2022-06-05T00:00:00?", "Answer": "3"}
+{"Query": "How many consecutive days did the average {rmssd} across all users increase, starting from 2022-05-27T00:00:00?", "Answer": "2"}
+{"Query": "How many consecutive days did the average {rmssd} across all users increase, starting from 2022-06-08T00:00:00?", "Answer": "2"}
+{"Query": "How many consecutive days did the average {rmssd} across all users increase, starting from 2022-05-23T00:00:00?", "Answer": "2"}
+{"Query": "How many consecutive days did the average {rmssd} across all users increase, starting from 2022-06-04T00:00:00?", "Answer": "4"}
+{"Query": "How many consecutive days did the average {nrem_hr} across all users decrease, starting from 2022-06-18T00:00:00?", "Answer": "3"}
+{"Query": "How many consecutive days did the average {nrem_hr} across all users decrease, starting from 2022-06-12T00:00:00?", "Answer": "3"}
+{"Query": "How many consecutive days did the average {nrem_hr} across all users decrease, starting from 2022-05-22T00:00:00?", "Answer": "3"}
+{"Query": "How many consecutive days did the average {nrem_hr} across all users decrease, starting from 2022-06-05T00:00:00?", "Answer": "3"}
+{"Query": "How many consecutive days did the average {nrem_hr} across all users decrease, starting from 2022-05-25T00:00:00?", "Answer": "2"}
+{"Query": "How many consecutive days did the average {nrem_hr} across all users decrease, starting from 2022-06-19T00:00:00?", "Answer": "2"}
+{"Query": "How many consecutive days did the average {nrem_hr} across all users decrease, starting from 2022-06-22T00:00:00?", "Answer": "2"}
+{"Query": "How many consecutive days did the average {nrem_hr} across all users decrease, starting from 2022-05-30T00:00:00?", "Answer": "2"}
+{"Query": "How many consecutive days did the average {nrem_hr} across all users decrease, starting from 2022-05-23T00:00:00?", "Answer": "2"}
+{"Query": "How many consecutive days did the average {nrem_hr} across all users decrease, starting from 2022-05-21T00:00:00?", "Answer": "4"}
+{"Query": "How many consecutive days did the average {nrem_hr} across all users decrease, starting from 2022-06-06T00:00:00?", "Answer": "2"}
+{"Query": "How many consecutive days did the average {nrem_hr} across all users decrease, starting from 2022-05-27T00:00:00?", "Answer": "2"}
+{"Query": "How many consecutive days did the average {nrem_hr} across all users decrease, starting from 2022-06-15T00:00:00?", "Answer": "2"}
+{"Query": "How many consecutive days did the average {nrem_hr} across all users decrease, starting from 2022-06-04T00:00:00?", "Answer": "4"}
+{"Query": "How many consecutive days did the average {nrem_hr} across all users decrease, starting from 2022-05-29T00:00:00?", "Answer": "3"}
+{"Query": "How many consecutive days was A4F_56296's {rmssd} lower than the average across all users, starting from 2022-06-10T00:00:00?", "Answer": "13"}
+{"Query": "How many consecutive days was A4F_60728's {rmssd} lower than the average across all users, starting from 2022-06-10T00:00:00?", "Answer": "13"}
+{"Query": "How many consecutive days was A4F_48857's {rmssd} lower than the average across all users, starting from 2022-06-12T00:00:00?", "Answer": "10"}
+{"Query": "How many consecutive days was A4F_50227's {rmssd} lower than the average across all users, starting from 2022-06-14T00:00:00?", "Answer": "10"}
+{"Query": "How many consecutive days was A4F_10355's {rmssd} lower than the average across all users, starting from 2022-06-12T00:00:00?", "Answer": "6"}
+{"Query": "How many consecutive days was A4F_39976's {rmssd} lower than the average across all users, starting from 2022-06-07T00:00:00?", "Answer": "14"}
+{"Query": "How many consecutive days was A4F_60728's {rmssd} lower than the average across all users, starting from 2022-06-20T00:00:00?", "Answer": "3"}
+{"Query": "How many consecutive days was A4F_65724's {rmssd} lower than the average across all users, starting from 2022-06-05T00:00:00?", "Answer": "3"}
+{"Query": "How many consecutive days was A4F_92332's {rmssd} lower than the average across all users, starting from 2022-06-22T00:00:00?", "Answer": "2"}
+{"Query": "How many consecutive days was A4F_31649's {rmssd} lower than the average across all users, starting from 2022-06-13T00:00:00?", "Answer": "11"}
+{"Query": "How many consecutive days was A4F_20573's {rmssd} lower than the average across all users, starting from 2022-06-08T00:00:00?", "Answer": "13"}
+{"Query": "How many consecutive days was A4F_51606's {rmssd} lower than the average across all users, starting from 2022-05-17T00:00:00?", "Answer": "15"}
+{"Query": "How many consecutive days was A4F_43794's {rmssd} lower than the average across all users, starting from 2022-05-23T00:00:00?", "Answer": "16"}
+{"Query": "How many consecutive days was A4F_78358's {rmssd} lower than the average across all users, starting from 2022-05-27T00:00:00?", "Answer": "7"}
+{"Query": "How many consecutive days was A4F_70954's {rmssd} lower than the average across all users, starting from 2022-06-18T00:00:00?", "Answer": "4"}
+{"Query": "How many consecutive days was A4F_20573's {rmssd} lower than the average across all users, starting from 2022-06-17T00:00:00?", "Answer": "4"}
+{"Query": "How many consecutive days was A4F_10355's {rmssd} lower than the average across all users, starting from 2022-06-08T00:00:00?", "Answer": "10"}
+{"Query": "How many consecutive days was A4F_43794's {rmssd} lower than the average across all users, starting from 2022-05-21T00:00:00?", "Answer": "18"}
+{"Query": "How many consecutive days was A4F_94120's {rmssd} lower than the average across all users, starting from 2022-06-22T00:00:00?", "Answer": "2"}
+{"Query": "How many consecutive days was A4F_93308's {rmssd} lower than the average across all users, starting from 2022-05-29T00:00:00?", "Answer": "3"}
+{"Query": "How many consecutive days was A4F_84534's {rmssd} lower than the average across all users, starting from 2022-05-27T00:00:00?", "Answer": "3"}
+{"Query": "How many consecutive days was A4F_94120's {rmssd} lower than the average across all users, starting from 2022-06-11T00:00:00?", "Answer": "3"}
+{"Query": "How many consecutive days was A4F_53145's {rmssd} lower than the average across all users, starting from 2022-05-22T00:00:00?", "Answer": "2"}
+{"Query": "How many consecutive days was A4F_56718's {rmssd} lower than the average across all users, starting from 2022-05-23T00:00:00?", "Answer": "3"}
+{"Query": "How many consecutive days was A4F_43794's {rmssd} lower than the average across all users, starting from 2022-06-02T00:00:00?", "Answer": "6"}
+{"Query": "How many consecutive days was A4F_98040's {rmssd} lower than the average across all users, starting from 2022-06-11T00:00:00?", "Answer": "11"}
+{"Query": "How many consecutive days was A4F_86472's {rmssd} lower than the average across all users, starting from 2022-06-08T00:00:00?", "Answer": "2"}
+{"Query": "How many consecutive days was A4F_76292's {rmssd} lower than the average across all users, starting from 2022-05-23T00:00:00?", "Answer": "3"}
+{"Query": "How many consecutive days was A4F_51606's {rmssd} lower than the average across all users, starting from 2022-05-26T00:00:00?", "Answer": "6"}
+{"Query": "How many consecutive days was A4F_10709's {rmssd} lower than the average across all users, starting from 2022-05-31T00:00:00?", "Answer": "8"}
+{"Query": "How many consecutive days was A4F_91516's {entropy} higher than the average across all users, starting from 2022-05-28T00:00:00?", "Answer": "2"}
+{"Query": "How many consecutive days was A4F_13504's {entropy} higher than the average across all users, starting from 2022-05-23T00:00:00?", "Answer": "11"}
+{"Query": "How many consecutive days was A4F_93308's {entropy} higher than the average across all users, starting from 2022-05-30T00:00:00?", "Answer": "3"}
+{"Query": "How many consecutive days was A4F_31033's {entropy} higher than the average across all users, starting from 2022-06-19T00:00:00?", "Answer": "4"}
+{"Query": "How many consecutive days was A4F_71665's {entropy} higher than the average across all users, starting from 2022-06-03T00:00:00?", "Answer": "2"}
+{"Query": "How many consecutive days was A4F_44160's {entropy} higher than the average across all users, starting from 2022-05-28T00:00:00?", "Answer": "2"}
+{"Query": "How many consecutive days was A4F_62344's {entropy} higher than the average across all users, starting from 2022-06-01T00:00:00?", "Answer": "3"}
+{"Query": "How many consecutive days was A4F_91594's {entropy} higher than the average across all users, starting from 2022-06-05T00:00:00?", "Answer": "4"}
+{"Query": "How many consecutive days was A4F_97618's {entropy} higher than the average across all users, starting from 2022-06-12T00:00:00?", "Answer": "11"}
+{"Query": "How many consecutive days was A4F_65060's {entropy} higher than the average across all users, starting from 2022-05-31T00:00:00?", "Answer": "2"}
+{"Query": "How many consecutive days was A4F_33497's {entropy} higher than the average across all users, starting from 2022-05-19T00:00:00?", "Answer": "2"}
+{"Query": "How many consecutive days was A4F_73455's {entropy} higher than the average across all users, starting from 2022-06-03T00:00:00?", "Answer": "4"}
+{"Query": "How many consecutive days was A4F_70954's {entropy} higher than the average across all users, starting from 2022-06-13T00:00:00?", "Answer": "2"}
+{"Query": "How many consecutive days was A4F_17419's {entropy} higher than the average across all users, starting from 2022-06-12T00:00:00?", "Answer": "2"}
+{"Query": "How many consecutive days was A4F_94601's {entropy} higher than the average across all users, starting from 2022-05-20T00:00:00?", "Answer": "3"}
+{"Query": "How many consecutive days was A4F_76957's {entropy} higher than the average across all users, starting from 2022-05-29T00:00:00?", "Answer": "3"}
+{"Query": "How many consecutive days was A4F_31033's {entropy} higher than the average across all users, starting from 2022-06-13T00:00:00?", "Answer": "3"}
+{"Query": "How many consecutive days was A4F_65695's {entropy} higher than the average across all users, starting from 2022-05-27T00:00:00?", "Answer": "5"}
+{"Query": "How many consecutive days was A4F_44160's {entropy} higher than the average across all users, starting from 2022-05-26T00:00:00?", "Answer": "4"}
+{"Query": "How many consecutive days was A4F_65060's {entropy} higher than the average across all users, starting from 2022-05-22T00:00:00?", "Answer": "11"}
+{"Query": "How many consecutive days was A4F_73455's {entropy} higher than the average across all users, starting from 2022-05-27T00:00:00?", "Answer": "4"}
+{"Query": "How many consecutive days was A4F_56718's {entropy} higher than the average across all users, starting from 2022-05-19T00:00:00?", "Answer": "2"}
+{"Query": "How many consecutive days was A4F_13504's {entropy} higher than the average across all users, starting from 2022-05-27T00:00:00?", "Answer": "7"}
+{"Query": "How many consecutive days was A4F_73455's {entropy} higher than the average across all users, starting from 2022-05-21T00:00:00?", "Answer": "2"}
+{"Query": "How many consecutive days was A4F_56279's {entropy} higher than the average across all users, starting from 2022-06-03T00:00:00?", "Answer": "3"}
+{"Query": "How many consecutive days was A4F_79824's {entropy} higher than the average across all users, starting from 2022-06-19T00:00:00?", "Answer": "4"}
+{"Query": "How many consecutive days was A4F_39976's {entropy} higher than the average across all users, starting from 2022-06-10T00:00:00?", "Answer": "2"}
+{"Query": "How many consecutive days was A4F_27766's {entropy} higher than the average across all users, starting from 2022-06-06T00:00:00?", "Answer": "15"}
+{"Query": "How many consecutive days was A4F_70804's {entropy} higher than the average across all users, starting from 2022-06-09T00:00:00?", "Answer": "9"}
+{"Query": "How many consecutive days was A4F_73455's {entropy} higher than the average across all users, starting from 2022-05-28T00:00:00?", "Answer": "3"}

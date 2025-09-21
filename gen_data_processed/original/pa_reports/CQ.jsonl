@@ -1,0 +1,150 @@
+{"Query": "How many days within a week did A4F_56718 have {average_heart_rate} greater than 59 during Bike?", "Answer": "3"}
+{"Query": "How many days within a week did A4F_29474 have {average_heart_rate} greater than 55.36 during Walk?", "Answer": "4"}
+{"Query": "How many days within a week did A4F_93308 have {average_heart_rate} greater than 48.31 during Walk?", "Answer": "3"}
+{"Query": "How many days within a week did A4F_91594 have {average_heart_rate} greater than 53.1 during Walk?", "Answer": "4"}
+{"Query": "How many days within a week did A4F_42312 have {average_heart_rate} greater than 53.29 during Workout?", "Answer": "3"}
+{"Query": "How many days within a week did A4F_91594 have {average_heart_rate} greater than 65.29 during Walk?", "Answer": "5"}
+{"Query": "How many days within a week did A4F_65060 have {average_heart_rate} greater than 19.86 during Walk?", "Answer": "1"}
+{"Query": "How many days within a week did A4F_10709 have {average_heart_rate} greater than 35 during Walk?", "Answer": "3"}
+{"Query": "How many days within a week did A4F_48857 have {average_heart_rate} greater than 14.43 during Run?", "Answer": "1"}
+{"Query": "How many days within a week did A4F_17705 have {average_heart_rate} greater than 38.29 during Run?", "Answer": "2"}
+{"Query": "How many days within a week did A4F_53145 have {average_heart_rate} greater than 40.29 during Workout?", "Answer": "2"}
+{"Query": "How many days within a week did A4F_99000 have {average_heart_rate} greater than 56.71 during Walk?", "Answer": "4"}
+{"Query": "How many days within a week did A4F_37469 have {average_heart_rate} greater than 29 during Walk?", "Answer": "2"}
+{"Query": "How many days within a week did A4F_20573 have {average_heart_rate} greater than 12.43 during Workout?", "Answer": "1"}
+{"Query": "How many days within a week did A4F_50227 have {average_heart_rate} greater than 27.43 during Walk?", "Answer": "2"}
+{"Query": "How many days within a week did A4F_29474 have {average_heart_rate} greater than 42.07 during Walk?", "Answer": "3"}
+{"Query": "How many days within a week did A4F_60983 have {average_heart_rate} greater than 49.64 during Walk?", "Answer": "4"}
+{"Query": "How many days within a week did A4F_93308 have {average_heart_rate} greater than 65.86 during Walk?", "Answer": "4"}
+{"Query": "How many days within a week did A4F_67757 have {average_heart_rate} greater than 55.71 during Spinning?", "Answer": "3"}
+{"Query": "How many days within a week did A4F_27052 have {average_heart_rate} greater than 14.14 during Yoga?", "Answer": "1"}
+{"Query": "How many days within a week did A4F_85240 have {average_heart_rate} greater than 13.86 during Bike?", "Answer": "1"}
+{"Query": "How many days within a week did A4F_29474 have {average_heart_rate} greater than 41.5 during Walk?", "Answer": "3"}
+{"Query": "How many days within a week did A4F_53145 have {average_heart_rate} greater than 37.07 during Workout?", "Answer": "2"}
+{"Query": "How many days within a week did A4F_76957 have {average_heart_rate} greater than 50.5 during Walk?", "Answer": "3"}
+{"Query": "How many days within a week did A4F_92332 have {average_heart_rate} greater than 44 during Yoga?", "Answer": "3"}
+{"Query": "How many days within a week did A4F_35752 have {average_heart_rate} greater than 73.29 during Walk?", "Answer": "5"}
+{"Query": "How many days within a week did A4F_70954 have {average_heart_rate} greater than 109.36 during Walk?", "Answer": "2"}
+{"Query": "How many days within a week did A4F_42312 have {average_heart_rate} greater than 86.26 during Walk?", "Answer": "6"}
+{"Query": "How many days within a week did A4F_98040 have {average_heart_rate} greater than 15.71 during Elliptical?", "Answer": "1"}
+{"Query": "How many days within a week did A4F_98453 have {average_heart_rate} greater than 43.71 during Walk?", "Answer": "3"}
+{"Query": "How many days within a week did A4F_85240 have {active_duration_minutes} less than 0.18 for Bike?", "Answer": "6"}
+{"Query": "How many days within a week did A4F_10021 have {active_duration_minutes} less than 0.29 for Walk?", "Answer": "5"}
+{"Query": "How many days within a week did A4F_76957 have {active_duration_minutes} less than 0.59 for Walk?", "Answer": "5"}
+{"Query": "How many days within a week did A4F_24211 have {active_duration_minutes} less than 0.57 for Workout?", "Answer": "5"}
+{"Query": "How many days within a week did A4F_89897 have {active_duration_minutes} less than 0.54 for Swim?", "Answer": "3"}
+{"Query": "How many days within a week did A4F_70804 have {active_duration_minutes} less than 0.15 for Weights?", "Answer": "6"}
+{"Query": "How many days within a week did A4F_10709 have {active_duration_minutes} less than 1.3 for Walk?", "Answer": "5"}
+{"Query": "How many days within a week did A4F_43794 have {active_duration_minutes} less than 0.35 for Workout?", "Answer": "5"}
+{"Query": "How many days within a week did A4F_73455 have {active_duration_minutes} less than 1.25 for Walk?", "Answer": "6"}
+{"Query": "How many days within a week did A4F_84534 have {active_duration_minutes} less than 0.44 for Bike?", "Answer": "5"}
+{"Query": "How many days within a week did A4F_10660 have {active_duration_minutes} less than 1.2 for Walk?", "Answer": "5"}
+{"Query": "How many days within a week did A4F_85240 have {active_duration_minutes} less than 0.28 for Workout?", "Answer": "6"}
+{"Query": "How many days within a week did A4F_94120 have {active_duration_minutes} less than 0.42 for Walk?", "Answer": "5"}
+{"Query": "How many days within a week did A4F_56297 have {active_duration_minutes} less than 0.04 for Yoga?", "Answer": "6"}
+{"Query": "How many days within a week did A4F_67598 have {active_duration_minutes} less than 0.29 for Workout?", "Answer": "6"}
+{"Query": "How many days within a week did A4F_18098 have {active_duration_minutes} less than 0.52 for Walk?", "Answer": "3"}
+{"Query": "How many days within a week did A4F_40008 have {active_duration_minutes} less than 0.37 for Walk?", "Answer": "5"}
+{"Query": "How many days within a week did A4F_31033 have {active_duration_minutes} less than 0.44 for Walk?", "Answer": "5"}
+{"Query": "How many days within a week did A4F_60983 have {active_duration_minutes} less than 0.73 for Walk?", "Answer": "5"}
+{"Query": "How many days within a week did A4F_96181 have {active_duration_minutes} less than 0.84 for Bike?", "Answer": "5"}
+{"Query": "How many days within a week did A4F_43794 have {active_duration_minutes} less than 0.44 for Swim?", "Answer": "4"}
+{"Query": "How many days within a week did A4F_25413 have {active_duration_minutes} less than 0.16 for Walk?", "Answer": "5"}
+{"Query": "How many days within a week did A4F_45118 have {active_duration_minutes} less than 0.51 for Walk?", "Answer": "5"}
+{"Query": "How many days within a week did A4F_29474 have {active_duration_minutes} less than 0.48 for Walk?", "Answer": "5"}
+{"Query": "How many days within a week did A4F_43794 have {active_duration_minutes} less than 0.4 for Swim?", "Answer": "4"}
+{"Query": "How many days within a week did A4F_32988 have {active_duration_minutes} less than 0.68 for Bike?", "Answer": "5"}
+{"Query": "How many days within a week did A4F_29474 have {active_duration_minutes} less than 0.81 for Walk?", "Answer": "5"}
+{"Query": "How many days within a week did A4F_29474 have {active_duration_minutes} less than 0.37 for Walk?", "Answer": "4"}
+{"Query": "How many days within a week did A4F_91516 have {active_duration_minutes} less than 0.2 for Elliptical?", "Answer": "6"}
+{"Query": "How many days within a week did A4F_97386 have {active_duration_minutes} less than 0.5 for Walk?", "Answer": "6"}
+{"Query": "How many days within a week did A4F_17705 have {calories} greater than 207.71 during Walk?", "Answer": "2"}
+{"Query": "How many days within a week did A4F_56296 have {calories} greater than 582.43 during ennis?", "Answer": "4"}
+{"Query": "How many days within a week did A4F_34415 have {calories} greater than 21.86 during Walk?", "Answer": "1"}
+{"Query": "How many days within a week did A4F_27052 have {calories} greater than 25.29 during Yoga?", "Answer": "1"}
+{"Query": "How many days within a week did A4F_39976 have {calories} greater than 213.29 during Walk?", "Answer": "3"}
+{"Query": "How many days within a week did A4F_60728 have {calories} greater than 42.71 during Walk?", "Answer": "2"}
+{"Query": "How many days within a week did A4F_32988 have {calories} greater than 19 during Walk?", "Answer": "1"}
+{"Query": "How many days within a week did A4F_76957 have {calories} greater than 115.86 during Walk?", "Answer": "3"}
+{"Query": "How many days within a week did A4F_94336 have {calories} greater than 234 during Run?", "Answer": "2"}
+{"Query": "How many days within a week did A4F_52749 have {calories} greater than 6.86 during Swim?", "Answer": "1"}
+{"Query": "How many days within a week did A4F_20573 have {calories} greater than 252 during Bike?", "Answer": "2"}
+{"Query": "How many days within a week did A4F_97386 have {calories} greater than 230.86 during Walk?", "Answer": "2"}
+{"Query": "How many days within a week did A4F_53145 have {calories} greater than 266.29 during Workout?", "Answer": "2"}
+{"Query": "How many days within a week did A4F_56279 have {calories} greater than 756.14 during Walk?", "Answer": "2"}
+{"Query": "How many days within a week did A4F_99000 have {calories} greater than 188.29 during Walk?", "Answer": "2"}
+{"Query": "How many days within a week did A4F_74720 have {calories} greater than 76.71 during Walk?", "Answer": "1"}
+{"Query": "How many days within a week did A4F_91516 have {calories} greater than 44.14 during Workout?", "Answer": "1"}
+{"Query": "How many days within a week did A4F_93308 have {calories} greater than 328.57 during Walk?", "Answer": "4"}
+{"Query": "How many days within a week did A4F_27766 have {calories} greater than 156.71 during Walk?", "Answer": "4"}
+{"Query": "How many days within a week did A4F_99000 have {calories} greater than 72.71 during Workout?", "Answer": "2"}
+{"Query": "How many days within a week did A4F_71665 have {calories} greater than 186.57 during Walk?", "Answer": "4"}
+{"Query": "How many days within a week did A4F_67757 have {calories} greater than 163 during Spinning?", "Answer": "2"}
+{"Query": "How many days within a week did A4F_71665 have {calories} greater than 212.57 during Walk?", "Answer": "4"}
+{"Query": "How many days within a week did A4F_39976 have {calories} greater than 54.86 during Workout?", "Answer": "2"}
+{"Query": "How many days within a week did A4F_56355 have {calories} greater than 158.71 during Walk?", "Answer": "3"}
+{"Query": "How many days within a week did A4F_56296 have {calories} greater than 205.86 during Walk?", "Answer": "2"}
+{"Query": "How many days within a week did A4F_67598 have {calories} greater than 548 during Walk?", "Answer": "4"}
+{"Query": "How many days within a week did A4F_50227 have {calories} greater than 26 during Walk?", "Answer": "1"}
+{"Query": "How many days within a week did A4F_24211 have {calories} greater than 292.14 during Walk?", "Answer": "3"}
+{"Query": "How many days within a week did A4F_62344 have {calories} greater than 326.86 during Walk?", "Answer": "4"}
+{"Query": "How many days within a week did A4F_84534 have {calories} less than 21.4 for Bike?", "Answer": "5"}
+{"Query": "How many days within a week did A4F_65695 have {calories} less than 291.01 for Walk?", "Answer": "3"}
+{"Query": "How many days within a week did A4F_10660 have {calories} less than 109.11 for Walk?", "Answer": "3"}
+{"Query": "How many days within a week did A4F_98040 have {calories} less than 166.94 for Walk?", "Answer": "3"}
+{"Query": "How many days within a week did A4F_76292 have {calories} less than 236.57 for Walk?", "Answer": "2"}
+{"Query": "How many days within a week did A4F_77391 have {calories} less than 7.69 for Walk?", "Answer": "4"}
+{"Query": "How many days within a week did A4F_10660 have {calories} less than 196.46 for Walk?", "Answer": "3"}
+{"Query": "How many days within a week did A4F_56279 have {calories} less than 370.93 for Walk?", "Answer": "2"}
+{"Query": "How many days within a week did A4F_17419 have {calories} less than 285.91 for Walk?", "Answer": "3"}
+{"Query": "How many days within a week did A4F_56279 have {calories} less than 681.68 for Walk?", "Answer": "5"}
+{"Query": "How many days within a week did A4F_60983 have {calories} less than 25.96 for Walk?", "Answer": "4"}
+{"Query": "How many days within a week did A4F_94120 have {calories} less than 25.78 for Walk?", "Answer": "5"}
+{"Query": "How many days within a week did A4F_67598 have {calories} less than 223.83 for Walk?", "Answer": "2"}
+{"Query": "How many days within a week did A4F_56718 have {calories} less than 53.31 for Walk?", "Answer": "3"}
+{"Query": "How many days within a week did A4F_95200 have {calories} less than 32.66 for Walk?", "Answer": "4"}
+{"Query": "How many days within a week did A4F_10660 have {calories} less than 7.23 for Run?", "Answer": "6"}
+{"Query": "How many days within a week did A4F_94120 have {calories} less than 28.19 for Walk?", "Answer": "5"}
+{"Query": "How many days within a week did A4F_60983 have {calories} less than 81.42 for Walk?", "Answer": "3"}
+{"Query": "How many days within a week did A4F_67757 have {calories} less than 78.22 for Spinning?", "Answer": "4"}
+{"Query": "How many days within a week did A4F_43794 have {calories} less than 18.11 for Walk?", "Answer": "5"}
+{"Query": "How many days within a week did A4F_51606 have {calories} less than 11.77 for Swim?", "Answer": "6"}
+{"Query": "How many days within a week did A4F_97386 have {calories} less than 103.63 for Walk?", "Answer": "2"}
+{"Query": "How many days within a week did A4F_70954 have {calories} less than 436.21 for Walk?", "Answer": "3"}
+{"Query": "How many days within a week did A4F_27766 have {calories} less than 118.13 for Walk?", "Answer": "2"}
+{"Query": "How many days within a week did A4F_45863 have {calories} less than 76.62 for Weights?", "Answer": "3"}
+{"Query": "How many days within a week did A4F_99000 have {calories} less than 33.44 for Workout?", "Answer": "5"}
+{"Query": "How many days within a week did A4F_43794 have {calories} less than 21.8 for Bike?", "Answer": "5"}
+{"Query": "How many days within a week did A4F_45118 have {calories} less than 54.71 for Walk?", "Answer": "5"}
+{"Query": "How many days within a week did A4F_67757 have {calories} less than 70.19 for Spinning?", "Answer": "5"}
+{"Query": "How many days within a week did A4F_89897 have {calories} less than 63.58 for Swim?", "Answer": "4"}
+{"Query": "How many days within a week did A4F_28771 burn more than 70 {calories} across all activities?", "Answer": "3"}
+{"Query": "How many days within a week did A4F_85240 burn more than 226.86 {calories} across all activities?", "Answer": "4"}
+{"Query": "How many days within a week did A4F_73455 burn more than 297.86 {calories} across all activities?", "Answer": "3"}
+{"Query": "How many days within a week did A4F_68106 burn more than 410 {calories} across all activities?", "Answer": "4"}
+{"Query": "How many days within a week did A4F_76957 burn more than 222.29 {calories} across all activities?", "Answer": "3"}
+{"Query": "How many days within a week did A4F_24211 burn more than 364.71 {calories} across all activities?", "Answer": "3"}
+{"Query": "How many days within a week did A4F_77391 burn more than 53.43 {calories} across all activities?", "Answer": "3"}
+{"Query": "How many days within a week did A4F_22119 burn more than 127.57 {calories} across all activities?", "Answer": "2"}
+{"Query": "How many days within a week did A4F_45863 burn more than 1064.29 {calories} across all activities?", "Answer": "2"}
+{"Query": "How many days within a week did A4F_85240 burn more than 217.71 {calories} across all activities?", "Answer": "3"}
+{"Query": "How many days within a week did A4F_17705 burn more than 233.57 {calories} across all activities?", "Answer": "3"}
+{"Query": "How many days within a week did A4F_56718 burn more than 693.43 {calories} across all activities?", "Answer": "3"}
+{"Query": "How many days within a week did A4F_78358 burn more than 230.57 {calories} across all activities?", "Answer": "4"}
+{"Query": "How many days within a week did A4F_43794 burn more than 545.43 {calories} across all activities?", "Answer": "2"}
+{"Query": "How many days within a week did A4F_53145 burn more than 225.86 {calories} across all activities?", "Answer": "2"}
+{"Query": "How many days within a week did A4F_56296 burn more than 741.43 {calories} across all activities?", "Answer": "4"}
+{"Query": "How many days within a week did A4F_82994 burn more than 96.86 {calories} across all activities?", "Answer": "4"}
+{"Query": "How many days within a week did A4F_31649 burn more than 332.86 {calories} across all activities?", "Answer": "3"}
+{"Query": "How many days within a week did A4F_70954 burn more than 422.57 {calories} across all activities?", "Answer": "3"}
+{"Query": "How many days within a week did A4F_22643 burn more than 248.57 {calories} across all activities?", "Answer": "3"}
+{"Query": "How many days within a week did A4F_84962 burn more than 25.43 {calories} across all activities?", "Answer": "1"}
+{"Query": "How many days within a week did A4F_79824 burn more than 105.71 {calories} across all activities?", "Answer": "3"}
+{"Query": "How many days within a week did A4F_72388 burn more than 154.29 {calories} across all activities?", "Answer": "4"}
+{"Query": "How many days within a week did A4F_43794 burn more than 543.43 {calories} across all activities?", "Answer": "2"}
+{"Query": "How many days within a week did A4F_94120 burn more than 68.71 {calories} across all activities?", "Answer": "2"}
+{"Query": "How many days within a week did A4F_60728 burn more than 62.57 {calories} across all activities?", "Answer": "3"}
+{"Query": "How many days within a week did A4F_68106 burn more than 400.43 {calories} across all activities?", "Answer": "4"}
+{"Query": "How many days within a week did A4F_92332 burn more than 500.43 {calories} across all activities?", "Answer": "2"}
+{"Query": "How many days within a week did A4F_70954 burn more than 485.57 {calories} across all activities?", "Answer": "2"}
+{"Query": "How many days within a week did A4F_65060 burn more than 23.57 {calories} across all activities?", "Answer": "1"}

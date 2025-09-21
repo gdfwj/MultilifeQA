@@ -1,0 +1,90 @@
+{"Query": "What was the highest {baseline_relative_sample_sum_of_squares} recorded for A4F_53145 during sleeping within one week and on which day did it occur, starting from 2022-05-27?", "Answer": "538.89 on 2022-05-30"}
+{"Query": "What was the lowest {baseline_relative_sample_sum_of_squares} recorded for A4F_53145 during sleeping within one week and on which day did it occur, starting from 2022-05-27?", "Answer": "0 on 2022-05-31"}
+{"Query": "How much higher was {baseline_relative_sample_standard_deviation} for A4F_10141 during sleeping on 2022-06-10 compared to the previous day?", "Answer": "-0.04"}
+{"Query": "What was the highest {baseline_relative_sample_sum_of_squares} recorded for A4F_10141 during sleeping within one week and on which day did it occur, starting from 2022-06-11?", "Answer": "105.07 on 2022-06-11"}
+{"Query": "What was the lowest {baseline_relative_sample_sum_of_squares} recorded for A4F_10141 during sleeping within one week and on which day did it occur, starting from 2022-06-11?", "Answer": "9.88 on 2022-06-15"}
+{"Query": "How much higher was {nightly_temperature} for A4F_56355 during sleeping on 2022-05-24 compared to the previous day?", "Answer": "-2.63"}
+{"Query": "What was the highest {baseline_relative_nightly_standard_deviation} recorded for A4F_56355 during sleeping within one week and on which day did it occur, starting from 2022-05-25?", "Answer": "2.1 on 2022-05-26"}
+{"Query": "What was the lowest {baseline_relative_nightly_standard_deviation} recorded for A4F_56355 during sleeping within one week and on which day did it occur, starting from 2022-05-25?", "Answer": "0 on 2022-05-27"}
+{"Query": "How much higher was {nightly_temperature} for A4F_44160 during sleeping on 2022-05-25 compared to the previous day?", "Answer": "-0.09"}
+{"Query": "What was the highest {nightly_temperature} recorded for A4F_44160 during sleeping within one week and on which day did it occur, starting from 2022-05-23?", "Answer": "33.93 on 2022-05-29"}
+{"Query": "What was the lowest {nightly_temperature} recorded for A4F_44160 during sleeping within one week and on which day did it occur, starting from 2022-05-23?", "Answer": "32.9 on 2022-05-26"}
+{"Query": "How much higher was {baseline_relative_sample_standard_deviation} for A4F_97386 during sleeping on 2022-06-09 compared to the previous day?", "Answer": "-0.04"}
+{"Query": "What was the highest {baseline_relative_nightly_standard_deviation} recorded for A4F_97386 during sleeping within one week and on which day did it occur, starting from 2022-06-06?", "Answer": "0.4 on 2022-06-11"}
+{"Query": "What was the lowest {baseline_relative_nightly_standard_deviation} recorded for A4F_97386 during sleeping within one week and on which day did it occur, starting from 2022-06-06?", "Answer": "0.32 on 2022-06-06"}
+{"Query": "What was the highest {baseline_relative_sample_sum} recorded for A4F_96181 during sleeping within one week and on which day did it occur, starting from 2022-06-06?", "Answer": "22.31 on 2022-06-06"}
+{"Query": "What was the lowest {baseline_relative_sample_sum} recorded for A4F_96181 during sleeping within one week and on which day did it occur, starting from 2022-06-06?", "Answer": "-216.34 on 2022-06-10"}
+{"Query": "How much higher was {baseline_relative_nightly_standard_deviation} for A4F_60429 during sleeping on 2022-06-17 compared to the previous day?", "Answer": "0.05"}
+{"Query": "What was the highest {baseline_relative_sample_sum_of_squares} recorded for A4F_60429 during sleeping within one week and on which day did it occur, starting from 2022-06-16?", "Answer": "319.83 on 2022-06-20"}
+{"Query": "What was the lowest {baseline_relative_sample_sum_of_squares} recorded for A4F_60429 during sleeping within one week and on which day did it occur, starting from 2022-06-16?", "Answer": "0 on 2022-06-21"}
+{"Query": "How much higher was {baseline_relative_nightly_standard_deviation} for A4F_99000 during sleeping on 2022-06-17 compared to the previous day?", "Answer": "-0.01"}
+{"Query": "What was the highest {baseline_relative_sample_sum} recorded for A4F_99000 during sleeping within one week and on which day did it occur, starting from 2022-06-12?", "Answer": "598.81 on 2022-06-13"}
+{"Query": "What was the lowest {baseline_relative_sample_sum} recorded for A4F_99000 during sleeping within one week and on which day did it occur, starting from 2022-06-12?", "Answer": "-69.36 on 2022-06-17"}
+{"Query": "How much higher was {baseline_relative_nightly_standard_deviation} for A4F_24211 during sleeping on 2022-06-15 compared to the previous day?", "Answer": "0.02"}
+{"Query": "What was the highest {baseline_relative_nightly_standard_deviation} recorded for A4F_24211 during sleeping within one week and on which day did it occur, starting from 2022-06-06?", "Answer": "1.49 on 2022-06-08"}
+{"Query": "What was the lowest {baseline_relative_nightly_standard_deviation} recorded for A4F_24211 during sleeping within one week and on which day did it occur, starting from 2022-06-06?", "Answer": "0 on 2022-06-07"}
+{"Query": "How much higher was {baseline_relative_sample_sum_of_squares} for A4F_39976 during sleeping on 2022-06-19 compared to the previous day?", "Answer": "-52.87"}
+{"Query": "What was the highest {baseline_relative_sample_sum_of_squares} recorded for A4F_39976 during sleeping within one week and on which day did it occur, starting from 2022-06-07?", "Answer": "478.2 on 2022-06-13"}
+{"Query": "What was the lowest {baseline_relative_sample_sum_of_squares} recorded for A4F_39976 during sleeping within one week and on which day did it occur, starting from 2022-06-07?", "Answer": "104.02 on 2022-06-07"}
+{"Query": "How much higher was {baseline_relative_sample_standard_deviation} for A4F_56718 during sleeping on 2022-05-25 compared to the previous day?", "Answer": "-0.02"}
+{"Query": "What was the highest {nightly_temperature} recorded for A4F_56718 during sleeping within one week and on which day did it occur, starting from 2022-05-25?", "Answer": "67.82 on 2022-05-28"}
+{"Query": "What was the lowest {nightly_temperature} recorded for A4F_56718 during sleeping within one week and on which day did it occur, starting from 2022-05-25?", "Answer": "0 on 2022-05-26"}
+{"Query": "What was the highest {baseline_relative_sample_sum_of_squares} recorded for A4F_22643 during sleeping within one week and on which day did it occur, starting from 2022-06-08?", "Answer": "5033.83 on 2022-06-08"}
+{"Query": "What was the lowest {baseline_relative_sample_sum_of_squares} recorded for A4F_22643 during sleeping within one week and on which day did it occur, starting from 2022-06-08?", "Answer": "0 on 2022-06-09"}
+{"Query": "How much higher was {baseline_relative_sample_standard_deviation} for A4F_91362 during sleeping on 2022-05-28 compared to the previous day?", "Answer": "-0.06"}
+{"Query": "What was the highest {baseline_relative_sample_standard_deviation} recorded for A4F_91362 during sleeping within one week and on which day did it occur, starting from 2022-05-26?", "Answer": "2.29 on 2022-05-31"}
+{"Query": "What was the lowest {baseline_relative_sample_standard_deviation} recorded for A4F_91362 during sleeping within one week and on which day did it occur, starting from 2022-05-26?", "Answer": "0 on 2022-06-01"}
+{"Query": "How much higher was {baseline_relative_sample_sum} for A4F_93308 during sleeping on 2022-05-22 compared to the previous day?", "Answer": "291.59"}
+{"Query": "What was the highest {baseline_relative_nightly_standard_deviation} recorded for A4F_93308 during sleeping within one week and on which day did it occur, starting from 2022-05-22?", "Answer": "1.56 on 2022-05-25"}
+{"Query": "What was the lowest {baseline_relative_nightly_standard_deviation} recorded for A4F_93308 during sleeping within one week and on which day did it occur, starting from 2022-05-22?", "Answer": "0 on 2022-05-26"}
+{"Query": "What was the highest {nightly_temperature} recorded for A4F_25413 during sleeping within one week and on which day did it occur, starting from 2022-06-16?", "Answer": "34.93 on 2022-06-17"}
+{"Query": "What was the lowest {nightly_temperature} recorded for A4F_25413 during sleeping within one week and on which day did it occur, starting from 2022-06-16?", "Answer": "0 on 2022-06-20"}
+{"Query": "How much higher was {baseline_relative_nightly_standard_deviation} for A4F_10660 during sleeping on 2022-06-14 compared to the previous day?", "Answer": "0.01"}
+{"Query": "What was the highest {baseline_relative_sample_standard_deviation} recorded for A4F_10660 during sleeping within one week and on which day did it occur, starting from 2022-06-17?", "Answer": "0.74 on 2022-06-20"}
+{"Query": "What was the lowest {baseline_relative_sample_standard_deviation} recorded for A4F_10660 during sleeping within one week and on which day did it occur, starting from 2022-06-17?", "Answer": "0 on 2022-06-22"}
+{"Query": "How much higher was {baseline_relative_sample_sum} for A4F_10021 during sleeping on 2022-06-17 compared to the previous day?", "Answer": "147.38"}
+{"Query": "What was the highest {nightly_temperature} recorded for A4F_10021 during sleeping within one week and on which day did it occur, starting from 2022-06-11?", "Answer": "34.73 on 2022-06-15"}
+{"Query": "What was the lowest {nightly_temperature} recorded for A4F_10021 during sleeping within one week and on which day did it occur, starting from 2022-06-11?", "Answer": "0 on 2022-06-13"}
+{"Query": "How much higher was {baseline_relative_nightly_standard_deviation} for A4F_89897 during sleeping on 2022-05-29 compared to the previous day?", "Answer": "-0.01"}
+{"Query": "What was the highest {baseline_relative_sample_sum} recorded for A4F_89897 during sleeping within one week and on which day did it occur, starting from 2022-05-21?", "Answer": "262.88 on 2022-05-22"}
+{"Query": "What was the lowest {baseline_relative_sample_sum} recorded for A4F_89897 during sleeping within one week and on which day did it occur, starting from 2022-05-21?", "Answer": "-292.15 on 2022-05-25"}
+{"Query": "How much higher was {baseline_relative_sample_standard_deviation} for A4F_76292 during sleeping on 2022-05-21 compared to the previous day?", "Answer": "-0.06"}
+{"Query": "What was the highest {nightly_temperature} recorded for A4F_76292 during sleeping within one week and on which day did it occur, starting from 2022-05-21?", "Answer": "33.85 on 2022-05-26"}
+{"Query": "What was the lowest {nightly_temperature} recorded for A4F_76292 during sleeping within one week and on which day did it occur, starting from 2022-05-21?", "Answer": "33.18 on 2022-05-24"}
+{"Query": "How much higher was {baseline_relative_sample_sum_of_squares} for A4F_50227 during sleeping on 2022-06-20 compared to the previous day?", "Answer": "328.76"}
+{"Query": "What was the highest {baseline_relative_sample_sum_of_squares} recorded for A4F_50227 during sleeping within one week and on which day did it occur, starting from 2022-06-10?", "Answer": "2693.03 on 2022-06-12"}
+{"Query": "What was the lowest {baseline_relative_sample_sum_of_squares} recorded for A4F_50227 during sleeping within one week and on which day did it occur, starting from 2022-06-10?", "Answer": "0 on 2022-06-11"}
+{"Query": "How much higher was {baseline_relative_sample_standard_deviation} for A4F_13504 during sleeping on 2022-06-01 compared to the previous day?", "Answer": "-0.01"}
+{"Query": "What was the highest {baseline_relative_sample_sum} recorded for A4F_13504 during sleeping within one week and on which day did it occur, starting from 2022-05-20?", "Answer": "265.09 on 2022-05-22"}
+{"Query": "What was the lowest {baseline_relative_sample_sum} recorded for A4F_13504 during sleeping within one week and on which day did it occur, starting from 2022-05-20?", "Answer": "-213.96 on 2022-05-24"}
+{"Query": "How much higher was {baseline_relative_nightly_standard_deviation} for A4F_92332 during sleeping on 2022-06-09 compared to the previous day?", "Answer": "-0.02"}
+{"Query": "What was the highest {baseline_relative_sample_sum} recorded for A4F_92332 during sleeping within one week and on which day did it occur, starting from 2022-06-16?", "Answer": "149.44 on 2022-06-17"}
+{"Query": "What was the lowest {baseline_relative_sample_sum} recorded for A4F_92332 during sleeping within one week and on which day did it occur, starting from 2022-06-16?", "Answer": "-290.18 on 2022-06-18"}
+{"Query": "How much higher was {nightly_temperature} for A4F_29474 during sleeping on 2022-06-07 compared to the previous day?", "Answer": "0.32"}
+{"Query": "What was the highest {baseline_relative_nightly_standard_deviation} recorded for A4F_29474 during sleeping within one week and on which day did it occur, starting from 2022-06-08?", "Answer": "0.52 on 2022-06-12"}
+{"Query": "What was the lowest {baseline_relative_nightly_standard_deviation} recorded for A4F_29474 during sleeping within one week and on which day did it occur, starting from 2022-06-08?", "Answer": "0 on 2022-06-10"}
+{"Query": "What was the highest {baseline_relative_sample_standard_deviation} recorded for A4F_10021 during sleeping within one week and on which day did it occur, starting from 2022-06-11?", "Answer": "0.54 on 2022-06-11"}
+{"Query": "What was the lowest {baseline_relative_sample_standard_deviation} recorded for A4F_10021 during sleeping within one week and on which day did it occur, starting from 2022-06-11?", "Answer": "0 on 2022-06-13"}
+{"Query": "How much higher was {baseline_relative_nightly_standard_deviation} for A4F_45863 during sleeping on 2022-05-25 compared to the previous day?", "Answer": "-0.02"}
+{"Query": "What was the highest {baseline_relative_sample_standard_deviation} recorded for A4F_45863 during sleeping within one week and on which day did it occur, starting from 2022-05-26?", "Answer": "1.15 on 2022-05-26"}
+{"Query": "What was the lowest {baseline_relative_sample_standard_deviation} recorded for A4F_45863 during sleeping within one week and on which day did it occur, starting from 2022-05-26?", "Answer": "0 on 2022-05-27"}
+{"Query": "How much higher was {baseline_relative_nightly_standard_deviation} for A4F_72388 during sleeping on 2022-06-19 compared to the previous day?", "Answer": "-0.02"}
+{"Query": "What was the highest {baseline_relative_sample_sum} recorded for A4F_72388 during sleeping within one week and on which day did it occur, starting from 2022-06-10?", "Answer": "765.64 on 2022-06-12"}
+{"Query": "What was the lowest {baseline_relative_sample_sum} recorded for A4F_72388 during sleeping within one week and on which day did it occur, starting from 2022-06-10?", "Answer": "43.68 on 2022-06-16"}
+{"Query": "How much higher was {baseline_relative_nightly_standard_deviation} for A4F_97618 during sleeping on 2022-06-13 compared to the previous day?", "Answer": "-0.02"}
+{"Query": "What was the highest {baseline_relative_sample_sum} recorded for A4F_97618 during sleeping within one week and on which day did it occur, starting from 2022-06-16?", "Answer": "249.56 on 2022-06-17"}
+{"Query": "What was the lowest {baseline_relative_sample_sum} recorded for A4F_97618 during sleeping within one week and on which day did it occur, starting from 2022-06-16?", "Answer": "-335.08 on 2022-06-19"}
+{"Query": "How much higher was {baseline_relative_sample_sum} for A4F_24211 during sleeping on 2022-06-06 compared to the previous day?", "Answer": "-247.71"}
+{"Query": "What was the highest {baseline_relative_sample_sum} recorded for A4F_24211 during sleeping within one week and on which day did it occur, starting from 2022-06-08?", "Answer": "545.99 on 2022-06-08"}
+{"Query": "What was the lowest {baseline_relative_sample_sum} recorded for A4F_24211 during sleeping within one week and on which day did it occur, starting from 2022-06-08?", "Answer": "-430.85 on 2022-06-12"}
+{"Query": "How much higher was {baseline_relative_sample_sum_of_squares} for A4F_10660 during sleeping on 2022-06-17 compared to the previous day?", "Answer": "-89.35"}
+{"Query": "What was the highest {baseline_relative_sample_standard_deviation} recorded for A4F_10660 during sleeping within one week and on which day did it occur, starting from 2022-06-14?", "Answer": "0.75 on 2022-06-14"}
+{"Query": "What was the lowest {baseline_relative_sample_standard_deviation} recorded for A4F_10660 during sleeping within one week and on which day did it occur, starting from 2022-06-14?", "Answer": "0.71 on 2022-06-17"}
+{"Query": "What was the highest {baseline_relative_sample_standard_deviation} recorded for A4F_25413 during sleeping within one week and on which day did it occur, starting from 2022-06-15?", "Answer": "0.88 on 2022-06-16"}
+{"Query": "What was the lowest {baseline_relative_sample_standard_deviation} recorded for A4F_25413 during sleeping within one week and on which day did it occur, starting from 2022-06-15?", "Answer": "0 on 2022-06-20"}
+{"Query": "How much higher was {baseline_relative_sample_sum} for A4F_10660 during sleeping on 2022-06-16 compared to the previous day?", "Answer": "-107.74"}
+{"Query": "How much higher was {nightly_temperature} for A4F_51606 during sleeping on 2022-05-22 compared to the previous day?", "Answer": "-0.05"}
+{"Query": "How much higher was {baseline_relative_sample_sum_of_squares} for A4F_67757 during sleeping on 2022-06-07 compared to the previous day?", "Answer": "-12.93"}
+{"Query": "How much higher was {baseline_relative_nightly_standard_deviation} for A4F_91516 during sleeping on 2022-05-25 compared to the previous day?", "Answer": "0.04"}
+{"Query": "How much higher was {baseline_relative_sample_sum} for A4F_85240 during sleeping on 2022-05-26 compared to the previous day?", "Answer": "-258.3"}
+{"Query": "How much higher was {baseline_relative_sample_standard_deviation} for A4F_91362 during sleeping on 2022-05-29 compared to the previous day?", "Answer": "0.01"}

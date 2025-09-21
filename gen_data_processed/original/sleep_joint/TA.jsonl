@@ -1,0 +1,42 @@
+{"Query": "Did A4F_68106's minutes_asleep and rmssd on 2022-05-27 both increase compared to the previous day?", "Answer": "yes"}
+{"Query": "Did A4F_84740's minutes_asleep and rmssd on 2022-05-20 both increase compared to the previous day?", "Answer": "yes"}
+{"Query": "Did A4F_65724's minutes_asleep and rmssd on 2022-05-27 both increase compared to the previous day?", "Answer": "no"}
+{"Query": "Did A4F_40008's minutes_asleep and rmssd on 2022-06-19 both increase compared to the previous day?", "Answer": "yes"}
+{"Query": "Did A4F_68106's minutes_in_deep_sleep increase while his/her nrem_hr decreased on 2022-05-27, compared to the previous day?", "Answer": "no"}
+{"Query": "Did A4F_28689's minutes_in_deep_sleep increase while his/her nrem_hr decreased on 2022-05-21, compared to the previous day?", "Answer": "no"}
+{"Query": "Did A4F_22119's minutes_in_deep_sleep increase while his/her nrem_hr decreased on 2022-06-01, compared to the previous day?", "Answer": "no"}
+{"Query": "Did A4F_77391's minutes_in_deep_sleep increase while his/her nrem_hr decreased on 2022-06-05, compared to the previous day?", "Answer": "no"}
+{"Query": "Did A4F_13368's minutes_in_light_sleep and lower_bound_oxygen_saturation both increase on 2022-05-21, compared to the previous day?", "Answer": "no"}
+{"Query": "Did A4F_71665's minutes_in_light_sleep and lower_bound_oxygen_saturation both increase on 2022-06-06, compared to the previous day?", "Answer": "no"}
+{"Query": "Did A4F_29474's minutes_in_light_sleep and lower_bound_oxygen_saturation both increase on 2022-06-10, compared to the previous day?", "Answer": "no"}
+{"Query": "Did A4F_97618's minutes_in_light_sleep and lower_bound_oxygen_saturation both increase on 2022-06-17, compared to the previous day?", "Answer": "yes"}
+{"Query": "Did A4F_79824's minutes_in_deep_sleep and deep_sleep_breathing_rate both increase on 2022-06-16, compared to the previous day?", "Answer": "no"}
+{"Query": "Did A4F_69129's minutes_in_deep_sleep and deep_sleep_breathing_rate both increase on 2022-05-22, compared to the previous day?", "Answer": "no"}
+{"Query": "Did A4F_31033's minutes_in_deep_sleep and deep_sleep_breathing_rate both increase on 2022-06-18, compared to the previous day?", "Answer": "no"}
+{"Query": "Did A4F_13368's minutes_in_deep_sleep and deep_sleep_breathing_rate both increase on 2022-05-20, compared to the previous day?", "Answer": "no"}
+{"Query": "Did A4F_65724's minutes_awake and baseline_relative_nightly_standard_deviation both increase on 2022-05-26, compared to the previous day?", "Answer": "yes"}
+{"Query": "Did A4F_31649's minutes_awake and baseline_relative_nightly_standard_deviation both increase on 2022-06-21, compared to the previous day?", "Answer": "no"}
+{"Query": "Did A4F_79824's minutes_awake and baseline_relative_nightly_standard_deviation both increase on 2022-06-18, compared to the previous day?", "Answer": "no"}
+{"Query": "Did A4F_79824's minutes_awake and baseline_relative_nightly_standard_deviation both increase on 2022-06-15, compared to the previous day?", "Answer": "no"}
+{"Query": "How many consecutive days did A4F_89897's minutes_in_rem and entropy both increase, starting from 2022-05-24?", "Answer": "2"}
+{"Query": "How many consecutive days did A4F_31649's minutes_in_rem and entropy both increase, starting from 2022-06-13?", "Answer": "3"}
+{"Query": "How many consecutive days did A4F_65695's minutes_in_rem and entropy both increase, starting from 2022-05-20?", "Answer": "4"}
+{"Query": "How many consecutive days did A4F_33497's minutes_in_bed increase together with upper_bound_oxygen_saturation, starting from 2022-05-22?", "Answer": "2"}
+{"Query": "How many consecutive days did A4F_56355's minutes_in_bed increase together with upper_bound_oxygen_saturation, starting from 2022-05-24?", "Answer": "3"}
+{"Query": "How many consecutive days did A4F_60728's minutes_in_bed increase together with upper_bound_oxygen_saturation, starting from 2022-06-09?", "Answer": "4"}
+{"Query": "How many consecutive days did A4F_31033's minutes_in_rem and rem_sleep_breathing_rate both decrease, starting from 2022-06-11?", "Answer": "2"}
+{"Query": "How many consecutive days did A4F_28771's minutes_in_rem and rem_sleep_breathing_rate both decrease, starting from 2022-06-06?", "Answer": "3"}
+{"Query": "How many consecutive days did A4F_27766's minutes_asleep and full_sleep_breathing_rate both decrease, starting from 2022-06-14?", "Answer": "2"}
+{"Query": "How many consecutive days did A4F_28771's minutes_asleep and full_sleep_breathing_rate both decrease, starting from 2022-06-05?", "Answer": "3"}
+{"Query": "How many consecutive days did A4F_28771's minutes_asleep and full_sleep_breathing_rate both decrease, starting from 2022-06-04?", "Answer": "4"}
+{"Query": "How many consecutive days did A4F_96181's minutes_in_rem decrease while nightly_temperature increased, starting from 2022-06-11?", "Answer": "2"}
+{"Query": "How many consecutive days did A4F_40008's minutes_in_rem decrease while nightly_temperature increased, starting from 2022-06-05?", "Answer": "3"}
+{"Query": "How many consecutive days did A4F_39976's minutes_in_rem decrease while nightly_temperature increased, starting from 2022-06-12?", "Answer": "4"}
+{"Query": "How many consecutive days did A4F_28771's entropy increase together with upper_bound_oxygen_saturation, starting from 2022-06-07?", "Answer": "2"}
+{"Query": "How many consecutive days did A4F_27052's entropy increase together with upper_bound_oxygen_saturation, starting from 2022-05-22?", "Answer": "3"}
+{"Query": "How many consecutive days did A4F_73455's entropy increase together with upper_bound_oxygen_saturation, starting from 2022-05-19?", "Answer": "4"}
+{"Query": "How many consecutive days did A4F_74742's rmssd decrease while sleep_average_oxygen_saturation decreased, starting from 2022-06-12?", "Answer": "3"}
+{"Query": "How many consecutive days did A4F_50227's rmssd decrease while sleep_average_oxygen_saturation decreased, starting from 2022-06-17?", "Answer": "2"}
+{"Query": "How many consecutive days did A4F_39976's rmssd decrease while sleep_average_oxygen_saturation decreased, starting from 2022-06-14?", "Answer": "5"}
+{"Query": "How many consecutive days did A4F_71665's entropy and rem_sleep_breathing_rate both increase, starting from 2022-06-06?", "Answer": "2"}
+{"Query": "How many consecutive days did A4F_96181's entropy and rem_sleep_breathing_rate both increase, starting from 2022-06-08?", "Answer": "3"}

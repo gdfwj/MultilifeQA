@@ -1,0 +1,90 @@
+{"Query": "How much higher was {deep_sleep_signal_to_noise} for A4F_29474 during sleeping on 2022-06-13 compared to the previous day?", "Answer": "4.95"}
+{"Query": "How much higher was {rem_sleep_breathing_rate} for A4F_17419 during sleeping on 2022-06-10 compared to the previous day?", "Answer": "-13.6"}
+{"Query": "How much higher was {deep_sleep_breathing_rate} for A4F_69129 during sleeping on 2022-05-21 compared to the previous day?", "Answer": "-18.6"}
+{"Query": "How much higher was {full_sleep_standard_deviation} for A4F_20573 during sleeping on 2022-06-12 compared to the previous day?", "Answer": "0.6"}
+{"Query": "How much higher was {full_sleep_breathing_rate} for A4F_45118 during sleeping on 2022-05-28 compared to the previous day?", "Answer": "0.2"}
+{"Query": "How much higher was {rem_sleep_standard_deviation} for A4F_31649 during sleeping on 2022-06-20 compared to the previous day?", "Answer": "0.4"}
+{"Query": "How much higher was {full_sleep_signal_to_noise} for A4F_98453 during sleeping on 2022-06-15 compared to the previous day?", "Answer": "-1.52"}
+{"Query": "How much higher was {rem_sleep_signal_to_noise} for A4F_76957 during sleeping on 2022-05-19 compared to the previous day?", "Answer": "-1.1"}
+{"Query": "How much higher was {rem_sleep_signal_to_noise} for A4F_31649 during sleeping on 2022-06-17 compared to the previous day?", "Answer": "-3.58"}
+{"Query": "How much higher was {rem_sleep_signal_to_noise} for A4F_65695 during sleeping on 2022-05-25 compared to the previous day?", "Answer": "4.45"}
+{"Query": "How much higher was {light_sleep_standard_deviation} for A4F_10355 during sleeping on 2022-06-12 compared to the previous day?", "Answer": "-0.3"}
+{"Query": "How much higher was {light_sleep_breathing_rate} for A4F_39976 during sleeping on 2022-06-08 compared to the previous day?", "Answer": "-0.6"}
+{"Query": "How much higher was {deep_sleep_standard_deviation} for A4F_95200 during sleeping on 2022-06-12 compared to the previous day?", "Answer": "-0.1"}
+{"Query": "How much higher was {deep_sleep_standard_deviation} for A4F_70804 during sleeping on 2022-06-16 compared to the previous day?", "Answer": "0.8"}
+{"Query": "How much higher was {rem_sleep_breathing_rate} for A4F_40008 during sleeping on 2022-06-12 compared to the previous day?", "Answer": "15.6"}
+{"Query": "How much higher was {full_sleep_signal_to_noise} for A4F_17419 during sleeping on 2022-06-10 compared to the previous day?", "Answer": "0.27"}
+{"Query": "How much higher was {rem_sleep_standard_deviation} for A4F_10660 during sleeping on 2022-06-12 compared to the previous day?", "Answer": "1.2"}
+{"Query": "How much higher was {light_sleep_breathing_rate} for A4F_77391 during sleeping on 2022-06-06 compared to the previous day?", "Answer": "0.4"}
+{"Query": "How much higher was {deep_sleep_breathing_rate} for A4F_84740 during sleeping on 2022-05-19 compared to the previous day?", "Answer": "20.6"}
+{"Query": "How much higher was {full_sleep_standard_deviation} for A4F_51606 during sleeping on 2022-05-26 compared to the previous day?", "Answer": "-1.5"}
+{"Query": "How much higher was {deep_sleep_breathing_rate} for A4F_70954 during sleeping on 2022-06-08 compared to the previous day?", "Answer": "0.6"}
+{"Query": "How much higher was {rem_sleep_standard_deviation} for A4F_34415 during sleeping on 2022-06-09 compared to the previous day?", "Answer": "0.5"}
+{"Query": "How much higher was {full_sleep_standard_deviation} for A4F_65724 during sleeping on 2022-06-04 compared to the previous day?", "Answer": "-0.2"}
+{"Query": "How much higher was {light_sleep_breathing_rate} for A4F_10141 during sleeping on 2022-06-15 compared to the previous day?", "Answer": "-0.4"}
+{"Query": "How much higher was {light_sleep_signal_to_noise} for A4F_98040 during sleeping on 2022-06-12 compared to the previous day?", "Answer": "7.48"}
+{"Query": "How much higher was {full_sleep_signal_to_noise} for A4F_17419 during sleeping on 2022-06-17 compared to the previous day?", "Answer": "-6.66"}
+{"Query": "How much higher was {rem_sleep_signal_to_noise} for A4F_96181 during sleeping on 2022-06-06 compared to the previous day?", "Answer": "-3.23"}
+{"Query": "How much higher was {full_sleep_standard_deviation} for A4F_32988 during sleeping on 2022-06-02 compared to the previous day?", "Answer": "-2.1"}
+{"Query": "How much higher was {rem_sleep_standard_deviation} for A4F_77391 during sleeping on 2022-06-02 compared to the previous day?", "Answer": "1.2"}
+{"Query": "How much higher was {deep_sleep_breathing_rate} for A4F_53145 during sleeping on 2022-06-02 compared to the previous day?", "Answer": "4"}
+{"Query": "What was the highest {rem_sleep_standard_deviation} recorded for A4F_67757 during sleeping within a week and on which day did it occur, starting from 2022-06-08?", "Answer": "2.7 on 2022-06-08"}
+{"Query": "What was the highest {full_sleep_standard_deviation} recorded for A4F_97618 during sleeping within a week and on which day did it occur, starting from 2022-06-05?", "Answer": "1.6 on 2022-06-05"}
+{"Query": "What was the highest {light_sleep_standard_deviation} recorded for A4F_17419 during sleeping within a week and on which day did it occur, starting from 2022-06-11?", "Answer": "2.7 on 2022-06-16"}
+{"Query": "What was the highest {light_sleep_breathing_rate} recorded for A4F_65695 during sleeping within a week and on which day did it occur, starting from 2022-05-21?", "Answer": "17.4 on 2022-05-21"}
+{"Query": "What was the highest {rem_sleep_standard_deviation} recorded for A4F_29474 during sleeping within a week and on which day did it occur, starting from 2022-06-04?", "Answer": "2.6 on 2022-06-06"}
+{"Query": "What was the highest {rem_sleep_breathing_rate} recorded for A4F_10355 during sleeping within a week and on which day did it occur, starting from 2022-06-11?", "Answer": "15.6 on 2022-06-14"}
+{"Query": "What was the highest {light_sleep_breathing_rate} recorded for A4F_39976 during sleeping within a week and on which day did it occur, starting from 2022-06-11?", "Answer": "31 on 2022-06-17"}
+{"Query": "What was the highest {rem_sleep_standard_deviation} recorded for A4F_35752 during sleeping within a week and on which day did it occur, starting from 2022-06-05?", "Answer": "1.4 on 2022-06-10"}
+{"Query": "What was the highest {rem_sleep_signal_to_noise} recorded for A4F_34415 during sleeping within a week and on which day did it occur, starting from 2022-06-10?", "Answer": "6.14 on 2022-06-12"}
+{"Query": "What was the highest {rem_sleep_breathing_rate} recorded for A4F_76957 during sleeping within a week and on which day did it occur, starting from 2022-05-24?", "Answer": "16.8 on 2022-05-29"}
+{"Query": "What was the highest {rem_sleep_signal_to_noise} recorded for A4F_97618 during sleeping within a week and on which day did it occur, starting from 2022-06-04?", "Answer": "5.55 on 2022-06-06"}
+{"Query": "What was the highest {full_sleep_signal_to_noise} recorded for A4F_71665 during sleeping within a week and on which day did it occur, starting from 2022-06-04?", "Answer": "11.6 on 2022-06-06"}
+{"Query": "What was the highest {full_sleep_breathing_rate} recorded for A4F_50227 during sleeping within a week and on which day did it occur, starting from 2022-06-11?", "Answer": "32.4 on 2022-06-13"}
+{"Query": "What was the highest {full_sleep_standard_deviation} recorded for A4F_74742 during sleeping within a week and on which day did it occur, starting from 2022-06-17?", "Answer": "1.5 on 2022-06-22"}
+{"Query": "What was the highest {deep_sleep_signal_to_noise} recorded for A4F_37469 during sleeping within a week and on which day did it occur, starting from 2022-05-18?", "Answer": "13.62 on 2022-05-21"}
+{"Query": "What was the highest {rem_sleep_signal_to_noise} recorded for A4F_41207 during sleeping within a week and on which day did it occur, starting from 2022-06-14?", "Answer": "4.28 on 2022-06-20"}
+{"Query": "What was the highest {full_sleep_standard_deviation} recorded for A4F_56296 during sleeping within a week and on which day did it occur, starting from 2022-06-09?", "Answer": "1.1 on 2022-06-14"}
+{"Query": "What was the highest {deep_sleep_breathing_rate} recorded for A4F_24211 during sleeping within a week and on which day did it occur, starting from 2022-06-06?", "Answer": "35.6 on 2022-06-09"}
+{"Query": "What was the highest {light_sleep_breathing_rate} recorded for A4F_28771 during sleeping within a week and on which day did it occur, starting from 2022-06-06?", "Answer": "13.2 on 2022-06-12"}
+{"Query": "What was the highest {deep_sleep_signal_to_noise} recorded for A4F_13368 during sleeping within a week and on which day did it occur, starting from 2022-05-20?", "Answer": "9.18 on 2022-05-22"}
+{"Query": "What was the highest {rem_sleep_standard_deviation} recorded for A4F_70954 during sleeping within a week and on which day did it occur, starting from 2022-06-14?", "Answer": "2.4 on 2022-06-20"}
+{"Query": "What was the highest {rem_sleep_breathing_rate} recorded for A4F_13368 during sleeping within a week and on which day did it occur, starting from 2022-05-21?", "Answer": "17 on 2022-05-23"}
+{"Query": "What was the highest {rem_sleep_breathing_rate} recorded for A4F_62344 during sleeping within a week and on which day did it occur, starting from 2022-06-01?", "Answer": "12.8 on 2022-06-06"}
+{"Query": "What was the highest {full_sleep_standard_deviation} recorded for A4F_67757 during sleeping within a week and on which day did it occur, starting from 2022-06-04?", "Answer": "1.7 on 2022-06-04"}
+{"Query": "What was the highest {rem_sleep_signal_to_noise} recorded for A4F_76292 during sleeping within a week and on which day did it occur, starting from 2022-05-20?", "Answer": "16.27 on 2022-05-25"}
+{"Query": "What was the highest {light_sleep_signal_to_noise} recorded for A4F_13368 during sleeping within a week and on which day did it occur, starting from 2022-05-24?", "Answer": "10.3 on 2022-05-24"}
+{"Query": "What was the highest {rem_sleep_breathing_rate} recorded for A4F_74742 during sleeping within a week and on which day did it occur, starting from 2022-06-13?", "Answer": "16.2 on 2022-06-14"}
+{"Query": "What was the highest {light_sleep_breathing_rate} recorded for A4F_34415 during sleeping within a week and on which day did it occur, starting from 2022-06-12?", "Answer": "13.8 on 2022-06-14"}
+{"Query": "What was the highest {full_sleep_breathing_rate} recorded for A4F_60429 during sleeping within a week and on which day did it occur, starting from 2022-06-17?", "Answer": "12.6 on 2022-06-17"}
+{"Query": "What was the highest {rem_sleep_standard_deviation} recorded for A4F_44160 during sleeping within a week and on which day did it occur, starting from 2022-05-23?", "Answer": "3.1 on 2022-05-29"}
+{"Query": "What was the lowest {deep_sleep_breathing_rate} recorded for A4F_10355 during sleeping within a week and on which day did it occur, starting from 2022-06-10?", "Answer": "13.4 on 2022-06-11"}
+{"Query": "What was the lowest {deep_sleep_signal_to_noise} recorded for A4F_27766 during sleeping within a week and on which day did it occur, starting from 2022-06-12?", "Answer": "5.38 on 2022-06-16"}
+{"Query": "What was the lowest {rem_sleep_breathing_rate} recorded for A4F_76292 during sleeping within a week and on which day did it occur, starting from 2022-05-22?", "Answer": "13.4 on 2022-05-27"}
+{"Query": "What was the lowest {deep_sleep_standard_deviation} recorded for A4F_76957 during sleeping within a week and on which day did it occur, starting from 2022-05-23?", "Answer": "0.5 on 2022-05-28"}
+{"Query": "What was the lowest {full_sleep_signal_to_noise} recorded for A4F_86472 during sleeping within a week and on which day did it occur, starting from 2022-06-07?", "Answer": "4.73 on 2022-06-13"}
+{"Query": "What was the lowest {deep_sleep_breathing_rate} recorded for A4F_82994 during sleeping within a week and on which day did it occur, starting from 2022-06-15?", "Answer": "15 on 2022-06-20"}
+{"Query": "What was the lowest {light_sleep_standard_deviation} recorded for A4F_45118 during sleeping within a week and on which day did it occur, starting from 2022-05-22?", "Answer": "0.7 on 2022-05-28"}
+{"Query": "What was the lowest {deep_sleep_breathing_rate} recorded for A4F_74742 during sleeping within a week and on which day did it occur, starting from 2022-06-16?", "Answer": "14.8 on 2022-06-16"}
+{"Query": "What was the lowest {full_sleep_signal_to_noise} recorded for A4F_98453 during sleeping within a week and on which day did it occur, starting from 2022-06-16?", "Answer": "4.46 on 2022-06-20"}
+{"Query": "What was the lowest {rem_sleep_breathing_rate} recorded for A4F_89897 during sleeping within a week and on which day did it occur, starting from 2022-05-20?", "Answer": "-2 on 2022-05-25"}
+{"Query": "What was the lowest {light_sleep_signal_to_noise} recorded for A4F_62344 during sleeping within a week and on which day did it occur, starting from 2022-06-01?", "Answer": "5.42 on 2022-06-06"}
+{"Query": "What was the lowest {light_sleep_breathing_rate} recorded for A4F_31649 during sleeping within a week and on which day did it occur, starting from 2022-06-13?", "Answer": "11.6 on 2022-06-13"}
+{"Query": "What was the lowest {light_sleep_breathing_rate} recorded for A4F_24211 during sleeping within a week and on which day did it occur, starting from 2022-06-10?", "Answer": "15.4 on 2022-06-15"}
+{"Query": "What was the lowest {deep_sleep_signal_to_noise} recorded for A4F_72388 during sleeping within a week and on which day did it occur, starting from 2022-06-14?", "Answer": "4.69 on 2022-06-16"}
+{"Query": "What was the lowest {deep_sleep_breathing_rate} recorded for A4F_48857 during sleeping within a week and on which day did it occur, starting from 2022-06-09?", "Answer": "12.6 on 2022-06-13"}
+{"Query": "What was the lowest {full_sleep_signal_to_noise} recorded for A4F_45118 during sleeping within a week and on which day did it occur, starting from 2022-05-24?", "Answer": "4.74 on 2022-05-26"}
+{"Query": "What was the lowest {light_sleep_standard_deviation} recorded for A4F_29474 during sleeping within a week and on which day did it occur, starting from 2022-06-14?", "Answer": "1.7 on 2022-06-14"}
+{"Query": "What was the lowest {light_sleep_breathing_rate} recorded for A4F_74720 during sleeping within a week and on which day did it occur, starting from 2022-06-12?", "Answer": "-1 on 2022-06-14"}
+{"Query": "What was the lowest {light_sleep_signal_to_noise} recorded for A4F_10141 during sleeping within a week and on which day did it occur, starting from 2022-06-14?", "Answer": "4.72 on 2022-06-20"}
+{"Query": "What was the lowest {full_sleep_signal_to_noise} recorded for A4F_71665 during sleeping within a week and on which day did it occur, starting from 2022-06-05?", "Answer": "2.93 on 2022-06-10"}
+{"Query": "What was the lowest {rem_sleep_standard_deviation} recorded for A4F_31033 during sleeping within a week and on which day did it occur, starting from 2022-06-15?", "Answer": "0.7 on 2022-06-17"}
+{"Query": "What was the lowest {light_sleep_signal_to_noise} recorded for A4F_65695 during sleeping within a week and on which day did it occur, starting from 2022-05-24?", "Answer": "3.16 on 2022-05-29"}
+{"Query": "What was the lowest {rem_sleep_breathing_rate} recorded for A4F_56718 during sleeping within a week and on which day did it occur, starting from 2022-05-23?", "Answer": "-1 on 2022-05-24"}
+{"Query": "What was the lowest {rem_sleep_breathing_rate} recorded for A4F_86472 during sleeping within a week and on which day did it occur, starting from 2022-06-11?", "Answer": "-1 on 2022-06-13"}
+{"Query": "What was the lowest {rem_sleep_breathing_rate} recorded for A4F_43794 during sleeping within a week and on which day did it occur, starting from 2022-06-01?", "Answer": "13.4 on 2022-06-05"}
+{"Query": "What was the lowest {full_sleep_signal_to_noise} recorded for A4F_48857 during sleeping within a week and on which day did it occur, starting from 2022-06-12?", "Answer": "4.53 on 2022-06-12"}
+{"Query": "What was the lowest {rem_sleep_standard_deviation} recorded for A4F_52749 during sleeping within a week and on which day did it occur, starting from 2022-06-08?", "Answer": "0.5 on 2022-06-09"}
+{"Query": "What was the lowest {rem_sleep_breathing_rate} recorded for A4F_10709 during sleeping within a week and on which day did it occur, starting from 2022-06-01?", "Answer": "12 on 2022-06-05"}
+{"Query": "What was the lowest {full_sleep_standard_deviation} recorded for A4F_52749 during sleeping within a week and on which day did it occur, starting from 2022-06-10?", "Answer": "1.2 on 2022-06-11"}
+{"Query": "What was the lowest {full_sleep_signal_to_noise} recorded for A4F_20573 during sleeping within a week and on which day did it occur, starting from 2022-06-02?", "Answer": "4.15 on 2022-06-08"}

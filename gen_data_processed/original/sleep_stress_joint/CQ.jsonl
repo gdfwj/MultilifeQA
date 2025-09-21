@@ -1,0 +1,540 @@
+{"Query": "How many days within one week did A4F_82994 have rmssd greater than 22.3 and stress_score/sleep_points lower than 8.86, starting from 2022-06-07?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_76957 spend more than 69.61 minutes_in_deep_sleep while also recording stress_score/sleep_points greater than 81.47, starting from 2022-05-20?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_77391 have minutes_in_rem less than 64.84 and stress_score/sleep_points higher than 75.83, starting from 2022-05-25?", "Answer": "2"}
+{"Query": "How many days within one week did A4F_10021 have nightly_temperature lower than 24.65 while also recording stress_score/sleep_points lower than 55.73, starting from 2022-06-11?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_96181 have rem_sleep_breathing_rate lower than 13.81 and stress_score/sleep_points higher than 75.85, starting from 2022-06-10?", "Answer": "2"}
+{"Query": "How many days within one week did A4F_79824 have rmssd greater than 34.39 and stress_score/sleep_points lower than 75.11, starting from 2022-06-12?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_79824 have nightly_temperature lower than 22.11 while also recording stress_score/sleep_points lower than 74.14, starting from 2022-06-13?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_17419 spend more than 74.86 minutes_in_deep_sleep while also recording stress_score/sleep_points greater than 74.24, starting from 2022-06-09?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_10021 have nrem_hr greater than 60.25 and responsiveness_points greater than 24.56, starting from 2022-06-08?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_40008 record upper_bound_oxygen_saturation greater than 41.54 and stress_score/sleep_points lower than 12.58, starting from 2022-06-04?", "Answer": "2"}
+{"Query": "How many days within one week did A4F_10021 record nrem_hr lower than 64.08, full_sleep_breathing_rate lower than 16, and stress_score/sleep_points lower than 50.77?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_24211 have rmssd greater than 23.31 and stress_score/sleep_points lower than 32.97, starting from 2022-06-04?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_39976 record full_sleep_breathing_rate greater than 15.42 while also recording exertion_points greater than 29.48, starting from 2022-06-07?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_98040 have lower_bound_oxygen_saturation less than 43.85 and responsiveness_points greater than 24.73, starting from 2022-06-07?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_92332 have deep_sleep_breathing_rate greater than 16.5 and stress_score/sleep_points higher than 82.03, starting from 2022-06-14?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_76957 have nightly_temperature higher than 34.16 and stress_score/sleep_points higher than 83.92, starting from 2022-05-23?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_49219 have rem_sleep_breathing_rate lower than 0 and stress_score/sleep_points higher than 76.41, starting from 2022-05-23?", "Answer": "3"}
+{"Query": "How many days within one week did A4F_45863 have rem_sleep_breathing_rate lower than 0.01 and stress_score/sleep_points higher than 71.23, starting from 2022-05-24?", "Answer": "4"}
+{"Query": "How many days within one week did A4F_86472 have minutes_in_rem less than 81.56 and stress_score/sleep_points higher than 75.8, starting from 2022-06-04?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_43794 have sleep_average_oxygen_saturation lower than 95.17 and stress_score/sleep_points higher than 78.96, starting from 2022-05-31?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_24211 have minutes_asleep greater than 332.29 and stress_score/sleep_points lower than 71.34, starting from 2022-06-09?", "Answer": "2"}
+{"Query": "How many days within one week did A4F_45863 have minutes_in_rem less than 38.32 and stress_score/sleep_points higher than 77.59, starting from 2022-05-28?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_40008 have nightly_temperature lower than 33.34 while also recording stress_score/sleep_points lower than 29.32, starting from 2022-06-04?", "Answer": "2"}
+{"Query": "How many days within one week did A4F_69129 record nrem_hr lower than 46.96, full_sleep_breathing_rate lower than 15.41, and stress_score/sleep_points lower than 35.15?", "Answer": "2"}
+{"Query": "How many days within one week did A4F_39976 have lower_bound_oxygen_saturation less than 89.6 and responsiveness_points greater than 14.51, starting from 2022-06-06?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_29474 have minutes_in_rem less than 30.6 and stress_score/sleep_points higher than 82.27, starting from 2022-06-13?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_98040 have minutes_asleep greater than 426.57 and stress_score/sleep_points lower than 76.35, starting from 2022-06-11?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_29474 have minutes_asleep greater than 482.43 and stress_score/sleep_points lower than 73.87, starting from 2022-06-06?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_76957 have sleep_average_oxygen_saturation lower than 38.85 and stress_score/sleep_points higher than 81.55, starting from 2022-05-18?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_27766 spend more than 74.27 minutes_in_deep_sleep while also recording stress_score/sleep_points greater than 76.81, starting from 2022-06-14?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_56297 have sleep_average_oxygen_saturation lower than 6.43 and stress_score/sleep_points higher than 88.24, starting from 2022-05-20?", "Answer": "3"}
+{"Query": "How many days within one week did A4F_39976 record nrem_hr lower than 56.87, full_sleep_breathing_rate lower than 15.34, and stress_score/sleep_points lower than 35.53?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_40008 have minutes_asleep greater than 384.29 and stress_score/sleep_points lower than 22.84, starting from 2022-06-04?", "Answer": "2"}
+{"Query": "How many days within one week did A4F_35752 have minutes_asleep greater than 378.43 and stress_score/sleep_points lower than 27, starting from 2022-06-11?", "Answer": "2"}
+{"Query": "How many days within one week did A4F_24211 record full_sleep_breathing_rate greater than 16.78 while also recording exertion_points greater than 35.06, starting from 2022-06-10?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_77391 have minutes_in_rem less than 83.75, lower_bound_oxygen_saturation less than 91.47, and stress_score/sleep_points higher than 75.89?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_79824 have nightly_temperature lower than 20.76 while also recording stress_score/sleep_points lower than 75.18, starting from 2022-06-14?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_70068 record nrem_hr lower than 47.4, full_sleep_breathing_rate lower than 16.3, and stress_score/sleep_points lower than 59.81?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_28771 spend more than 43.48 minutes_in_deep_sleep while also recording stress_score/sleep_points greater than 72.83, starting from 2022-06-08?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_40008 have sleep_average_oxygen_saturation lower than 3.89 and stress_score/sleep_points higher than 41.64, starting from 2022-06-02?", "Answer": "2"}
+{"Query": "How many days within one week did A4F_92332 have nightly_temperature higher than 33.18 and stress_score/sleep_points higher than 77.67, starting from 2022-06-03?", "Answer": "2"}
+{"Query": "How many days within one week did A4F_40008 have minutes_in_deep_sleep greater than 44.91, rmssd greater than 29.2, and stress_score/sleep_points lower than 12.34?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_65724 record nrem_hr lower than 65.19, full_sleep_breathing_rate lower than 0.01, and stress_score/sleep_points lower than 72.27?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_24211 have rem_sleep_breathing_rate lower than 14.13 and stress_score/sleep_points higher than 60.14, starting from 2022-06-03?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_39976 record full_sleep_breathing_rate greater than 16.57 while also recording exertion_points greater than 32.55, starting from 2022-06-14?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_49219 record baseline_relative_nightly_standard_deviation greater than 0.48 and stress_score/sleep_points higher than 81.18, starting from 2022-05-27?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_43794 record upper_bound_oxygen_saturation greater than 98.19 and stress_score/sleep_points lower than 77.03, starting from 2022-05-25?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_86472 have minutes_in_deep_sleep greater than 79.4, rmssd greater than 34.25, and stress_score/sleep_points lower than 73.48?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_89897 have rem_sleep_breathing_rate lower than 10.64 and stress_score/sleep_points higher than 67.24, starting from 2022-05-18?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_56297 have sleep_average_oxygen_saturation lower than 8.91 and stress_score/sleep_points higher than 87.13, starting from 2022-05-22?", "Answer": "3"}
+{"Query": "How many days within one week did A4F_56355 have nightly_temperature higher than 27.6 and stress_score/sleep_points higher than 84.14, starting from 2022-05-26?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_24211 record full_sleep_breathing_rate greater than 16.95 while also recording exertion_points greater than 35.51, starting from 2022-06-11?", "Answer": "2"}
+{"Query": "How many days within one week did A4F_56718 have nightly_temperature higher than 33.66 and stress_score/sleep_points higher than 80.73, starting from 2022-05-24?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_10021 have nightly_temperature lower than 12.5 while also recording stress_score/sleep_points lower than 45.94, starting from 2022-06-09?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_51606 have rem_sleep_breathing_rate lower than 15.23 and stress_score/sleep_points higher than 74.64, starting from 2022-05-19?", "Answer": "3"}
+{"Query": "How many days within one week did A4F_35752 have nightly_temperature lower than 24.45 while also recording stress_score/sleep_points lower than 39.87, starting from 2022-06-10?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_69129 have rem_sleep_breathing_rate lower than 18.1 and stress_score/sleep_points higher than 68.81, starting from 2022-05-17?", "Answer": "4"}
+{"Query": "How many days within one week did A4F_17419 have sleep_average_oxygen_saturation lower than 51.98 and stress_score/sleep_points higher than 69.69, starting from 2022-06-07?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_67598 record nrem_hr lower than 54.97, full_sleep_breathing_rate lower than 3.86, and stress_score/sleep_points lower than 60.08?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_79824 record baseline_relative_nightly_standard_deviation greater than 0.16 and stress_score/sleep_points higher than 65.85, starting from 2022-06-03?", "Answer": "2"}
+{"Query": "How many days within one week did A4F_67598 record nrem_hr lower than 56.66, full_sleep_breathing_rate lower than 0.01, and stress_score/sleep_points lower than 53.37?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_53145 have deep_sleep_breathing_rate greater than 8.21 and stress_score/sleep_points higher than 83.6, starting from 2022-05-27?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_22119 spend more than 51.55 minutes_in_deep_sleep while also recording stress_score/sleep_points greater than 22.46, starting from 2022-05-27?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_35752 have nightly_temperature higher than 29.73 and stress_score/sleep_points higher than 45.63, starting from 2022-06-08?", "Answer": "3"}
+{"Query": "How many days within one week did A4F_65724 have lower_bound_oxygen_saturation less than 91.61 and responsiveness_points greater than 27.01, starting from 2022-05-30?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_18098 have nightly_temperature lower than 12.62 while also recording stress_score/sleep_points lower than 43.16, starting from 2022-06-15?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_31033 have nightly_temperature lower than 19.67 while also recording stress_score/sleep_points lower than 2.44, starting from 2022-06-08?", "Answer": "2"}
+{"Query": "How many days within one week did A4F_49219 have rem_sleep_breathing_rate lower than 0.01 and stress_score/sleep_points higher than 81.97, starting from 2022-05-22?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_89897 have rem_sleep_breathing_rate lower than 11.92 and stress_score/sleep_points higher than 63.93, starting from 2022-05-20?", "Answer": "2"}
+{"Query": "How many days within one week did A4F_92332 record full_sleep_breathing_rate greater than 16.27 while also recording exertion_points greater than 32.35, starting from 2022-06-09?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_98040 record baseline_relative_nightly_standard_deviation greater than 0.53 and stress_score/sleep_points higher than 81.15, starting from 2022-06-09?", "Answer": "3"}
+{"Query": "How many days within one week did A4F_56718 record nrem_hr lower than 69.7, full_sleep_breathing_rate lower than 16.55, and stress_score/sleep_points lower than 46.92?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_24211 record nrem_hr lower than 55.1, full_sleep_breathing_rate lower than 16.99, and stress_score/sleep_points lower than 72.76?", "Answer": "2"}
+{"Query": "How many days within one week did A4F_10021 spend more than 71.11 minutes_in_deep_sleep while also recording stress_score/sleep_points greater than 84.32, starting from 2022-06-11?", "Answer": "2"}
+{"Query": "How many days within one week did A4F_22119 spend more than 46.87 minutes_in_deep_sleep while also recording stress_score/sleep_points greater than 32.23, starting from 2022-05-27?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_92332 record full_sleep_breathing_rate greater than 16.5 while also recording exertion_points greater than 32.92, starting from 2022-06-14?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_65724 record nrem_hr lower than 65.76, full_sleep_breathing_rate lower than 0.01, and stress_score/sleep_points lower than 35.75?", "Answer": "2"}
+{"Query": "How many days within one week did A4F_43794 have minutes_asleep greater than 476.86 and stress_score/sleep_points lower than 74.87, starting from 2022-05-26?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_92332 have minutes_asleep greater than 432.86 and stress_score/sleep_points lower than 76.78, starting from 2022-06-17?", "Answer": "2"}
+{"Query": "How many days within one week did A4F_92332 have rem_sleep_breathing_rate lower than 12.92 and stress_score/sleep_points higher than 82.36, starting from 2022-06-03?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_39976 have rem_sleep_breathing_rate lower than 16.05 and stress_score/sleep_points higher than 80.01, starting from 2022-06-09?", "Answer": "2"}
+{"Query": "How many days within one week did A4F_24211 have rem_sleep_breathing_rate lower than 16.54 and stress_score/sleep_points higher than 76.19, starting from 2022-06-10?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_49219 have rmssd greater than 97.75 and stress_score/sleep_points lower than 28.47, starting from 2022-05-18?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_56355 spend more than 56.7 minutes_in_deep_sleep while also recording stress_score/sleep_points greater than 35.83, starting from 2022-05-22?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_24211 have sleep_average_oxygen_saturation lower than 93.57 and stress_score/sleep_points higher than 76.35, starting from 2022-06-11?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_77391 have minutes_in_rem less than 91.81 and stress_score/sleep_points higher than 73.1, starting from 2022-05-21?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_70068 have rem_sleep_breathing_rate lower than 17.25 and stress_score/sleep_points higher than 88.42, starting from 2022-05-25?", "Answer": "2"}
+{"Query": "How many days within one week did A4F_31033 have minutes_in_rem less than 114.3 and stress_score/sleep_points higher than 73.43, starting from 2022-06-13?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_79824 record baseline_relative_nightly_standard_deviation greater than 0.29 and stress_score/sleep_points higher than 75.45, starting from 2022-06-06?", "Answer": "2"}
+{"Query": "How many days within one week did A4F_89897 have nightly_temperature lower than 21.36 while also recording stress_score/sleep_points lower than 43.85, starting from 2022-05-21?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_92332 record entropy lower than 2.11 and stress_score/sleep_points higher than 80.87, starting from 2022-06-14?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_45863 spend more than 48 minutes_in_deep_sleep while also recording stress_score/sleep_points greater than 57.57, starting from 2022-05-26?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_96181 have nrem_hr greater than 74.97 and responsiveness_points greater than 22.89, starting from 2022-06-02?", "Answer": "2"}
+{"Query": "How many days within one week did A4F_24211 have minutes_in_deep_sleep greater than 72.29, rmssd greater than 20.47, and stress_score/sleep_points lower than 72.3?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_17419 record full_sleep_breathing_rate greater than 19.9 while also recording exertion_points greater than 39.8, starting from 2022-06-11?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_67598 have nightly_temperature lower than 8.54 while also recording stress_score/sleep_points lower than 48.24, starting from 2022-05-27?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_17419 have nrem_hr greater than 54.7 and responsiveness_points greater than 19.43, starting from 2022-06-14?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_97618 record nrem_hr lower than 68.31, full_sleep_breathing_rate lower than 16.78, and stress_score/sleep_points lower than 84.32?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_82994 have sleep_average_oxygen_saturation lower than 92.48 and stress_score/sleep_points higher than 83.57, starting from 2022-06-15?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_82994 record baseline_relative_nightly_standard_deviation greater than 0.44 and stress_score/sleep_points higher than 83.91, starting from 2022-06-13?", "Answer": "2"}
+{"Query": "How many days within one week did A4F_96181 record baseline_relative_nightly_standard_deviation greater than 0.27 and stress_score/sleep_points higher than 66.97, starting from 2022-06-06?", "Answer": "3"}
+{"Query": "How many days within one week did A4F_39976 spend more than 77.57 minutes_in_deep_sleep while also recording stress_score/sleep_points greater than 85.96, starting from 2022-06-11?", "Answer": "2"}
+{"Query": "How many days within one week did A4F_35752 record nrem_hr lower than 70.04, full_sleep_breathing_rate lower than 18.43, and stress_score/sleep_points lower than 35.65?", "Answer": "2"}
+{"Query": "How many days within one week did A4F_24211 have minutes_in_rem less than 48.49, lower_bound_oxygen_saturation less than 91.17, and stress_score/sleep_points higher than 67.91?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_35752 have minutes_in_rem less than 19.16, lower_bound_oxygen_saturation less than 26.71, and stress_score/sleep_points higher than 67.87?", "Answer": "2"}
+{"Query": "How many days within one week did A4F_94336 have lower_bound_oxygen_saturation less than 21.92 and responsiveness_points greater than 24.69, starting from 2022-05-23?", "Answer": "2"}
+{"Query": "How many days within one week did A4F_86472 record entropy lower than 2.47 and stress_score/sleep_points higher than 73.94, starting from 2022-06-13?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_77391 have minutes_in_deep_sleep greater than 76.69, rmssd greater than 40.63, and stress_score/sleep_points lower than 72.58?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_97618 record nrem_hr lower than 63.68, full_sleep_breathing_rate lower than 16.6, and stress_score/sleep_points lower than 82.22?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_67757 have minutes_in_rem less than 42.45 and stress_score/sleep_points higher than 77.41, starting from 2022-06-08?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_68106 spend more than 59.61 minutes_in_deep_sleep while also recording stress_score/sleep_points greater than 81.07, starting from 2022-05-23?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_69129 have nrem_hr greater than 42.6 and responsiveness_points greater than 26.41, starting from 2022-05-17?", "Answer": "2"}
+{"Query": "How many days within one week did A4F_82994 record full_sleep_breathing_rate greater than 16.59 while also recording exertion_points greater than 22.23, starting from 2022-06-08?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_67757 record upper_bound_oxygen_saturation greater than 95.77 and stress_score/sleep_points lower than 73.82, starting from 2022-06-14?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_18098 have minutes_asleep greater than 322 and stress_score/sleep_points lower than 56.55, starting from 2022-06-09?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_86472 have minutes_asleep greater than 355.57 and stress_score/sleep_points lower than 72.29, starting from 2022-06-15?", "Answer": "2"}
+{"Query": "How many days within one week did A4F_82994 have rmssd greater than 22.26 and stress_score/sleep_points lower than 13.75, starting from 2022-06-08?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_18098 record full_sleep_breathing_rate greater than 14.08 while also recording exertion_points greater than 30.52, starting from 2022-06-04?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_27766 record nrem_hr lower than 54.26, full_sleep_breathing_rate lower than 16.9, and stress_score/sleep_points lower than 76.07?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_29474 have minutes_asleep greater than 358.57 and stress_score/sleep_points lower than 78.06, starting from 2022-06-14?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_24211 have deep_sleep_breathing_rate greater than 16.8 and stress_score/sleep_points higher than 77.1, starting from 2022-06-11?", "Answer": "2"}
+{"Query": "How many days within one week did A4F_40008 have nightly_temperature higher than 32.15 and stress_score/sleep_points higher than 33.1, starting from 2022-06-02?", "Answer": "2"}
+{"Query": "How many days within one week did A4F_68106 record upper_bound_oxygen_saturation greater than 97.55 and stress_score/sleep_points lower than 75.8, starting from 2022-05-21?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_98040 have nrem_hr greater than 58.05 and responsiveness_points greater than 25.93, starting from 2022-06-07?", "Answer": "5"}
+{"Query": "How many days within one week did A4F_68106 have deep_sleep_breathing_rate greater than 14.86 and stress_score/sleep_points higher than 85.53, starting from 2022-05-19?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_86472 have lower_bound_oxygen_saturation less than 56.96 and responsiveness_points greater than 25.47, starting from 2022-06-06?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_17419 record baseline_relative_nightly_standard_deviation greater than 0.45 and stress_score/sleep_points higher than 77.67, starting from 2022-06-14?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_73455 have deep_sleep_breathing_rate greater than 14.18 and stress_score/sleep_points higher than 44.23, starting from 2022-05-29?", "Answer": "2"}
+{"Query": "How many days within one week did A4F_98040 spend more than 85.46 minutes_in_deep_sleep while also recording stress_score/sleep_points greater than 82.78, starting from 2022-06-07?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_27766 have nightly_temperature lower than 12.78 while also recording stress_score/sleep_points lower than 27.87, starting from 2022-06-06?", "Answer": "2"}
+{"Query": "How many days within one week did A4F_67757 have deep_sleep_breathing_rate greater than 16.31 and stress_score/sleep_points higher than 73.72, starting from 2022-06-02?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_89897 have deep_sleep_breathing_rate greater than 15.4 and stress_score/sleep_points higher than 67.6, starting from 2022-05-19?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_94336 record upper_bound_oxygen_saturation greater than 70.3 and stress_score/sleep_points lower than 71.07, starting from 2022-05-24?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_56297 record nrem_hr lower than 67.47, full_sleep_breathing_rate lower than 0.01, and stress_score/sleep_points lower than 83.09?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_96181 record baseline_relative_nightly_standard_deviation greater than 0.29 and stress_score/sleep_points higher than 63.47, starting from 2022-06-04?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_69129 spend more than 83.81 minutes_in_deep_sleep while also recording stress_score/sleep_points greater than 63.84, starting from 2022-05-17?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_96181 have minutes_asleep greater than 324 and stress_score/sleep_points lower than 41.93, starting from 2022-06-08?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_97618 have sleep_average_oxygen_saturation lower than 93.63 and stress_score/sleep_points higher than 86.64, starting from 2022-06-09?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_67757 have lower_bound_oxygen_saturation less than 90.14 and responsiveness_points greater than 21.86, starting from 2022-06-05?", "Answer": "2"}
+{"Query": "How many days within one week did A4F_56355 have nrem_hr greater than 69.07 and responsiveness_points greater than 19.59, starting from 2022-05-24?", "Answer": "2"}
+{"Query": "How many days within one week did A4F_56297 have minutes_in_rem less than 62.06, lower_bound_oxygen_saturation less than 19.47, and stress_score/sleep_points higher than 88.69?", "Answer": "2"}
+{"Query": "How many days within one week did A4F_49219 have minutes_asleep greater than 380 and stress_score/sleep_points lower than 51.86, starting from 2022-05-19?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_70068 have minutes_in_rem less than 96.88 and stress_score/sleep_points higher than 85.29, starting from 2022-05-24?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_70068 have minutes_in_rem less than 85.91 and stress_score/sleep_points higher than 69.78, starting from 2022-05-21?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_45863 record nrem_hr lower than 57.95, full_sleep_breathing_rate lower than 0.01, and stress_score/sleep_points lower than 44.56?", "Answer": "2"}
+{"Query": "How many days within one week did A4F_31033 record upper_bound_oxygen_saturation greater than 96.45 and stress_score/sleep_points lower than 24.59, starting from 2022-06-10?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_89897 record baseline_relative_nightly_standard_deviation greater than 0.54 and stress_score/sleep_points higher than 65.34, starting from 2022-05-24?", "Answer": "2"}
+{"Query": "How many days within one week did A4F_92332 have lower_bound_oxygen_saturation less than 93.27 and responsiveness_points greater than 25.19, starting from 2022-06-08?", "Answer": "2"}
+{"Query": "How many days within one week did A4F_67598 have nightly_temperature lower than 17.91 while also recording stress_score/sleep_points lower than 48.55, starting from 2022-05-24?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_96181 record upper_bound_oxygen_saturation greater than 88.64 and stress_score/sleep_points lower than 32.26, starting from 2022-06-06?", "Answer": "2"}
+{"Query": "How many days within one week did A4F_94336 have rem_sleep_breathing_rate lower than 5.73 and stress_score/sleep_points higher than 77.1, starting from 2022-05-28?", "Answer": "2"}
+{"Query": "How many days within one week did A4F_29474 have sleep_average_oxygen_saturation lower than 43.23 and stress_score/sleep_points higher than 82.61, starting from 2022-06-13?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_56355 have minutes_in_rem less than 44.93 and stress_score/sleep_points higher than 46.35, starting from 2022-05-22?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_86472 record nrem_hr lower than 59.08, full_sleep_breathing_rate lower than 15.08, and stress_score/sleep_points lower than 42.01?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_28771 spend more than 50.3 minutes_in_deep_sleep while also recording stress_score/sleep_points greater than 76.92, starting from 2022-06-07?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_97618 have deep_sleep_breathing_rate greater than 16.82 and stress_score/sleep_points higher than 86.44, starting from 2022-06-15?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_70068 have minutes_in_rem less than 96.85 and stress_score/sleep_points higher than 67.99, starting from 2022-05-22?", "Answer": "2"}
+{"Query": "How many days within one week did A4F_96181 have rem_sleep_breathing_rate lower than 11.97 and stress_score/sleep_points higher than 62.56, starting from 2022-06-03?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_17419 have sleep_average_oxygen_saturation lower than 34.38 and stress_score/sleep_points higher than 77.08, starting from 2022-06-13?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_31033 have nightly_temperature lower than 33.96 while also recording stress_score/sleep_points lower than 35.26, starting from 2022-06-12?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_17419 have rem_sleep_breathing_rate lower than 4.39 and stress_score/sleep_points higher than 74.48, starting from 2022-06-10?", "Answer": "2"}
+{"Query": "How many days within one week did A4F_97618 have nightly_temperature higher than 29.22 and stress_score/sleep_points higher than 85.82, starting from 2022-06-15?", "Answer": "3"}
+{"Query": "How many days within one week did A4F_53145 have deep_sleep_breathing_rate greater than 8.21 and stress_score/sleep_points higher than 83.54, starting from 2022-05-27?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_56297 have sleep_average_oxygen_saturation lower than 10.93 and stress_score/sleep_points higher than 86.75, starting from 2022-05-21?", "Answer": "3"}
+{"Query": "How many days within one week did A4F_45863 have rmssd greater than 64.57 and stress_score/sleep_points lower than 15.52, starting from 2022-05-25?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_17419 have nrem_hr greater than 57.77 and responsiveness_points greater than 18.85, starting from 2022-06-10?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_40008 have rem_sleep_breathing_rate lower than 15.24 and stress_score/sleep_points higher than 70.55, starting from 2022-06-10?", "Answer": "2"}
+{"Query": "How many days within one week did A4F_89897 have deep_sleep_breathing_rate greater than 15.38 and stress_score/sleep_points higher than 68.05, starting from 2022-05-19?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_31033 have lower_bound_oxygen_saturation less than 89.21 and responsiveness_points greater than 18.55, starting from 2022-06-09?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_56297 record upper_bound_oxygen_saturation greater than 60.47 and stress_score/sleep_points lower than 83.31, starting from 2022-05-22?", "Answer": "3"}
+{"Query": "How many days within one week did A4F_86472 have nightly_temperature lower than 14.73 while also recording stress_score/sleep_points lower than 25.77, starting from 2022-06-03?", "Answer": "2"}
+{"Query": "How many days within one week did A4F_77391 have rem_sleep_breathing_rate lower than 3.41 and stress_score/sleep_points higher than 76.02, starting from 2022-05-26?", "Answer": "2"}
+{"Query": "How many days within one week did A4F_82994 record baseline_relative_nightly_standard_deviation greater than 0.48 and stress_score/sleep_points higher than 81.3, starting from 2022-06-12?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_49219 record baseline_relative_nightly_standard_deviation greater than 0.43 and stress_score/sleep_points higher than 80.25, starting from 2022-05-25?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_35752 have sleep_average_oxygen_saturation lower than 7.84 and stress_score/sleep_points higher than 38.9, starting from 2022-06-04?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_65724 have minutes_asleep greater than 380.86 and stress_score/sleep_points lower than 73.78, starting from 2022-06-01?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_71665 have minutes_asleep greater than 472.86 and stress_score/sleep_points lower than 71.19, starting from 2022-06-12?", "Answer": "2"}
+{"Query": "How many days within one week did A4F_35752 record baseline_relative_nightly_standard_deviation greater than 0.39 and stress_score/sleep_points higher than 66.79, starting from 2022-06-13?", "Answer": "4"}
+{"Query": "How many days within one week did A4F_96181 record baseline_relative_nightly_standard_deviation greater than 0.29 and stress_score/sleep_points higher than 66.42, starting from 2022-06-02?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_51606 record baseline_relative_nightly_standard_deviation greater than 0.29 and stress_score/sleep_points higher than 76.49, starting from 2022-05-18?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_69129 have nightly_temperature lower than 4.89 while also recording stress_score/sleep_points lower than 34.43, starting from 2022-05-17?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_24211 have sleep_average_oxygen_saturation lower than 93.61 and stress_score/sleep_points higher than 78.46, starting from 2022-06-05?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_71665 have minutes_asleep greater than 424.71 and stress_score/sleep_points lower than 69.59, starting from 2022-06-09?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_82994 record nrem_hr lower than 63.8, full_sleep_breathing_rate lower than 16.33, and stress_score/sleep_points lower than 79.98?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_77391 have rmssd greater than 34.96 and stress_score/sleep_points lower than 70.77, starting from 2022-05-31?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_17419 record upper_bound_oxygen_saturation greater than 92.58 and stress_score/sleep_points lower than 30.88, starting from 2022-06-07?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_76957 have nightly_temperature higher than 34.25 and stress_score/sleep_points higher than 82.26, starting from 2022-05-25?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_96181 have rem_sleep_breathing_rate lower than 14.59 and stress_score/sleep_points higher than 80.21, starting from 2022-06-09?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_77391 record full_sleep_breathing_rate greater than 13.47 while also recording exertion_points greater than 26.84, starting from 2022-05-31?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_86472 have lower_bound_oxygen_saturation less than 91.09 and responsiveness_points greater than 25.45, starting from 2022-06-10?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_71665 record upper_bound_oxygen_saturation greater than 94.77 and stress_score/sleep_points lower than 72.27, starting from 2022-06-15?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_92332 record full_sleep_breathing_rate greater than 16.38 while also recording exertion_points greater than 32.39, starting from 2022-06-11?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_76957 have lower_bound_oxygen_saturation less than 53.12 and responsiveness_points greater than 24.97, starting from 2022-05-21?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_35752 record nrem_hr lower than 67.06, full_sleep_breathing_rate lower than 13.09, and stress_score/sleep_points lower than 6.65?", "Answer": "3"}
+{"Query": "How many days within one week did A4F_17419 record upper_bound_oxygen_saturation greater than 95.58 and stress_score/sleep_points lower than 74.67, starting from 2022-06-14?", "Answer": "3"}
+{"Query": "How many days within one week did A4F_31033 record upper_bound_oxygen_saturation greater than 96.5 and stress_score/sleep_points lower than 33.59, starting from 2022-06-13?", "Answer": "2"}
+{"Query": "How many days within one week did A4F_92332 have rem_sleep_breathing_rate lower than 11.68 and stress_score/sleep_points higher than 82.34, starting from 2022-06-15?", "Answer": "2"}
+{"Query": "How many days within one week did A4F_97618 have lower_bound_oxygen_saturation less than 90.33 and responsiveness_points greater than 24.65, starting from 2022-06-14?", "Answer": "2"}
+{"Query": "How many days within one week did A4F_98040 have lower_bound_oxygen_saturation less than 64.71 and responsiveness_points greater than 27.91, starting from 2022-06-09?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_24211 record full_sleep_breathing_rate greater than 18.14 while also recording exertion_points greater than 25.7, starting from 2022-06-02?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_96181 have lower_bound_oxygen_saturation less than 5.21 and responsiveness_points greater than 21.12, starting from 2022-06-07?", "Answer": "3"}
+{"Query": "How many days within one week did A4F_97618 have sleep_average_oxygen_saturation lower than 93.46 and stress_score/sleep_points higher than 85.25, starting from 2022-06-13?", "Answer": "2"}
+{"Query": "How many days within one week did A4F_31033 have deep_sleep_breathing_rate greater than 13.83 and stress_score/sleep_points higher than 86.31, starting from 2022-06-16?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_86472 record full_sleep_breathing_rate greater than 14.52 while also recording exertion_points greater than 26.44, starting from 2022-06-12?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_29474 have nightly_temperature higher than 33.18 and stress_score/sleep_points higher than 82.92, starting from 2022-06-13?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_77391 spend more than 87.88 minutes_in_deep_sleep while also recording stress_score/sleep_points greater than 78.09, starting from 2022-05-22?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_17419 record full_sleep_breathing_rate greater than 17.49 while also recording exertion_points greater than 38.91, starting from 2022-06-10?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_92332 have minutes_in_rem less than 85.23 and stress_score/sleep_points higher than 82.52, starting from 2022-06-12?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_18098 have sleep_average_oxygen_saturation lower than 38.47 and stress_score/sleep_points higher than 73.53, starting from 2022-06-13?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_67598 record baseline_relative_nightly_standard_deviation greater than 0.77 and stress_score/sleep_points higher than 88.69, starting from 2022-05-21?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_86472 have rem_sleep_breathing_rate lower than 14.79 and stress_score/sleep_points higher than 75.09, starting from 2022-06-10?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_77391 have nrem_hr greater than 60.3 and responsiveness_points greater than 24.78, starting from 2022-05-25?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_28771 have nightly_temperature lower than 14.26 while also recording stress_score/sleep_points lower than 37.42, starting from 2022-06-01?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_45863 have deep_sleep_breathing_rate greater than 3.92 and stress_score/sleep_points higher than 58.37, starting from 2022-05-26?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_76957 record full_sleep_breathing_rate greater than 20.2 while also recording exertion_points greater than 36.92, starting from 2022-05-23?", "Answer": "2"}
+{"Query": "How many days within one week did A4F_67757 record nrem_hr lower than 53.82, full_sleep_breathing_rate lower than 16.7, and stress_score/sleep_points lower than 73.48?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_79824 have rmssd greater than 33.69 and stress_score/sleep_points lower than 74.23, starting from 2022-06-12?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_69129 spend more than 91.27 minutes_in_deep_sleep while also recording stress_score/sleep_points greater than 62.85, starting from 2022-05-17?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_49219 have nightly_temperature lower than 11.14 while also recording stress_score/sleep_points lower than 41.33, starting from 2022-05-18?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_76957 have deep_sleep_breathing_rate greater than 20.29 and stress_score/sleep_points higher than 82.55, starting from 2022-05-22?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_18098 spend more than 65.2 minutes_in_deep_sleep while also recording stress_score/sleep_points greater than 74.21, starting from 2022-06-09?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_67598 have rem_sleep_breathing_rate lower than 4.23 and stress_score/sleep_points higher than 83.17, starting from 2022-05-26?", "Answer": "2"}
+{"Query": "How many days within one week did A4F_98040 have nightly_temperature higher than 30.33 and stress_score/sleep_points higher than 72.39, starting from 2022-06-07?", "Answer": "4"}
+{"Query": "How many days within one week did A4F_92332 have nightly_temperature lower than 10.14 while also recording stress_score/sleep_points lower than 29.14, starting from 2022-06-03?", "Answer": "2"}
+{"Query": "How many days within one week did A4F_45863 have deep_sleep_breathing_rate greater than 4.51 and stress_score/sleep_points higher than 62.03, starting from 2022-05-26?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_82994 record entropy lower than 2.23 and stress_score/sleep_points higher than 85.15, starting from 2022-06-15?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_96181 record nrem_hr lower than 77.94, full_sleep_breathing_rate lower than 13.87, and stress_score/sleep_points lower than 39.16?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_29474 have minutes_asleep greater than 421.57 and stress_score/sleep_points lower than 78.08, starting from 2022-06-08?", "Answer": "2"}
+{"Query": "How many days within one week did A4F_22119 have rmssd greater than 50.51 and stress_score/sleep_points lower than 3.47, starting from 2022-05-27?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_86472 spend more than 76.51 minutes_in_deep_sleep while also recording stress_score/sleep_points greater than 75.71, starting from 2022-06-12?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_82994 have nightly_temperature lower than 34.15 while also recording stress_score/sleep_points lower than 79.31, starting from 2022-06-15?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_27766 record full_sleep_breathing_rate greater than 17.28 while also recording exertion_points greater than 26.81, starting from 2022-06-12?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_67757 record nrem_hr lower than 56.79, full_sleep_breathing_rate lower than 16.11, and stress_score/sleep_points lower than 27.78?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_29474 record full_sleep_breathing_rate greater than 14.2 while also recording exertion_points greater than 36.51, starting from 2022-06-08?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_89897 record full_sleep_breathing_rate greater than 14.71 while also recording exertion_points greater than 27.16, starting from 2022-05-24?", "Answer": "4"}
+{"Query": "How many days within one week did A4F_51606 have nrem_hr greater than 55.6 and responsiveness_points greater than 28.26, starting from 2022-05-23?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_69129 record nrem_hr lower than 51.42, full_sleep_breathing_rate lower than 16.28, and stress_score/sleep_points lower than 42.81?", "Answer": "2"}
+{"Query": "How many days within one week did A4F_76957 have minutes_asleep greater than 350.29 and stress_score/sleep_points lower than 58.37, starting from 2022-05-18?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_29474 have minutes_in_rem less than 61.49 and stress_score/sleep_points higher than 83.3, starting from 2022-06-08?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_51606 record entropy lower than 2.27 and stress_score/sleep_points higher than 76.7, starting from 2022-05-21?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_10021 have nightly_temperature lower than 16.07 while also recording stress_score/sleep_points lower than 57.28, starting from 2022-06-09?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_97618 have minutes_in_rem less than 44.21 and stress_score/sleep_points higher than 86.23, starting from 2022-06-10?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_45863 record nrem_hr lower than 60.9, full_sleep_breathing_rate lower than 0.01, and stress_score/sleep_points lower than 41.33?", "Answer": "2"}
+{"Query": "How many days within one week did A4F_49219 have lower_bound_oxygen_saturation less than 20.85 and responsiveness_points greater than 28.65, starting from 2022-05-21?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_45863 record full_sleep_breathing_rate greater than 8.56 while also recording exertion_points greater than 33.5, starting from 2022-05-28?", "Answer": "3"}
+{"Query": "How many days within one week did A4F_17419 have nightly_temperature higher than 30.57 and stress_score/sleep_points higher than 74.73, starting from 2022-06-10?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_56297 have minutes_in_deep_sleep greater than 137.61, rmssd greater than 41.28, and stress_score/sleep_points lower than 83.26?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_39976 have nightly_temperature lower than 33.82 while also recording stress_score/sleep_points lower than 34.85, starting from 2022-06-07?", "Answer": "2"}
+{"Query": "How many days within one week did A4F_73455 spend more than 63.02 minutes_in_deep_sleep while also recording stress_score/sleep_points greater than 55.11, starting from 2022-05-30?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_77391 have rmssd greater than 38.03 and stress_score/sleep_points lower than 73.68, starting from 2022-05-22?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_18098 record full_sleep_breathing_rate greater than 12.89 while also recording exertion_points greater than 37.52, starting from 2022-06-12?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_86472 record full_sleep_breathing_rate greater than 15.12 while also recording exertion_points greater than 22.55, starting from 2022-06-03?", "Answer": "2"}
+{"Query": "How many days within one week did A4F_97618 have minutes_in_rem less than 80.47, lower_bound_oxygen_saturation less than 90.56, and stress_score/sleep_points higher than 84.64?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_49219 have nightly_temperature higher than 31.83 and stress_score/sleep_points higher than 78, starting from 2022-05-24?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_24211 have lower_bound_oxygen_saturation less than 91.08 and responsiveness_points greater than 20.51, starting from 2022-06-10?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_86472 have lower_bound_oxygen_saturation less than 52.3 and responsiveness_points greater than 20.59, starting from 2022-06-04?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_31033 record nrem_hr lower than 65.02, full_sleep_breathing_rate lower than 15.06, and stress_score/sleep_points lower than 24.58?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_67598 record baseline_relative_nightly_standard_deviation greater than 0.63 and stress_score/sleep_points higher than 87.69, starting from 2022-05-23?", "Answer": "3"}
+{"Query": "How many days within one week did A4F_39976 have deep_sleep_breathing_rate greater than 15.93 and stress_score/sleep_points higher than 78.52, starting from 2022-06-09?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_92332 have minutes_in_rem less than 89.65 and stress_score/sleep_points higher than 82.65, starting from 2022-06-08?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_24211 have minutes_asleep greater than 355 and stress_score/sleep_points lower than 71.99, starting from 2022-06-06?", "Answer": "3"}
+{"Query": "How many days within one week did A4F_56718 have rem_sleep_breathing_rate lower than 13.42 and stress_score/sleep_points higher than 78.6, starting from 2022-05-21?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_68106 record upper_bound_oxygen_saturation greater than 97.5 and stress_score/sleep_points lower than 77.72, starting from 2022-05-20?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_39976 record upper_bound_oxygen_saturation greater than 96.49 and stress_score/sleep_points lower than 2.65, starting from 2022-06-04?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_98040 have rem_sleep_breathing_rate lower than 14.52 and stress_score/sleep_points higher than 80.75, starting from 2022-06-10?", "Answer": "3"}
+{"Query": "How many days within one week did A4F_43794 spend more than 93.04 minutes_in_deep_sleep while also recording stress_score/sleep_points greater than 83.29, starting from 2022-05-26?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_96181 have rmssd greater than 12.41 and stress_score/sleep_points lower than 72.06, starting from 2022-06-11?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_35752 record full_sleep_breathing_rate greater than 14.39 while also recording exertion_points greater than 13.48, starting from 2022-06-04?", "Answer": "3"}
+{"Query": "How many days within one week did A4F_17419 have rem_sleep_breathing_rate lower than 4.33 and stress_score/sleep_points higher than 74.18, starting from 2022-06-10?", "Answer": "2"}
+{"Query": "How many days within one week did A4F_96181 have minutes_asleep greater than 414.43 and stress_score/sleep_points lower than 37.54, starting from 2022-06-03?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_92332 have deep_sleep_breathing_rate greater than 16.3 and stress_score/sleep_points higher than 83.82, starting from 2022-06-11?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_24211 record upper_bound_oxygen_saturation greater than 97.3 and stress_score/sleep_points lower than 72.1, starting from 2022-06-06?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_94336 have lower_bound_oxygen_saturation less than 3.13 and responsiveness_points greater than 24.52, starting from 2022-05-27?", "Answer": "3"}
+{"Query": "How many days within one week did A4F_70068 record nrem_hr lower than 49.01, full_sleep_breathing_rate lower than 16.39, and stress_score/sleep_points lower than 80.31?", "Answer": "2"}
+{"Query": "How many days within one week did A4F_53145 record entropy lower than 3.17 and stress_score/sleep_points higher than 72.25, starting from 2022-05-21?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_45863 have nrem_hr greater than 57.88 and responsiveness_points greater than 19.93, starting from 2022-05-24?", "Answer": "3"}
+{"Query": "How many days within one week did A4F_79824 have rem_sleep_breathing_rate lower than 12.8 and stress_score/sleep_points higher than 78.84, starting from 2022-06-16?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_18098 have sleep_average_oxygen_saturation lower than 94.49 and stress_score/sleep_points higher than 76.27, starting from 2022-06-06?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_45863 have nightly_temperature lower than 13.01 while also recording stress_score/sleep_points lower than 62.3, starting from 2022-05-22?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_43794 have rmssd greater than 18.59 and stress_score/sleep_points lower than 77.39, starting from 2022-05-26?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_45863 have minutes_asleep greater than 277.71 and stress_score/sleep_points lower than 35.48, starting from 2022-05-24?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_92332 have minutes_in_rem less than 91.46 and stress_score/sleep_points higher than 81.45, starting from 2022-06-08?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_56355 record nrem_hr lower than 71.75, full_sleep_breathing_rate lower than 0.01, and stress_score/sleep_points lower than 32.35?", "Answer": "2"}
+{"Query": "How many days within one week did A4F_56718 record baseline_relative_nightly_standard_deviation greater than 0.53 and stress_score/sleep_points higher than 89.87, starting from 2022-05-20?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_53145 have nightly_temperature lower than 19.04 while also recording stress_score/sleep_points lower than 38.84, starting from 2022-05-21?", "Answer": "2"}
+{"Query": "How many days within one week did A4F_98040 have deep_sleep_breathing_rate greater than 14.48 and stress_score/sleep_points higher than 78.84, starting from 2022-06-08?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_56718 have minutes_in_rem less than 25.36 and stress_score/sleep_points higher than 72.65, starting from 2022-05-25?", "Answer": "2"}
+{"Query": "How many days within one week did A4F_67757 record upper_bound_oxygen_saturation greater than 96.74 and stress_score/sleep_points lower than 74.41, starting from 2022-06-09?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_56297 have rmssd greater than 53.61 and stress_score/sleep_points lower than 84.5, starting from 2022-05-26?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_29474 record baseline_relative_nightly_standard_deviation greater than 0.21 and stress_score/sleep_points higher than 65.49, starting from 2022-06-02?", "Answer": "4"}
+{"Query": "How many days within one week did A4F_97618 have minutes_in_rem less than 28.39 and stress_score/sleep_points higher than 86.35, starting from 2022-06-10?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_53145 have sleep_average_oxygen_saturation lower than 95.78 and stress_score/sleep_points higher than 83.26, starting from 2022-05-24?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_67757 have nightly_temperature lower than 19.23 while also recording stress_score/sleep_points lower than 44.88, starting from 2022-06-02?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_53145 record upper_bound_oxygen_saturation greater than 98.84 and stress_score/sleep_points lower than 38.6, starting from 2022-05-21?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_24211 spend more than 71.81 minutes_in_deep_sleep while also recording stress_score/sleep_points greater than 75.55, starting from 2022-06-10?", "Answer": "2"}
+{"Query": "How many days within one week did A4F_51606 have nightly_temperature higher than 31.88 and stress_score/sleep_points higher than 78.73, starting from 2022-05-24?", "Answer": "2"}
+{"Query": "How many days within one week did A4F_56355 spend more than 70.79 minutes_in_deep_sleep while also recording stress_score/sleep_points greater than 49.79, starting from 2022-05-23?", "Answer": "2"}
+{"Query": "How many days within one week did A4F_39976 have nrem_hr greater than 56.86 and responsiveness_points greater than 18.66, starting from 2022-06-07?", "Answer": "2"}
+{"Query": "How many days within one week did A4F_76957 have rem_sleep_breathing_rate lower than 6.01 and stress_score/sleep_points higher than 83.71, starting from 2022-05-23?", "Answer": "2"}
+{"Query": "How many days within one week did A4F_76957 have deep_sleep_breathing_rate greater than 20.34 and stress_score/sleep_points higher than 83.64, starting from 2022-05-23?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_18098 record entropy lower than 3 and stress_score/sleep_points higher than 78.67, starting from 2022-06-06?", "Answer": "2"}
+{"Query": "How many days within one week did A4F_92332 record full_sleep_breathing_rate greater than 16.05 while also recording exertion_points greater than 32.93, starting from 2022-06-06?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_53145 have minutes_asleep greater than 382.29 and stress_score/sleep_points lower than 76.87, starting from 2022-05-23?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_65724 have nightly_temperature lower than 23.65 while also recording stress_score/sleep_points lower than 27.86, starting from 2022-05-22?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_51606 have minutes_asleep greater than 360.43 and stress_score/sleep_points lower than 72.63, starting from 2022-05-22?", "Answer": "2"}
+{"Query": "How many days within one week did A4F_96181 have nrem_hr greater than 80.56 and responsiveness_points greater than 20.06, starting from 2022-06-07?", "Answer": "2"}
+{"Query": "How many days within one week did A4F_76957 have nightly_temperature higher than 34.27 and stress_score/sleep_points higher than 84.45, starting from 2022-05-23?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_71665 record entropy lower than 2.27 and stress_score/sleep_points higher than 75.5, starting from 2022-06-11?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_98040 have minutes_in_deep_sleep greater than 77.8, rmssd greater than 29.59, and stress_score/sleep_points lower than 78.31?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_67598 record upper_bound_oxygen_saturation greater than 94.64 and stress_score/sleep_points lower than 43.98, starting from 2022-05-20?", "Answer": "2"}
+{"Query": "How many days within one week did A4F_29474 record baseline_relative_nightly_standard_deviation greater than 0.25 and stress_score/sleep_points higher than 78.77, starting from 2022-06-06?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_35752 record entropy lower than 0.49 and stress_score/sleep_points higher than 62.86, starting from 2022-06-16?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_69129 have minutes_in_rem less than 15.52 and stress_score/sleep_points higher than 69.32, starting from 2022-05-17?", "Answer": "3"}
+{"Query": "How many days within one week did A4F_24211 have minutes_in_deep_sleep greater than 100.3, rmssd greater than 23.06, and stress_score/sleep_points lower than 13.49?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_56718 record upper_bound_oxygen_saturation greater than 97.17 and stress_score/sleep_points lower than 50.22, starting from 2022-05-18?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_79824 have minutes_asleep greater than 386.43 and stress_score/sleep_points lower than 75.39, starting from 2022-06-15?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_28771 have nightly_temperature higher than 28.12 and stress_score/sleep_points higher than 72.72, starting from 2022-06-04?", "Answer": "2"}
+{"Query": "How many days within one week did A4F_96181 have nightly_temperature lower than 14.96 while also recording stress_score/sleep_points lower than 32.79, starting from 2022-06-08?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_45863 have minutes_in_rem less than 42.98 and stress_score/sleep_points higher than 75.73, starting from 2022-05-28?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_27766 record baseline_relative_nightly_standard_deviation greater than 0.3 and stress_score/sleep_points higher than 76.5, starting from 2022-06-13?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_97618 record entropy lower than 2.92 and stress_score/sleep_points higher than 87.66, starting from 2022-06-04?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_10021 record baseline_relative_nightly_standard_deviation greater than 0.2 and stress_score/sleep_points higher than 79.41, starting from 2022-06-10?", "Answer": "2"}
+{"Query": "How many days within one week did A4F_43794 have minutes_in_rem less than 50.51 and stress_score/sleep_points higher than 81.42, starting from 2022-05-23?", "Answer": "2"}
+{"Query": "How many days within one week did A4F_17419 record baseline_relative_nightly_standard_deviation greater than 0.32 and stress_score/sleep_points higher than 74.67, starting from 2022-06-09?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_77391 record nrem_hr lower than 61.86, full_sleep_breathing_rate lower than 13.71, and stress_score/sleep_points lower than 70.36?", "Answer": "2"}
+{"Query": "How many days within one week did A4F_40008 record upper_bound_oxygen_saturation greater than 77.79 and stress_score/sleep_points lower than 67.53, starting from 2022-06-13?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_71665 have sleep_average_oxygen_saturation lower than 92.6 and stress_score/sleep_points higher than 75.46, starting from 2022-06-11?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_77391 have nrem_hr greater than 61.61 and responsiveness_points greater than 24.75, starting from 2022-05-24?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_76957 have lower_bound_oxygen_saturation less than 51.75 and responsiveness_points greater than 22.86, starting from 2022-05-22?", "Answer": "2"}
+{"Query": "How many days within one week did A4F_73455 record full_sleep_breathing_rate greater than 12.71 while also recording exertion_points greater than 26.55, starting from 2022-05-30?", "Answer": "3"}
+{"Query": "How many days within one week did A4F_56297 have minutes_asleep greater than 355.14 and stress_score/sleep_points lower than 83.72, starting from 2022-05-26?", "Answer": "3"}
+{"Query": "How many days within one week did A4F_31033 have minutes_asleep greater than 391.43 and stress_score/sleep_points lower than 5.33, starting from 2022-06-10?", "Answer": "2"}
+{"Query": "How many days within one week did A4F_17419 have minutes_in_rem less than 25.75, lower_bound_oxygen_saturation less than 47.8, and stress_score/sleep_points higher than 75.07?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_97618 have lower_bound_oxygen_saturation less than 90.49 and responsiveness_points greater than 24.72, starting from 2022-06-11?", "Answer": "2"}
+{"Query": "How many days within one week did A4F_40008 record nrem_hr lower than 71.79, full_sleep_breathing_rate lower than 14.99, and stress_score/sleep_points lower than 6.47?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_31033 record full_sleep_breathing_rate greater than 14.01 while also recording exertion_points greater than 32.01, starting from 2022-06-16?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_27766 record full_sleep_breathing_rate greater than 17.23 while also recording exertion_points greater than 26.95, starting from 2022-06-12?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_35752 have minutes_in_rem less than 7.03 and stress_score/sleep_points higher than 68.45, starting from 2022-06-14?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_29474 have rmssd greater than 21.43 and stress_score/sleep_points lower than 78.6, starting from 2022-06-10?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_68106 have deep_sleep_breathing_rate greater than 13.43 and stress_score/sleep_points higher than 79.54, starting from 2022-05-23?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_94336 record upper_bound_oxygen_saturation greater than 89.2 and stress_score/sleep_points lower than 71.06, starting from 2022-05-28?", "Answer": "2"}
+{"Query": "How many days within one week did A4F_28771 record baseline_relative_nightly_standard_deviation greater than 0.34 and stress_score/sleep_points higher than 57.73, starting from 2022-06-01?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_10021 have nightly_temperature higher than 28.19 and stress_score/sleep_points higher than 83.69, starting from 2022-06-08?", "Answer": "2"}
+{"Query": "How many days within one week did A4F_45863 record nrem_hr lower than 60.47, full_sleep_breathing_rate lower than 0.01, and stress_score/sleep_points lower than 33.73?", "Answer": "2"}
+{"Query": "How many days within one week did A4F_67598 have rem_sleep_breathing_rate lower than 7.26 and stress_score/sleep_points higher than 78.18, starting from 2022-05-27?", "Answer": "2"}
+{"Query": "How many days within one week did A4F_76957 record baseline_relative_nightly_standard_deviation greater than 0.42 and stress_score/sleep_points higher than 83.43, starting from 2022-05-24?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_82994 record entropy lower than 2.13 and stress_score/sleep_points higher than 62.2, starting from 2022-06-08?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_28771 record full_sleep_breathing_rate greater than 12.95 while also recording exertion_points greater than 24.94, starting from 2022-06-08?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_94336 have rmssd greater than 28.87 and stress_score/sleep_points lower than 72.83, starting from 2022-05-27?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_98040 spend more than 90.09 minutes_in_deep_sleep while also recording stress_score/sleep_points greater than 84.22, starting from 2022-06-14?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_97618 have minutes_in_rem less than 74.62 and stress_score/sleep_points higher than 84.18, starting from 2022-06-03?", "Answer": "2"}
+{"Query": "How many days within one week did A4F_27766 have nightly_temperature lower than 33.97 while also recording stress_score/sleep_points lower than 72.69, starting from 2022-06-10?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_77391 have nightly_temperature higher than 33.67 and stress_score/sleep_points higher than 76.42, starting from 2022-05-24?", "Answer": "3"}
+{"Query": "How many days within one week did A4F_53145 spend more than 76.37 minutes_in_deep_sleep while also recording stress_score/sleep_points greater than 80.97, starting from 2022-05-23?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_68106 record upper_bound_oxygen_saturation greater than 97.35 and stress_score/sleep_points lower than 79.24, starting from 2022-05-20?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_69129 have deep_sleep_breathing_rate greater than 17.49 and stress_score/sleep_points higher than 61.97, starting from 2022-05-17?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_82994 have rem_sleep_breathing_rate lower than 4.78 and stress_score/sleep_points higher than 82.41, starting from 2022-06-13?", "Answer": "2"}
+{"Query": "How many days within one week did A4F_56718 have nightly_temperature lower than 22.31 while also recording stress_score/sleep_points lower than 49.84, starting from 2022-05-21?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_39976 have minutes_asleep greater than 343.57 and stress_score/sleep_points lower than 79.78, starting from 2022-06-13?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_69129 have nrem_hr greater than 48.34 and responsiveness_points greater than 24.74, starting from 2022-05-17?", "Answer": "2"}
+{"Query": "How many days within one week did A4F_96181 record full_sleep_breathing_rate greater than 14.59 while also recording exertion_points greater than 27.52, starting from 2022-06-11?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_97618 have minutes_in_rem less than 43.36 and stress_score/sleep_points higher than 85.8, starting from 2022-06-10?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_70068 record full_sleep_breathing_rate greater than 16.53 while also recording exertion_points greater than 28.71, starting from 2022-05-23?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_77391 record entropy lower than 2.33 and stress_score/sleep_points higher than 74.89, starting from 2022-05-21?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_56355 have minutes_asleep greater than 327.14 and stress_score/sleep_points lower than 8.35, starting from 2022-05-23?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_86472 have sleep_average_oxygen_saturation lower than 93.81 and stress_score/sleep_points higher than 75.46, starting from 2022-06-11?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_27766 have minutes_asleep greater than 338.71 and stress_score/sleep_points lower than 73.8, starting from 2022-06-14?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_68106 have nightly_temperature lower than 12.75 while also recording stress_score/sleep_points lower than 14.97, starting from 2022-05-17?", "Answer": "3"}
+{"Query": "How many days within one week did A4F_49219 record full_sleep_breathing_rate greater than 7.31 while also recording exertion_points greater than 30.67, starting from 2022-05-26?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_70068 have rmssd greater than 124.32 and stress_score/sleep_points lower than 10.47, starting from 2022-05-20?", "Answer": "2"}
+{"Query": "How many days within one week did A4F_56297 have minutes_in_rem less than 60.17, lower_bound_oxygen_saturation less than 19.67, and stress_score/sleep_points higher than 88.06?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_17419 have nightly_temperature higher than 23.38 and stress_score/sleep_points higher than 63.84, starting from 2022-06-07?", "Answer": "3"}
+{"Query": "How many days within one week did A4F_56297 have nightly_temperature higher than 32.67 and stress_score/sleep_points higher than 88.33, starting from 2022-05-20?", "Answer": "2"}
+{"Query": "How many days within one week did A4F_10021 have nightly_temperature lower than 11.03 while also recording stress_score/sleep_points lower than 51.91, starting from 2022-06-08?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_68106 have deep_sleep_breathing_rate greater than 15.08 and stress_score/sleep_points higher than 84.31, starting from 2022-05-20?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_79824 have minutes_in_rem less than 14.18 and stress_score/sleep_points higher than 77.92, starting from 2022-06-09?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_40008 have rem_sleep_breathing_rate lower than 13.18 and stress_score/sleep_points higher than 72.62, starting from 2022-06-14?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_65724 have deep_sleep_breathing_rate greater than 13.18 and stress_score/sleep_points higher than 78.03, starting from 2022-05-31?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_67757 have minutes_asleep greater than 369.14 and stress_score/sleep_points lower than 73.96, starting from 2022-06-08?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_29474 have deep_sleep_breathing_rate greater than 14.11 and stress_score/sleep_points higher than 82.91, starting from 2022-06-12?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_82994 have deep_sleep_breathing_rate greater than 16.31 and stress_score/sleep_points higher than 74.49, starting from 2022-06-11?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_69129 spend more than 79.2 minutes_in_deep_sleep while also recording stress_score/sleep_points greater than 68.47, starting from 2022-05-17?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_31033 have minutes_asleep greater than 390.43 and stress_score/sleep_points lower than 14.44, starting from 2022-06-11?", "Answer": "2"}
+{"Query": "How many days within one week did A4F_94336 have minutes_in_rem less than 4.65 and stress_score/sleep_points higher than 76.48, starting from 2022-05-28?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_56297 have lower_bound_oxygen_saturation less than 52.2 and responsiveness_points greater than 26.73, starting from 2022-05-25?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_18098 spend more than 47.26 minutes_in_deep_sleep while also recording stress_score/sleep_points greater than 76.13, starting from 2022-06-13?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_43794 spend more than 70.24 minutes_in_deep_sleep while also recording stress_score/sleep_points greater than 79.73, starting from 2022-06-01?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_56718 spend more than 74.11 minutes_in_deep_sleep while also recording stress_score/sleep_points greater than 88.98, starting from 2022-05-24?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_35752 have sleep_average_oxygen_saturation lower than 8.69 and stress_score/sleep_points higher than 68.16, starting from 2022-06-12?", "Answer": "2"}
+{"Query": "How many days within one week did A4F_86472 have sleep_average_oxygen_saturation lower than 65.42 and stress_score/sleep_points higher than 55.12, starting from 2022-06-03?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_45863 record upper_bound_oxygen_saturation greater than 92.34 and stress_score/sleep_points lower than 20.54, starting from 2022-05-24?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_53145 record upper_bound_oxygen_saturation greater than 97.28 and stress_score/sleep_points lower than 80.26, starting from 2022-05-26?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_17419 record baseline_relative_nightly_standard_deviation greater than 0.27 and stress_score/sleep_points higher than 74.03, starting from 2022-06-09?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_69129 spend more than 86.91 minutes_in_deep_sleep while also recording stress_score/sleep_points greater than 65.4, starting from 2022-05-17?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_98040 have lower_bound_oxygen_saturation less than 58.09 and responsiveness_points greater than 27.96, starting from 2022-06-10?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_76957 record upper_bound_oxygen_saturation greater than 92.86 and stress_score/sleep_points lower than 51.9, starting from 2022-05-20?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_94336 have nightly_temperature higher than 23.5 and stress_score/sleep_points higher than 78.18, starting from 2022-05-26?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_76957 have sleep_average_oxygen_saturation lower than 38.29 and stress_score/sleep_points higher than 80.65, starting from 2022-05-25?", "Answer": "2"}
+{"Query": "How many days within one week did A4F_89897 have minutes_in_rem less than 33.93 and stress_score/sleep_points higher than 67.56, starting from 2022-05-19?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_29474 have deep_sleep_breathing_rate greater than 14.63 and stress_score/sleep_points higher than 81.69, starting from 2022-06-09?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_69129 have nightly_temperature higher than 22.4 and stress_score/sleep_points higher than 71.39, starting from 2022-05-17?", "Answer": "2"}
+{"Query": "How many days within one week did A4F_65724 have deep_sleep_breathing_rate greater than 10.44 and stress_score/sleep_points higher than 79, starting from 2022-05-28?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_45863 have minutes_in_deep_sleep greater than 47.79, rmssd greater than 70.02, and stress_score/sleep_points lower than 4.87?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_77391 have rmssd greater than 39.46 and stress_score/sleep_points lower than 73.39, starting from 2022-05-24?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_43794 have sleep_average_oxygen_saturation lower than 94.68 and stress_score/sleep_points higher than 82.15, starting from 2022-05-24?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_31033 have sleep_average_oxygen_saturation lower than 92.27 and stress_score/sleep_points higher than 39.88, starting from 2022-06-09?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_82994 have nrem_hr greater than 64.61 and responsiveness_points greater than 26.71, starting from 2022-06-14?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_92332 have deep_sleep_breathing_rate greater than 16.53 and stress_score/sleep_points higher than 80.53, starting from 2022-06-14?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_67598 have lower_bound_oxygen_saturation less than 63.7 and responsiveness_points greater than 24.39, starting from 2022-05-20?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_40008 record upper_bound_oxygen_saturation greater than 48.02 and stress_score/sleep_points lower than 14.33, starting from 2022-06-04?", "Answer": "2"}
+{"Query": "How many days within one week did A4F_56297 record upper_bound_oxygen_saturation greater than 80.61 and stress_score/sleep_points lower than 82.98, starting from 2022-05-24?", "Answer": "3"}
+{"Query": "How many days within one week did A4F_39976 record upper_bound_oxygen_saturation greater than 94.2 and stress_score/sleep_points lower than 79.75, starting from 2022-06-11?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_45863 have nrem_hr greater than 52.36 and responsiveness_points greater than 21.2, starting from 2022-05-28?", "Answer": "4"}
+{"Query": "How many days within one week did A4F_68106 record entropy lower than 2.86 and stress_score/sleep_points higher than 70.39, starting from 2022-05-18?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_40008 have deep_sleep_breathing_rate greater than 14.76 and stress_score/sleep_points higher than 72.75, starting from 2022-06-14?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_96181 record upper_bound_oxygen_saturation greater than 37.56 and stress_score/sleep_points lower than 53.98, starting from 2022-06-09?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_69129 record baseline_relative_nightly_standard_deviation greater than 0.31 and stress_score/sleep_points higher than 69.11, starting from 2022-05-17?", "Answer": "2"}
+{"Query": "How many days within one week did A4F_35752 record upper_bound_oxygen_saturation greater than 71.65 and stress_score/sleep_points lower than 17.29, starting from 2022-06-15?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_86472 have minutes_in_deep_sleep greater than 63.79, rmssd greater than 33.97, and stress_score/sleep_points lower than 72.03?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_71665 record baseline_relative_nightly_standard_deviation greater than 0.5 and stress_score/sleep_points higher than 76.23, starting from 2022-06-12?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_69129 spend more than 86.02 minutes_in_deep_sleep while also recording stress_score/sleep_points greater than 64.66, starting from 2022-05-17?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_65724 have nrem_hr greater than 64.8 and responsiveness_points greater than 20.39, starting from 2022-05-21?", "Answer": "2"}
+{"Query": "How many days within one week did A4F_51606 have minutes_in_rem less than 45.85 and stress_score/sleep_points higher than 75.45, starting from 2022-05-19?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_35752 have sleep_average_oxygen_saturation lower than 13.36 and stress_score/sleep_points higher than 51.97, starting from 2022-06-15?", "Answer": "2"}
+{"Query": "How many days within one week did A4F_86472 have sleep_average_oxygen_saturation lower than 94.18 and stress_score/sleep_points higher than 75.92, starting from 2022-06-12?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_65724 have sleep_average_oxygen_saturation lower than 93.6 and stress_score/sleep_points higher than 79.18, starting from 2022-05-29?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_92332 have lower_bound_oxygen_saturation less than 93.57 and responsiveness_points greater than 24.58, starting from 2022-06-17?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_77391 have nightly_temperature higher than 33.13 and stress_score/sleep_points higher than 75.58, starting from 2022-05-29?", "Answer": "2"}
+{"Query": "How many days within one week did A4F_17419 have deep_sleep_breathing_rate greater than 10.19 and stress_score/sleep_points higher than 62.84, starting from 2022-06-07?", "Answer": "2"}
+{"Query": "How many days within one week did A4F_71665 have sleep_average_oxygen_saturation lower than 92.97 and stress_score/sleep_points higher than 73.52, starting from 2022-06-06?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_31033 have sleep_average_oxygen_saturation lower than 92.6 and stress_score/sleep_points higher than 78.3, starting from 2022-06-11?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_77391 record baseline_relative_nightly_standard_deviation greater than 0.28 and stress_score/sleep_points higher than 73.38, starting from 2022-05-30?", "Answer": "2"}
+{"Query": "How many days within one week did A4F_43794 have nightly_temperature higher than 28.26 and stress_score/sleep_points higher than 82.41, starting from 2022-05-29?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_56297 have minutes_in_rem less than 52.13 and stress_score/sleep_points higher than 87.21, starting from 2022-05-22?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_18098 record baseline_relative_nightly_standard_deviation greater than 0.39 and stress_score/sleep_points higher than 73.34, starting from 2022-06-15?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_43794 have nightly_temperature higher than 24.1 and stress_score/sleep_points higher than 80.98, starting from 2022-05-29?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_97618 have nightly_temperature higher than 32.37 and stress_score/sleep_points higher than 86.47, starting from 2022-06-08?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_77391 have nrem_hr greater than 61 and responsiveness_points greater than 24.81, starting from 2022-05-24?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_56355 have minutes_in_rem less than 40.29 and stress_score/sleep_points higher than 67.33, starting from 2022-05-23?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_77391 have deep_sleep_breathing_rate greater than 5.43 and stress_score/sleep_points higher than 75.7, starting from 2022-05-27?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_29474 have nightly_temperature higher than 30.73 and stress_score/sleep_points higher than 81.46, starting from 2022-06-07?", "Answer": "2"}
+{"Query": "How many days within one week did A4F_94336 have minutes_in_deep_sleep greater than 28.33, rmssd greater than 27.08, and stress_score/sleep_points lower than 72.35?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_94336 have rmssd greater than 33.92 and stress_score/sleep_points lower than 70.63, starting from 2022-05-24?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_69129 have nightly_temperature higher than 27.94 and stress_score/sleep_points higher than 65.64, starting from 2022-05-17?", "Answer": "2"}
+{"Query": "How many days within one week did A4F_94336 have nightly_temperature higher than 24.28 and stress_score/sleep_points higher than 77.38, starting from 2022-05-25?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_43794 record entropy lower than 2.21 and stress_score/sleep_points higher than 81.54, starting from 2022-05-26?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_29474 have rmssd greater than 22.15 and stress_score/sleep_points lower than 74.64, starting from 2022-06-07?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_51606 have nightly_temperature higher than 32.97 and stress_score/sleep_points higher than 77.89, starting from 2022-05-23?", "Answer": "2"}
+{"Query": "How many days within one week did A4F_49219 have nightly_temperature higher than 30.71 and stress_score/sleep_points higher than 79.72, starting from 2022-05-26?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_27766 record baseline_relative_nightly_standard_deviation greater than 0.3 and stress_score/sleep_points higher than 77.2, starting from 2022-06-13?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_77391 record entropy lower than 2.41 and stress_score/sleep_points higher than 73.96, starting from 2022-05-30?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_43794 have lower_bound_oxygen_saturation less than 92.02 and responsiveness_points greater than 25.14, starting from 2022-05-28?", "Answer": "2"}
+{"Query": "How many days within one week did A4F_97618 record entropy lower than 2.89 and stress_score/sleep_points higher than 84.02, starting from 2022-06-03?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_24211 have lower_bound_oxygen_saturation less than 91.26 and responsiveness_points greater than 19.78, starting from 2022-06-09?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_17419 have lower_bound_oxygen_saturation less than 49.24 and responsiveness_points greater than 18.7, starting from 2022-06-10?", "Answer": "2"}
+{"Query": "How many days within one week did A4F_73455 have rmssd greater than 34.06 and stress_score/sleep_points lower than 20.11, starting from 2022-05-31?", "Answer": "2"}
+{"Query": "How many days within one week did A4F_96181 have lower_bound_oxygen_saturation less than 23.43 and responsiveness_points greater than 21.67, starting from 2022-06-07?", "Answer": "3"}
+{"Query": "How many days within one week did A4F_77391 have nrem_hr greater than 61.93 and responsiveness_points greater than 25.32, starting from 2022-05-29?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_94336 have rmssd greater than 37.58 and stress_score/sleep_points lower than 72.29, starting from 2022-05-24?", "Answer": "2"}
+{"Query": "How many days within one week did A4F_67757 record entropy lower than 3.09 and stress_score/sleep_points higher than 77.83, starting from 2022-06-08?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_92332 have lower_bound_oxygen_saturation less than 93.28 and responsiveness_points greater than 26.66, starting from 2022-06-09?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_79824 have rmssd greater than 37.73 and stress_score/sleep_points lower than 67.27, starting from 2022-06-04?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_96181 have lower_bound_oxygen_saturation less than 66.25 and responsiveness_points greater than 20.08, starting from 2022-06-04?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_17419 have rmssd greater than 104.35 and stress_score/sleep_points lower than 74.62, starting from 2022-06-14?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_17419 have lower_bound_oxygen_saturation less than 54.95 and responsiveness_points greater than 18.25, starting from 2022-06-10?", "Answer": "2"}
+{"Query": "How many days within one week did A4F_53145 have rmssd greater than 45.36 and stress_score/sleep_points lower than 38.54, starting from 2022-05-21?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_18098 have rmssd greater than 22.15 and stress_score/sleep_points lower than 30.59, starting from 2022-06-03?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_82994 record entropy lower than 2.14 and stress_score/sleep_points higher than 56.45, starting from 2022-06-08?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_69129 have nrem_hr greater than 45.47 and responsiveness_points greater than 25.21, starting from 2022-05-17?", "Answer": "2"}
+{"Query": "How many days within one week did A4F_96181 have nrem_hr greater than 80.49 and responsiveness_points greater than 19.76, starting from 2022-06-01?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_56297 have minutes_in_deep_sleep greater than 109.13, rmssd greater than 39.98, and stress_score/sleep_points lower than 82.88?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_17419 have rmssd greater than 110.44 and stress_score/sleep_points lower than 74.61, starting from 2022-06-14?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_51606 record entropy lower than 2.31 and stress_score/sleep_points higher than 77.68, starting from 2022-05-22?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_17419 record entropy lower than 2.17 and stress_score/sleep_points higher than 75.71, starting from 2022-06-08?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_82994 have minutes_in_deep_sleep greater than 73.08, rmssd greater than 25.32, and stress_score/sleep_points lower than 80.57?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_70068 have rmssd greater than 113.11 and stress_score/sleep_points lower than 54.36, starting from 2022-05-24?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_92332 record entropy lower than 2.13 and stress_score/sleep_points higher than 81.55, starting from 2022-06-13?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_86472 have rmssd greater than 34.79 and stress_score/sleep_points lower than 73.75, starting from 2022-06-12?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_17419 have rmssd greater than 108.91 and stress_score/sleep_points lower than 71.29, starting from 2022-06-10?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_10021 have nrem_hr greater than 57.63 and responsiveness_points greater than 24.19, starting from 2022-06-11?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_98040 have minutes_in_rem less than 73.95, lower_bound_oxygen_saturation less than 90.45, and stress_score/sleep_points higher than 81.25?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_79824 have nrem_hr greater than 70.61 and responsiveness_points greater than 21.85, starting from 2022-06-07?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_77391 have nrem_hr greater than 61.09 and responsiveness_points greater than 24.19, starting from 2022-05-24?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_65724 have nrem_hr greater than 62.78 and responsiveness_points greater than 27.16, starting from 2022-05-30?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_29474 have rmssd greater than 20.93 and stress_score/sleep_points lower than 77.3, starting from 2022-06-14?", "Answer": "2"}
+{"Query": "How many days within one week did A4F_40008 have minutes_in_deep_sleep greater than 45.63, rmssd greater than 29.67, and stress_score/sleep_points lower than 17.68?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_69129 have nrem_hr greater than 46.35 and responsiveness_points greater than 23.07, starting from 2022-05-17?", "Answer": "4"}
+{"Query": "How many days within one week did A4F_45863 have nrem_hr greater than 54.72 and responsiveness_points greater than 16.62, starting from 2022-05-25?", "Answer": "3"}
+{"Query": "How many days within one week did A4F_69129 have nrem_hr greater than 44.11 and responsiveness_points greater than 24.7, starting from 2022-05-17?", "Answer": "4"}
+{"Query": "How many days within one week did A4F_71665 record entropy lower than 2.43 and stress_score/sleep_points higher than 69.18, starting from 2022-06-04?", "Answer": "2"}
+{"Query": "How many days within one week did A4F_77391 have nrem_hr greater than 62.18 and responsiveness_points greater than 25.78, starting from 2022-05-23?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_39976 have nrem_hr greater than 56.62 and responsiveness_points greater than 21.08, starting from 2022-06-07?", "Answer": "2"}
+{"Query": "How many days within one week did A4F_79824 record entropy lower than 2.55 and stress_score/sleep_points higher than 77.52, starting from 2022-06-14?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_79824 record entropy lower than 2.57 and stress_score/sleep_points higher than 77.46, starting from 2022-06-16?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_40008 record entropy lower than 2.44 and stress_score/sleep_points higher than 71.75, starting from 2022-06-11?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_71665 have minutes_in_rem less than 41.62, lower_bound_oxygen_saturation less than 90.66, and stress_score/sleep_points higher than 75.58?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_49219 have minutes_in_rem less than 34.34, lower_bound_oxygen_saturation less than 21.4, and stress_score/sleep_points higher than 74.96?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_56297 have minutes_in_rem less than 55.88, lower_bound_oxygen_saturation less than 35.13, and stress_score/sleep_points higher than 86.99?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_68106 record entropy lower than 2.97 and stress_score/sleep_points higher than 82.38, starting from 2022-05-21?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_77391 record entropy lower than 2.58 and stress_score/sleep_points higher than 75.98, starting from 2022-05-24?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_45863 have minutes_in_deep_sleep greater than 56.61, rmssd greater than 55.38, and stress_score/sleep_points lower than 20.51?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_94336 record entropy lower than 1.39 and stress_score/sleep_points higher than 76.44, starting from 2022-05-23?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_24211 have minutes_in_deep_sleep greater than 66.92, rmssd greater than 20.17, and stress_score/sleep_points lower than 71.01?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_24211 have minutes_in_deep_sleep greater than 70.41, rmssd greater than 21.02, and stress_score/sleep_points lower than 72.51?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_51606 record entropy lower than 2.29 and stress_score/sleep_points higher than 78.28, starting from 2022-05-23?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_67757 record entropy lower than 3.44 and stress_score/sleep_points higher than 78.75, starting from 2022-06-13?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_40008 record entropy lower than 2.48 and stress_score/sleep_points higher than 71, starting from 2022-06-12?", "Answer": "2"}
+{"Query": "How many days within one week did A4F_51606 have minutes_in_rem less than 39.92, lower_bound_oxygen_saturation less than 90.18, and stress_score/sleep_points higher than 71.59?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_94336 have minutes_in_deep_sleep greater than 22.19, rmssd greater than 33.8, and stress_score/sleep_points lower than 72.38?", "Answer": "2"}
+{"Query": "How many days within one week did A4F_22119 have minutes_in_deep_sleep greater than 47.3, rmssd greater than 40.79, and stress_score/sleep_points lower than 3.45?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_94336 have minutes_in_rem less than 6.76, lower_bound_oxygen_saturation less than 21.69, and stress_score/sleep_points higher than 76.31?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_94336 have minutes_in_deep_sleep greater than 18.97, rmssd greater than 40.01, and stress_score/sleep_points lower than 71.2?", "Answer": "2"}
+{"Query": "How many days within one week did A4F_24211 have minutes_in_rem less than 48.16, lower_bound_oxygen_saturation less than 91.29, and stress_score/sleep_points higher than 68.81?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_56297 have minutes_in_deep_sleep greater than 136.76, rmssd greater than 43.1, and stress_score/sleep_points lower than 82.5?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_94336 have minutes_in_rem less than 8.65, lower_bound_oxygen_saturation less than 6.99, and stress_score/sleep_points higher than 77.72?", "Answer": "2"}
+{"Query": "How many days within one week did A4F_35752 have minutes_in_rem less than 29.74, lower_bound_oxygen_saturation less than 16.24, and stress_score/sleep_points higher than 58.39?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_56297 have minutes_in_deep_sleep greater than 122.82, rmssd greater than 43.64, and stress_score/sleep_points lower than 82.64?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_35752 have minutes_in_deep_sleep greater than 53.3, rmssd greater than 21.54, and stress_score/sleep_points lower than 2.37?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_49219 have minutes_in_rem less than 69.44, lower_bound_oxygen_saturation less than 22.48, and stress_score/sleep_points higher than 72.75?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_51606 have minutes_in_deep_sleep greater than 78.27, rmssd greater than 30.87, and stress_score/sleep_points lower than 76.12?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_79824 have minutes_in_rem less than 14.14, lower_bound_oxygen_saturation less than 91.15, and stress_score/sleep_points higher than 74.85?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_24211 have minutes_in_deep_sleep greater than 82.43, rmssd greater than 21.15, and stress_score/sleep_points lower than 72.69?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_17419 have minutes_in_rem less than 35.61, lower_bound_oxygen_saturation less than 60.86, and stress_score/sleep_points higher than 78.99?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_45863 have minutes_in_deep_sleep greater than 87.97, rmssd greater than 70.63, and stress_score/sleep_points lower than 29?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_35752 have minutes_in_rem less than 13.81, lower_bound_oxygen_saturation less than 8.72, and stress_score/sleep_points higher than 68.49?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_45863 have minutes_in_deep_sleep greater than 42.43, rmssd greater than 57.22, and stress_score/sleep_points lower than 5.01?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_86472 have minutes_in_rem less than 71.08, lower_bound_oxygen_saturation less than 91.38, and stress_score/sleep_points higher than 74.95?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_24211 have minutes_in_deep_sleep greater than 91.67, rmssd greater than 23.01, and stress_score/sleep_points lower than 20.58?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_92332 have minutes_in_rem less than 95.12, lower_bound_oxygen_saturation less than 92.71, and stress_score/sleep_points higher than 81.67?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_56297 have minutes_in_rem less than 66.69, lower_bound_oxygen_saturation less than 8.2, and stress_score/sleep_points higher than 86.66?", "Answer": "2"}
+{"Query": "How many days within one week did A4F_51606 have minutes_in_deep_sleep greater than 73.47, rmssd greater than 30.39, and stress_score/sleep_points lower than 75.77?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_94336 have minutes_in_rem less than 3.68, lower_bound_oxygen_saturation less than 12.3, and stress_score/sleep_points higher than 80.99?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_92332 have minutes_in_rem less than 41.98, lower_bound_oxygen_saturation less than 93.6, and stress_score/sleep_points higher than 82.39?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_56297 have minutes_in_rem less than 55.19, lower_bound_oxygen_saturation less than 44.31, and stress_score/sleep_points higher than 87.14?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_24211 have minutes_in_deep_sleep greater than 81.17, rmssd greater than 23.49, and stress_score/sleep_points lower than 27.71?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_17419 have minutes_in_rem less than 19.32, lower_bound_oxygen_saturation less than 41.51, and stress_score/sleep_points higher than 74.54?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_56297 have minutes_in_rem less than 58.71, lower_bound_oxygen_saturation less than 13.66, and stress_score/sleep_points higher than 87.67?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_51606 have minutes_in_deep_sleep greater than 61.97, rmssd greater than 30.4, and stress_score/sleep_points lower than 75.64?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_92332 have minutes_in_rem less than 85.26, lower_bound_oxygen_saturation less than 92.95, and stress_score/sleep_points higher than 81.13?", "Answer": "1"}
+{"Query": "How many days within one week did A4F_56297 have minutes_in_rem less than 72.94, lower_bound_oxygen_saturation less than 48.1, and stress_score/sleep_points higher than 86.93?", "Answer": "1"}

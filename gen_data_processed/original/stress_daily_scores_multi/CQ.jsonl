@@ -1,0 +1,120 @@
+{"Query": "How many users had {sleep_points} greater than 23.82 on 2022-05-22?", "Answer": "5"}
+{"Query": "How many users had {stress_score} lower than 76.76 on 2022-05-27?", "Answer": "6"}
+{"Query": "How many users had {sleep_points} lower than 20.32 on 2022-05-27?", "Answer": "5"}
+{"Query": "How many users had {sleep_points} greater than 24.3 on 2022-05-25?", "Answer": "4"}
+{"Query": "How many users had {stress_score} greater than 81.3 on 2022-06-16?", "Answer": "5"}
+{"Query": "How many users had {responsiveness_points} lower than 22.87 on 2022-05-27?", "Answer": "3"}
+{"Query": "How many users had {responsiveness_points} lower than 20.02 on 2022-05-18?", "Answer": "2"}
+{"Query": "How many users had {stress_score} lower than 72.22 on 2022-06-02?", "Answer": "3"}
+{"Query": "How many users had {exertion_points} lower than 28.77 on 2022-06-15?", "Answer": "6"}
+{"Query": "How many users had {exertion_points} lower than 29.2 on 2022-06-21?", "Answer": "7"}
+{"Query": "How many users had {responsiveness_points} lower than 23.4 on 2022-05-23?", "Answer": "4"}
+{"Query": "How many users had {stress_score} lower than 77.27 on 2022-06-01?", "Answer": "3"}
+{"Query": "How many users had {responsiveness_points} greater than 24.85 on 2022-06-03?", "Answer": "5"}
+{"Query": "How many users had {exertion_points} lower than 27.53 on 2022-05-30?", "Answer": "5"}
+{"Query": "How many users had {responsiveness_points} greater than 23.94 on 2022-05-19?", "Answer": "2"}
+{"Query": "How many users had {sleep_points} lower than 21.75 on 2022-06-13?", "Answer": "5"}
+{"Query": "How many users had {exertion_points} greater than 32.6 on 2022-06-06?", "Answer": "4"}
+{"Query": "How many users had {responsiveness_points} greater than 24.55 on 2022-06-02?", "Answer": "2"}
+{"Query": "How many users had {exertion_points} greater than 29.6 on 2022-05-20?", "Answer": "3"}
+{"Query": "How many users had {stress_score} lower than 74.64 on 2022-06-11?", "Answer": "6"}
+{"Query": "How many users had {exertion_points} lower than 29.06 on 2022-06-19?", "Answer": "6"}
+{"Query": "How many users had {sleep_points} lower than 20.36 on 2022-05-23?", "Answer": "8"}
+{"Query": "How many users had {sleep_points} greater than 19.62 on 2022-05-19?", "Answer": "3"}
+{"Query": "How many users had {sleep_points} lower than 21.42 on 2022-06-22?", "Answer": "3"}
+{"Query": "How many users had {exertion_points} lower than 28.07 on 2022-06-18?", "Answer": "5"}
+{"Query": "How many users had {stress_score} greater than 79.67 on 2022-05-28?", "Answer": "5"}
+{"Query": "How many users had {stress_score} greater than 79.94 on 2022-05-29?", "Answer": "5"}
+{"Query": "How many users had {exertion_points} lower than 26.67 on 2022-06-08?", "Answer": "4"}
+{"Query": "How many users had {exertion_points} greater than 33.33 on 2022-05-31?", "Answer": "5"}
+{"Query": "How many users had {sleep_points} lower than 19.59 on 2022-05-27?", "Answer": "4"}
+{"Query": "How many users had {responsiveness_points} lower than 111.59 within one week, starting from 2022-05-22?", "Answer": "3"}
+{"Query": "How many users had {exertion_points} lower than 176.75 within one week, starting from 2022-06-14?", "Answer": "5"}
+{"Query": "How many users had {sleep_points} lower than 91.7 within one week, starting from 2022-05-21?", "Answer": "4"}
+{"Query": "How many users had {sleep_points} greater than 154.2 within one week, starting from 2022-06-09?", "Answer": "8"}
+{"Query": "How many users had {stress_score} greater than 426.92 within one week, starting from 2022-06-17?", "Answer": "6"}
+{"Query": "How many users had {sleep_points} lower than 52.67 within one week, starting from 2022-05-30?", "Answer": "12"}
+{"Query": "How many users had {exertion_points} lower than 114.82 within one week, starting from 2022-06-17?", "Answer": "5"}
+{"Query": "How many users had {exertion_points} lower than 105.45 within one week, starting from 2022-06-04?", "Answer": "9"}
+{"Query": "How many users had {exertion_points} greater than 222.12 within one week, starting from 2022-05-25?", "Answer": "6"}
+{"Query": "How many users had {stress_score} lower than 390.4 within one week, starting from 2022-06-08?", "Answer": "4"}
+{"Query": "How many users had {sleep_points} greater than 128.51 within one week, starting from 2022-06-05?", "Answer": "9"}
+{"Query": "How many users had {stress_score} lower than 369.1 within one week, starting from 2022-06-15?", "Answer": "5"}
+{"Query": "How many users had {exertion_points} lower than 113.07 within one week, starting from 2022-06-17?", "Answer": "5"}
+{"Query": "How many users had {exertion_points} lower than 67.43 within one week, starting from 2022-06-01?", "Answer": "8"}
+{"Query": "How many users had {responsiveness_points} greater than 166.03 within one week, starting from 2022-06-14?", "Answer": "8"}
+{"Query": "How many users had {sleep_points} greater than 85.4 within one week, starting from 2022-05-30?", "Answer": "7"}
+{"Query": "How many users had {exertion_points} lower than 139.13 within one week, starting from 2022-06-08?", "Answer": "3"}
+{"Query": "How many users had {exertion_points} greater than 128.33 within one week, starting from 2022-05-29?", "Answer": "8"}
+{"Query": "How many users had {stress_score} lower than 290.33 within one week, starting from 2022-05-18?", "Answer": "7"}
+{"Query": "How many users had {exertion_points} greater than 163.71 within one week, starting from 2022-05-18?", "Answer": "4"}
+{"Query": "How many users had {stress_score} greater than 479.9 within one week, starting from 2022-05-20?", "Answer": "4"}
+{"Query": "How many users had {stress_score} lower than 226.98 within one week, starting from 2022-06-02?", "Answer": "11"}
+{"Query": "How many users had {responsiveness_points} lower than 125.13 within one week, starting from 2022-06-14?", "Answer": "5"}
+{"Query": "How many users had {exertion_points} lower than 118.2 within one week, starting from 2022-05-19?", "Answer": "5"}
+{"Query": "How many users had {sleep_points} greater than 167.98 within one week, starting from 2022-05-25?", "Answer": "4"}
+{"Query": "How many users had {responsiveness_points} greater than 140.86 within one week, starting from 2022-06-06?", "Answer": "9"}
+{"Query": "How many users had {sleep_points} lower than 84.88 within one week, starting from 2022-06-04?", "Answer": "11"}
+{"Query": "How many users had {sleep_points} lower than 101.79 within one week, starting from 2022-05-23?", "Answer": "2"}
+{"Query": "How many users had {stress_score} greater than 507.72 within one week, starting from 2022-05-27?", "Answer": "7"}
+{"Query": "How many users had {exertion_points} lower than 135.55 within one week, starting from 2022-05-21?", "Answer": "4"}
+{"Query": "Among users with {exertion_points} greater than 29.56 on 2022-05-19, what was the highest {responsiveness_points}?", "Answer": "23"}
+{"Query": "Among users with {stress_score} greater than 78.78 on 2022-05-29, which user had the highest {responsiveness_points}?", "Answer": "A4F_49219"}
+{"Query": "Among users with {stress_score} greater than 78.05 on 2022-06-09, which user had the highest {responsiveness_points}?", "Answer": "A4F_98040"}
+{"Query": "Among users with {stress_score} greater than 81.72 on 2022-05-30, which user had the highest {responsiveness_points}?", "Answer": "A4F_43794"}
+{"Query": "Among users with {exertion_points} greater than 35.49 on 2022-05-29, which user had the highest {responsiveness_points}?", "Answer": "A4F_43794"}
+{"Query": "Among users with {exertion_points} greater than 34.99 on 2022-06-17, which user had the highest {responsiveness_points}?", "Answer": "A4F_97618"}
+{"Query": "Among users with {exertion_points} greater than 31.7 on 2022-06-07, which user had the highest {responsiveness_points}?", "Answer": "A4F_92332"}
+{"Query": "Among users with {sleep_points} greater than 23.46 on 2022-06-19, what was the highest {responsiveness_points}?", "Answer": "28"}
+{"Query": "Among users with {stress_score} greater than 78.29 on 2022-06-18, which user had the highest {responsiveness_points}?", "Answer": "A4F_98040"}
+{"Query": "Among users with {sleep_points} greater than 25.14 on 2022-06-13, what was the highest {responsiveness_points}?", "Answer": "28"}
+{"Query": "Among users with {sleep_points} greater than 24.59 on 2022-05-25, which user had the highest {responsiveness_points}?", "Answer": "A4F_43794"}
+{"Query": "Among users with {sleep_points} greater than 25.13 on 2022-06-11, which user had the highest {responsiveness_points}?", "Answer": "A4F_92332"}
+{"Query": "Among users with {exertion_points} greater than 31.07 on 2022-06-09, which user had the highest {responsiveness_points}?", "Answer": "A4F_97618"}
+{"Query": "Among users with {sleep_points} greater than 23.53 on 2022-05-24, what was the highest {responsiveness_points}?", "Answer": "29"}
+{"Query": "Among users with {sleep_points} greater than 23.45 on 2022-06-08, what was the highest {responsiveness_points}?", "Answer": "22"}
+{"Query": "Among users with {exertion_points} greater than 34.08 on 2022-06-12, which user had the highest {responsiveness_points}?", "Answer": "A4F_29474"}
+{"Query": "Among users with {stress_score} greater than 80.56 on 2022-06-16, which user had the highest {responsiveness_points}?", "Answer": "A4F_31033"}
+{"Query": "Among users with {sleep_points} greater than 23.23 on 2022-06-09, what was the highest {responsiveness_points}?", "Answer": "27"}
+{"Query": "Among users with {sleep_points} greater than 24.16 on 2022-06-05, which user had the highest {responsiveness_points}?", "Answer": "A4F_97618"}
+{"Query": "Among users with {exertion_points} greater than 30.43 on 2022-06-23, what was the highest {responsiveness_points}?", "Answer": "22"}
+{"Query": "Among users with {sleep_points} greater than 25.33 on 2022-05-29, which user had the highest {responsiveness_points}?", "Answer": "A4F_49219"}
+{"Query": "Among users with {exertion_points} greater than 31.17 on 2022-06-05, which user had the highest {responsiveness_points}?", "Answer": "A4F_67757"}
+{"Query": "Among users with {exertion_points} greater than 32.88 on 2022-06-03, which user had the highest {responsiveness_points}?", "Answer": "A4F_43794"}
+{"Query": "Among users with {exertion_points} greater than 31.39 on 2022-05-21, what was the highest {responsiveness_points}?", "Answer": "24"}
+{"Query": "Among users with {exertion_points} greater than 33.96 on 2022-05-23, what was the highest {responsiveness_points}?", "Answer": "28"}
+{"Query": "Among users with {stress_score} greater than 78.88 on 2022-05-29, which user had the highest {responsiveness_points}?", "Answer": "A4F_49219"}
+{"Query": "Among users with {sleep_points} greater than 24.42 on 2022-06-10, what was the highest {responsiveness_points}?", "Answer": "28"}
+{"Query": "Among users with {stress_score} greater than 79.48 on 2022-06-19, which user had the highest {responsiveness_points}?", "Answer": "A4F_31033"}
+{"Query": "Among users with {stress_score} greater than 80.57 on 2022-06-13, which user had the highest {responsiveness_points}?", "Answer": "A4F_98040"}
+{"Query": "Among users with {exertion_points} greater than 33.12 on 2022-05-26, what was the highest {responsiveness_points}?", "Answer": "27"}
+{"Query": "Among users with {exertion_points} greater than 196.63 within one week, starting from 2022-05-22, which user had the lowest {exertion_points}?", "Answer": "A4F_68106"}
+{"Query": "Among users with {sleep_points} greater than 143.03 within one week, starting from 2022-06-06, what was the lowest {exertion_points}?", "Answer": "178"}
+{"Query": "Among users with {exertion_points} greater than 220.29 within one week, starting from 2022-05-24, what was the lowest {exertion_points}?", "Answer": "240"}
+{"Query": "Among users with {responsiveness_points} greater than 156.38 within one week, starting from 2022-06-14, which user had the lowest {exertion_points}?", "Answer": "A4F_86472"}
+{"Query": "Among users with {stress_score} greater than 381.37 within one week, starting from 2022-05-29, what was the lowest {exertion_points}?", "Answer": "159"}
+{"Query": "Among users with {exertion_points} greater than 178.79 within one week, starting from 2022-06-06, what was the lowest {exertion_points}?", "Answer": "185"}
+{"Query": "Among users with {stress_score} greater than 531.32 within one week, starting from 2022-05-26, which user had the lowest {exertion_points}?", "Answer": "A4F_49219"}
+{"Query": "Among users with {stress_score} greater than 459.98 within one week, starting from 2022-05-27, which user had the lowest {exertion_points}?", "Answer": "A4F_65724"}
+{"Query": "Among users with {responsiveness_points} greater than 102.34 within one week, starting from 2022-06-01, what was the lowest {exertion_points}?", "Answer": "116"}
+{"Query": "Among users with {sleep_points} greater than 141.49 within one week, starting from 2022-06-16, which user had the lowest {exertion_points}?", "Answer": "A4F_86472"}
+{"Query": "Among users with {sleep_points} greater than 138.41 within one week, starting from 2022-06-07, what was the lowest {exertion_points}?", "Answer": "132"}
+{"Query": "Among users with {exertion_points} greater than 206.02 within one week, starting from 2022-05-26, which user had the lowest {exertion_points}?", "Answer": "A4F_49219"}
+{"Query": "Among users with {stress_score} greater than 409.3 within one week, starting from 2022-06-04, what was the lowest {exertion_points}?", "Answer": "143"}
+{"Query": "Among users with {sleep_points} greater than 152.02 within one week, starting from 2022-06-12, what was the lowest {exertion_points}?", "Answer": "178"}
+{"Query": "Among users with {stress_score} greater than 511.3 within one week, starting from 2022-05-26, what was the lowest {exertion_points}?", "Answer": "182"}
+{"Query": "Among users with {responsiveness_points} greater than 160.49 within one week, starting from 2022-06-10, what was the lowest {exertion_points}?", "Answer": "177"}
+{"Query": "Among users with {stress_score} greater than 408.86 within one week, starting from 2022-05-28, what was the lowest {exertion_points}?", "Answer": "166"}
+{"Query": "Among users with {responsiveness_points} greater than 138.47 within one week, starting from 2022-05-20, which user had the lowest {exertion_points}?", "Answer": "A4F_49219"}
+{"Query": "Among users with {exertion_points} greater than 117.4 within one week, starting from 2022-06-02, which user had the lowest {exertion_points}?", "Answer": "A4F_92332"}
+{"Query": "Among users with {sleep_points} greater than 147.55 within one week, starting from 2022-06-09, what was the lowest {exertion_points}?", "Answer": "170"}
+{"Query": "Among users with {exertion_points} greater than 175.17 within one week, starting from 2022-06-06, what was the lowest {exertion_points}?", "Answer": "178"}
+{"Query": "Among users with {responsiveness_points} greater than 169.21 within one week, starting from 2022-06-11, which user had the lowest {exertion_points}?", "Answer": "A4F_86472"}
+{"Query": "Among users with {responsiveness_points} greater than 155.63 within one week, starting from 2022-06-07, which user had the lowest {exertion_points}?", "Answer": "A4F_27766"}
+{"Query": "Among users with {stress_score} greater than 516.15 within one week, starting from 2022-06-14, which user had the lowest {exertion_points}?", "Answer": "A4F_86472"}
+{"Query": "Among users with {stress_score} greater than 489.73 within one week, starting from 2022-06-16, which user had the lowest {exertion_points}?", "Answer": "A4F_40008"}
+{"Query": "Among users with {stress_score} greater than 466.96 within one week, starting from 2022-05-20, which user had the lowest {exertion_points}?", "Answer": "A4F_51606"}
+{"Query": "Among users with {sleep_points} greater than 94.06 within one week, starting from 2022-05-30, which user had the lowest {exertion_points}?", "Answer": "A4F_67598"}
+{"Query": "Among users with {responsiveness_points} greater than 157.32 within one week, starting from 2022-06-12, what was the lowest {exertion_points}?", "Answer": "178"}
+{"Query": "Among users with {stress_score} greater than 506.03 within one week, starting from 2022-05-26, which user had the lowest {exertion_points}?", "Answer": "A4F_65724"}
+{"Query": "Among users with {sleep_points} greater than 145.56 within one week, starting from 2022-06-06, what was the lowest {exertion_points}?", "Answer": "178"}

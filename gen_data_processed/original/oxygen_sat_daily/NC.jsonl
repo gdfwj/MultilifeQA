@@ -1,0 +1,90 @@
+{"Query": "How much higher was the {upper_bound_oxygen_saturation} of A4F_10141 during sleeping on 2022-06-08 compared to the previous day?", "Answer": "2"}
+{"Query": "How much higher was the {lower_bound_oxygen_saturation} of A4F_94601 during sleeping on 2022-05-23 compared to the previous day?", "Answer": "-0.9"}
+{"Query": "How much higher was the {upper_bound_oxygen_saturation} of A4F_49219 during sleeping on 2022-05-20 compared to the previous day?", "Answer": "0.4"}
+{"Query": "How much higher was the {upper_bound_oxygen_saturation} of A4F_13368 during sleeping on 2022-05-25 compared to the previous day?", "Answer": "-1.8"}
+{"Query": "How much higher was the {lower_bound_oxygen_saturation} of A4F_34415 during sleeping on 2022-06-10 compared to the previous day?", "Answer": "-3.7"}
+{"Query": "How much higher was the {lower_bound_oxygen_saturation} of A4F_10141 during sleeping on 2022-06-18 compared to the previous day?", "Answer": "2.2"}
+{"Query": "How much higher was the {sleep_average_oxygen_saturation} of A4F_76383 during sleeping on 2022-05-31 compared to the previous day?", "Answer": "-0.3"}
+{"Query": "How much higher was the {lower_bound_oxygen_saturation} of A4F_62344 during sleeping on 2022-06-01 compared to the previous day?", "Answer": "1.4"}
+{"Query": "How much higher was the {lower_bound_oxygen_saturation} of A4F_35752 during sleeping on 2022-06-06 compared to the previous day?", "Answer": "-0.5"}
+{"Query": "How much higher was the {lower_bound_oxygen_saturation} of A4F_69129 during sleeping on 2022-05-19 compared to the previous day?", "Answer": "-2.1"}
+{"Query": "How much higher was the {lower_bound_oxygen_saturation} of A4F_39976 during sleeping on 2022-06-15 compared to the previous day?", "Answer": "-0.2"}
+{"Query": "How much higher was the {lower_bound_oxygen_saturation} of A4F_43794 during sleeping on 2022-05-29 compared to the previous day?", "Answer": "0.6"}
+{"Query": "How much higher was the {sleep_average_oxygen_saturation} of A4F_22643 during sleeping on 2022-06-09 compared to the previous day?", "Answer": "0.5"}
+{"Query": "How much higher was the {upper_bound_oxygen_saturation} of A4F_51606 during sleeping on 2022-05-29 compared to the previous day?", "Answer": "-1.3"}
+{"Query": "How much higher was the {lower_bound_oxygen_saturation} of A4F_37469 during sleeping on 2022-05-21 compared to the previous day?", "Answer": "0.4"}
+{"Query": "How much higher was the {lower_bound_oxygen_saturation} of A4F_10660 during sleeping on 2022-06-14 compared to the previous day?", "Answer": "1.5"}
+{"Query": "How much higher was the {upper_bound_oxygen_saturation} of A4F_85240 during sleeping on 2022-05-27 compared to the previous day?", "Answer": "1.7"}
+{"Query": "How much higher was the {upper_bound_oxygen_saturation} of A4F_91594 during sleeping on 2022-06-16 compared to the previous day?", "Answer": "2"}
+{"Query": "How much higher was the {lower_bound_oxygen_saturation} of A4F_89897 during sleeping on 2022-05-25 compared to the previous day?", "Answer": "-0.5"}
+{"Query": "How much higher was the {sleep_average_oxygen_saturation} of A4F_76292 during sleeping on 2022-05-31 compared to the previous day?", "Answer": "1"}
+{"Query": "How much higher was the {sleep_average_oxygen_saturation} of A4F_72388 during sleeping on 2022-06-14 compared to the previous day?", "Answer": "0.6"}
+{"Query": "How much higher was the {sleep_average_oxygen_saturation} of A4F_91362 during sleeping on 2022-05-29 compared to the previous day?", "Answer": "1.2"}
+{"Query": "How much higher was the {sleep_average_oxygen_saturation} of A4F_65695 during sleeping on 2022-05-25 compared to the previous day?", "Answer": "0.6"}
+{"Query": "How much higher was the {lower_bound_oxygen_saturation} of A4F_94601 during sleeping on 2022-05-20 compared to the previous day?", "Answer": "-1.3"}
+{"Query": "How much higher was the {lower_bound_oxygen_saturation} of A4F_10021 during sleeping on 2022-06-12 compared to the previous day?", "Answer": "0.3"}
+{"Query": "How much higher was the {sleep_average_oxygen_saturation} of A4F_85240 during sleeping on 2022-05-23 compared to the previous day?", "Answer": "4.4"}
+{"Query": "How much higher was the {lower_bound_oxygen_saturation} of A4F_68106 during sleeping on 2022-05-27 compared to the previous day?", "Answer": "-2.4"}
+{"Query": "How much higher was the {upper_bound_oxygen_saturation} of A4F_84740 during sleeping on 2022-05-22 compared to the previous day?", "Answer": "-2.3"}
+{"Query": "How much higher was the {upper_bound_oxygen_saturation} of A4F_85240 during sleeping on 2022-05-20 compared to the previous day?", "Answer": "-0.6"}
+{"Query": "How much higher was the {upper_bound_oxygen_saturation} of A4F_93308 during sleeping on 2022-05-22 compared to the previous day?", "Answer": "-4"}
+{"Query": "What was the highest {upper_bound_oxygen_saturation} recorded for A4F_60983 during sleeping within a week and on which day did it occur, starting from 2022-05-24?", "Answer": "98.9 on 2022-05-27"}
+{"Query": "What was the highest {upper_bound_oxygen_saturation} recorded for A4F_41207 during sleeping within a week and on which day did it occur, starting from 2022-06-09?", "Answer": "100 on 2022-06-12"}
+{"Query": "What was the highest {sleep_average_oxygen_saturation} recorded for A4F_91516 during sleeping within a week and on which day did it occur, starting from 2022-05-21?", "Answer": "95.3 on 2022-05-23"}
+{"Query": "What was the highest {sleep_average_oxygen_saturation} recorded for A4F_56718 during sleeping within a week and on which day did it occur, starting from 2022-05-21?", "Answer": "94.9 on 2022-05-24"}
+{"Query": "What was the highest {lower_bound_oxygen_saturation} recorded for A4F_62344 during sleeping within a week and on which day did it occur, starting from 2022-05-28?", "Answer": "93.5 on 2022-06-03"}
+{"Query": "What was the highest {upper_bound_oxygen_saturation} recorded for A4F_91362 during sleeping within a week and on which day did it occur, starting from 2022-05-22?", "Answer": "97.1 on 2022-05-24"}
+{"Query": "What was the highest {lower_bound_oxygen_saturation} recorded for A4F_76383 during sleeping within a week and on which day did it occur, starting from 2022-05-19?", "Answer": "94.5 on 2022-05-24"}
+{"Query": "What was the highest {upper_bound_oxygen_saturation} recorded for A4F_31649 during sleeping within a week and on which day did it occur, starting from 2022-06-13?", "Answer": "95.5 on 2022-06-17"}
+{"Query": "What was the highest {sleep_average_oxygen_saturation} recorded for A4F_80622 during sleeping within a week and on which day did it occur, starting from 2022-05-23?", "Answer": "95.5 on 2022-05-27"}
+{"Query": "What was the highest {upper_bound_oxygen_saturation} recorded for A4F_22119 during sleeping within a week and on which day did it occur, starting from 2022-05-21?", "Answer": "97.5 on 2022-05-22"}
+{"Query": "What was the highest {sleep_average_oxygen_saturation} recorded for A4F_98040 during sleeping within a week and on which day did it occur, starting from 2022-06-12?", "Answer": "93.2 on 2022-06-13"}
+{"Query": "What was the highest {lower_bound_oxygen_saturation} recorded for A4F_22643 during sleeping within a week and on which day did it occur, starting from 2022-06-09?", "Answer": "91.9 on 2022-06-10"}
+{"Query": "What was the highest {lower_bound_oxygen_saturation} recorded for A4F_67757 during sleeping within a week and on which day did it occur, starting from 2022-06-04?", "Answer": "92.1 on 2022-06-06"}
+{"Query": "What was the highest {upper_bound_oxygen_saturation} recorded for A4F_10355 during sleeping within a week and on which day did it occur, starting from 2022-06-07?", "Answer": "97.3 on 2022-06-12"}
+{"Query": "What was the highest {lower_bound_oxygen_saturation} recorded for A4F_52749 during sleeping within a week and on which day did it occur, starting from 2022-06-14?", "Answer": "92.5 on 2022-06-15"}
+{"Query": "What was the highest {sleep_average_oxygen_saturation} recorded for A4F_85240 during sleeping within a week and on which day did it occur, starting from 2022-05-19?", "Answer": "97.4 on 2022-05-23"}
+{"Query": "What was the highest {sleep_average_oxygen_saturation} recorded for A4F_89897 during sleeping within a week and on which day did it occur, starting from 2022-05-20?", "Answer": "94 on 2022-05-20"}
+{"Query": "What was the highest {lower_bound_oxygen_saturation} recorded for A4F_27052 during sleeping within a week and on which day did it occur, starting from 2022-05-21?", "Answer": "93.1 on 2022-05-25"}
+{"Query": "What was the highest {upper_bound_oxygen_saturation} recorded for A4F_56279 during sleeping within a week and on which day did it occur, starting from 2022-05-20?", "Answer": "100 on 2022-05-21"}
+{"Query": "What was the highest {upper_bound_oxygen_saturation} recorded for A4F_84534 during sleeping within a week and on which day did it occur, starting from 2022-05-26?", "Answer": "100 on 2022-05-27"}
+{"Query": "What was the highest {upper_bound_oxygen_saturation} recorded for A4F_79824 during sleeping within a week and on which day did it occur, starting from 2022-06-09?", "Answer": "95.5 on 2022-06-14"}
+{"Query": "What was the highest {upper_bound_oxygen_saturation} recorded for A4F_76068 during sleeping within a week and on which day did it occur, starting from 2022-05-19?", "Answer": "97.4 on 2022-05-21"}
+{"Query": "What was the highest {lower_bound_oxygen_saturation} recorded for A4F_93308 during sleeping within a week and on which day did it occur, starting from 2022-05-22?", "Answer": "93 on 2022-05-25"}
+{"Query": "What was the highest {upper_bound_oxygen_saturation} recorded for A4F_48857 during sleeping within a week and on which day did it occur, starting from 2022-06-14?", "Answer": "96.5 on 2022-06-19"}
+{"Query": "What was the highest {sleep_average_oxygen_saturation} recorded for A4F_67598 during sleeping within a week and on which day did it occur, starting from 2022-05-23?", "Answer": "96.9 on 2022-05-28"}
+{"Query": "What was the highest {upper_bound_oxygen_saturation} recorded for A4F_76957 during sleeping within a week and on which day did it occur, starting from 2022-05-23?", "Answer": "100 on 2022-05-26"}
+{"Query": "What was the highest {lower_bound_oxygen_saturation} recorded for A4F_56296 during sleeping within a week and on which day did it occur, starting from 2022-06-11?", "Answer": "95 on 2022-06-13"}
+{"Query": "What was the highest {lower_bound_oxygen_saturation} recorded for A4F_71665 during sleeping within a week and on which day did it occur, starting from 2022-06-12?", "Answer": "91.5 on 2022-06-18"}
+{"Query": "What was the highest {upper_bound_oxygen_saturation} recorded for A4F_56297 during sleeping within a week and on which day did it occur, starting from 2022-05-20?", "Answer": "99.1 on 2022-05-25"}
+{"Query": "What was the highest {lower_bound_oxygen_saturation} recorded for A4F_62344 during sleeping within a week and on which day did it occur, starting from 2022-05-30?", "Answer": "93.5 on 2022-06-03"}
+{"Query": "What was the lowest {sleep_average_oxygen_saturation} recorded for A4F_25413 during sleeping within a week and on which day did it occur, starting from 2022-06-04?", "Answer": "93.6 on 2022-06-08"}
+{"Query": "What was the lowest {sleep_average_oxygen_saturation} recorded for A4F_56279 during sleeping within a week and on which day did it occur, starting from 2022-05-20?", "Answer": "95.8 on 2022-05-24"}
+{"Query": "What was the lowest {upper_bound_oxygen_saturation} recorded for A4F_34415 during sleeping within a week and on which day did it occur, starting from 2022-06-16?", "Answer": "93.1 on 2022-06-18"}
+{"Query": "What was the lowest {lower_bound_oxygen_saturation} recorded for A4F_31033 during sleeping within a week and on which day did it occur, starting from 2022-06-14?", "Answer": "88.5 on 2022-06-15"}
+{"Query": "What was the lowest {sleep_average_oxygen_saturation} recorded for A4F_56279 during sleeping within a week and on which day did it occur, starting from 2022-05-19?", "Answer": "95.8 on 2022-05-24"}
+{"Query": "What was the lowest {sleep_average_oxygen_saturation} recorded for A4F_43794 during sleeping within a week and on which day did it occur, starting from 2022-05-31?", "Answer": "94.7 on 2022-06-02"}
+{"Query": "What was the lowest {sleep_average_oxygen_saturation} recorded for A4F_78358 during sleeping within a week and on which day did it occur, starting from 2022-05-27?", "Answer": "91.7 on 2022-05-31"}
+{"Query": "What was the lowest {upper_bound_oxygen_saturation} recorded for A4F_97618 during sleeping within a week and on which day did it occur, starting from 2022-06-06?", "Answer": "94 on 2022-06-12"}
+{"Query": "What was the lowest {upper_bound_oxygen_saturation} recorded for A4F_65060 during sleeping within a week and on which day did it occur, starting from 2022-05-18?", "Answer": "97.6 on 2022-05-18"}
+{"Query": "What was the lowest {upper_bound_oxygen_saturation} recorded for A4F_71665 during sleeping within a week and on which day did it occur, starting from 2022-06-10?", "Answer": "93.9 on 2022-06-15"}
+{"Query": "What was the lowest {upper_bound_oxygen_saturation} recorded for A4F_94120 during sleeping within a week and on which day did it occur, starting from 2022-06-05?", "Answer": "94 on 2022-06-08"}
+{"Query": "What was the lowest {upper_bound_oxygen_saturation} recorded for A4F_31033 during sleeping within a week and on which day did it occur, starting from 2022-06-12?", "Answer": "93.1 on 2022-06-15"}
+{"Query": "What was the lowest {lower_bound_oxygen_saturation} recorded for A4F_71665 during sleeping within a week and on which day did it occur, starting from 2022-06-12?", "Answer": "89 on 2022-06-17"}
+{"Query": "What was the lowest {sleep_average_oxygen_saturation} recorded for A4F_91516 during sleeping within a week and on which day did it occur, starting from 2022-05-21?", "Answer": "93.5 on 2022-05-24"}
+{"Query": "What was the lowest {upper_bound_oxygen_saturation} recorded for A4F_65060 during sleeping within a week and on which day did it occur, starting from 2022-05-24?", "Answer": "97.3 on 2022-05-29"}
+{"Query": "What was the lowest {lower_bound_oxygen_saturation} recorded for A4F_10141 during sleeping within a week and on which day did it occur, starting from 2022-06-14?", "Answer": "88.9 on 2022-06-17"}
+{"Query": "What was the lowest {sleep_average_oxygen_saturation} recorded for A4F_27766 during sleeping within a week and on which day did it occur, starting from 2022-06-14?", "Answer": "89.8 on 2022-06-15"}
+{"Query": "What was the lowest {sleep_average_oxygen_saturation} recorded for A4F_33497 during sleeping within a week and on which day did it occur, starting from 2022-05-26?", "Answer": "94.2 on 2022-05-31"}
+{"Query": "What was the lowest {upper_bound_oxygen_saturation} recorded for A4F_53145 during sleeping within a week and on which day did it occur, starting from 2022-05-24?", "Answer": "97.9 on 2022-05-24"}
+{"Query": "What was the lowest {upper_bound_oxygen_saturation} recorded for A4F_65724 during sleeping within a week and on which day did it occur, starting from 2022-05-21?", "Answer": "94.4 on 2022-05-23"}
+{"Query": "What was the lowest {upper_bound_oxygen_saturation} recorded for A4F_70804 during sleeping within a week and on which day did it occur, starting from 2022-06-11?", "Answer": "94.8 on 2022-06-17"}
+{"Query": "What was the lowest {sleep_average_oxygen_saturation} recorded for A4F_10141 during sleeping within a week and on which day did it occur, starting from 2022-06-14?", "Answer": "91.4 on 2022-06-20"}
+{"Query": "What was the lowest {sleep_average_oxygen_saturation} recorded for A4F_86472 during sleeping within a week and on which day did it occur, starting from 2022-06-08?", "Answer": "92 on 2022-06-08"}
+{"Query": "What was the lowest {sleep_average_oxygen_saturation} recorded for A4F_17705 during sleeping within a week and on which day did it occur, starting from 2022-05-27?", "Answer": "94.7 on 2022-05-29"}
+{"Query": "What was the lowest {lower_bound_oxygen_saturation} recorded for A4F_70804 during sleeping within a week and on which day did it occur, starting from 2022-06-09?", "Answer": "91.4 on 2022-06-13"}
+{"Query": "What was the lowest {upper_bound_oxygen_saturation} recorded for A4F_80622 during sleeping within a week and on which day did it occur, starting from 2022-05-22?", "Answer": "93.5 on 2022-05-26"}
+{"Query": "What was the lowest {sleep_average_oxygen_saturation} recorded for A4F_89897 during sleeping within a week and on which day did it occur, starting from 2022-05-18?", "Answer": "92.8 on 2022-05-21"}
+{"Query": "What was the lowest {upper_bound_oxygen_saturation} recorded for A4F_79824 during sleeping within a week and on which day did it occur, starting from 2022-06-09?", "Answer": "94 on 2022-06-15"}
+{"Query": "What was the lowest {lower_bound_oxygen_saturation} recorded for A4F_76383 during sleeping within a week and on which day did it occur, starting from 2022-05-24?", "Answer": "93.1 on 2022-05-27"}
+{"Query": "What was the lowest {sleep_average_oxygen_saturation} recorded for A4F_56296 during sleeping within a week and on which day did it occur, starting from 2022-06-16?", "Answer": "90.3 on 2022-06-16"}

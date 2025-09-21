@@ -1,0 +1,283 @@
+{"Query": "Within one week starting 2022-06-04, was the average steps higher among high-deep-sleep users (daily deep>P70) than among low-deep-sleep users (≤P30)?", "Answer": "no"}
+{"Query": "Within one week starting 2022-05-20, was the average oxygen_saturation higher among low-stress users (daily stress≤P30) than among high-stress users (>P70)?", "Answer": "no"}
+{"Query": "Within one week starting 2022-06-14, was the average calories_kcal higher among high-step users (daily steps>P70) than among low-step users (≤P30)?", "Answer": "yes"}
+{"Query": "On 2022-05-24, was the average oxygen_saturation higher among high-step users (steps > 13909) than among low-step users (≤ 8990)?", "Answer": "yes"}
+{"Query": "Within one week starting 2022-06-05, was the average steps higher among high-REM users (daily REM>P70) than among low-REM users (≤P30)?", "Answer": "no"}
+{"Query": "On 2022-05-22, was the average stress_score lower among high calorie-density users (cal/steps>P70=0.36) than among low-density users (≤0.24)?", "Answer": "yes"}
+{"Query": "Within one week starting 2022-06-13, was the average oxygen_saturation higher among low-stress users (daily stress≤P30) than among high-stress users (>P70)?", "Answer": "yes"}
+{"Query": "Within one week starting 2022-06-06, was the average steps higher among high-deep-sleep users (daily deep>P70) than among low-deep-sleep users (≤P30)?", "Answer": "no"}
+{"Query": "On 2022-05-29, was the average stress_score lower among high-oxygen users (oxygen>95.09) than among low-oxygen users (≤94.00)?", "Answer": "no"}
+{"Query": "Within one week starting 2022-05-25, was the average calories_kcal higher among high-step users (daily steps>P70) than among low-step users (≤P30)?", "Answer": "yes"}
+{"Query": "Within one week starting 2022-06-06, was the average oxygen_saturation higher among low-stress users (daily stress≤P30) than among high-stress users (>P70)?", "Answer": "no"}
+{"Query": "Was A4F_78358's average resting_heart_rate higher than the population median within one week, starting from 2022-05-26?", "Answer": "no"}
+{"Query": "Within one week starting 2022-06-08, was the average oxygen_saturation higher among low-stress users (daily stress≤P30) than among high-stress users (>P70)?", "Answer": "no"}
+{"Query": "On 2022-05-31, was the average stress_score lower among high calorie-density users (cal/steps>P70=0.37) than among low-density users (≤0.25)?", "Answer": "no"}
+{"Query": "Within one week starting 2022-05-17, was the average calories_kcal higher among high-step users (daily steps>P70) than among low-step users (≤P30)?", "Answer": "yes"}
+{"Query": "On 2022-06-13, was the average minutes_in_deep_sleep higher among high-oxygen users (>94.89) than among low-oxygen users (≤93.10)?", "Answer": "yes"}
+{"Query": "On 2022-05-29, was the average stress_score lower among high-deep users (deep>81.00) than among low-deep users (≤60.90)?", "Answer": "no"}
+{"Query": "Within one week starting 2022-05-24, was the average calories_kcal higher among high-step users (daily steps>P70) than among low-step users (≤P30)?", "Answer": "yes"}
+{"Query": "Within one week starting 2022-06-03, was the average oxygen_saturation higher among high-step users (daily steps>P70) than among low-step users (≤P30)?", "Answer": "no"}
+{"Query": "On 2022-06-08, was the average stress_score lower among high calorie-density users (cal/steps>P70=0.32) than among low-density users (≤0.23)?", "Answer": "no"}
+{"Query": "Within one week starting 2022-05-22, was the average minutes_in_deep_sleep lower among high-resting-HR users (daily RHR>P70) than among low-resting-HR users (≤P30)?", "Answer": "yes"}
+{"Query": "Was A4F_29474's average resting_heart_rate higher than the population median within one week, starting from 2022-06-06?", "Answer": "no"}
+{"Query": "Within one week starting 2022-05-18, was the average resting_heart_rate lower among high-oxygen users (daily oxygen>P70) than among low-oxygen users (≤P30)?", "Answer": "yes"}
+{"Query": "On 2022-06-04, was the average oxygen_saturation higher among high-step users (steps > 14911) than among low-step users (≤ 8093)?", "Answer": "yes"}
+{"Query": "Was A4F_99000's average resting_heart_rate higher than the population median within one week, starting from 2022-06-10?", "Answer": "no"}
+{"Query": "On 2022-05-23, was the average minutes_in_deep_sleep higher among high-oxygen users (>95.10) than among low-oxygen users (≤93.40)?", "Answer": "no"}
+{"Query": "On 2022-05-26, was the average stress_score lower among high calorie-density users (cal/steps>P70=0.30) than among low-density users (≤0.23)?", "Answer": "yes"}
+{"Query": "Within one week starting 2022-06-09, was the average steps higher among high-deep-sleep users (daily deep>P70) than among low-deep-sleep users (≤P30)?", "Answer": "yes"}
+{"Query": "Was A4F_53145's average resting_heart_rate higher than the population median within one week, starting from 2022-05-20?", "Answer": "no"}
+{"Query": "Within one week starting 2022-06-11, was the average calories_kcal higher among high-step users (daily steps>P70) than among low-step users (≤P30)?", "Answer": "yes"}
+{"Query": "Was A4F_65060's average resting_heart_rate higher than the population median within one week, starting from 2022-05-23?", "Answer": "no"}
+{"Query": "Within one week starting 2022-05-17, was the average oxygen_saturation higher among low-stress users (daily stress≤P30) than among high-stress users (>P70)?", "Answer": "no"}
+{"Query": "Within one week starting 2022-05-23, was the average oxygen_saturation higher among low-stress users (daily stress≤P30) than among high-stress users (>P70)?", "Answer": "no"}
+{"Query": "Was A4F_56297's average resting_heart_rate higher than the population median within one week, starting from 2022-05-25?", "Answer": "yes"}
+{"Query": "Within one week starting 2022-06-07, was the average resting_heart_rate lower among high-oxygen users (daily oxygen>P70) than among low-oxygen users (≤P30)?", "Answer": "yes"}
+{"Query": "On 2022-06-14, was the average stress_score lower among high-oxygen users (oxygen>94.54) than among low-oxygen users (≤92.90)?", "Answer": "no"}
+{"Query": "Within one week starting 2022-05-24, was the average resting_heart_rate lower among high-oxygen users (daily oxygen>P70) than among low-oxygen users (≤P30)?", "Answer": "yes"}
+{"Query": "Within one week starting 2022-06-12, was the average minutes_in_deep_sleep lower among high-resting-HR users (daily RHR>P70) than among low-resting-HR users (≤P30)?", "Answer": "no"}
+{"Query": "On 2022-05-31, was the average stress_score lower among high-deep users (deep>83.00) than among low-deep users (≤53.80)?", "Answer": "no"}
+{"Query": "On 2022-05-28, was the average stress_score lower among high-deep users (deep>85.60) than among low-deep users (≤59.60)?", "Answer": "no"}
+{"Query": "On 2022-06-02, was the average minutes_in_deep_sleep higher among high-calorie users (calories_kcal > 3109.92) than among low-calorie users (≤ 2606.20)?", "Answer": "yes"}
+{"Query": "On 2022-06-14, was the average oxygen_saturation higher among high-step users (steps > 12291) than among low-step users (≤ 8071)?", "Answer": "no"}
+{"Query": "On 2022-06-14, was the average stress_score lower among high calorie-density users (cal/steps>P70=0.33) than among low-density users (≤0.24)?", "Answer": "yes"}
+{"Query": "On 2022-05-23, was the average stress_score lower among high-deep users (deep>78.00) than among low-deep users (≤46.00)?", "Answer": "no"}
+{"Query": "Was A4F_41207's average resting_heart_rate higher than the population median within one week, starting from 2022-06-13?", "Answer": "no"}
+{"Query": "Within one week starting 2022-05-21, was the average oxygen_saturation higher among high-step users (daily steps>P70) than among low-step users (≤P30)?", "Answer": "yes"}
+{"Query": "Within one week starting 2022-05-25, was the average resting_heart_rate lower among high-oxygen users (daily oxygen>P70) than among low-oxygen users (≤P30)?", "Answer": "yes"}
+{"Query": "On 2022-06-03, was the average minutes_in_deep_sleep higher among high-calorie users (calories_kcal > 2939.90) than among low-calorie users (≤ 2470.96)?", "Answer": "no"}
+{"Query": "Was A4F_50227's average resting_heart_rate higher than the population median within one week, starting from 2022-06-10?", "Answer": "no"}
+{"Query": "On 2022-05-29, was the average minutes_in_deep_sleep higher among high-calorie users (calories_kcal > 3326.46) than among low-calorie users (≤ 2558.08)?", "Answer": "no"}
+{"Query": "Was A4F_67598's average resting_heart_rate higher than the population median within one week, starting from 2022-05-25?", "Answer": "no"}
+{"Query": "Within one week starting 2022-05-20, was the average resting_heart_rate lower among high-oxygen users (daily oxygen>P70) than among low-oxygen users (≤P30)?", "Answer": "yes"}
+{"Query": "Was A4F_40008's average resting_heart_rate higher than the population median within one week, starting from 2022-06-12?", "Answer": "yes"}
+{"Query": "Within one week starting 2022-05-22, was the average oxygen_saturation higher among high-step users (daily steps>P70) than among low-step users (≤P30)?", "Answer": "yes"}
+{"Query": "Within one week starting 2022-05-20, was the average calories_kcal higher among high-step users (daily steps>P70) than among low-step users (≤P30)?", "Answer": "yes"}
+{"Query": "On 2022-06-12, was the average minutes_in_deep_sleep higher among high-calorie users (calories_kcal > 3134.62) than among low-calorie users (≤ 2518.30)?", "Answer": "yes"}
+{"Query": "On 2022-05-20, was the average oxygen_saturation higher among high-step users (steps > 13075) than among low-step users (≤ 8922)?", "Answer": "no"}
+{"Query": "Within one week starting 2022-06-01, was the average minutes_in_deep_sleep lower among high-resting-HR users (daily RHR>P70) than among low-resting-HR users (≤P30)?", "Answer": "no"}
+{"Query": "On 2022-05-25, was the average oxygen_saturation higher among high-step users (steps > 14433) than among low-step users (≤ 10255)?", "Answer": "yes"}
+{"Query": "Within one week starting 2022-05-20, was the average steps higher among high-REM users (daily REM>P70) than among low-REM users (≤P30)?", "Answer": "yes"}
+{"Query": "On 2022-06-03, was the average stress_score lower among high calorie-density users (cal/steps>P70=0.33) than among low-density users (≤0.23)?", "Answer": "no"}
+{"Query": "On 2022-05-30, was the average stress_score lower among high-oxygen users (oxygen>95.26) than among low-oxygen users (≤93.70)?", "Answer": "no"}
+{"Query": "Within one week starting 2022-05-22, was the average resting_heart_rate lower among high-oxygen users (daily oxygen>P70) than among low-oxygen users (≤P30)?", "Answer": "yes"}
+{"Query": "Within one week starting 2022-06-13, was the average calories_kcal higher among high-step users (daily steps>P70) than among low-step users (≤P30)?", "Answer": "yes"}
+{"Query": "On 2022-06-06, was the average minutes_in_deep_sleep higher among high-oxygen users (>94.42) than among low-oxygen users (≤93.18)?", "Answer": "no"}
+{"Query": "On 2022-06-07, was the average minutes_in_deep_sleep higher among high-calorie users (calories_kcal > 3161.72) than among low-calorie users (≤ 2570.88)?", "Answer": "no"}
+{"Query": "Within one week starting 2022-05-21, was the average oxygen_saturation higher among low-stress users (daily stress≤P30) than among high-stress users (>P70)?", "Answer": "no"}
+{"Query": "Within one week starting 2022-06-09, was the average minutes_in_deep_sleep lower among high-resting-HR users (daily RHR>P70) than among low-resting-HR users (≤P30)?", "Answer": "yes"}
+{"Query": "On 2022-06-17, was the average stress_score lower among high calorie-density users (cal/steps>P70=0.40) than among low-density users (≤0.23)?", "Answer": "yes"}
+{"Query": "On 2022-06-11, was the average minutes_in_deep_sleep higher among high-calorie users (calories_kcal > 3249.87) than among low-calorie users (≤ 2764.41)?", "Answer": "yes"}
+{"Query": "Within one week starting 2022-05-26, was the average resting_heart_rate lower among high-oxygen users (daily oxygen>P70) than among low-oxygen users (≤P30)?", "Answer": "yes"}
+{"Query": "Within one week starting 2022-05-24, was the average steps higher among high-deep-sleep users (daily deep>P70) than among low-deep-sleep users (≤P30)?", "Answer": "no"}
+{"Query": "On 2022-05-28, was the average stress_score lower among high calorie-density users (cal/steps>P70=0.36) than among low-density users (≤0.23)?", "Answer": "yes"}
+{"Query": "Was A4F_74720's average resting_heart_rate higher than the population median within one week, starting from 2022-06-12?", "Answer": "no"}
+{"Query": "Within one week starting 2022-06-02, was the average oxygen_saturation higher among low-stress users (daily stress≤P30) than among high-stress users (>P70)?", "Answer": "no"}
+{"Query": "On 2022-05-26, was the average minutes_in_deep_sleep higher among high-calorie users (calories_kcal > 3275.50) than among low-calorie users (≤ 2815.22)?", "Answer": "no"}
+{"Query": "Within one week starting 2022-05-28, was the average steps higher among high-deep-sleep users (daily deep>P70) than among low-deep-sleep users (≤P30)?", "Answer": "no"}
+{"Query": "On 2022-06-01, was the average minutes_in_deep_sleep higher among high-calorie users (calories_kcal > 3369.45) than among low-calorie users (≤ 2698.32)?", "Answer": "no"}
+{"Query": "On 2022-06-15, was the average stress_score lower among high calorie-density users (cal/steps>P70=0.40) than among low-density users (≤0.25)?", "Answer": "yes"}
+{"Query": "Within one week starting 2022-06-07, was the average oxygen_saturation higher among low-stress users (daily stress≤P30) than among high-stress users (>P70)?", "Answer": "no"}
+{"Query": "On 2022-05-21, was the average stress_score lower among high calorie-density users (cal/steps>P70=0.39) than among low-density users (≤0.25)?", "Answer": "yes"}
+{"Query": "Within one week starting 2022-06-04, was the average resting_heart_rate lower among high-oxygen users (daily oxygen>P70) than among low-oxygen users (≤P30)?", "Answer": "yes"}
+{"Query": "Within one week starting 2022-05-23, was the average calories_kcal higher among high-step users (daily steps>P70) than among low-step users (≤P30)?", "Answer": "yes"}
+{"Query": "Within one week starting 2022-05-21, was the average steps higher among high-deep-sleep users (daily deep>P70) than among low-deep-sleep users (≤P30)?", "Answer": "no"}
+{"Query": "Was A4F_93308's average resting_heart_rate higher than the population median within one week, starting from 2022-05-23?", "Answer": "no"}
+{"Query": "Within one week starting 2022-06-14, was the average steps higher among high-REM users (daily REM>P70) than among low-REM users (≤P30)?", "Answer": "no"}
+{"Query": "On 2022-06-01, was the average stress_score lower among high-oxygen users (oxygen>94.92) than among low-oxygen users (≤92.98)?", "Answer": "yes"}
+{"Query": "Was A4F_93308's average resting_heart_rate higher than the population median within one week, starting from 2022-05-24?", "Answer": "no"}
+{"Query": "On 2022-06-03, was the average minutes_in_deep_sleep higher among high-oxygen users (>94.74) than among low-oxygen users (≤93.66)?", "Answer": "no"}
+{"Query": "On 2022-05-18, was the average minutes_in_deep_sleep higher among high-oxygen users (>94.40) than among low-oxygen users (≤93.48)?", "Answer": "yes"}
+{"Query": "On 2022-05-22, was the average oxygen_saturation higher among high-step users (steps > 12670) than among low-step users (≤ 7816)?", "Answer": "no"}
+{"Query": "Within one week starting 2022-06-06, was the average minutes_in_deep_sleep lower among high-resting-HR users (daily RHR>P70) than among low-resting-HR users (≤P30)?", "Answer": "no"}
+{"Query": "On 2022-06-09, was the average minutes_in_deep_sleep higher among high-calorie users (calories_kcal > 3070.27) than among low-calorie users (≤ 2656.81)?", "Answer": "no"}
+{"Query": "Within one week starting 2022-06-12, was the average oxygen_saturation higher among high-step users (daily steps>P70) than among low-step users (≤P30)?", "Answer": "no"}
+{"Query": "Within one week starting 2022-05-24, was the average oxygen_saturation higher among low-stress users (daily stress≤P30) than among high-stress users (>P70)?", "Answer": "no"}
+{"Query": "Within one week starting 2022-06-09, was the average resting_heart_rate lower among high-oxygen users (daily oxygen>P70) than among low-oxygen users (≤P30)?", "Answer": "yes"}
+{"Query": "Within one week starting 2022-06-11, was the average oxygen_saturation higher among low-stress users (daily stress≤P30) than among high-stress users (>P70)?", "Answer": "yes"}
+{"Query": "Within one week starting 2022-06-10, was the average oxygen_saturation higher among low-stress users (daily stress≤P30) than among high-stress users (>P70)?", "Answer": "yes"}
+{"Query": "Within one week starting 2022-06-15, was the average minutes_in_deep_sleep lower among high-resting-HR users (daily RHR>P70) than among low-resting-HR users (≤P30)?", "Answer": "no"}
+{"Query": "On 2022-06-23, was the average stress_score lower among high-oxygen users (oxygen>96.02) than among low-oxygen users (≤93.78)?", "Answer": "no"}
+{"Query": "Within one week starting 2022-06-10, was the average oxygen_saturation higher among high-step users (daily steps>P70) than among low-step users (≤P30)?", "Answer": "yes"}
+{"Query": "Was A4F_65060's average resting_heart_rate higher than the population median within one week, starting from 2022-05-21?", "Answer": "no"}
+{"Query": "On 2022-05-17, was the average minutes_in_deep_sleep higher among high-calorie users (calories_kcal > 3103.15) than among low-calorie users (≤ 2667.62)?", "Answer": "yes"}
+{"Query": "On 2022-06-12, was the average minutes_in_deep_sleep higher among high-oxygen users (>94.92) than among low-oxygen users (≤93.22)?", "Answer": "no"}
+{"Query": "On 2022-05-21, was the average minutes_in_deep_sleep higher among high-calorie users (calories_kcal > 3430.84) than among low-calorie users (≤ 2736.84)?", "Answer": "no"}
+{"Query": "Within one week starting 2022-06-11, was the average oxygen_saturation higher among high-step users (daily steps>P70) than among low-step users (≤P30)?", "Answer": "yes"}
+{"Query": "Within one week starting 2022-06-12, was the average steps higher among high-REM users (daily REM>P70) than among low-REM users (≤P30)?", "Answer": "no"}
+{"Query": "Within one week starting 2022-06-11, was the average minutes_in_deep_sleep lower among high-resting-HR users (daily RHR>P70) than among low-resting-HR users (≤P30)?", "Answer": "no"}
+{"Query": "Within one week starting 2022-05-28, was the average oxygen_saturation higher among high-step users (daily steps>P70) than among low-step users (≤P30)?", "Answer": "yes"}
+{"Query": "On 2022-06-16, was the average stress_score lower among high calorie-density users (cal/steps>P70=0.41) than among low-density users (≤0.25)?", "Answer": "yes"}
+{"Query": "On 2022-05-26, was the average minutes_in_deep_sleep higher among high-oxygen users (>95.50) than among low-oxygen users (≤93.77)?", "Answer": "yes"}
+{"Query": "Within one week starting 2022-05-22, was the average steps higher among high-deep-sleep users (daily deep>P70) than among low-deep-sleep users (≤P30)?", "Answer": "no"}
+{"Query": "On 2022-06-14, was the average stress_score lower among high-deep users (deep>70.00) than among low-deep users (≤38.80)?", "Answer": "no"}
+{"Query": "On 2022-05-26, was the average stress_score lower among high-deep users (deep>71.40) than among low-deep users (≤43.80)?", "Answer": "no"}
+{"Query": "Within one week starting 2022-05-22, was the average calories_kcal higher among high-step users (daily steps>P70) than among low-step users (≤P30)?", "Answer": "yes"}
+{"Query": "Within one week starting 2022-06-04, was the average minutes_in_deep_sleep lower among high-resting-HR users (daily RHR>P70) than among low-resting-HR users (≤P30)?", "Answer": "no"}
+{"Query": "On 2022-06-07, was the average oxygen_saturation higher among high-step users (steps > 13004) than among low-step users (≤ 8421)?", "Answer": "no"}
+{"Query": "On 2022-06-06, was the average minutes_in_deep_sleep higher among high-calorie users (calories_kcal > 3019.61) than among low-calorie users (≤ 2529.45)?", "Answer": "no"}
+{"Query": "Within one week starting 2022-05-25, was the average minutes_in_deep_sleep lower among high-resting-HR users (daily RHR>P70) than among low-resting-HR users (≤P30)?", "Answer": "yes"}
+{"Query": "Within one week starting 2022-05-21, was the average steps higher among high-REM users (daily REM>P70) than among low-REM users (≤P30)?", "Answer": "yes"}
+{"Query": "Within one week starting 2022-05-28, was the average resting_heart_rate lower among high-oxygen users (daily oxygen>P70) than among low-oxygen users (≤P30)?", "Answer": "yes"}
+{"Query": "Within one week starting 2022-05-21, was the average resting_heart_rate lower among high-oxygen users (daily oxygen>P70) than among low-oxygen users (≤P30)?", "Answer": "yes"}
+{"Query": "Within one week starting 2022-06-12, was the average steps higher among high-deep-sleep users (daily deep>P70) than among low-deep-sleep users (≤P30)?", "Answer": "no"}
+{"Query": "On 2022-06-11, was the average stress_score lower among high-oxygen users (oxygen>94.90) than among low-oxygen users (≤93.15)?", "Answer": "yes"}
+{"Query": "On 2022-06-08, was the average minutes_in_deep_sleep higher among high-oxygen users (>94.32) than among low-oxygen users (≤92.48)?", "Answer": "yes"}
+{"Query": "On 2022-05-19, was the average minutes_in_deep_sleep higher among high-oxygen users (>94.63) than among low-oxygen users (≤93.17)?", "Answer": "no"}
+{"Query": "Within one week starting 2022-05-18, was the average steps higher among high-deep-sleep users (daily deep>P70) than among low-deep-sleep users (≤P30)?", "Answer": "no"}
+{"Query": "Within one week starting 2022-06-13, was the average steps higher among high-REM users (daily REM>P70) than among low-REM users (≤P30)?", "Answer": "no"}
+{"Query": "On 2022-06-08, was the average minutes_in_deep_sleep higher among high-calorie users (calories_kcal > 3103.01) than among low-calorie users (≤ 2567.06)?", "Answer": "yes"}
+{"Query": "On 2022-05-30, was the average oxygen_saturation higher among high-step users (steps > 13190) than among low-step users (≤ 8840)?", "Answer": "yes"}
+{"Query": "On 2022-06-02, was the average minutes_in_deep_sleep higher among high-oxygen users (>94.72) than among low-oxygen users (≤93.58)?", "Answer": "yes"}
+{"Query": "Within one week starting 2022-05-26, was the average minutes_in_deep_sleep lower among high-resting-HR users (daily RHR>P70) than among low-resting-HR users (≤P30)?", "Answer": "yes"}
+{"Query": "On 2022-05-31, was the average stress_score lower among high-oxygen users (oxygen>95.20) than among low-oxygen users (≤93.30)?", "Answer": "no"}
+{"Query": "On 2022-05-20, was the average minutes_in_deep_sleep higher among high-calorie users (calories_kcal > 3332.47) than among low-calorie users (≤ 2686.90)?", "Answer": "no"}
+{"Query": "On 2022-05-29, was the average oxygen_saturation higher among high-step users (steps > 10926) than among low-step users (≤ 6810)?", "Answer": "no"}
+{"Query": "Within one week starting 2022-06-03, was the average oxygen_saturation higher among low-stress users (daily stress≤P30) than among high-stress users (>P70)?", "Answer": "no"}
+{"Query": "On 2022-06-07, was the average minutes_in_deep_sleep higher among high-oxygen users (>94.30) than among low-oxygen users (≤93.40)?", "Answer": "yes"}
+{"Query": "Within one week starting 2022-06-07, was the average minutes_in_deep_sleep lower among high-resting-HR users (daily RHR>P70) than among low-resting-HR users (≤P30)?", "Answer": "no"}
+{"Query": "On 2022-05-20, was the average stress_score lower among high calorie-density users (cal/steps>P70=0.36) than among low-density users (≤0.24)?", "Answer": "no"}
+{"Query": "On 2022-05-31, was the average minutes_in_deep_sleep higher among high-oxygen users (>95.20) than among low-oxygen users (≤93.30)?", "Answer": "yes"}
+{"Query": "On 2022-05-19, was the average stress_score lower among high calorie-density users (cal/steps>P70=0.35) than among low-density users (≤0.23)?", "Answer": "yes"}
+{"Query": "On 2022-06-04, was the average stress_score lower among high-deep users (deep>95.60) than among low-deep users (≤59.00)?", "Answer": "no"}
+{"Query": "Within one week starting 2022-05-29, was the average steps higher among high-deep-sleep users (daily deep>P70) than among low-deep-sleep users (≤P30)?", "Answer": "no"}
+{"Query": "Within one week starting 2022-06-07, was the average oxygen_saturation higher among high-step users (daily steps>P70) than among low-step users (≤P30)?", "Answer": "yes"}
+{"Query": "On 2022-05-22, was the average minutes_in_deep_sleep higher among high-calorie users (calories_kcal > 3194.13) than among low-calorie users (≤ 2736.45)?", "Answer": "no"}
+{"Query": "On 2022-05-23, was the average stress_score lower among high-oxygen users (oxygen>95.10) than among low-oxygen users (≤93.40)?", "Answer": "no"}
+{"Query": "Within one week starting 2022-06-04, was the average calories_kcal higher among high-step users (daily steps>P70) than among low-step users (≤P30)?", "Answer": "yes"}
+{"Query": "Within one week starting 2022-06-15, was the average steps higher among high-deep-sleep users (daily deep>P70) than among low-deep-sleep users (≤P30)?", "Answer": "no"}
+{"Query": "On 2022-05-24, was the average stress_score lower among high calorie-density users (cal/steps>P70=0.34) than among low-density users (≤0.23)?", "Answer": "no"}
+{"Query": "On 2022-06-05, was the average minutes_in_deep_sleep higher among high-oxygen users (>94.63) than among low-oxygen users (≤93.61)?", "Answer": "yes"}
+{"Query": "On 2022-06-14, was the average minutes_in_deep_sleep higher among high-oxygen users (>94.54) than among low-oxygen users (≤92.90)?", "Answer": "yes"}
+{"Query": "Within one week starting 2022-06-08, was the average minutes_in_deep_sleep lower among high-resting-HR users (daily RHR>P70) than among low-resting-HR users (≤P30)?", "Answer": "yes"}
+{"Query": "On 2022-05-20, was the average minutes_in_deep_sleep higher among high-oxygen users (>95.10) than among low-oxygen users (≤93.20)?", "Answer": "no"}
+{"Query": "On 2022-06-10, was the average stress_score lower among high calorie-density users (cal/steps>P70=0.31) than among low-density users (≤0.25)?", "Answer": "no"}
+{"Query": "On 2022-06-05, was the average stress_score lower among high calorie-density users (cal/steps>P70=0.34) than among low-density users (≤0.23)?", "Answer": "no"}
+{"Query": "On 2022-06-16, was the average stress_score lower among high-oxygen users (oxygen>94.20) than among low-oxygen users (≤92.72)?", "Answer": "yes"}
+{"Query": "On 2022-05-21, was the average oxygen_saturation higher among high-step users (steps > 12795) than among low-step users (≤ 8208)?", "Answer": "yes"}
+{"Query": "On 2022-06-10, was the average minutes_in_deep_sleep higher among high-oxygen users (>94.69) than among low-oxygen users (≤92.63)?", "Answer": "yes"}
+{"Query": "On 2022-06-23, was the average minutes_in_deep_sleep higher among high-oxygen users (>96.02) than among low-oxygen users (≤93.78)?", "Answer": "yes"}
+{"Query": "Was A4F_76068's average resting_heart_rate higher than the population median within one week, starting from 2022-05-25?", "Answer": "no"}
+{"Query": "Was A4F_18098's average resting_heart_rate higher than the population median within one week, starting from 2022-06-04?", "Answer": "yes"}
+{"Query": "On 2022-05-18, was the average minutes_in_deep_sleep higher among high-calorie users (calories_kcal > 3322.40) than among low-calorie users (≤ 2807.49)?", "Answer": "no"}
+{"Query": "On 2022-06-13, was the average minutes_in_deep_sleep higher among high-calorie users (calories_kcal > 3125.69) than among low-calorie users (≤ 2581.18)?", "Answer": "yes"}
+{"Query": "Within one week starting 2022-06-16, was the average oxygen_saturation higher among low-stress users (daily stress≤P30) than among high-stress users (>P70)?", "Answer": "yes"}
+{"Query": "Within one week starting 2022-06-02, was the average resting_heart_rate lower among high-oxygen users (daily oxygen>P70) than among low-oxygen users (≤P30)?", "Answer": "no"}
+{"Query": "On 2022-05-31, was the average oxygen_saturation higher among high-step users (steps > 13504) than among low-step users (≤ 7495)?", "Answer": "yes"}
+{"Query": "On 2022-06-14, was the average minutes_in_deep_sleep higher among high-calorie users (calories_kcal > 3180.69) than among low-calorie users (≤ 2567.57)?", "Answer": "no"}
+{"Query": "Within one week starting 2022-05-24, was the average steps higher among high-REM users (daily REM>P70) than among low-REM users (≤P30)?", "Answer": "no"}
+{"Query": "On 2022-06-18, was the average stress_score lower among high-deep users (deep>84.30) than among low-deep users (≤57.60)?", "Answer": "no"}
+{"Query": "On 2022-06-18, was the average stress_score lower among high calorie-density users (cal/steps>P70=0.38) than among low-density users (≤0.24)?", "Answer": "yes"}
+{"Query": "On 2022-06-04, was the average stress_score lower among high-oxygen users (oxygen>95.00) than among low-oxygen users (≤93.54)?", "Answer": "no"}
+{"Query": "On 2022-06-09, was the average oxygen_saturation higher among high-step users (steps > 11799) than among low-step users (≤ 8582)?", "Answer": "yes"}
+{"Query": "Within one week starting 2022-06-13, was the average steps higher among high-deep-sleep users (daily deep>P70) than among low-deep-sleep users (≤P30)?", "Answer": "no"}
+{"Query": "On 2022-06-18, was the average minutes_in_deep_sleep higher among high-calorie users (calories_kcal > 3305.35) than among low-calorie users (≤ 2739.72)?", "Answer": "no"}
+{"Query": "On 2022-05-23, was the average stress_score lower among high calorie-density users (cal/steps>P70=0.36) than among low-density users (≤0.23)?", "Answer": "yes"}
+{"Query": "On 2022-06-10, was the average stress_score lower among high-oxygen users (oxygen>94.69) than among low-oxygen users (≤92.63)?", "Answer": "no"}
+{"Query": "On 2022-05-24, was the average stress_score lower among high-oxygen users (oxygen>95.51) than among low-oxygen users (≤93.80)?", "Answer": "no"}
+{"Query": "On 2022-06-08, was the average stress_score lower among high-deep users (deep>71.00) than among low-deep users (≤48.40)?", "Answer": "no"}
+{"Query": "Within one week starting 2022-05-23, was the average steps higher among high-deep-sleep users (daily deep>P70) than among low-deep-sleep users (≤P30)?", "Answer": "no"}
+{"Query": "Within one week starting 2022-05-28, was the average minutes_in_deep_sleep lower among high-resting-HR users (daily RHR>P70) than among low-resting-HR users (≤P30)?", "Answer": "yes"}
+{"Query": "Within one week starting 2022-06-13, was the average minutes_in_deep_sleep lower among high-resting-HR users (daily RHR>P70) than among low-resting-HR users (≤P30)?", "Answer": "no"}
+{"Query": "Within one week starting 2022-05-22, was the average steps higher among high-REM users (daily REM>P70) than among low-REM users (≤P30)?", "Answer": "yes"}
+{"Query": "Was A4F_27052's average resting_heart_rate higher than the population median within one week, starting from 2022-05-22?", "Answer": "yes"}
+{"Query": "Within one week starting 2022-06-11, was the average steps higher among high-deep-sleep users (daily deep>P70) than among low-deep-sleep users (≤P30)?", "Answer": "yes"}
+{"Query": "Within one week starting 2022-06-01, was the average calories_kcal higher among high-step users (daily steps>P70) than among low-step users (≤P30)?", "Answer": "yes"}
+{"Query": "On 2022-06-03, was the average stress_score lower among high-oxygen users (oxygen>94.74) than among low-oxygen users (≤93.66)?", "Answer": "no"}
+{"Query": "Within one week starting 2022-06-06, was the average resting_heart_rate lower among high-oxygen users (daily oxygen>P70) than among low-oxygen users (≤P30)?", "Answer": "yes"}
+{"Query": "On 2022-06-15, was the average oxygen_saturation higher among high-step users (steps > 11358) than among low-step users (≤ 7076)?", "Answer": "no"}
+{"Query": "Was A4F_77391's average resting_heart_rate higher than the population median within one week, starting from 2022-05-26?", "Answer": "yes"}
+{"Query": "Within one week starting 2022-05-20, was the average minutes_in_deep_sleep lower among high-resting-HR users (daily RHR>P70) than among low-resting-HR users (≤P30)?", "Answer": "yes"}
+{"Query": "Was A4F_10355's average resting_heart_rate higher than the population median within one week, starting from 2022-06-12?", "Answer": "yes"}
+{"Query": "Within one week starting 2022-05-27, was the average oxygen_saturation higher among low-stress users (daily stress≤P30) than among high-stress users (>P70)?", "Answer": "no"}
+{"Query": "On 2022-06-06, was the average stress_score lower among high-oxygen users (oxygen>94.42) than among low-oxygen users (≤93.18)?", "Answer": "no"}
+{"Query": "Within one week starting 2022-06-08, was the average steps higher among high-deep-sleep users (daily deep>P70) than among low-deep-sleep users (≤P30)?", "Answer": "yes"}
+{"Query": "Within one week starting 2022-06-07, was the average calories_kcal higher among high-step users (daily steps>P70) than among low-step users (≤P30)?", "Answer": "yes"}
+{"Query": "On 2022-05-30, was the average stress_score lower among high-deep users (deep>82.70) than among low-deep users (≤48.00)?", "Answer": "no"}
+{"Query": "Within one week starting 2022-05-17, was the average minutes_in_deep_sleep lower among high-resting-HR users (daily RHR>P70) than among low-resting-HR users (≤P30)?", "Answer": "yes"}
+{"Query": "Was A4F_29474's average resting_heart_rate higher than the population median within one week, starting from 2022-06-07?", "Answer": "no"}
+{"Query": "Within one week starting 2022-05-18, was the average minutes_in_deep_sleep lower among high-resting-HR users (daily RHR>P70) than among low-resting-HR users (≤P30)?", "Answer": "yes"}
+{"Query": "Was A4F_51606's average resting_heart_rate higher than the population median within one week, starting from 2022-05-22?", "Answer": "no"}
+{"Query": "On 2022-06-22, was the average oxygen_saturation higher among high-step users (steps > 10879) than among low-step users (≤ 6054)?", "Answer": "yes"}
+{"Query": "On 2022-06-18, was the average oxygen_saturation higher among high-step users (steps > 14177) than among low-step users (≤ 7642)?", "Answer": "no"}
+{"Query": "Was A4F_76292's average resting_heart_rate higher than the population median within one week, starting from 2022-05-25?", "Answer": "yes"}
+{"Query": "On 2022-06-02, was the average stress_score lower among high-oxygen users (oxygen>94.72) than among low-oxygen users (≤93.58)?", "Answer": "no"}
+{"Query": "Within one week starting 2022-05-23, was the average resting_heart_rate lower among high-oxygen users (daily oxygen>P70) than among low-oxygen users (≤P30)?", "Answer": "yes"}
+{"Query": "Within one week starting 2022-06-15, was the average calories_kcal higher among high-step users (daily steps>P70) than among low-step users (≤P30)?", "Answer": "yes"}
+{"Query": "Within one week starting 2022-05-19, was the average resting_heart_rate lower among high-oxygen users (daily oxygen>P70) than among low-oxygen users (≤P30)?", "Answer": "yes"}
+{"Query": "Within one week starting 2022-06-13, was the average resting_heart_rate lower among high-oxygen users (daily oxygen>P70) than among low-oxygen users (≤P30)?", "Answer": "yes"}
+{"Query": "On 2022-05-25, was the average minutes_in_deep_sleep higher among high-calorie users (calories_kcal > 3312.81) than among low-calorie users (≤ 2876.30)?", "Answer": "yes"}
+{"Query": "Within one week starting 2022-05-27, was the average oxygen_saturation higher among high-step users (daily steps>P70) than among low-step users (≤P30)?", "Answer": "yes"}
+{"Query": "On 2022-06-19, was the average oxygen_saturation higher among high-step users (steps > 13197) than among low-step users (≤ 6525)?", "Answer": "no"}
+{"Query": "On 2022-06-07, was the average stress_score lower among high calorie-density users (cal/steps>P70=0.35) than among low-density users (≤0.24)?", "Answer": "no"}
+{"Query": "On 2022-06-16, was the average minutes_in_deep_sleep higher among high-calorie users (calories_kcal > 3151.57) than among low-calorie users (≤ 2624.63)?", "Answer": "no"}
+{"Query": "On 2022-06-12, was the average stress_score lower among high-deep users (deep>83.00) than among low-deep users (≤53.00)?", "Answer": "no"}
+{"Query": "On 2022-05-30, was the average minutes_in_deep_sleep higher among high-oxygen users (>95.26) than among low-oxygen users (≤93.70)?", "Answer": "yes"}
+{"Query": "Within one week starting 2022-05-18, was the average steps higher among high-REM users (daily REM>P70) than among low-REM users (≤P30)?", "Answer": "yes"}
+{"Query": "Was A4F_17705's average resting_heart_rate higher than the population median within one week, starting from 2022-05-24?", "Answer": "no"}
+{"Query": "On 2022-05-19, was the average oxygen_saturation higher among high-step users (steps > 12578) than among low-step users (≤ 8069)?", "Answer": "no"}
+{"Query": "Was A4F_65695's average resting_heart_rate higher than the population median within one week, starting from 2022-05-21?", "Answer": "no"}
+{"Query": "Within one week starting 2022-06-08, was the average oxygen_saturation higher among high-step users (daily steps>P70) than among low-step users (≤P30)?", "Answer": "yes"}
+{"Query": "Was A4F_65695's average resting_heart_rate higher than the population median within one week, starting from 2022-05-18?", "Answer": "no"}
+{"Query": "On 2022-06-17, was the average minutes_in_deep_sleep higher among high-calorie users (calories_kcal > 3065.60) than among low-calorie users (≤ 2552.00)?", "Answer": "no"}
+{"Query": "Was A4F_45118's average resting_heart_rate higher than the population median within one week, starting from 2022-05-19?", "Answer": "no"}
+{"Query": "On 2022-05-23, was the average oxygen_saturation higher among high-step users (steps > 13822) than among low-step users (≤ 8102)?", "Answer": "yes"}
+{"Query": "On 2022-06-01, was the average oxygen_saturation higher among high-step users (steps > 12429) than among low-step users (≤ 8261)?", "Answer": "yes"}
+{"Query": "On 2022-05-27, was the average minutes_in_deep_sleep higher among high-calorie users (calories_kcal > 3372.81) than among low-calorie users (≤ 2613.36)?", "Answer": "no"}
+{"Query": "Within one week starting 2022-06-14, was the average steps higher among high-deep-sleep users (daily deep>P70) than among low-deep-sleep users (≤P30)?", "Answer": "no"}
+{"Query": "Within one week starting 2022-06-09, was the average steps higher among high-REM users (daily REM>P70) than among low-REM users (≤P30)?", "Answer": "no"}
+{"Query": "On 2022-06-22, was the average minutes_in_deep_sleep higher among high-oxygen users (>94.78) than among low-oxygen users (≤93.02)?", "Answer": "yes"}
+{"Query": "On 2022-06-13, was the average oxygen_saturation higher among high-step users (steps > 12558) than among low-step users (≤ 8382)?", "Answer": "yes"}
+{"Query": "Within one week starting 2022-06-05, was the average calories_kcal higher among high-step users (daily steps>P70) than among low-step users (≤P30)?", "Answer": "yes"}
+{"Query": "On 2022-06-12, was the average stress_score lower among high-oxygen users (oxygen>94.92) than among low-oxygen users (≤93.22)?", "Answer": "no"}
+{"Query": "On 2022-05-19, was the average stress_score lower among high-deep users (deep>64.00) than among low-deep users (≤46.00)?", "Answer": "no"}
+{"Query": "On 2022-06-19, was the average stress_score lower among high-oxygen users (oxygen>94.48) than among low-oxygen users (≤92.72)?", "Answer": "no"}
+{"Query": "Within one week starting 2022-05-25, was the average steps higher among high-deep-sleep users (daily deep>P70) than among low-deep-sleep users (≤P30)?", "Answer": "no"}
+{"Query": "Within one week starting 2022-05-20, was the average steps higher among high-deep-sleep users (daily deep>P70) than among low-deep-sleep users (≤P30)?", "Answer": "no"}
+{"Query": "On 2022-06-17, was the average stress_score lower among high-deep users (deep>72.80) than among low-deep users (≤43.60)?", "Answer": "yes"}
+{"Query": "Was A4F_65724's average resting_heart_rate higher than the population median within one week, starting from 2022-05-20?", "Answer": "yes"}
+{"Query": "On 2022-05-21, was the average stress_score lower among high-deep users (deep>82.60) than among low-deep users (≤56.70)?", "Answer": "no"}
+{"Query": "On 2022-05-25, was the average stress_score lower among high-deep users (deep>72.20) than among low-deep users (≤47.00)?", "Answer": "no"}
+{"Query": "Within one week starting 2022-05-29, was the average oxygen_saturation higher among low-stress users (daily stress≤P30) than among high-stress users (>P70)?", "Answer": "no"}
+{"Query": "On 2022-05-22, was the average stress_score lower among high-deep users (deep>80.00) than among low-deep users (≤51.40)?", "Answer": "no"}
+{"Query": "On 2022-06-01, was the average stress_score lower among high calorie-density users (cal/steps>P70=0.36) than among low-density users (≤0.26)?", "Answer": "yes"}
+{"Query": "On 2022-06-20, was the average stress_score lower among high-deep users (deep>84.00) than among low-deep users (≤60.00)?", "Answer": "no"}
+{"Query": "Within one week starting 2022-06-10, was the average minutes_in_deep_sleep lower among high-resting-HR users (daily RHR>P70) than among low-resting-HR users (≤P30)?", "Answer": "yes"}
+{"Query": "On 2022-06-04, was the average stress_score lower among high calorie-density users (cal/steps>P70=0.33) than among low-density users (≤0.21)?", "Answer": "no"}
+{"Query": "Was A4F_76383's average resting_heart_rate higher than the population median within one week, starting from 2022-05-21?", "Answer": "yes"}
+{"Query": "Was A4F_98040's average resting_heart_rate higher than the population median within one week, starting from 2022-06-15?", "Answer": "yes"}
+{"Query": "On 2022-05-18, was the average oxygen_saturation higher among high-step users (steps > 13419) than among low-step users (≤ 8896)?", "Answer": "yes"}
+{"Query": "Within one week starting 2022-05-18, was the average oxygen_saturation higher among low-stress users (daily stress≤P30) than among high-stress users (>P70)?", "Answer": "no"}
+{"Query": "Within one week starting 2022-05-26, was the average oxygen_saturation higher among low-stress users (daily stress≤P30) than among high-stress users (>P70)?", "Answer": "no"}
+{"Query": "Within one week starting 2022-06-06, was the average calories_kcal higher among high-step users (daily steps>P70) than among low-step users (≤P30)?", "Answer": "yes"}
+{"Query": "Within one week starting 2022-05-25, was the average oxygen_saturation higher among low-stress users (daily stress≤P30) than among high-stress users (>P70)?", "Answer": "no"}
+{"Query": "Was A4F_40008's average resting_heart_rate higher than the population median within one week, starting from 2022-06-15?", "Answer": "yes"}
+{"Query": "Within one week starting 2022-05-27, was the average minutes_in_deep_sleep lower among high-resting-HR users (daily RHR>P70) than among low-resting-HR users (≤P30)?", "Answer": "yes"}
+{"Query": "On 2022-06-11, was the average stress_score lower among high calorie-density users (cal/steps>P70=0.30) than among low-density users (≤0.23)?", "Answer": "no"}
+{"Query": "On 2022-06-13, was the average stress_score lower among high-deep users (deep>91.40) than among low-deep users (≤46.40)?", "Answer": "no"}
+{"Query": "Within one week starting 2022-05-26, was the average calories_kcal higher among high-step users (daily steps>P70) than among low-step users (≤P30)?", "Answer": "yes"}
+{"Query": "Within one week starting 2022-06-12, was the average resting_heart_rate lower among high-oxygen users (daily oxygen>P70) than among low-oxygen users (≤P30)?", "Answer": "yes"}
+{"Query": "On 2022-06-12, was the average oxygen_saturation higher among high-step users (steps > 12865) than among low-step users (≤ 6736)?", "Answer": "no"}
+{"Query": "On 2022-06-21, was the average stress_score lower among high-oxygen users (oxygen>94.99) than among low-oxygen users (≤93.37)?", "Answer": "no"}
+{"Query": "Within one week starting 2022-05-25, was the average oxygen_saturation higher among high-step users (daily steps>P70) than among low-step users (≤P30)?", "Answer": "yes"}
+{"Query": "On 2022-06-15, was the average stress_score lower among high-deep users (deep>91.00) than among low-deep users (≤47.00)?", "Answer": "no"}
+{"Query": "On 2022-06-05, was the average oxygen_saturation higher among high-step users (steps > 13409) than among low-step users (≤ 6716)?", "Answer": "no"}
+{"Query": "On 2022-05-28, was the average stress_score lower among high-oxygen users (oxygen>95.50) than among low-oxygen users (≤94.20)?", "Answer": "no"}
+{"Query": "Within one week starting 2022-06-09, was the average oxygen_saturation higher among high-step users (daily steps>P70) than among low-step users (≤P30)?", "Answer": "yes"}
+{"Query": "Within one week starting 2022-05-17, was the average steps higher among high-REM users (daily REM>P70) than among low-REM users (≤P30)?", "Answer": "yes"}
+{"Query": "Within one week starting 2022-05-27, was the average resting_heart_rate lower among high-oxygen users (daily oxygen>P70) than among low-oxygen users (≤P30)?", "Answer": "yes"}
+{"Query": "On 2022-06-09, was the average stress_score lower among high-oxygen users (oxygen>94.27) than among low-oxygen users (≤92.80)?", "Answer": "yes"}
+{"Query": "Within one week starting 2022-06-08, was the average steps higher among high-REM users (daily REM>P70) than among low-REM users (≤P30)?", "Answer": "no"}
+{"Query": "Within one week starting 2022-06-11, was the average resting_heart_rate lower among high-oxygen users (daily oxygen>P70) than among low-oxygen users (≤P30)?", "Answer": "yes"}
+{"Query": "Within one week starting 2022-05-23, was the average minutes_in_deep_sleep lower among high-resting-HR users (daily RHR>P70) than among low-resting-HR users (≤P30)?", "Answer": "yes"}
+{"Query": "Within one week starting 2022-05-21, was the average minutes_in_deep_sleep lower among high-resting-HR users (daily RHR>P70) than among low-resting-HR users (≤P30)?", "Answer": "yes"}
+{"Query": "Within one week starting 2022-05-23, was the average oxygen_saturation higher among high-step users (daily steps>P70) than among low-step users (≤P30)?", "Answer": "yes"}
+{"Query": "Within one week starting 2022-06-10, was the average calories_kcal higher among high-step users (daily steps>P70) than among low-step users (≤P30)?", "Answer": "yes"}
+{"Query": "Within one week starting 2022-06-13, was the average oxygen_saturation higher among high-step users (daily steps>P70) than among low-step users (≤P30)?", "Answer": "no"}
+{"Query": "Within one week starting 2022-05-18, was the average calories_kcal higher among high-step users (daily steps>P70) than among low-step users (≤P30)?", "Answer": "yes"}
+{"Query": "Within one week starting 2022-05-28, was the average calories_kcal higher among high-step users (daily steps>P70) than among low-step users (≤P30)?", "Answer": "yes"}
+{"Query": "Within one week starting 2022-06-06, was the average oxygen_saturation higher among high-step users (daily steps>P70) than among low-step users (≤P30)?", "Answer": "yes"}
+{"Query": "Within one week starting 2022-05-24, was the average oxygen_saturation higher among high-step users (daily steps>P70) than among low-step users (≤P30)?", "Answer": "yes"}
+{"Query": "Within one week starting 2022-06-07, was the average steps higher among high-REM users (daily REM>P70) than among low-REM users (≤P30)?", "Answer": "no"}
+{"Query": "Within one week starting 2022-06-11, was the average steps higher among high-REM users (daily REM>P70) than among low-REM users (≤P30)?", "Answer": "no"}
+{"Query": "Within one week starting 2022-05-26, was the average steps higher among high-REM users (daily REM>P70) than among low-REM users (≤P30)?", "Answer": "no"}

@@ -1,0 +1,177 @@
+{"Query": "Did A4F_85240's {sedentary_minutes} on 2022-05-28 increase or decrease or remain the same, compared to the previous day?", "Answer": "decrease"}
+{"Query": "Did A4F_41207's {sedentary_minutes} on 2022-06-20 increase or decrease or remain the same, compared to the previous day?", "Answer": "decrease"}
+{"Query": "Did A4F_71665's {fat_burn_minutes} on 2022-06-12 increase or decrease or remain the same, compared to the previous day?", "Answer": "same"}
+{"Query": "Did A4F_33497's {sedentary_minutes} on 2022-05-28 increase or decrease or remain the same, compared to the previous day?", "Answer": "increase"}
+{"Query": "Did A4F_82994's {very_active_minutes} on 2022-06-13 increase or decrease or remain the same, compared to the previous day?", "Answer": "decrease"}
+{"Query": "Did A4F_80622's {very_active_minutes} on 2022-05-31 increase or decrease or remain the same, compared to the previous day?", "Answer": "decrease"}
+{"Query": "Did A4F_41207's {lightly_active_minutes} on 2022-06-12 increase or decrease or remain the same, compared to the previous day?", "Answer": "decrease"}
+{"Query": "Did A4F_60983's {moderately_active_minutes} on 2022-06-01 increase or decrease or remain the same, compared to the previous day?", "Answer": "decrease"}
+{"Query": "Did A4F_56296's {total_active_minutes} on 2022-06-15 increase or decrease or remain the same, compared to the previous day?", "Answer": "increase"}
+{"Query": "Did A4F_52749's {cardio_minutes} on 2022-06-15 increase or decrease or remain the same, compared to the previous day?", "Answer": "same"}
+{"Query": "Did A4F_91516's {lightly_active_minutes} on 2022-05-26 increase or decrease or remain the same, compared to the previous day?", "Answer": "decrease"}
+{"Query": "Did A4F_33497's {very_active_minutes} on 2022-05-22 increase or decrease or remain the same, compared to the previous day?", "Answer": "decrease"}
+{"Query": "Did A4F_74720's {moderately_active_minutes} on 2022-06-17 increase or decrease or remain the same, compared to the previous day?", "Answer": "same"}
+{"Query": "Did A4F_71665's {fat_burn_minutes} on 2022-06-05 increase or decrease or remain the same, compared to the previous day?", "Answer": "decrease"}
+{"Query": "Did A4F_80622's {moderately_active_minutes} on 2022-05-21 increase or decrease or remain the same, compared to the previous day?", "Answer": "decrease"}
+{"Query": "Did A4F_32988's {total_active_minutes} on 2022-05-27 increase or decrease or remain the same, compared to the previous day?", "Answer": "decrease"}
+{"Query": "Did A4F_98040's {moderately_active_minutes} on 2022-06-16 increase or decrease or remain the same, compared to the previous day?", "Answer": "decrease"}
+{"Query": "Did A4F_45863's {very_active_minutes} on 2022-05-24 increase or decrease or remain the same, compared to the previous day?", "Answer": "increase"}
+{"Query": "Did A4F_80622's {fat_burn_minutes} on 2022-05-19 increase or decrease or remain the same, compared to the previous day?", "Answer": "increase"}
+{"Query": "Did A4F_84962's {total_active_minutes} on 2022-05-22 increase or decrease or remain the same, compared to the previous day?", "Answer": "increase"}
+{"Query": "Did A4F_93308's {peak_minutes} on 2022-05-20 increase or decrease or remain the same, compared to the previous day?", "Answer": "same"}
+{"Query": "Did A4F_74742's {fat_burn_minutes} on 2022-06-13 increase or decrease or remain the same, compared to the previous day?", "Answer": "increase"}
+{"Query": "Did A4F_94336's {sedentary_minutes} on 2022-05-30 increase or decrease or remain the same, compared to the previous day?", "Answer": "increase"}
+{"Query": "Did A4F_17705's {sedentary_minutes} on 2022-05-27 increase or decrease or remain the same, compared to the previous day?", "Answer": "increase"}
+{"Query": "Did A4F_78358's {very_active_minutes} on 2022-05-30 increase or decrease or remain the same, compared to the previous day?", "Answer": "increase"}
+{"Query": "Did A4F_62344's {very_active_minutes} on 2022-05-25 increase or decrease or remain the same, compared to the previous day?", "Answer": "increase"}
+{"Query": "Did A4F_72388's {sedentary_minutes} on 2022-06-22 increase or decrease or remain the same, compared to the previous day?", "Answer": "increase"}
+{"Query": "Did A4F_56355's {cardio_minutes} on 2022-05-29 increase or decrease or remain the same, compared to the previous day?", "Answer": "decrease"}
+{"Query": "Did A4F_18098's {fat_burn_minutes} on 2022-06-06 increase or decrease or remain the same, compared to the previous day?", "Answer": "increase"}
+{"Query": "Did A4F_52749's {moderately_active_minutes} on 2022-06-15 increase or decrease or remain the same, compared to the previous day?", "Answer": "increase"}
+{"Query": "How many consecutive days did A4F_97386's {total_active_minutes} increase, starting from 2022-06-12?", "Answer": "2"}
+{"Query": "How many consecutive days did A4F_56718's {cardio_minutes} increase, starting from 2022-05-29?", "Answer": "2"}
+{"Query": "How many consecutive days did A4F_97386's {cardio_minutes} increase, starting from 2022-06-03?", "Answer": "2"}
+{"Query": "How many consecutive days did A4F_72388's {cardio_minutes} increase, starting from 2022-06-09?", "Answer": "2"}
+{"Query": "How many consecutive days did A4F_24211's {fat_burn_minutes} increase, starting from 2022-06-15?", "Answer": "2"}
+{"Query": "How many consecutive days did A4F_40008's {fat_burn_minutes} increase, starting from 2022-06-03?", "Answer": "2"}
+{"Query": "How many consecutive days did A4F_80622's {lightly_active_minutes} increase, starting from 2022-05-21?", "Answer": "3"}
+{"Query": "How many consecutive days did A4F_91362's {very_active_minutes} increase, starting from 2022-05-24?", "Answer": "2"}
+{"Query": "How many consecutive days did A4F_28771's {lightly_active_minutes} increase, starting from 2022-06-09?", "Answer": "3"}
+{"Query": "How many consecutive days did A4F_34415's {lightly_active_minutes} increase, starting from 2022-06-16?", "Answer": "2"}
+{"Query": "How many consecutive days did A4F_69129's {sedentary_minutes} increase, starting from 2022-05-19?", "Answer": "3"}
+{"Query": "How many consecutive days did A4F_91362's {very_active_minutes} increase, starting from 2022-05-29?", "Answer": "4"}
+{"Query": "How many consecutive days did A4F_94120's {fat_burn_minutes} increase, starting from 2022-06-13?", "Answer": "2"}
+{"Query": "How many consecutive days did A4F_67598's {moderately_active_minutes} increase, starting from 2022-05-23?", "Answer": "2"}
+{"Query": "How many consecutive days did A4F_98040's {very_active_minutes} increase, starting from 2022-06-13?", "Answer": "3"}
+{"Query": "How many consecutive days did A4F_74720's {fat_burn_minutes} increase, starting from 2022-06-06?", "Answer": "3"}
+{"Query": "How many consecutive days did A4F_68106's {lightly_active_minutes} increase, starting from 2022-05-17?", "Answer": "3"}
+{"Query": "How many consecutive days did A4F_33497's {sedentary_minutes} increase, starting from 2022-05-27?", "Answer": "3"}
+{"Query": "How many consecutive days did A4F_45863's {lightly_active_minutes} increase, starting from 2022-05-30?", "Answer": "4"}
+{"Query": "How many consecutive days did A4F_97618's {lightly_active_minutes} increase, starting from 2022-06-06?", "Answer": "4"}
+{"Query": "How many consecutive days did A4F_96181's {total_active_minutes} increase, starting from 2022-06-07?", "Answer": "3"}
+{"Query": "How many consecutive days did A4F_18098's {sedentary_minutes} increase, starting from 2022-06-18?", "Answer": "5"}
+{"Query": "How many consecutive days did A4F_71665's {sedentary_minutes} increase, starting from 2022-06-14?", "Answer": "3"}
+{"Query": "How many consecutive days did A4F_31033's {lightly_active_minutes} increase, starting from 2022-06-16?", "Answer": "3"}
+{"Query": "How many consecutive days did A4F_76068's {very_active_minutes} increase, starting from 2022-05-23?", "Answer": "3"}
+{"Query": "How many consecutive days did A4F_93308's {cardio_minutes} increase, starting from 2022-05-21?", "Answer": "2"}
+{"Query": "How many consecutive days did A4F_17419's {cardio_minutes} increase, starting from 2022-06-10?", "Answer": "2"}
+{"Query": "How many consecutive days did A4F_84962's {lightly_active_minutes} increase, starting from 2022-05-21?", "Answer": "3"}
+{"Query": "How many consecutive days did A4F_10021's {very_active_minutes} increase, starting from 2022-06-14?", "Answer": "3"}
+{"Query": "How many consecutive days did A4F_32988's {total_active_minutes} increase, starting from 2022-05-24?", "Answer": "3"}
+{"Query": "How many consecutive days did A4F_27052's {sedentary_minutes} decrease, starting from 2022-05-28?", "Answer": "2"}
+{"Query": "How many consecutive days did A4F_17419's {fat_burn_minutes} decrease, starting from 2022-06-15?", "Answer": "2"}
+{"Query": "How many consecutive days did A4F_56296's {moderately_active_minutes} decrease, starting from 2022-06-18?", "Answer": "2"}
+{"Query": "How many consecutive days did A4F_74742's {moderately_active_minutes} decrease, starting from 2022-06-13?", "Answer": "3"}
+{"Query": "How many consecutive days did A4F_97618's {total_active_minutes} decrease, starting from 2022-06-08?", "Answer": "2"}
+{"Query": "How many consecutive days did A4F_60983's {total_active_minutes} decrease, starting from 2022-05-27?", "Answer": "2"}
+{"Query": "How many consecutive days did A4F_10021's {fat_burn_minutes} decrease, starting from 2022-06-10?", "Answer": "2"}
+{"Query": "How many consecutive days did A4F_65695's {moderately_active_minutes} decrease, starting from 2022-05-20?", "Answer": "3"}
+{"Query": "How many consecutive days did A4F_51606's {sedentary_minutes} decrease, starting from 2022-05-23?", "Answer": "2"}
+{"Query": "How many consecutive days did A4F_27766's {lightly_active_minutes} decrease, starting from 2022-06-10?", "Answer": "3"}
+{"Query": "How many consecutive days did A4F_65724's {fat_burn_minutes} decrease, starting from 2022-05-21?", "Answer": "2"}
+{"Query": "How many consecutive days did A4F_65695's {sedentary_minutes} decrease, starting from 2022-05-26?", "Answer": "2"}
+{"Query": "How many consecutive days did A4F_65060's {lightly_active_minutes} decrease, starting from 2022-05-25?", "Answer": "2"}
+{"Query": "How many consecutive days did A4F_71665's {fat_burn_minutes} decrease, starting from 2022-06-19?", "Answer": "3"}
+{"Query": "How many consecutive days did A4F_56718's {sedentary_minutes} decrease, starting from 2022-05-26?", "Answer": "3"}
+{"Query": "How many consecutive days did A4F_42312's {very_active_minutes} decrease, starting from 2022-05-25?", "Answer": "3"}
+{"Query": "How many consecutive days did A4F_85240's {total_active_minutes} decrease, starting from 2022-05-31?", "Answer": "3"}
+{"Query": "How many consecutive days did A4F_22643's {fat_burn_minutes} decrease, starting from 2022-06-18?", "Answer": "3"}
+{"Query": "How many consecutive days did A4F_10355's {moderately_active_minutes} decrease, starting from 2022-06-04?", "Answer": "3"}
+{"Query": "How many consecutive days did A4F_68106's {sedentary_minutes} decrease, starting from 2022-05-26?", "Answer": "3"}
+{"Query": "How many consecutive days did A4F_78358's {lightly_active_minutes} decrease, starting from 2022-05-23?", "Answer": "4"}
+{"Query": "How many consecutive days did A4F_68106's {total_active_minutes} decrease, starting from 2022-05-25?", "Answer": "4"}
+{"Query": "How many consecutive days did A4F_76957's {total_active_minutes} decrease, starting from 2022-05-17?", "Answer": "5"}
+{"Query": "How many consecutive days did A4F_70068's {total_active_minutes} decrease, starting from 2022-05-25?", "Answer": "4"}
+{"Query": "How many consecutive days did A4F_97386's {moderately_active_minutes} decrease, starting from 2022-06-04?", "Answer": "4"}
+{"Query": "How many consecutive days did A4F_27052's {fat_burn_minutes} decrease, starting from 2022-05-29?", "Answer": "4"}
+{"Query": "How many consecutive days did A4F_10141's {lightly_active_minutes} decrease, starting from 2022-06-11?", "Answer": "4"}
+{"Query": "How many consecutive days did A4F_60728's {total_active_minutes} decrease, starting from 2022-06-12?", "Answer": "2"}
+{"Query": "How many consecutive days did A4F_77391's {very_active_minutes} decrease, starting from 2022-05-30?", "Answer": "2"}
+{"Query": "How many consecutive days did A4F_34415's {cardio_minutes} decrease, starting from 2022-06-10?", "Answer": "3"}
+{"Query": "Did A4F_31649's {peak_minutes} within a week, starting from 2022-06-15, increase or decrease or remain the same, compared to the previous week?", "Answer": "same"}
+{"Query": "Did A4F_60728's {peak_minutes} within a week, starting from 2022-06-10, increase or decrease or remain the same, compared to the previous week?", "Answer": "same"}
+{"Query": "Did A4F_73455's {lightly_active_minutes} within a week, starting from 2022-05-29, increase or decrease or remain the same, compared to the previous week?", "Answer": "decrease"}
+{"Query": "Did A4F_10141's {peak_minutes} within a week, starting from 2022-06-13, increase or decrease or remain the same, compared to the previous week?", "Answer": "same"}
+{"Query": "Did A4F_72388's {lightly_active_minutes} within a week, starting from 2022-06-15, increase or decrease or remain the same, compared to the previous week?", "Answer": "increase"}
+{"Query": "Did A4F_85240's {very_active_minutes} within a week, starting from 2022-05-25, increase or decrease or remain the same, compared to the previous week?", "Answer": "increase"}
+{"Query": "Did A4F_76292's {lightly_active_minutes} within a week, starting from 2022-05-24, increase or decrease or remain the same, compared to the previous week?", "Answer": "increase"}
+{"Query": "Did A4F_43794's {cardio_minutes} within a week, starting from 2022-05-28, increase or decrease or remain the same, compared to the previous week?", "Answer": "increase"}
+{"Query": "Did A4F_76292's {very_active_minutes} within a week, starting from 2022-05-25, increase or decrease or remain the same, compared to the previous week?", "Answer": "increase"}
+{"Query": "Did A4F_56279's {moderately_active_minutes} within a week, starting from 2022-05-29, increase or decrease or remain the same, compared to the previous week?", "Answer": "decrease"}
+{"Query": "Did A4F_13368's {lightly_active_minutes} within a week, starting from 2022-05-25, increase or decrease or remain the same, compared to the previous week?", "Answer": "decrease"}
+{"Query": "Did A4F_53145's {fat_burn_minutes} within a week, starting from 2022-05-27, increase or decrease or remain the same, compared to the previous week?", "Answer": "decrease"}
+{"Query": "Did A4F_41207's {total_active_minutes} within a week, starting from 2022-06-14, increase or decrease or remain the same, compared to the previous week?", "Answer": "decrease"}
+{"Query": "Did A4F_40008's {total_active_minutes} within a week, starting from 2022-06-10, increase or decrease or remain the same, compared to the previous week?", "Answer": "increase"}
+{"Query": "Did A4F_56279's {fat_burn_minutes} within a week, starting from 2022-05-28, increase or decrease or remain the same, compared to the previous week?", "Answer": "increase"}
+{"Query": "Did A4F_97386's {fat_burn_minutes} within a week, starting from 2022-06-10, increase or decrease or remain the same, compared to the previous week?", "Answer": "increase"}
+{"Query": "Did A4F_53145's {very_active_minutes} within a week, starting from 2022-05-27, increase or decrease or remain the same, compared to the previous week?", "Answer": "decrease"}
+{"Query": "Did A4F_77391's {fat_burn_minutes} within a week, starting from 2022-05-28, increase or decrease or remain the same, compared to the previous week?", "Answer": "decrease"}
+{"Query": "Did A4F_22643's {peak_minutes} within a week, starting from 2022-06-14, increase or decrease or remain the same, compared to the previous week?", "Answer": "same"}
+{"Query": "Did A4F_70954's {very_active_minutes} within a week, starting from 2022-06-13, increase or decrease or remain the same, compared to the previous week?", "Answer": "decrease"}
+{"Query": "Did A4F_65724's {total_active_minutes} within a week, starting from 2022-05-28, increase or decrease or remain the same, compared to the previous week?", "Answer": "increase"}
+{"Query": "Did A4F_25413's {fat_burn_minutes} within a week, starting from 2022-06-15, increase or decrease or remain the same, compared to the previous week?", "Answer": "decrease"}
+{"Query": "Did A4F_13504's {lightly_active_minutes} within a week, starting from 2022-05-24, increase or decrease or remain the same, compared to the previous week?", "Answer": "increase"}
+{"Query": "Did A4F_17705's {lightly_active_minutes} within a week, starting from 2022-05-26, increase or decrease or remain the same, compared to the previous week?", "Answer": "increase"}
+{"Query": "Did A4F_74720's {fat_burn_minutes} within a week, starting from 2022-06-14, increase or decrease or remain the same, compared to the previous week?", "Answer": "decrease"}
+{"Query": "Did A4F_79824's {lightly_active_minutes} within a week, starting from 2022-06-12, increase or decrease or remain the same, compared to the previous week?", "Answer": "decrease"}
+{"Query": "Did A4F_27766's {lightly_active_minutes} within a week, starting from 2022-06-13, increase or decrease or remain the same, compared to the previous week?", "Answer": "decrease"}
+{"Query": "Did A4F_98040's {sedentary_minutes} within a week, starting from 2022-06-14, increase or decrease or remain the same, compared to the previous week?", "Answer": "increase"}
+{"Query": "Did A4F_91362's {moderately_active_minutes} within a week, starting from 2022-05-27, increase or decrease or remain the same, compared to the previous week?", "Answer": "increase"}
+{"Query": "Did A4F_20573's {total_active_minutes} within a week, starting from 2022-06-08, increase or decrease or remain the same, compared to the previous week?", "Answer": "decrease"}
+{"Query": "How many consecutive weeks did A4F_92332's {cardio_minutes} increase, starting from 2022-06-06?", "Answer": "2"}
+{"Query": "How many consecutive weeks did A4F_71665's {moderately_active_minutes} increase, starting from 2022-06-05?", "Answer": "2"}
+{"Query": "How many consecutive weeks did A4F_27052's {cardio_minutes} increase, starting from 2022-05-17?", "Answer": "2"}
+{"Query": "How many consecutive weeks did A4F_43794's {moderately_active_minutes} increase, starting from 2022-05-23?", "Answer": "2"}
+{"Query": "How many consecutive weeks did A4F_22643's {moderately_active_minutes} increase, starting from 2022-06-06?", "Answer": "2"}
+{"Query": "How many consecutive weeks did A4F_31033's {lightly_active_minutes} increase, starting from 2022-06-07?", "Answer": "2"}
+{"Query": "How many consecutive weeks did A4F_39976's {lightly_active_minutes} increase, starting from 2022-06-02?", "Answer": "2"}
+{"Query": "How many consecutive weeks did A4F_56279's {very_active_minutes} increase, starting from 2022-05-18?", "Answer": "2"}
+{"Query": "How many consecutive weeks did A4F_29474's {lightly_active_minutes} increase, starting from 2022-06-07?", "Answer": "2"}
+{"Query": "How many consecutive weeks did A4F_13504's {lightly_active_minutes} increase, starting from 2022-05-17?", "Answer": "2"}
+{"Query": "How many consecutive weeks did A4F_32988's {very_active_minutes} increase, starting from 2022-05-18?", "Answer": "2"}
+{"Query": "How many consecutive weeks did A4F_79824's {sedentary_minutes} increase, starting from 2022-06-03?", "Answer": "2"}
+{"Query": "How many consecutive weeks did A4F_98453's {lightly_active_minutes} increase, starting from 2022-06-08?", "Answer": "2"}
+{"Query": "How many consecutive weeks did A4F_27052's {cardio_minutes} increase, starting from 2022-05-19?", "Answer": "2"}
+{"Query": "How many consecutive weeks did A4F_74742's {lightly_active_minutes} increase, starting from 2022-06-07?", "Answer": "2"}
+{"Query": "How many consecutive weeks did A4F_94336's {total_active_minutes} increase, starting from 2022-05-21?", "Answer": "2"}
+{"Query": "How many consecutive weeks did A4F_77391's {cardio_minutes} increase, starting from 2022-05-21?", "Answer": "2"}
+{"Query": "How many consecutive weeks did A4F_10660's {total_active_minutes} increase, starting from 2022-06-06?", "Answer": "2"}
+{"Query": "How many consecutive weeks did A4F_39976's {very_active_minutes} increase, starting from 2022-06-02?", "Answer": "2"}
+{"Query": "How many consecutive weeks did A4F_29474's {moderately_active_minutes} increase, starting from 2022-06-04?", "Answer": "2"}
+{"Query": "How many consecutive weeks did A4F_84962's {very_active_minutes} increase, starting from 2022-05-19?", "Answer": "2"}
+{"Query": "How many consecutive weeks did A4F_67757's {peak_minutes} increase, starting from 2022-06-06?", "Answer": "2"}
+{"Query": "How many consecutive weeks did A4F_27052's {moderately_active_minutes} increase, starting from 2022-05-17?", "Answer": "2"}
+{"Query": "How many consecutive weeks did A4F_93308's {fat_burn_minutes} increase, starting from 2022-05-18?", "Answer": "2"}
+{"Query": "How many consecutive weeks did A4F_35752's {moderately_active_minutes} increase, starting from 2022-06-07?", "Answer": "2"}
+{"Query": "How many consecutive weeks did A4F_73455's {sedentary_minutes} increase, starting from 2022-05-21?", "Answer": "2"}
+{"Query": "How many consecutive weeks did A4F_84962's {cardio_minutes} increase, starting from 2022-05-18?", "Answer": "2"}
+{"Query": "How many consecutive weeks did A4F_94336's {fat_burn_minutes} decrease, starting from 2022-05-24?", "Answer": "2"}
+{"Query": "How many consecutive weeks did A4F_20573's {total_active_minutes} decrease, starting from 2022-06-07?", "Answer": "2"}
+{"Query": "How many consecutive weeks did A4F_70954's {very_active_minutes} decrease, starting from 2022-06-06?", "Answer": "2"}
+{"Query": "How many consecutive weeks did A4F_86472's {fat_burn_minutes} decrease, starting from 2022-06-02?", "Answer": "2"}
+{"Query": "How many consecutive weeks did A4F_35752's {sedentary_minutes} decrease, starting from 2022-06-07?", "Answer": "2"}
+{"Query": "How many consecutive weeks did A4F_33497's {sedentary_minutes} decrease, starting from 2022-05-17?", "Answer": "2"}
+{"Query": "How many consecutive weeks did A4F_70068's {moderately_active_minutes} decrease, starting from 2022-05-17?", "Answer": "2"}
+{"Query": "How many consecutive weeks did A4F_22643's {cardio_minutes} decrease, starting from 2022-06-04?", "Answer": "2"}
+{"Query": "How many consecutive weeks did A4F_93308's {lightly_active_minutes} decrease, starting from 2022-05-20?", "Answer": "2"}
+{"Query": "How many consecutive weeks did A4F_62344's {cardio_minutes} decrease, starting from 2022-05-25?", "Answer": "2"}
+{"Query": "How many consecutive weeks did A4F_32988's {sedentary_minutes} decrease, starting from 2022-05-18?", "Answer": "2"}
+{"Query": "How many consecutive weeks did A4F_89897's {fat_burn_minutes} decrease, starting from 2022-05-17?", "Answer": "2"}
+{"Query": "How many consecutive weeks did A4F_40008's {sedentary_minutes} decrease, starting from 2022-06-04?", "Answer": "2"}
+{"Query": "How many consecutive weeks did A4F_97618's {sedentary_minutes} decrease, starting from 2022-06-02?", "Answer": "2"}
+{"Query": "How many consecutive weeks did A4F_24211's {total_active_minutes} decrease, starting from 2022-06-02?", "Answer": "2"}
+{"Query": "How many consecutive weeks did A4F_91362's {lightly_active_minutes} decrease, starting from 2022-05-21?", "Answer": "2"}
+{"Query": "How many consecutive weeks did A4F_31033's {very_active_minutes} decrease, starting from 2022-06-07?", "Answer": "2"}
+{"Query": "How many consecutive weeks did A4F_31649's {lightly_active_minutes} decrease, starting from 2022-06-09?", "Answer": "2"}
+{"Query": "How many consecutive weeks did A4F_94336's {fat_burn_minutes} decrease, starting from 2022-05-20?", "Answer": "2"}
+{"Query": "How many consecutive weeks did A4F_52749's {cardio_minutes} decrease, starting from 2022-06-07?", "Answer": "2"}
+{"Query": "How many consecutive weeks did A4F_25413's {cardio_minutes} decrease, starting from 2022-06-02?", "Answer": "2"}
+{"Query": "How many consecutive weeks did A4F_56279's {sedentary_minutes} decrease, starting from 2022-05-21?", "Answer": "2"}
+{"Query": "How many consecutive weeks did A4F_13504's {moderately_active_minutes} decrease, starting from 2022-05-19?", "Answer": "2"}
+{"Query": "How many consecutive weeks did A4F_45863's {very_active_minutes} decrease, starting from 2022-05-20?", "Answer": "2"}
+{"Query": "How many consecutive weeks did A4F_60728's {moderately_active_minutes} decrease, starting from 2022-06-02?", "Answer": "2"}
+{"Query": "How many consecutive weeks did A4F_20573's {fat_burn_minutes} decrease, starting from 2022-06-02?", "Answer": "2"}
+{"Query": "How many consecutive weeks did A4F_40008's {moderately_active_minutes} decrease, starting from 2022-06-07?", "Answer": "2"}
+{"Query": "How many consecutive weeks did A4F_94120's {very_active_minutes} decrease, starting from 2022-06-05?", "Answer": "2"}
+{"Query": "How many consecutive weeks did A4F_17419's {lightly_active_minutes} decrease, starting from 2022-06-08?", "Answer": "2"}
+{"Query": "How many consecutive weeks did A4F_89897's {cardio_minutes} decrease, starting from 2022-05-17?", "Answer": "2"}

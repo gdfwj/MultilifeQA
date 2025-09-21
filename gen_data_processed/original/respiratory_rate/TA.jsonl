@@ -1,0 +1,60 @@
+{"Query": "Did A4F_62344's {rem_sleep_standard_deviation} during sleeping on 2022-06-05 increase or decrease or remain the same, compared to the previous day?", "Answer": "same"}
+{"Query": "Did A4F_10141's {full_sleep_standard_deviation} during sleeping on 2022-06-08 increase or decrease or remain the same, compared to the previous day?", "Answer": "decrease"}
+{"Query": "Did A4F_52749's {deep_sleep_breathing_rate} during sleeping on 2022-06-15 increase or decrease or remain the same, compared to the previous day?", "Answer": "increase"}
+{"Query": "Did A4F_70804's {light_sleep_standard_deviation} during sleeping on 2022-06-08 increase or decrease or remain the same, compared to the previous day?", "Answer": "decrease"}
+{"Query": "Did A4F_62344's {deep_sleep_standard_deviation} during sleeping on 2022-06-07 increase or decrease or remain the same, compared to the previous day?", "Answer": "increase"}
+{"Query": "Did A4F_34415's {rem_sleep_breathing_rate} during sleeping on 2022-06-19 increase or decrease or remain the same, compared to the previous day?", "Answer": "increase"}
+{"Query": "Did A4F_49219's {deep_sleep_signal_to_noise} during sleeping on 2022-06-02 increase or decrease or remain the same, compared to the previous day?", "Answer": "decrease"}
+{"Query": "Did A4F_41207's {light_sleep_breathing_rate} during sleeping on 2022-06-12 increase or decrease or remain the same, compared to the previous day?", "Answer": "increase"}
+{"Query": "Did A4F_35752's {rem_sleep_signal_to_noise} during sleeping on 2022-06-05 increase or decrease or remain the same, compared to the previous day?", "Answer": "decrease"}
+{"Query": "Did A4F_41207's {light_sleep_standard_deviation} during sleeping on 2022-06-12 increase or decrease or remain the same, compared to the previous day?", "Answer": "increase"}
+{"Query": "Did A4F_50227's {light_sleep_breathing_rate} during sleeping on 2022-06-21 increase or decrease or remain the same, compared to the previous day?", "Answer": "same"}
+{"Query": "Did A4F_13504's {light_sleep_breathing_rate} during sleeping on 2022-06-02 increase or decrease or remain the same, compared to the previous day?", "Answer": "increase"}
+{"Query": "Did A4F_62344's {deep_sleep_standard_deviation} during sleeping on 2022-06-03 increase or decrease or remain the same, compared to the previous day?", "Answer": "increase"}
+{"Query": "Did A4F_60429's {rem_sleep_standard_deviation} during sleeping on 2022-06-17 increase or decrease or remain the same, compared to the previous day?", "Answer": "same"}
+{"Query": "Did A4F_84962's {full_sleep_signal_to_noise} during sleeping on 2022-06-02 increase or decrease or remain the same, compared to the previous day?", "Answer": "decrease"}
+{"Query": "Did A4F_24211's {light_sleep_standard_deviation} during sleeping on 2022-06-13 increase or decrease or remain the same, compared to the previous day?", "Answer": "decrease"}
+{"Query": "Did A4F_68106's {full_sleep_standard_deviation} during sleeping on 2022-05-27 increase or decrease or remain the same, compared to the previous day?", "Answer": "decrease"}
+{"Query": "Did A4F_86472's {full_sleep_breathing_rate} during sleeping on 2022-06-13 increase or decrease or remain the same, compared to the previous day?", "Answer": "increase"}
+{"Query": "Did A4F_86472's {full_sleep_signal_to_noise} during sleeping on 2022-06-19 increase or decrease or remain the same, compared to the previous day?", "Answer": "decrease"}
+{"Query": "Did A4F_41207's {light_sleep_breathing_rate} during sleeping on 2022-06-16 increase or decrease or remain the same, compared to the previous day?", "Answer": "increase"}
+{"Query": "Did A4F_97386's {light_sleep_signal_to_noise} during sleeping on 2022-06-11 increase or decrease or remain the same, compared to the previous day?", "Answer": "decrease"}
+{"Query": "Did A4F_98453's {deep_sleep_breathing_rate} during sleeping on 2022-06-11 increase or decrease or remain the same, compared to the previous day?", "Answer": "increase"}
+{"Query": "Did A4F_72388's {deep_sleep_breathing_rate} during sleeping on 2022-06-10 increase or decrease or remain the same, compared to the previous day?", "Answer": "decrease"}
+{"Query": "Did A4F_56296's {deep_sleep_breathing_rate} during sleeping on 2022-06-09 increase or decrease or remain the same, compared to the previous day?", "Answer": "decrease"}
+{"Query": "Did A4F_72388's {deep_sleep_signal_to_noise} during sleeping on 2022-06-20 increase or decrease or remain the same, compared to the previous day?", "Answer": "increase"}
+{"Query": "Did A4F_98040's {rem_sleep_breathing_rate} during sleeping on 2022-06-13 increase or decrease or remain the same, compared to the previous day?", "Answer": "decrease"}
+{"Query": "Did A4F_24211's {deep_sleep_signal_to_noise} during sleeping on 2022-06-05 increase or decrease or remain the same, compared to the previous day?", "Answer": "increase"}
+{"Query": "Did A4F_76957's {deep_sleep_breathing_rate} during sleeping on 2022-05-22 increase or decrease or remain the same, compared to the previous day?", "Answer": "increase"}
+{"Query": "Did A4F_28771's {deep_sleep_standard_deviation} during sleeping on 2022-06-15 increase or decrease or remain the same, compared to the previous day?", "Answer": "increase"}
+{"Query": "Did A4F_85240's {deep_sleep_signal_to_noise} during sleeping on 2022-06-02 increase or decrease or remain the same, compared to the previous day?", "Answer": "decrease"}
+{"Query": "How many consecutive days did A4F_86472's {light_sleep_signal_to_noise} increase during sleeping, starting from 2022-06-12?", "Answer": "3"}
+{"Query": "How many consecutive days did A4F_52749's {light_sleep_signal_to_noise} decrease during sleeping, starting from 2022-06-12?", "Answer": "3"}
+{"Query": "How many consecutive days did A4F_98453's {deep_sleep_standard_deviation} increase during sleeping, starting from 2022-06-14?", "Answer": "2"}
+{"Query": "How many consecutive days did A4F_60429's {full_sleep_signal_to_noise} decrease during sleeping, starting from 2022-06-17?", "Answer": "3"}
+{"Query": "How many consecutive days did A4F_51606's {deep_sleep_signal_to_noise} decrease during sleeping, starting from 2022-05-21?", "Answer": "3"}
+{"Query": "How many consecutive days did A4F_70954's {rem_sleep_standard_deviation} decrease during sleeping, starting from 2022-06-09?", "Answer": "3"}
+{"Query": "How many consecutive days did A4F_10709's {full_sleep_breathing_rate} decrease during sleeping, starting from 2022-06-01?", "Answer": "3"}
+{"Query": "How many consecutive days did A4F_22643's {full_sleep_breathing_rate} increase during sleeping, starting from 2022-06-06?", "Answer": "2"}
+{"Query": "How many consecutive days did A4F_86472's {rem_sleep_signal_to_noise} increase during sleeping, starting from 2022-06-08?", "Answer": "3"}
+{"Query": "How many consecutive days did A4F_10355's {light_sleep_breathing_rate} increase during sleeping, starting from 2022-06-09?", "Answer": "3"}
+{"Query": "How many consecutive days did A4F_97386's {full_sleep_signal_to_noise} decrease during sleeping, starting from 2022-06-09?", "Answer": "2"}
+{"Query": "How many consecutive days did A4F_10141's {full_sleep_standard_deviation} decrease during sleeping, starting from 2022-06-11?", "Answer": "2"}
+{"Query": "How many consecutive days did A4F_10355's {deep_sleep_breathing_rate} increase during sleeping, starting from 2022-06-07?", "Answer": "3"}
+{"Query": "How many consecutive days did A4F_76292's {deep_sleep_breathing_rate} decrease during sleeping, starting from 2022-05-24?", "Answer": "4"}
+{"Query": "How many consecutive days did A4F_60728's {deep_sleep_breathing_rate} increase during sleeping, starting from 2022-06-05?", "Answer": "3"}
+{"Query": "How many consecutive days did A4F_24211's {rem_sleep_signal_to_noise} increase during sleeping, starting from 2022-06-11?", "Answer": "4"}
+{"Query": "How many consecutive days did A4F_25413's {deep_sleep_signal_to_noise} increase during sleeping, starting from 2022-06-14?", "Answer": "4"}
+{"Query": "How many consecutive days did A4F_91594's {light_sleep_signal_to_noise} increase during sleeping, starting from 2022-06-05?", "Answer": "2"}
+{"Query": "How many consecutive days did A4F_48857's {rem_sleep_signal_to_noise} decrease during sleeping, starting from 2022-06-12?", "Answer": "2"}
+{"Query": "How many consecutive days did A4F_92332's {light_sleep_breathing_rate} increase during sleeping, starting from 2022-06-16?", "Answer": "2"}
+{"Query": "How many consecutive days did A4F_92332's {full_sleep_standard_deviation} decrease during sleeping, starting from 2022-06-11?", "Answer": "2"}
+{"Query": "How many consecutive days did A4F_25413's {deep_sleep_standard_deviation} decrease during sleeping, starting from 2022-06-10?", "Answer": "2"}
+{"Query": "How many consecutive days did A4F_76957's {rem_sleep_signal_to_noise} increase during sleeping, starting from 2022-05-20?", "Answer": "2"}
+{"Query": "How many consecutive days did A4F_96181's {rem_sleep_breathing_rate} increase during sleeping, starting from 2022-06-07?", "Answer": "4"}
+{"Query": "How many consecutive days did A4F_56718's {full_sleep_signal_to_noise} increase during sleeping, starting from 2022-05-19?", "Answer": "4"}
+{"Query": "How many consecutive days did A4F_45118's {deep_sleep_breathing_rate} decrease during sleeping, starting from 2022-05-21?", "Answer": "4"}
+{"Query": "How many consecutive days did A4F_70954's {rem_sleep_signal_to_noise} increase during sleeping, starting from 2022-06-08?", "Answer": "4"}
+{"Query": "How many consecutive days did A4F_18098's {full_sleep_breathing_rate} increase during sleeping, starting from 2022-06-11?", "Answer": "4"}
+{"Query": "How many consecutive days did A4F_72388's {full_sleep_signal_to_noise} decrease during sleeping, starting from 2022-06-13?", "Answer": "4"}
+{"Query": "How many consecutive days did A4F_74742's {light_sleep_signal_to_noise} increase during sleeping, starting from 2022-06-13?", "Answer": "4"}

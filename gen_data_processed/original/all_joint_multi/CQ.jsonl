@@ -1,0 +1,284 @@
+{"Query": "How many users had stress_score greater than 80 and consumed fried food more than once on 2022-06-17?", "Answer": "0"}
+{"Query": "How many users had lower_bound_oxygen_saturation less than 90 and average respiratory_rate greater than 22 within one week, starting from 2022-05-20?", "Answer": "0"}
+{"Query": "How many users had at least 3 activity sessions and a weekly average average_heart_rate ≥ P70 (107.48) within one week, starting from 2022-06-10?", "Answer": "10"}
+{"Query": "How many users had lower_bound_oxygen_saturation less than 90 and average respiratory_rate greater than 22 within one week, starting from 2022-06-07?", "Answer": "0"}
+{"Query": "How many users had distance_m ≥ P70 (975050.00) and calories_kcal ≥ P70 (3332.47) on 2022-05-20?", "Answer": "10"}
+{"Query": "How many users had at least 3 days with minutes_in_rem ≥ P70 and minutes_in_light_sleep ≤ P30 within one week, starting from 2022-06-06?", "Answer": "2"}
+{"Query": "How many users had at least 3 days with steps ≥ population daily P70 within one week, starting from 2022-06-05?", "Answer": "13"}
+{"Query": "How many users had stress_score greater than 80 and consumed fried food more than once on 2022-06-11?", "Answer": "1"}
+{"Query": "How many users had at least 3 days with minutes_in_rem ≥ P70 and minutes_in_light_sleep ≤ P30 within one week, starting from 2022-05-27?", "Answer": "0"}
+{"Query": "How many users had minutes_in_deep_sleep lower than 1 hour and resting_heart_rate higher than 85 within one week, starting from 2022-06-16?", "Answer": "0"}
+{"Query": "How many users consumed protein sources but no 'vegetables and fruits' on 2022-06-21?", "Answer": "1"}
+{"Query": "How many users had at least 2 days with lower_bound_oxygen_saturation < 90 and, on those days, respiratory_rate above the population mean within one week, starting from 2022-05-24?", "Answer": "2"}
+{"Query": "How many users had minutes_in_deep_sleep lower than 1 hour and resting_heart_rate higher than 85 within one week, starting from 2022-06-07?", "Answer": "0"}
+{"Query": "How many users had at least 5 days with steps ≥ population daily P70 within one week, starting from 2022-06-15?", "Answer": "4"}
+{"Query": "How many users had lower_bound_oxygen_saturation less than 90 and average respiratory_rate greater than 22 within one week, starting from 2022-05-22?", "Answer": "0"}
+{"Query": "How many users had sleep duration less than 6 hours and steps lower than 5000 on 2022-05-25?", "Answer": "3"}
+{"Query": "How many users had minutes_in_deep_sleep ≤ P30 (59.60) and oxygen_saturation ≤ P30 (94.20) on 2022-05-28?", "Answer": "2"}
+{"Query": "How many users had stress_score greater than 80 and consumed fried food more than once on 2022-06-01?", "Answer": "1"}
+{"Query": "How many users had at least 4 days with minutes_in_light_sleep ≤ population daily P30 and weekly average oxygen_saturation ≥ P60 (94.72) within one week, starting from 2022-05-28?", "Answer": "2"}
+{"Query": "How many users had sleep duration less than 6 hours and steps lower than 5000 on 2022-05-31?", "Answer": "1"}
+{"Query": "How many users had at least 3 days with minutes_in_rem ≥ P70 and minutes_in_light_sleep ≤ P30 within one week, starting from 2022-05-25?", "Answer": "2"}
+{"Query": "How many users had stress_score greater than 80 and consumed fried food more than once on 2022-05-31?", "Answer": "0"}
+{"Query": "How many users had minutes_in_deep_sleep ≤ P30 (59.80) and oxygen_saturation ≤ P30 (92.80) on 2022-06-09?", "Answer": "6"}
+{"Query": "How many users had at least 3 days with steps ≥ population daily P70 within one week, starting from 2022-05-22?", "Answer": "14"}
+{"Query": "How many users had distance_m ≥ P70 (779264.00) and calories_kcal ≥ P70 (2953.94) on 2022-06-22?", "Answer": "4"}
+{"Query": "How many users had at least 4 days with minutes_in_light_sleep ≤ population daily P30 and weekly average oxygen_saturation ≥ P60 (94.80) within one week, starting from 2022-05-20?", "Answer": "2"}
+{"Query": "How many users had sleep duration less than 6 hours and steps lower than 5000 on 2022-06-07?", "Answer": "1"}
+{"Query": "How many users had distance_m ≥ P70 (972545.00) and calories_kcal ≥ P70 (3280.22) on 2022-05-19?", "Answer": "6"}
+{"Query": "How many users had distance_m ≥ P70 (938992.00) and calories_kcal ≥ P70 (3135.79) on 2022-06-19?", "Answer": "11"}
+{"Query": "How many users had at least 3 days with very_active_minutes ≥ 60 within one week, starting from 2022-05-22?", "Answer": "0"}
+{"Query": "How many users had sleep duration less than 6 hours and steps lower than 5000 on 2022-06-21?", "Answer": "1"}
+{"Query": "How many users had sleep duration less than 6 hours and steps lower than 5000 on 2022-06-17?", "Answer": "0"}
+{"Query": "How many users had at least 2 days with lower_bound_oxygen_saturation < 90 and, on those days, respiratory_rate above the population mean within one week, starting from 2022-06-15?", "Answer": "4"}
+{"Query": "How many users had minutes_in_deep_sleep ≤ P30 (56.00) and oxygen_saturation ≤ P30 (93.61) on 2022-06-05?", "Answer": "4"}
+{"Query": "How many users had fried-intake share ≥ 0.5 and average stress_score ≥ P70 (82.00) within one week, starting from 2022-05-25?", "Answer": "1"}
+{"Query": "How many users had at least 2 days with lower_bound_oxygen_saturation < 90 and, on those days, respiratory_rate above the population mean within one week, starting from 2022-05-21?", "Answer": "1"}
+{"Query": "How many users had at least 4 days with steps ≥ population daily P70 within one week, starting from 2022-06-11?", "Answer": "12"}
+{"Query": "How many users consumed protein sources but no 'vegetables and fruits' on 2022-05-31?", "Answer": "0"}
+{"Query": "How many users had at least 3 days with very_active_minutes ≥ 60 within one week, starting from 2022-05-23?", "Answer": "0"}
+{"Query": "How many users had at least 2 days with lower_bound_oxygen_saturation < 90 and, on those days, respiratory_rate above the population mean within one week, starting from 2022-06-03?", "Answer": "1"}
+{"Query": "How many users had at least 5 days with steps ≥ population daily P70 within one week, starting from 2022-05-20?", "Answer": "6"}
+{"Query": "How many users had fried-intake share ≥ 0.5 and average stress_score ≥ P70 (81.80) within one week, starting from 2022-05-19?", "Answer": "2"}
+{"Query": "How many users had at least 3 days with very_active_minutes ≥ 60 within one week, starting from 2022-06-16?", "Answer": "0"}
+{"Query": "How many users had at least 3 days with very_active_minutes ≥ 60 within one week, starting from 2022-06-10?", "Answer": "0"}
+{"Query": "How many users had distance_m ≥ P70 (1003095.00) and calories_kcal ≥ P70 (3238.49) on 2022-05-31?", "Answer": "7"}
+{"Query": "How many users had minutes_in_deep_sleep ≤ P30 (53.00) and oxygen_saturation ≤ P30 (93.22) on 2022-06-12?", "Answer": "2"}
+{"Query": "How many users had at least 3 activity sessions and a weekly average average_heart_rate ≥ P70 (107.05) within one week, starting from 2022-05-20?", "Answer": "10"}
+{"Query": "How many users had at least 5 days with steps ≥ population daily P70 within one week, starting from 2022-05-24?", "Answer": "6"}
+{"Query": "How many users had at least 4 days with minutes_in_light_sleep ≤ population daily P30 and weekly average oxygen_saturation ≥ P60 (95.00) within one week, starting from 2022-05-22?", "Answer": "1"}
+{"Query": "How many users had stress_score greater than 80 and consumed fried food more than once on 2022-06-07?", "Answer": "1"}
+{"Query": "How many users had at least 4 days with minutes_in_light_sleep ≤ population daily P30 and weekly average oxygen_saturation ≥ P60 (95.02) within one week, starting from 2022-05-25?", "Answer": "1"}
+{"Query": "How many users had fried-intake share ≥ 0.5 and average stress_score ≥ P70 (78.00) within one week, starting from 2022-05-17?", "Answer": "1"}
+{"Query": "How many users had at least 2 days with lower_bound_oxygen_saturation < 90 and, on those days, respiratory_rate above the population mean within one week, starting from 2022-06-14?", "Answer": "5"}
+{"Query": "How many users had at least 3 days with minutes_in_rem ≥ P70 and minutes_in_light_sleep ≤ P30 within one week, starting from 2022-05-26?", "Answer": "0"}
+{"Query": "How many users had sleep duration less than 6 hours and steps lower than 5000 on 2022-05-19?", "Answer": "2"}
+{"Query": "How many users had distance_m ≥ P70 (828142.00) and calories_kcal ≥ P70 (3055.92) on 2022-06-20?", "Answer": "6"}
+{"Query": "How many users had at least 3 days with very_active_minutes ≥ 60 within one week, starting from 2022-06-02?", "Answer": "0"}
+{"Query": "How many users had at least 3 activity sessions and a weekly average average_heart_rate ≥ P70 (107.00) within one week, starting from 2022-06-06?", "Answer": "12"}
+{"Query": "How many users had distance_m ≥ P70 (945796.00) and calories_kcal ≥ P70 (3161.72) on 2022-06-07?", "Answer": "8"}
+{"Query": "How many users had sleep duration less than 6 hours and steps lower than 5000 on 2022-05-18?", "Answer": "0"}
+{"Query": "How many users had minutes_in_deep_sleep lower than 1 hour and resting_heart_rate higher than 85 within one week, starting from 2022-06-03?", "Answer": "1"}
+{"Query": "How many users had at least 3 activity sessions and a weekly average average_heart_rate ≥ P70 (105.50) within one week, starting from 2022-06-15?", "Answer": "7"}
+{"Query": "How many users consumed protein sources but no 'vegetables and fruits' on 2022-05-26?", "Answer": "1"}
+{"Query": "How many users consumed protein sources but no 'vegetables and fruits' on 2022-06-20?", "Answer": "1"}
+{"Query": "How many users had at least 5 days with steps ≥ population daily P70 within one week, starting from 2022-05-23?", "Answer": "6"}
+{"Query": "How many users had at least 3 days with minutes_in_rem ≥ P70 and minutes_in_light_sleep ≤ P30 within one week, starting from 2022-06-13?", "Answer": "0"}
+{"Query": "How many users had at least 4 days with steps ≥ population daily P70 within one week, starting from 2022-05-25?", "Answer": "8"}
+{"Query": "How many users had at least 2 days with lower_bound_oxygen_saturation < 90 and, on those days, respiratory_rate above the population mean within one week, starting from 2022-05-28?", "Answer": "3"}
+{"Query": "How many users had at least 2 days with lower_bound_oxygen_saturation < 90 and, on those days, respiratory_rate above the population mean within one week, starting from 2022-05-25?", "Answer": "3"}
+{"Query": "How many users had fried-intake share ≥ 0.5 and average stress_score ≥ P70 (83.00) within one week, starting from 2022-05-22?", "Answer": "2"}
+{"Query": "How many users consumed protein sources but no 'vegetables and fruits' on 2022-06-06?", "Answer": "0"}
+{"Query": "How many users had fried-intake share ≥ 0.5 and average stress_score ≥ P70 (81.00) within one week, starting from 2022-06-15?", "Answer": "2"}
+{"Query": "How many users had distance_m ≥ P70 (951891.00) and calories_kcal ≥ P70 (3134.62) on 2022-06-12?", "Answer": "9"}
+{"Query": "How many users had stress_score greater than 80 and consumed fried food more than once on 2022-06-14?", "Answer": "1"}
+{"Query": "How many users had distance_m ≥ P70 (1095102.00) and calories_kcal ≥ P70 (3153.27) on 2022-06-04?", "Answer": "7"}
+{"Query": "How many users had minutes_in_deep_sleep lower than 1 hour and resting_heart_rate higher than 85 within one week, starting from 2022-06-13?", "Answer": "0"}
+{"Query": "How many users consumed protein sources but no 'vegetables and fruits' on 2022-06-12?", "Answer": "2"}
+{"Query": "How many users had at least 3 activity sessions and a weekly average average_heart_rate ≥ P70 (106.00) within one week, starting from 2022-06-03?", "Answer": "7"}
+{"Query": "How many users had at least 4 days with minutes_in_light_sleep ≤ population daily P30 and weekly average oxygen_saturation ≥ P60 (94.00) within one week, starting from 2022-06-06?", "Answer": "1"}
+{"Query": "How many users had at least 3 days with very_active_minutes ≥ 60 within one week, starting from 2022-06-13?", "Answer": "0"}
+{"Query": "How many users had at least 3 days with very_active_minutes ≥ 60 within one week, starting from 2022-05-19?", "Answer": "0"}
+{"Query": "How many users had at least 3 days with very_active_minutes ≥ 60 within one week, starting from 2022-05-29?", "Answer": "0"}
+{"Query": "How many users had at least 2 days with lower_bound_oxygen_saturation < 90 and, on those days, respiratory_rate above the population mean within one week, starting from 2022-06-04?", "Answer": "1"}
+{"Query": "How many users had distance_m ≥ P70 (917865.00) and calories_kcal ≥ P70 (3125.69) on 2022-06-13?", "Answer": "9"}
+{"Query": "How many users had at least 3 days with very_active_minutes ≥ 60 within one week, starting from 2022-06-08?", "Answer": "0"}
+{"Query": "How many users had minutes_in_deep_sleep ≤ P30 (47.00) and oxygen_saturation ≤ P30 (93.18) on 2022-06-06?", "Answer": "2"}
+{"Query": "How many users had at least 3 days with very_active_minutes ≥ 60 within one week, starting from 2022-05-21?", "Answer": "0"}
+{"Query": "How many users had distance_m ≥ P70 (921630.00) and calories_kcal ≥ P70 (3194.13) on 2022-05-22?", "Answer": "11"}
+{"Query": "How many users had at least 3 days with minutes_in_rem ≥ P70 and minutes_in_light_sleep ≤ P30 within one week, starting from 2022-06-08?", "Answer": "0"}
+{"Query": "How many users had at least 3 days with very_active_minutes ≥ 60 within one week, starting from 2022-05-18?", "Answer": "0"}
+{"Query": "How many users had at least 3 activity sessions and a weekly average average_heart_rate ≥ P70 (107.00) within one week, starting from 2022-06-13?", "Answer": "8"}
+{"Query": "How many users had minutes_in_deep_sleep ≤ P30 (43.10) and oxygen_saturation ≤ P30 (93.58) on 2022-06-02?", "Answer": "1"}
+{"Query": "How many users had stress_score greater than 80 and consumed fried food more than once on 2022-05-17?", "Answer": "0"}
+{"Query": "How many users had at least 4 days with minutes_in_light_sleep ≤ population daily P30 and weekly average oxygen_saturation ≥ P60 (94.10) within one week, starting from 2022-06-10?", "Answer": "3"}
+{"Query": "How many users consumed protein sources but no 'vegetables and fruits' on 2022-05-20?", "Answer": "0"}
+{"Query": "How many users had sleep duration less than 6 hours and steps lower than 5000 on 2022-06-14?", "Answer": "2"}
+{"Query": "How many users had stress_score greater than 80 and consumed fried food more than once on 2022-06-03?", "Answer": "0"}
+{"Query": "How many users had at least 2 days with lower_bound_oxygen_saturation < 90 and, on those days, respiratory_rate above the population mean within one week, starting from 2022-05-26?", "Answer": "3"}
+{"Query": "How many users had sleep duration less than 6 hours and steps lower than 5000 on 2022-06-03?", "Answer": "1"}
+{"Query": "How many users had at least 4 days with minutes_in_light_sleep ≤ population daily P30 and weekly average oxygen_saturation ≥ P60 (95.00) within one week, starting from 2022-05-23?", "Answer": "1"}
+{"Query": "How many users had minutes_in_deep_sleep ≤ P30 (59.00) and oxygen_saturation ≤ P30 (93.54) on 2022-06-04?", "Answer": "1"}
+{"Query": "How many users had at least 2 days with lower_bound_oxygen_saturation < 90 and, on those days, respiratory_rate above the population mean within one week, starting from 2022-06-09?", "Answer": "4"}
+{"Query": "How many users had fried-intake share ≥ 0.5 and average stress_score ≥ P70 (79.00) within one week, starting from 2022-06-08?", "Answer": "2"}
+{"Query": "How many users had at least 4 days with minutes_in_light_sleep ≤ population daily P30 and weekly average oxygen_saturation ≥ P60 (94.20) within one week, starting from 2022-06-03?", "Answer": "2"}
+{"Query": "How many users had at least 3 days with very_active_minutes ≥ 60 within one week, starting from 2022-05-31?", "Answer": "0"}
+{"Query": "How many users had minutes_in_deep_sleep lower than 1 hour and resting_heart_rate higher than 85 within one week, starting from 2022-06-08?", "Answer": "0"}
+{"Query": "How many users had minutes_in_deep_sleep ≤ P30 (48.00) and oxygen_saturation ≤ P30 (93.70) on 2022-05-30?", "Answer": "4"}
+{"Query": "How many users had distance_m ≥ P70 (1043508.00) and calories_kcal ≥ P70 (3312.81) on 2022-05-25?", "Answer": "10"}
+{"Query": "How many users had at least 2 days with lower_bound_oxygen_saturation < 90 and, on those days, respiratory_rate above the population mean within one week, starting from 2022-05-22?", "Answer": "2"}
+{"Query": "How many users had sleep duration less than 6 hours and steps lower than 5000 on 2014-07-27?", "Answer": "0"}
+{"Query": "How many users had stress_score greater than 80 and consumed fried food more than once on 2022-06-04?", "Answer": "0"}
+{"Query": "How many users consumed protein sources but no 'vegetables and fruits' on 2022-05-27?", "Answer": "1"}
+{"Query": "How many users had distance_m ≥ P70 (856538.00) and calories_kcal ≥ P70 (3014.87) on 2022-06-21?", "Answer": "5"}
+{"Query": "How many users had sleep duration less than 6 hours and steps lower than 5000 on 2022-06-06?", "Answer": "0"}
+{"Query": "How many users had distance_m ≥ P70 (1059490.00) and calories_kcal ≥ P70 (3109.92) on 2022-06-02?", "Answer": "5"}
+{"Query": "How many users consumed protein sources but no 'vegetables and fruits' on 2022-05-30?", "Answer": "0"}
+{"Query": "How many users had minutes_in_deep_sleep ≤ P30 (60.90) and oxygen_saturation ≤ P30 (94.00) on 2022-05-29?", "Answer": "3"}
+{"Query": "How many users had stress_score greater than 80 and consumed fried food more than once on 2022-05-23?", "Answer": "0"}
+{"Query": "How many users had distance_m ≥ P70 (935856.00) and calories_kcal ≥ P70 (3430.84) on 2022-05-21?", "Answer": "9"}
+{"Query": "How many users had distance_m ≥ P70 (847855.00) and calories_kcal ≥ P70 (3106.18) on 2022-06-15?", "Answer": "7"}
+{"Query": "How many users had fried-intake share ≥ 0.5 and average stress_score ≥ P70 (83.00) within one week, starting from 2022-05-20?", "Answer": "1"}
+{"Query": "How many users had lower_bound_oxygen_saturation less than 90 and average respiratory_rate greater than 22 within one week, starting from 2022-06-08?", "Answer": "0"}
+{"Query": "How many users had stress_score greater than 80 and consumed fried food more than once on 2022-06-06?", "Answer": "0"}
+{"Query": "How many users had distance_m ≥ P70 (818073.00) and calories_kcal ≥ P70 (3019.61) on 2022-06-06?", "Answer": "10"}
+{"Query": "How many users had lower_bound_oxygen_saturation less than 90 and average respiratory_rate greater than 22 within one week, starting from 2022-06-04?", "Answer": "0"}
+{"Query": "How many users had at least 3 activity sessions and a weekly average average_heart_rate ≥ P70 (108.00) within one week, starting from 2022-05-25?", "Answer": "9"}
+{"Query": "How many users had at least 2 days with lower_bound_oxygen_saturation < 90 and, on those days, respiratory_rate above the population mean within one week, starting from 2022-05-23?", "Answer": "2"}
+{"Query": "How many users consumed protein sources but no 'vegetables and fruits' on 2022-06-03?", "Answer": "0"}
+{"Query": "How many users had at least 3 days with steps ≥ population daily P70 within one week, starting from 2022-06-13?", "Answer": "19"}
+{"Query": "How many users had at least 3 days with very_active_minutes ≥ 60 within one week, starting from 2022-05-25?", "Answer": "0"}
+{"Query": "How many users had at least 2 days with lower_bound_oxygen_saturation < 90 and, on those days, respiratory_rate above the population mean within one week, starting from 2022-06-08?", "Answer": "4"}
+{"Query": "How many users had distance_m ≥ P70 (811292.00) and calories_kcal ≥ P70 (3103.15) on 2022-05-17?", "Answer": "3"}
+{"Query": "How many users had lower_bound_oxygen_saturation less than 90 and average respiratory_rate greater than 22 within one week, starting from 2022-06-14?", "Answer": "1"}
+{"Query": "How many users had minutes_in_deep_sleep ≤ P30 (50.60) and oxygen_saturation ≤ P30 (93.80) on 2022-05-24?", "Answer": "2"}
+{"Query": "How many users consumed protein sources but no 'vegetables and fruits' on 2022-05-19?", "Answer": "0"}
+{"Query": "How many users had at least 2 days with lower_bound_oxygen_saturation < 90 and, on those days, respiratory_rate above the population mean within one week, starting from 2022-06-13?", "Answer": "6"}
+{"Query": "How many users had stress_score greater than 80 and consumed fried food more than once on 2022-05-28?", "Answer": "0"}
+{"Query": "How many users had sleep duration less than 6 hours and steps lower than 5000 on 2022-06-12?", "Answer": "2"}
+{"Query": "How many users had at least 2 days with lower_bound_oxygen_saturation < 90 and, on those days, respiratory_rate above the population mean within one week, starting from 2022-06-12?", "Answer": "6"}
+{"Query": "How many users had minutes_in_deep_sleep ≤ P30 (57.60) and oxygen_saturation ≤ P30 (93.23) on 2022-06-18?", "Answer": "3"}
+{"Query": "How many users had at least 3 days with minutes_in_rem ≥ P70 and minutes_in_light_sleep ≤ P30 within one week, starting from 2022-05-21?", "Answer": "2"}
+{"Query": "How many users had fried-intake share ≥ 0.5 and average stress_score ≥ P70 (79.00) within one week, starting from 2022-06-06?", "Answer": "1"}
+{"Query": "How many users had sleep duration less than 6 hours and steps lower than 5000 on 2022-05-17?", "Answer": "0"}
+{"Query": "How many users had at least 4 days with minutes_in_light_sleep ≤ population daily P30 and weekly average oxygen_saturation ≥ P60 (94.90) within one week, starting from 2022-05-21?", "Answer": "3"}
+{"Query": "How many users had stress_score greater than 80 and consumed fried food more than once on 2022-06-09?", "Answer": "1"}
+{"Query": "How many users consumed protein sources but no 'vegetables and fruits' on 2022-06-04?", "Answer": "1"}
+{"Query": "How many users had sleep duration less than 6 hours and steps lower than 5000 on 2022-06-18?", "Answer": "2"}
+{"Query": "How many users had fried-intake share ≥ 0.5 and average stress_score ≥ P70 (77.00) within one week, starting from 2022-06-03?", "Answer": "1"}
+{"Query": "How many users had at least 2 days with lower_bound_oxygen_saturation < 90 and, on those days, respiratory_rate above the population mean within one week, starting from 2022-06-10?", "Answer": "3"}
+{"Query": "How many users had distance_m ≥ P70 (948326.00) and calories_kcal ≥ P70 (3322.40) on 2022-05-18?", "Answer": "3"}
+{"Query": "How many users had lower_bound_oxygen_saturation less than 90 and average respiratory_rate greater than 22 within one week, starting from 2022-06-02?", "Answer": "0"}
+{"Query": "How many users had distance_m ≥ P70 (922406.00) and calories_kcal ≥ P70 (3369.45) on 2022-06-01?", "Answer": "7"}
+{"Query": "How many users had at least 3 days with minutes_in_rem ≥ P70 and minutes_in_light_sleep ≤ P30 within one week, starting from 2022-05-22?", "Answer": "3"}
+{"Query": "How many users had at least 4 days with minutes_in_light_sleep ≤ population daily P30 and weekly average oxygen_saturation ≥ P60 (94.70) within one week, starting from 2022-05-29?", "Answer": "2"}
+{"Query": "How many users had at least 4 days with minutes_in_light_sleep ≤ population daily P30 and weekly average oxygen_saturation ≥ P60 (94.10) within one week, starting from 2022-06-15?", "Answer": "1"}
+{"Query": "How many users had at least 3 activity sessions and a weekly average average_heart_rate ≥ P70 (107.00) within one week, starting from 2022-05-23?", "Answer": "8"}
+{"Query": "How many users had at least 3 days with minutes_in_rem ≥ P70 and minutes_in_light_sleep ≤ P30 within one week, starting from 2022-05-24?", "Answer": "2"}
+{"Query": "How many users consumed protein sources but no 'vegetables and fruits' on 2022-05-22?", "Answer": "0"}
+{"Query": "How many users consumed protein sources but no 'vegetables and fruits' on 2022-06-05?", "Answer": "1"}
+{"Query": "How many users had at least 3 days with very_active_minutes ≥ 60 within one week, starting from 2022-06-07?", "Answer": "0"}
+{"Query": "How many users had minutes_in_deep_sleep lower than 1 hour and resting_heart_rate higher than 85 within one week, starting from 2022-06-12?", "Answer": "0"}
+{"Query": "How many users had sleep duration less than 6 hours and steps lower than 5000 on 2022-06-04?", "Answer": "0"}
+{"Query": "How many users had at least 4 days with minutes_in_light_sleep ≤ population daily P30 and weekly average oxygen_saturation ≥ P60 (94.60) within one week, starting from 2022-05-31?", "Answer": "1"}
+{"Query": "How many users had distance_m ≥ P70 (1012155.00) and calories_kcal ≥ P70 (3277.70) on 2022-05-23?", "Answer": "8"}
+{"Query": "How many users had minutes_in_deep_sleep lower than 1 hour and resting_heart_rate higher than 85 within one week, starting from 2022-05-22?", "Answer": "0"}
+{"Query": "How many users had minutes_in_deep_sleep ≤ P30 (38.80) and oxygen_saturation ≤ P30 (92.90) on 2022-06-14?", "Answer": "2"}
+{"Query": "How many users had distance_m ≥ P70 (1037138.00) and calories_kcal ≥ P70 (3275.50) on 2022-05-26?", "Answer": "10"}
+{"Query": "How many users had sleep duration less than 6 hours and steps lower than 5000 on 2022-06-15?", "Answer": "2"}
+{"Query": "How many users had at least 3 days with steps ≥ population daily P70 within one week, starting from 2022-06-10?", "Answer": "17"}
+{"Query": "How many users had lower_bound_oxygen_saturation less than 90 and average respiratory_rate greater than 22 within one week, starting from 2022-05-27?", "Answer": "0"}
+{"Query": "How many users had sleep duration less than 6 hours and steps lower than 5000 on 2022-06-20?", "Answer": "0"}
+{"Query": "How many users had at least 3 days with minutes_in_rem ≥ P70 and minutes_in_light_sleep ≤ P30 within one week, starting from 2022-05-17?", "Answer": "2"}
+{"Query": "How many users had at least 3 days with minutes_in_rem ≥ P70 and minutes_in_light_sleep ≤ P30 within one week, starting from 2022-06-04?", "Answer": "1"}
+{"Query": "How many users had minutes_in_deep_sleep lower than 1 hour and resting_heart_rate higher than 85 within one week, starting from 2022-06-11?", "Answer": "0"}
+{"Query": "How many users had at least 3 days with very_active_minutes ≥ 60 within one week, starting from 2022-06-17?", "Answer": "0"}
+{"Query": "How many users had minutes_in_deep_sleep lower than 1 hour and resting_heart_rate higher than 85 within one week, starting from 2022-05-25?", "Answer": "0"}
+{"Query": "How many users had stress_score greater than 80 and consumed fried food more than once on 2022-06-02?", "Answer": "0"}
+{"Query": "How many users had stress_score greater than 80 and consumed fried food more than once on 2022-05-24?", "Answer": "1"}
+{"Query": "How many users had at least 5 days with steps ≥ population daily P70 within one week, starting from 2022-06-05?", "Answer": "7"}
+{"Query": "How many users had at least 4 days with minutes_in_light_sleep ≤ population daily P30 and weekly average oxygen_saturation ≥ P60 (94.10) within one week, starting from 2022-06-17?", "Answer": "1"}
+{"Query": "How many users had at least 3 days with minutes_in_rem ≥ P70 and minutes_in_light_sleep ≤ P30 within one week, starting from 2022-06-10?", "Answer": "0"}
+{"Query": "How many users consumed protein sources but no 'vegetables and fruits' on 2022-06-11?", "Answer": "0"}
+{"Query": "How many users had at least 4 days with minutes_in_light_sleep ≤ population daily P30 and weekly average oxygen_saturation ≥ P60 (95.10) within one week, starting from 2022-05-24?", "Answer": "1"}
+{"Query": "How many users had at least 4 days with minutes_in_light_sleep ≤ population daily P30 and weekly average oxygen_saturation ≥ P60 (94.20) within one week, starting from 2022-06-12?", "Answer": "2"}
+{"Query": "How many users had sleep duration less than 6 hours and steps lower than 5000 on 2022-06-16?", "Answer": "1"}
+{"Query": "How many users had at least 2 days with lower_bound_oxygen_saturation < 90 and, on those days, respiratory_rate above the population mean within one week, starting from 2022-05-17?", "Answer": "2"}
+{"Query": "How many users had minutes_in_deep_sleep lower than 1 hour and resting_heart_rate higher than 85 within one week, starting from 2022-05-20?", "Answer": "1"}
+{"Query": "How many users had stress_score greater than 80 and consumed fried food more than once on 2022-06-12?", "Answer": "0"}
+{"Query": "How many users had at least 3 activity sessions and a weekly average average_heart_rate ≥ P70 (107.45) within one week, starting from 2022-06-09?", "Answer": "11"}
+{"Query": "How many users consumed protein sources but no 'vegetables and fruits' on 2022-05-21?", "Answer": "1"}
+{"Query": "How many users had at least 4 days with minutes_in_light_sleep ≤ population daily P30 and weekly average oxygen_saturation ≥ P60 (94.00) within one week, starting from 2022-06-05?", "Answer": "2"}
+{"Query": "How many users had stress_score greater than 80 and consumed fried food more than once on 2022-05-30?", "Answer": "1"}
+{"Query": "How many users had sleep duration less than 6 hours and steps lower than 5000 on 2022-05-24?", "Answer": "2"}
+{"Query": "How many users had minutes_in_deep_sleep ≤ P30 (53.80) and oxygen_saturation ≤ P30 (93.30) on 2022-05-31?", "Answer": "5"}
+{"Query": "How many users consumed protein sources but no 'vegetables and fruits' on 2022-06-10?", "Answer": "2"}
+{"Query": "How many users had at least 4 days with steps ≥ population daily P70 within one week, starting from 2022-06-16?", "Answer": "5"}
+{"Query": "How many users had at least 3 days with very_active_minutes ≥ 60 within one week, starting from 2022-06-04?", "Answer": "0"}
+{"Query": "How many users consumed protein sources but no 'vegetables and fruits' on 2022-06-22?", "Answer": "1"}
+{"Query": "How many users consumed protein sources but no 'vegetables and fruits' on 2022-06-02?", "Answer": "3"}
+{"Query": "How many users consumed protein sources but no 'vegetables and fruits' on 2022-05-28?", "Answer": "2"}
+{"Query": "How many users had at least 3 activity sessions and a weekly average average_heart_rate ≥ P70 (106.20) within one week, starting from 2022-06-14?", "Answer": "7"}
+{"Query": "How many users had at least 4 days with minutes_in_light_sleep ≤ population daily P30 and weekly average oxygen_saturation ≥ P60 (94.50) within one week, starting from 2022-05-18?", "Answer": "1"}
+{"Query": "How many users had at least 3 days with minutes_in_rem ≥ P70 and minutes_in_light_sleep ≤ P30 within one week, starting from 2022-06-11?", "Answer": "0"}
+{"Query": "How many users had at least 3 days with minutes_in_rem ≥ P70 and minutes_in_light_sleep ≤ P30 within one week, starting from 2022-06-01?", "Answer": "2"}
+{"Query": "How many users had at least 5 days with steps ≥ population daily P70 within one week, starting from 2022-05-21?", "Answer": "7"}
+{"Query": "How many users had stress_score greater than 80 and consumed fried food more than once on 2022-06-10?", "Answer": "1"}
+{"Query": "How many users had stress_score greater than 80 and consumed fried food more than once on 2022-06-20?", "Answer": "0"}
+{"Query": "How many users consumed protein sources but no 'vegetables and fruits' on 2022-05-17?", "Answer": "0"}
+{"Query": "How many users had at least 3 days with steps ≥ population daily P70 within one week, starting from 2022-05-18?", "Answer": "16"}
+{"Query": "How many users had minutes_in_deep_sleep ≤ P30 (46.50) and oxygen_saturation ≤ P30 (92.98) on 2022-06-01?", "Answer": "1"}
+{"Query": "How many users had stress_score greater than 80 and consumed fried food more than once on 2022-06-23?", "Answer": "0"}
+{"Query": "How many users had sleep duration less than 6 hours and steps lower than 5000 on 2022-05-23?", "Answer": "4"}
+{"Query": "How many users had at least 4 days with minutes_in_light_sleep ≤ population daily P30 and weekly average oxygen_saturation ≥ P60 (94.10) within one week, starting from 2022-06-14?", "Answer": "1"}
+{"Query": "How many users had at least 4 days with steps ≥ population daily P70 within one week, starting from 2022-06-13?", "Answer": "11"}
+{"Query": "How many users had fried-intake share ≥ 0.5 and average stress_score ≥ P70 (80.00) within one week, starting from 2022-06-11?", "Answer": "2"}
+{"Query": "How many users had minutes_in_deep_sleep ≤ P30 (48.00) and oxygen_saturation ≤ P30 (92.72) on 2022-06-16?", "Answer": "4"}
+{"Query": "How many users had lower_bound_oxygen_saturation less than 90 and average respiratory_rate greater than 22 within one week, starting from 2022-05-17?", "Answer": "0"}
+{"Query": "How many users had minutes_in_deep_sleep lower than 1 hour and resting_heart_rate higher than 85 within one week, starting from 2022-05-21?", "Answer": "0"}
+{"Query": "How many users had minutes_in_deep_sleep ≤ P30 (42.60) and oxygen_saturation ≤ P30 (93.66) on 2022-06-03?", "Answer": "2"}
+{"Query": "How many users had stress_score greater than 80 and consumed fried food more than once on 2022-06-16?", "Answer": "0"}
+{"Query": "How many users had fried-intake share ≥ 0.5 and average stress_score ≥ P70 (83.00) within one week, starting from 2022-05-26?", "Answer": "0"}
+{"Query": "How many users had minutes_in_deep_sleep ≤ P30 (46.40) and oxygen_saturation ≤ P30 (93.10) on 2022-06-13?", "Answer": "5"}
+{"Query": "How many users had minutes_in_deep_sleep lower than 1 hour and resting_heart_rate higher than 85 within one week, starting from 2022-06-05?", "Answer": "1"}
+{"Query": "How many users had at least 4 days with steps ≥ population daily P70 within one week, starting from 2022-05-29?", "Answer": "3"}
+{"Query": "How many users had at least 2 days with lower_bound_oxygen_saturation < 90 and, on those days, respiratory_rate above the population mean within one week, starting from 2022-06-02?", "Answer": "2"}
+{"Query": "How many users had at least 3 days with very_active_minutes ≥ 60 within one week, starting from 2022-05-30?", "Answer": "0"}
+{"Query": "How many users consumed protein sources but no 'vegetables and fruits' on 2014-07-27?", "Answer": "0"}
+{"Query": "How many users had minutes_in_deep_sleep ≤ P30 (43.80) and oxygen_saturation ≤ P30 (93.77) on 2022-05-26?", "Answer": "2"}
+{"Query": "How many users had at least 3 days with minutes_in_rem ≥ P70 and minutes_in_light_sleep ≤ P30 within one week, starting from 2022-05-19?", "Answer": "2"}
+{"Query": "How many users had minutes_in_deep_sleep ≤ P30 (54.00) and oxygen_saturation ≤ P30 (93.78) on 2022-06-23?", "Answer": "2"}
+{"Query": "How many users had sleep duration less than 6 hours and steps lower than 5000 on 2022-06-09?", "Answer": "0"}
+{"Query": "How many users had minutes_in_deep_sleep ≤ P30 (59.80) and oxygen_saturation ≤ P30 (93.15) on 2022-06-11?", "Answer": "2"}
+{"Query": "How many users had at least 4 days with minutes_in_light_sleep ≤ population daily P30 and weekly average oxygen_saturation ≥ P60 (94.10) within one week, starting from 2022-06-08?", "Answer": "1"}
+{"Query": "How many users had minutes_in_deep_sleep ≤ P30 (47.00) and oxygen_saturation ≤ P30 (94.09) on 2022-05-25?", "Answer": "5"}
+{"Query": "How many users had minutes_in_deep_sleep ≤ P30 (47.80) and oxygen_saturation ≤ P30 (93.02) on 2022-06-22?", "Answer": "1"}
+{"Query": "How many users had at least 2 days with lower_bound_oxygen_saturation < 90 and, on those days, respiratory_rate above the population mean within one week, starting from 2022-05-27?", "Answer": "3"}
+{"Query": "How many users had fried-intake share ≥ 0.5 and average stress_score ≥ P70 (80.00) within one week, starting from 2022-06-12?", "Answer": "3"}
+{"Query": "How many users had at least 2 days with lower_bound_oxygen_saturation < 90 and, on those days, respiratory_rate above the population mean within one week, starting from 2022-06-06?", "Answer": "3"}
+{"Query": "How many users had at least 5 days with steps ≥ population daily P70 within one week, starting from 2022-06-13?", "Answer": "7"}
+{"Query": "How many users had at least 3 days with minutes_in_rem ≥ P70 and minutes_in_light_sleep ≤ P30 within one week, starting from 2022-06-14?", "Answer": "0"}
+{"Query": "How many users had minutes_in_deep_sleep lower than 1 hour and resting_heart_rate higher than 85 within one week, starting from 2022-05-31?", "Answer": "1"}
+{"Query": "How many users had lower_bound_oxygen_saturation less than 90 and average respiratory_rate greater than 22 within one week, starting from 2022-05-23?", "Answer": "0"}
+{"Query": "How many users had fried-intake share ≥ 0.5 and average stress_score ≥ P70 (80.00) within one week, starting from 2022-06-14?", "Answer": "2"}
+{"Query": "How many users had at least 3 activity sessions and a weekly average average_heart_rate ≥ P70 (104.10) within one week, starting from 2022-06-16?", "Answer": "6"}
+{"Query": "How many users had at least 4 days with steps ≥ population daily P70 within one week, starting from 2022-05-22?", "Answer": "8"}
+{"Query": "How many users had at least 4 days with steps ≥ population daily P70 within one week, starting from 2022-05-19?", "Answer": "11"}
+{"Query": "How many users had at least 3 days with minutes_in_rem ≥ P70 and minutes_in_light_sleep ≤ P30 within one week, starting from 2022-06-12?", "Answer": "0"}
+{"Query": "How many users had at least 4 days with steps ≥ population daily P70 within one week, starting from 2022-05-23?", "Answer": "7"}
+{"Query": "How many users had fried-intake share ≥ 0.5 and average stress_score ≥ P70 (79.00) within one week, starting from 2022-06-07?", "Answer": "2"}
+{"Query": "How many users had at least 5 days with steps ≥ population daily P70 within one week, starting from 2022-05-26?", "Answer": "4"}
+{"Query": "How many users had at least 4 days with minutes_in_light_sleep ≤ population daily P30 and weekly average oxygen_saturation ≥ P60 (94.10) within one week, starting from 2022-06-07?", "Answer": "2"}
+{"Query": "How many users had lower_bound_oxygen_saturation less than 90 and average respiratory_rate greater than 22 within one week, starting from 2022-06-10?", "Answer": "0"}
+{"Query": "How many users had fried-intake share ≥ 0.5 and average stress_score ≥ P70 (81.00) within one week, starting from 2022-05-28?", "Answer": "1"}
+{"Query": "How many users had minutes_in_deep_sleep lower than 1 hour and resting_heart_rate higher than 85 within one week, starting from 2022-06-06?", "Answer": "0"}
+{"Query": "How many users had at least 3 days with steps ≥ population daily P70 within one week, starting from 2022-05-21?", "Answer": "17"}
+{"Query": "How many users had at least 3 days with steps ≥ population daily P70 within one week, starting from 2022-06-03?", "Answer": "13"}
+{"Query": "How many users had at least 4 days with minutes_in_light_sleep ≤ population daily P30 and weekly average oxygen_saturation ≥ P60 (94.12) within one week, starting from 2022-06-13?", "Answer": "2"}
+{"Query": "How many users had at least 3 days with very_active_minutes ≥ 60 within one week, starting from 2022-06-06?", "Answer": "0"}
+{"Query": "How many users had at least 3 days with steps ≥ population daily P70 within one week, starting from 2022-05-24?", "Answer": "16"}
+{"Query": "How many users had fried-intake share ≥ 0.5 and average stress_score ≥ P70 (83.00) within one week, starting from 2022-05-23?", "Answer": "1"}
+{"Query": "How many users had minutes_in_deep_sleep lower than 1 hour and resting_heart_rate higher than 85 within one week, starting from 2022-06-15?", "Answer": "0"}
+{"Query": "How many users had at least 4 days with steps ≥ population daily P70 within one week, starting from 2022-06-10?", "Answer": "11"}
+{"Query": "How many users had minutes_in_deep_sleep lower than 1 hour and resting_heart_rate higher than 85 within one week, starting from 2022-05-28?", "Answer": "0"}
+{"Query": "How many users had at least 3 activity sessions and a weekly average average_heart_rate ≥ P70 (106.90) within one week, starting from 2022-06-07?", "Answer": "12"}
+{"Query": "How many users had minutes_in_deep_sleep lower than 1 hour and resting_heart_rate higher than 85 within one week, starting from 2022-05-19?", "Answer": "1"}
+{"Query": "How many users had lower_bound_oxygen_saturation less than 90 and average respiratory_rate greater than 22 within one week, starting from 2022-05-21?", "Answer": "0"}
+{"Query": "How many users had at least 3 activity sessions and a weekly average average_heart_rate ≥ P70 (106.40) within one week, starting from 2022-06-05?", "Answer": "9"}
+{"Query": "How many users had at least 3 days with minutes_in_rem ≥ P70 and minutes_in_light_sleep ≤ P30 within one week, starting from 2022-06-15?", "Answer": "0"}
+{"Query": "How many users had lower_bound_oxygen_saturation less than 90 and average respiratory_rate greater than 22 within one week, starting from 2022-06-13?", "Answer": "1"}
+{"Query": "How many users had fried-intake share ≥ 0.5 and average stress_score ≥ P70 (79.00) within one week, starting from 2022-05-18?", "Answer": "1"}
+{"Query": "How many users had at least 3 days with very_active_minutes ≥ 60 within one week, starting from 2022-05-26?", "Answer": "0"}
+{"Query": "How many users had at least 4 days with steps ≥ population daily P70 within one week, starting from 2022-05-20?", "Answer": "11"}
+{"Query": "How many users had at least 4 days with steps ≥ population daily P70 within one week, starting from 2022-05-27?", "Answer": "4"}
+{"Query": "How many users had fried-intake share ≥ 0.5 and average stress_score ≥ P70 (78.50) within one week, starting from 2022-06-05?", "Answer": "1"}
+{"Query": "How many users had at least 3 days with very_active_minutes ≥ 60 within one week, starting from 2022-05-24?", "Answer": "0"}
+{"Query": "How many users had at least 3 activity sessions and a weekly average average_heart_rate ≥ P70 (108.20) within one week, starting from 2022-06-12?", "Answer": "11"}
+{"Query": "How many users had lower_bound_oxygen_saturation less than 90 and average respiratory_rate greater than 22 within one week, starting from 2022-05-26?", "Answer": "0"}
+{"Query": "How many users had lower_bound_oxygen_saturation less than 90 and average respiratory_rate greater than 22 within one week, starting from 2022-06-06?", "Answer": "0"}
+{"Query": "How many users had at least 3 activity sessions and a weekly average average_heart_rate ≥ P70 (106.00) within one week, starting from 2022-06-01?", "Answer": "7"}
+{"Query": "How many users had at least 3 activity sessions and a weekly average average_heart_rate ≥ P70 (106.00) within one week, starting from 2022-06-02?", "Answer": "6"}
+{"Query": "How many users had at least 3 activity sessions and a weekly average average_heart_rate ≥ P70 (107.40) within one week, starting from 2022-05-17?", "Answer": "10"}
+{"Query": "How many users had lower_bound_oxygen_saturation less than 90 and average respiratory_rate greater than 22 within one week, starting from 2022-05-19?", "Answer": "0"}
+{"Query": "How many users had lower_bound_oxygen_saturation less than 90 and average respiratory_rate greater than 22 within one week, starting from 2022-06-09?", "Answer": "0"}
+{"Query": "How many users had at least 3 activity sessions and a weekly average average_heart_rate ≥ P70 (107.00) within one week, starting from 2022-05-19?", "Answer": "9"}

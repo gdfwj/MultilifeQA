@@ -1,0 +1,180 @@
+{"Query": "Did the average {responsiveness_points} across all users increase, decrease, or remain the same on 2022-05-30 compared to the previous day?", "Answer": "increase"}
+{"Query": "Did the average {sleep_points} across all users increase, decrease, or remain the same on 2022-06-12 compared to the previous day?", "Answer": "decrease"}
+{"Query": "Did the average {exertion_points} across all users increase, decrease, or remain the same on 2022-06-17 compared to the previous day?", "Answer": "increase"}
+{"Query": "Did the average {exertion_points} across all users increase, decrease, or remain the same on 2022-06-15 compared to the previous day?", "Answer": "decrease"}
+{"Query": "Did the average {responsiveness_points} across all users increase, decrease, or remain the same on 2022-05-26 compared to the previous day?", "Answer": "decrease"}
+{"Query": "Did the average {responsiveness_points} across all users increase, decrease, or remain the same on 2022-06-06 compared to the previous day?", "Answer": "increase"}
+{"Query": "Did the average {responsiveness_points} across all users increase, decrease, or remain the same on 2022-06-17 compared to the previous day?", "Answer": "decrease"}
+{"Query": "Did the average {responsiveness_points} across all users increase, decrease, or remain the same on 2022-05-22 compared to the previous day?", "Answer": "increase"}
+{"Query": "Did the average {stress_score} across all users increase, decrease, or remain the same on 2022-06-13 compared to the previous day?", "Answer": "increase"}
+{"Query": "Did the average {stress_score} across all users increase, decrease, or remain the same on 2022-05-29 compared to the previous day?", "Answer": "decrease"}
+{"Query": "Did the average {responsiveness_points} across all users increase, decrease, or remain the same on 2022-06-02 compared to the previous day?", "Answer": "decrease"}
+{"Query": "Did the average {responsiveness_points} across all users increase, decrease, or remain the same on 2022-06-16 compared to the previous day?", "Answer": "increase"}
+{"Query": "Did the average {responsiveness_points} across all users increase, decrease, or remain the same on 2022-06-23 compared to the previous day?", "Answer": "decrease"}
+{"Query": "Did the average {responsiveness_points} across all users increase, decrease, or remain the same on 2022-05-29 compared to the previous day?", "Answer": "decrease"}
+{"Query": "Did the average {sleep_points} across all users increase, decrease, or remain the same on 2022-06-04 compared to the previous day?", "Answer": "decrease"}
+{"Query": "Did the average {stress_score} across all users increase, decrease, or remain the same on 2022-05-25 compared to the previous day?", "Answer": "decrease"}
+{"Query": "Did the average {exertion_points} across all users increase, decrease, or remain the same on 2022-06-01 compared to the previous day?", "Answer": "increase"}
+{"Query": "Did the average {responsiveness_points} across all users increase, decrease, or remain the same on 2022-05-20 compared to the previous day?", "Answer": "increase"}
+{"Query": "Did the average {responsiveness_points} across all users increase, decrease, or remain the same on 2022-06-01 compared to the previous day?", "Answer": "increase"}
+{"Query": "Did the average {sleep_points} across all users increase, decrease, or remain the same on 2022-05-30 compared to the previous day?", "Answer": "increase"}
+{"Query": "Did the average {stress_score} across all users increase, decrease, or remain the same on 2022-06-04 compared to the previous day?", "Answer": "decrease"}
+{"Query": "Did the average {sleep_points} across all users increase, decrease, or remain the same on 2022-05-23 compared to the previous day?", "Answer": "decrease"}
+{"Query": "Did the average {stress_score} across all users increase, decrease, or remain the same on 2022-06-23 compared to the previous day?", "Answer": "increase"}
+{"Query": "Did the average {stress_score} across all users increase, decrease, or remain the same on 2022-05-21 compared to the previous day?", "Answer": "increase"}
+{"Query": "Did the average {stress_score} across all users increase, decrease, or remain the same on 2022-05-19 compared to the previous day?", "Answer": "increase"}
+{"Query": "Did the average {sleep_points} across all users increase, decrease, or remain the same on 2022-06-10 compared to the previous day?", "Answer": "decrease"}
+{"Query": "Did the average {stress_score} across all users increase, decrease, or remain the same on 2022-06-08 compared to the previous day?", "Answer": "decrease"}
+{"Query": "Did the average {stress_score} across all users increase, decrease, or remain the same on 2022-05-23 compared to the previous day?", "Answer": "increase"}
+{"Query": "Did the average {stress_score} across all users increase, decrease, or remain the same on 2022-06-16 compared to the previous day?", "Answer": "increase"}
+{"Query": "Did the average {sleep_points} across all users increase, decrease, or remain the same on 2022-06-11 compared to the previous day?", "Answer": "increase"}
+{"Query": "Was the average {sleep_points} across all users higher, lower, or the same within one week, starting from 2022-05-28, compared to the previous week?", "Answer": "increase"}
+{"Query": "Was the average {stress_score} across all users higher, lower, or the same within one week, starting from 2022-06-05, compared to the previous week?", "Answer": "decrease"}
+{"Query": "Was the average {stress_score} across all users higher, lower, or the same within one week, starting from 2022-06-03, compared to the previous week?", "Answer": "decrease"}
+{"Query": "Was the average {responsiveness_points} across all users higher, lower, or the same within one week, starting from 2022-06-01, compared to the previous week?", "Answer": "decrease"}
+{"Query": "Was the average {stress_score} across all users higher, lower, or the same within one week, starting from 2022-06-13, compared to the previous week?", "Answer": "increase"}
+{"Query": "Was the average {sleep_points} across all users higher, lower, or the same within one week, starting from 2022-06-09, compared to the previous week?", "Answer": "increase"}
+{"Query": "Was the average {exertion_points} across all users higher, lower, or the same within one week, starting from 2022-05-30, compared to the previous week?", "Answer": "decrease"}
+{"Query": "Was the average {stress_score} across all users higher, lower, or the same within one week, starting from 2022-05-29, compared to the previous week?", "Answer": "decrease"}
+{"Query": "Was the average {responsiveness_points} across all users higher, lower, or the same within one week, starting from 2022-06-06, compared to the previous week?", "Answer": "decrease"}
+{"Query": "Was the average {exertion_points} across all users higher, lower, or the same within one week, starting from 2022-06-05, compared to the previous week?", "Answer": "decrease"}
+{"Query": "Was the average {exertion_points} across all users higher, lower, or the same within one week, starting from 2022-05-31, compared to the previous week?", "Answer": "decrease"}
+{"Query": "Was the average {stress_score} across all users higher, lower, or the same within one week, starting from 2022-06-16, compared to the previous week?", "Answer": "increase"}
+{"Query": "Was the average {sleep_points} across all users higher, lower, or the same within one week, starting from 2022-05-26, compared to the previous week?", "Answer": "increase"}
+{"Query": "Was the average {exertion_points} across all users higher, lower, or the same within one week, starting from 2022-05-27, compared to the previous week?", "Answer": "increase"}
+{"Query": "Was the average {sleep_points} across all users higher, lower, or the same within one week, starting from 2022-06-03, compared to the previous week?", "Answer": "decrease"}
+{"Query": "Was the average {sleep_points} across all users higher, lower, or the same within one week, starting from 2022-06-02, compared to the previous week?", "Answer": "decrease"}
+{"Query": "Was the average {responsiveness_points} across all users higher, lower, or the same within one week, starting from 2022-06-04, compared to the previous week?", "Answer": "decrease"}
+{"Query": "Was the average {stress_score} across all users higher, lower, or the same within one week, starting from 2022-06-04, compared to the previous week?", "Answer": "decrease"}
+{"Query": "Was the average {stress_score} across all users higher, lower, or the same within one week, starting from 2022-06-12, compared to the previous week?", "Answer": "increase"}
+{"Query": "Was the average {responsiveness_points} across all users higher, lower, or the same within one week, starting from 2022-05-29, compared to the previous week?", "Answer": "decrease"}
+{"Query": "Was the average {responsiveness_points} across all users higher, lower, or the same within one week, starting from 2022-05-27, compared to the previous week?", "Answer": "decrease"}
+{"Query": "Was the average {stress_score} across all users higher, lower, or the same within one week, starting from 2022-05-31, compared to the previous week?", "Answer": "decrease"}
+{"Query": "Was the average {exertion_points} across all users higher, lower, or the same within one week, starting from 2022-06-14, compared to the previous week?", "Answer": "increase"}
+{"Query": "Was the average {stress_score} across all users higher, lower, or the same within one week, starting from 2022-06-17, compared to the previous week?", "Answer": "increase"}
+{"Query": "Was the average {stress_score} across all users higher, lower, or the same within one week, starting from 2022-05-28, compared to the previous week?", "Answer": "decrease"}
+{"Query": "Was the average {responsiveness_points} across all users higher, lower, or the same within one week, starting from 2022-06-16, compared to the previous week?", "Answer": "increase"}
+{"Query": "Was the average {exertion_points} across all users higher, lower, or the same within one week, starting from 2022-05-29, compared to the previous week?", "Answer": "decrease"}
+{"Query": "Was the average {sleep_points} across all users higher, lower, or the same within one week, starting from 2022-06-08, compared to the previous week?", "Answer": "decrease"}
+{"Query": "Was the average {exertion_points} across all users higher, lower, or the same within one week, starting from 2022-06-16, compared to the previous week?", "Answer": "increase"}
+{"Query": "Was the average {exertion_points} across all users higher, lower, or the same within one week, starting from 2022-06-17, compared to the previous week?", "Answer": "decrease"}
+{"Query": "How many consecutive days did the average {exertion_points} across all users increase, starting from 2022-06-13?", "Answer": "2"}
+{"Query": "How many consecutive days did the average {responsiveness_points} across all users increase, starting from 2022-06-02?", "Answer": "2"}
+{"Query": "How many consecutive days did the average {responsiveness_points} across all users increase, starting from 2022-06-17?", "Answer": "2"}
+{"Query": "How many consecutive days did the average {sleep_points} across all users increase, starting from 2022-06-08?", "Answer": "2"}
+{"Query": "How many consecutive days did the average {sleep_points} across all users increase, starting from 2022-05-20?", "Answer": "3"}
+{"Query": "How many consecutive days did the average {stress_score} across all users increase, starting from 2022-05-29?", "Answer": "4"}
+{"Query": "How many consecutive days did the average {sleep_points} across all users increase, starting from 2022-06-19?", "Answer": "3"}
+{"Query": "How many consecutive days did the average {responsiveness_points} across all users increase, starting from 2022-05-23?", "Answer": "2"}
+{"Query": "How many consecutive days did the average {stress_score} across all users increase, starting from 2022-05-25?", "Answer": "2"}
+{"Query": "How many consecutive days did the average {exertion_points} across all users increase, starting from 2022-05-25?", "Answer": "3"}
+{"Query": "How many consecutive days did the average {sleep_points} across all users increase, starting from 2022-05-27?", "Answer": "4"}
+{"Query": "How many consecutive days did the average {stress_score} across all users increase, starting from 2022-06-05?", "Answer": "3"}
+{"Query": "How many consecutive days did the average {stress_score} across all users increase, starting from 2022-06-09?", "Answer": "3"}
+{"Query": "How many consecutive days did the average {responsiveness_points} across all users increase, starting from 2022-06-12?", "Answer": "2"}
+{"Query": "How many consecutive days did the average {sleep_points} across all users increase, starting from 2022-05-18?", "Answer": "5"}
+{"Query": "How many consecutive days did the average {stress_score} across all users increase, starting from 2022-05-22?", "Answer": "3"}
+{"Query": "How many consecutive days did the average {stress_score} across all users increase, starting from 2022-05-18?", "Answer": "7"}
+{"Query": "How many consecutive days did the average {exertion_points} across all users increase, starting from 2022-05-22?", "Answer": "3"}
+{"Query": "How many consecutive days did the average {sleep_points} across all users increase, starting from 2022-06-18?", "Answer": "4"}
+{"Query": "How many consecutive days did the average {exertion_points} across all users increase, starting from 2022-06-09?", "Answer": "3"}
+{"Query": "How many consecutive days did the average {responsiveness_points} across all users increase, starting from 2022-06-09?", "Answer": "3"}
+{"Query": "How many consecutive days did the average {sleep_points} across all users increase, starting from 2022-05-19?", "Answer": "4"}
+{"Query": "How many consecutive days did the average {sleep_points} across all users increase, starting from 2022-06-04?", "Answer": "4"}
+{"Query": "How many consecutive days did the average {responsiveness_points} across all users increase, starting from 2022-05-21?", "Answer": "4"}
+{"Query": "How many consecutive days did the average {stress_score} across all users increase, starting from 2022-05-19?", "Answer": "6"}
+{"Query": "How many consecutive days did the average {stress_score} across all users increase, starting from 2022-06-04?", "Answer": "4"}
+{"Query": "How many consecutive days did the average {stress_score} across all users increase, starting from 2022-05-20?", "Answer": "5"}
+{"Query": "How many consecutive days did the average {responsiveness_points} across all users increase, starting from 2022-06-10?", "Answer": "2"}
+{"Query": "How many consecutive days did the average {exertion_points} across all users increase, starting from 2022-05-20?", "Answer": "2"}
+{"Query": "How many consecutive days did the average {stress_score} across all users increase, starting from 2022-06-15?", "Answer": "2"}
+{"Query": "How many consecutive days did the average {stress_score} across all users decrease, starting from 2022-05-24?", "Answer": "2"}
+{"Query": "How many consecutive days did the average {exertion_points} across all users decrease, starting from 2022-06-20?", "Answer": "4"}
+{"Query": "How many consecutive days did the average {responsiveness_points} across all users decrease, starting from 2022-05-30?", "Answer": "2"}
+{"Query": "How many consecutive days did the average {responsiveness_points} across all users decrease, starting from 2022-06-13?", "Answer": "2"}
+{"Query": "How many consecutive days did the average {responsiveness_points} across all users decrease, starting from 2022-06-18?", "Answer": "2"}
+{"Query": "How many consecutive days did the average {responsiveness_points} across all users decrease, starting from 2022-06-11?", "Answer": "2"}
+{"Query": "How many consecutive days did the average {exertion_points} across all users decrease, starting from 2022-06-19?", "Answer": "5"}
+{"Query": "How many consecutive days did the average {exertion_points} across all users decrease, starting from 2022-06-01?", "Answer": "5"}
+{"Query": "How many consecutive days did the average {stress_score} across all users decrease, starting from 2022-06-13?", "Answer": "2"}
+{"Query": "How many consecutive days did the average {stress_score} across all users decrease, starting from 2022-06-03?", "Answer": "2"}
+{"Query": "How many consecutive days did the average {responsiveness_points} across all users decrease, starting from 2022-06-07?", "Answer": "2"}
+{"Query": "How many consecutive days did the average {sleep_points} across all users decrease, starting from 2022-06-02?", "Answer": "3"}
+{"Query": "How many consecutive days did the average {stress_score} across all users decrease, starting from 2022-06-01?", "Answer": "4"}
+{"Query": "How many consecutive days did the average {responsiveness_points} across all users decrease, starting from 2022-06-06?", "Answer": "3"}
+{"Query": "How many consecutive days did the average {exertion_points} across all users decrease, starting from 2022-05-27?", "Answer": "4"}
+{"Query": "How many consecutive days did the average {exertion_points} across all users decrease, starting from 2022-06-11?", "Answer": "3"}
+{"Query": "How many consecutive days did the average {exertion_points} across all users decrease, starting from 2022-06-03?", "Answer": "3"}
+{"Query": "How many consecutive days did the average {exertion_points} across all users decrease, starting from 2022-05-28?", "Answer": "3"}
+{"Query": "How many consecutive days did the average {stress_score} across all users decrease, starting from 2022-06-16?", "Answer": "3"}
+{"Query": "How many consecutive days did the average {exertion_points} across all users decrease, starting from 2022-06-21?", "Answer": "3"}
+{"Query": "How many consecutive days did the average {responsiveness_points} across all users decrease, starting from 2022-05-24?", "Answer": "4"}
+{"Query": "How many consecutive days did the average {stress_score} across all users decrease, starting from 2022-05-26?", "Answer": "4"}
+{"Query": "How many consecutive days did the average {sleep_points} across all users decrease, starting from 2022-06-13?", "Answer": "2"}
+{"Query": "How many consecutive days did the average {exertion_points} across all users decrease, starting from 2022-05-29?", "Answer": "2"}
+{"Query": "How many consecutive days did the average {exertion_points} across all users decrease, starting from 2022-06-22?", "Answer": "2"}
+{"Query": "How many consecutive days did the average {sleep_points} across all users decrease, starting from 2022-06-11?", "Answer": "2"}
+{"Query": "How many consecutive days did the average {exertion_points} across all users decrease, starting from 2022-06-17?", "Answer": "2"}
+{"Query": "How many consecutive days did the average {responsiveness_points} across all users decrease, starting from 2022-06-16?", "Answer": "2"}
+{"Query": "How many consecutive days did the average {sleep_points} across all users decrease, starting from 2022-06-03?", "Answer": "2"}
+{"Query": "How many consecutive days did the average {sleep_points} across all users decrease, starting from 2022-05-26?", "Answer": "2"}
+{"Query": "How many consecutive days was A4F_28771's {sleep_points} higher than the average across all users, starting from 2022-06-12?", "Answer": "4"}
+{"Query": "How many consecutive days was A4F_56718's {sleep_points} higher than the average across all users, starting from 2022-05-23?", "Answer": "3"}
+{"Query": "How many consecutive days was A4F_51606's {responsiveness_points} higher than the average across all users, starting from 2022-05-22?", "Answer": "7"}
+{"Query": "How many consecutive days was A4F_27766's {responsiveness_points} higher than the average across all users, starting from 2022-06-09?", "Answer": "7"}
+{"Query": "How many consecutive days was A4F_98040's {responsiveness_points} higher than the average across all users, starting from 2022-06-14?", "Answer": "7"}
+{"Query": "How many consecutive days was A4F_67598's {stress_score} higher than the average across all users, starting from 2022-06-01?", "Answer": "2"}
+{"Query": "How many consecutive days was A4F_28771's {responsiveness_points} higher than the average across all users, starting from 2022-06-13?", "Answer": "3"}
+{"Query": "How many consecutive days was A4F_39976's {sleep_points} higher than the average across all users, starting from 2022-06-11?", "Answer": "7"}
+{"Query": "How many consecutive days was A4F_28771's {responsiveness_points} higher than the average across all users, starting from 2022-06-02?", "Answer": "5"}
+{"Query": "How many consecutive days was A4F_92332's {exertion_points} higher than the average across all users, starting from 2022-06-13?", "Answer": "7"}
+{"Query": "How many consecutive days was A4F_29474's {exertion_points} higher than the average across all users, starting from 2022-06-06?", "Answer": "7"}
+{"Query": "How many consecutive days was A4F_18098's {responsiveness_points} higher than the average across all users, starting from 2022-06-19?", "Answer": "2"}
+{"Query": "How many consecutive days was A4F_82994's {sleep_points} higher than the average across all users, starting from 2022-06-17?", "Answer": "6"}
+{"Query": "How many consecutive days was A4F_29474's {responsiveness_points} higher than the average across all users, starting from 2022-06-10?", "Answer": "7"}
+{"Query": "How many consecutive days was A4F_71665's {sleep_points} higher than the average across all users, starting from 2022-06-06?", "Answer": "7"}
+{"Query": "How many consecutive days was A4F_45863's {stress_score} higher than the average across all users, starting from 2022-05-22?", "Answer": "3"}
+{"Query": "How many consecutive days was A4F_43794's {responsiveness_points} higher than the average across all users, starting from 2022-06-05?", "Answer": "3"}
+{"Query": "How many consecutive days was A4F_96181's {exertion_points} higher than the average across all users, starting from 2022-06-06?", "Answer": "2"}
+{"Query": "How many consecutive days was A4F_82994's {responsiveness_points} higher than the average across all users, starting from 2022-06-15?", "Answer": "7"}
+{"Query": "How many consecutive days was A4F_67598's {stress_score} higher than the average across all users, starting from 2022-05-25?", "Answer": "3"}
+{"Query": "How many consecutive days was A4F_53145's {stress_score} higher than the average across all users, starting from 2022-06-01?", "Answer": "3"}
+{"Query": "How many consecutive days was A4F_24211's {responsiveness_points} higher than the average across all users, starting from 2022-06-07?", "Answer": "7"}
+{"Query": "How many consecutive days was A4F_56355's {stress_score} higher than the average across all users, starting from 2022-05-26?", "Answer": "2"}
+{"Query": "How many consecutive days was A4F_82994's {responsiveness_points} higher than the average across all users, starting from 2022-06-17?", "Answer": "6"}
+{"Query": "How many consecutive days was A4F_73455's {responsiveness_points} higher than the average across all users, starting from 2022-06-04?", "Answer": "3"}
+{"Query": "How many consecutive days was A4F_82994's {responsiveness_points} higher than the average across all users, starting from 2022-06-19?", "Answer": "4"}
+{"Query": "How many consecutive days was A4F_79824's {responsiveness_points} higher than the average across all users, starting from 2022-06-18?", "Answer": "5"}
+{"Query": "How many consecutive days was A4F_82994's {exertion_points} higher than the average across all users, starting from 2022-06-19?", "Answer": "4"}
+{"Query": "How many consecutive days was A4F_24211's {responsiveness_points} higher than the average across all users, starting from 2022-06-12?", "Answer": "6"}
+{"Query": "How many consecutive days was A4F_45863's {sleep_points} higher than the average across all users, starting from 2022-06-02?", "Answer": "2"}
+{"Query": "How many consecutive days was A4F_86472's {stress_score} lower than the average across all users, starting from 2022-06-15?", "Answer": "7"}
+{"Query": "How many consecutive days was A4F_56718's {stress_score} lower than the average across all users, starting from 2022-05-22?", "Answer": "2"}
+{"Query": "How many consecutive days was A4F_40008's {stress_score} lower than the average across all users, starting from 2022-06-12?", "Answer": "7"}
+{"Query": "How many consecutive days was A4F_89897's {stress_score} lower than the average across all users, starting from 2022-05-27?", "Answer": "7"}
+{"Query": "How many consecutive days was A4F_77391's {stress_score} lower than the average across all users, starting from 2022-06-01?", "Answer": "5"}
+{"Query": "How many consecutive days was A4F_35752's {stress_score} lower than the average across all users, starting from 2022-06-16?", "Answer": "7"}
+{"Query": "How many consecutive days was A4F_79824's {stress_score} lower than the average across all users, starting from 2022-06-07?", "Answer": "3"}
+{"Query": "How many consecutive days was A4F_69129's {stress_score} lower than the average across all users, starting from 2022-05-20?", "Answer": "2"}
+{"Query": "How many consecutive days was A4F_96181's {stress_score} lower than the average across all users, starting from 2022-06-07?", "Answer": "4"}
+{"Query": "How many consecutive days was A4F_27766's {stress_score} lower than the average across all users, starting from 2022-06-14?", "Answer": "3"}
+{"Query": "How many consecutive days was A4F_94336's {stress_score} lower than the average across all users, starting from 2022-05-25?", "Answer": "2"}
+{"Query": "How many consecutive days was A4F_51606's {stress_score} lower than the average across all users, starting from 2022-05-22?", "Answer": "5"}
+{"Query": "How many consecutive days was A4F_28771's {stress_score} lower than the average across all users, starting from 2022-06-04?", "Answer": "2"}
+{"Query": "How many consecutive days was A4F_86472's {stress_score} lower than the average across all users, starting from 2022-06-17?", "Answer": "7"}
+{"Query": "How many consecutive days was A4F_40008's {stress_score} lower than the average across all users, starting from 2022-06-22?", "Answer": "2"}
+{"Query": "How many consecutive days was A4F_40008's {stress_score} lower than the average across all users, starting from 2022-06-09?", "Answer": "7"}
+{"Query": "How many consecutive days was A4F_71665's {stress_score} lower than the average across all users, starting from 2022-06-17?", "Answer": "3"}
+{"Query": "How many consecutive days was A4F_40008's {stress_score} lower than the average across all users, starting from 2022-06-14?", "Answer": "7"}
+{"Query": "How many consecutive days was A4F_77391's {stress_score} lower than the average across all users, starting from 2022-05-30?", "Answer": "7"}
+{"Query": "How many consecutive days was A4F_51606's {stress_score} lower than the average across all users, starting from 2022-05-31?", "Answer": "7"}
+{"Query": "How many consecutive days was A4F_35752's {stress_score} lower than the average across all users, starting from 2022-06-14?", "Answer": "7"}
+{"Query": "How many consecutive days was A4F_17419's {stress_score} lower than the average across all users, starting from 2022-06-10?", "Answer": "3"}
+{"Query": "How many consecutive days was A4F_18098's {stress_score} lower than the average across all users, starting from 2022-06-20?", "Answer": "4"}
+{"Query": "How many consecutive days was A4F_29474's {stress_score} lower than the average across all users, starting from 2022-06-05?", "Answer": "3"}
+{"Query": "How many consecutive days was A4F_18098's {stress_score} lower than the average across all users, starting from 2022-06-15?", "Answer": "2"}
+{"Query": "How many consecutive days was A4F_27766's {stress_score} lower than the average across all users, starting from 2022-06-18?", "Answer": "6"}
+{"Query": "How many consecutive days was A4F_77391's {stress_score} lower than the average across all users, starting from 2022-06-03?", "Answer": "3"}
+{"Query": "How many consecutive days was A4F_77391's {stress_score} lower than the average across all users, starting from 2022-06-04?", "Answer": "2"}
+{"Query": "How many consecutive days was A4F_94336's {stress_score} lower than the average across all users, starting from 2022-05-24?", "Answer": "3"}
+{"Query": "How many consecutive days was A4F_79824's {stress_score} lower than the average across all users, starting from 2022-06-05?", "Answer": "5"}

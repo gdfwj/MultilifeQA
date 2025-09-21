@@ -1,0 +1,210 @@
+{"Query": "What was the average {stress_score} across all users within one week, starting from 2022-05-29?", "Answer": "272.62"}
+{"Query": "What was the average {stress_score} across all users within one week, starting from 2022-05-31?", "Answer": "224.55"}
+{"Query": "What was the average {exertion_points} across all users within one week, starting from 2022-06-15?", "Answer": "177.55"}
+{"Query": "What was the average {exertion_points} across all users within one week, starting from 2022-05-31?", "Answer": "89.34"}
+{"Query": "What was the average {stress_score} across all users within one week, starting from 2022-05-23?", "Answer": "462.53"}
+{"Query": "What was the average {exertion_points} across all users within one week, starting from 2022-05-29?", "Answer": "111"}
+{"Query": "What was the average {exertion_points} across all users within one week, starting from 2022-05-18?", "Answer": "127.33"}
+{"Query": "What was the average {exertion_points} across all users within one week, starting from 2022-06-01?", "Answer": "101.36"}
+{"Query": "What was the average {responsiveness_points} across all users within one week, starting from 2022-06-14?", "Answer": "144.25"}
+{"Query": "What was the average {sleep_points} across all users within one week, starting from 2022-06-07?", "Answer": "119.33"}
+{"Query": "What was the average {sleep_points} across all users within one week, starting from 2022-05-27?", "Answer": "116.22"}
+{"Query": "What was the average {stress_score} across all users within one week, starting from 2022-06-17?", "Answer": "348.32"}
+{"Query": "What was the average {responsiveness_points} across all users within one week, starting from 2022-05-31?", "Answer": "69.41"}
+{"Query": "What was the average {responsiveness_points} across all users within one week, starting from 2022-06-06?", "Answer": "111.52"}
+{"Query": "What was the average {stress_score} across all users within one week, starting from 2022-06-11?", "Answer": "501.05"}
+{"Query": "What was the average {sleep_points} across all users within one week, starting from 2022-06-13?", "Answer": "139.25"}
+{"Query": "What was the average {stress_score} across all users within one week, starting from 2022-06-16?", "Answer": "418.26"}
+{"Query": "What was the average {responsiveness_points} across all users within one week, starting from 2022-05-19?", "Answer": "115.62"}
+{"Query": "What was the average {exertion_points} across all users within one week, starting from 2022-06-13?", "Answer": "193.7"}
+{"Query": "What was the average {stress_score} across all users within one week, starting from 2022-06-06?", "Answer": "365.22"}
+{"Query": "What was the average {sleep_points} across all users within one week, starting from 2022-06-06?", "Answer": "109.39"}
+{"Query": "What was the average {exertion_points} across all users within one week, starting from 2022-05-22?", "Answer": "182.47"}
+{"Query": "What was the average {sleep_points} across all users within one week, starting from 2022-05-22?", "Answer": "129.12"}
+{"Query": "What was the average {exertion_points} across all users within one week, starting from 2022-05-21?", "Answer": "166.59"}
+{"Query": "What was the average {stress_score} across all users within one week, starting from 2022-05-26?", "Answer": "476.81"}
+{"Query": "What was the average {exertion_points} across all users within one week, starting from 2022-06-17?", "Answer": "138.21"}
+{"Query": "What was the average {responsiveness_points} across all users within one week, starting from 2022-05-27?", "Answer": "122.56"}
+{"Query": "What was the average {exertion_points} across all users within one week, starting from 2022-06-12?", "Answer": "199.6"}
+{"Query": "What was the average {sleep_points} across all users within one week, starting from 2022-05-28?", "Answer": "91.05"}
+{"Query": "What was the average {responsiveness_points} across all users within one week, starting from 2022-06-09?", "Answer": "145.3"}
+{"Query": "What was the median {exertion_points} across all users within one week, starting from 2022-06-05?", "Answer": "136"}
+{"Query": "What was the median {exertion_points} across all users within one week, starting from 2022-06-17?", "Answer": "140"}
+{"Query": "What was the median {sleep_points} across all users within one week, starting from 2022-06-11?", "Answer": "154"}
+{"Query": "What was the median {exertion_points} across all users within one week, starting from 2022-06-09?", "Answer": "186.5"}
+{"Query": "What was the median {responsiveness_points} across all users within one week, starting from 2022-05-23?", "Answer": "151"}
+{"Query": "What was the median {stress_score} across all users within one week, starting from 2022-06-09?", "Answer": "506"}
+{"Query": "What was the median {stress_score} across all users within one week, starting from 2022-06-04?", "Answer": "312"}
+{"Query": "What was the median {stress_score} across all users within one week, starting from 2022-05-31?", "Answer": "195"}
+{"Query": "What was the median {exertion_points} across all users within one week, starting from 2022-06-03?", "Answer": "122"}
+{"Query": "What was the median {responsiveness_points} across all users within one week, starting from 2022-06-11?", "Answer": "157.5"}
+{"Query": "What was the median {sleep_points} across all users within one week, starting from 2022-06-07?", "Answer": "134"}
+{"Query": "What was the median {stress_score} across all users within one week, starting from 2022-05-29?", "Answer": "235.5"}
+{"Query": "What was the median {stress_score} across all users within one week, starting from 2022-06-15?", "Answer": "498.5"}
+{"Query": "What was the median {responsiveness_points} across all users within one week, starting from 2022-06-05?", "Answer": "108"}
+{"Query": "What was the median {stress_score} across all users within one week, starting from 2022-06-08?", "Answer": "487"}
+{"Query": "What was the median {responsiveness_points} across all users within one week, starting from 2022-06-17?", "Answer": "115"}
+{"Query": "What was the median {stress_score} across all users within one week, starting from 2022-05-27?", "Answer": "407"}
+{"Query": "What was the median {exertion_points} across all users within one week, starting from 2022-06-15?", "Answer": "188"}
+{"Query": "What was the median {exertion_points} across all users within one week, starting from 2022-05-26?", "Answer": "196"}
+{"Query": "What was the median {stress_score} across all users within one week, starting from 2022-06-10?", "Answer": "518.5"}
+{"Query": "What was the median {responsiveness_points} across all users within one week, starting from 2022-05-30?", "Answer": "61"}
+{"Query": "What was the median {responsiveness_points} across all users within one week, starting from 2022-06-06?", "Answer": "131"}
+{"Query": "What was the median {exertion_points} across all users within one week, starting from 2022-06-01?", "Answer": "88"}
+{"Query": "What was the median {stress_score} across all users within one week, starting from 2022-05-19?", "Answer": "340.5"}
+{"Query": "What was the median {sleep_points} across all users within one week, starting from 2022-06-04?", "Answer": "89"}
+{"Query": "What was the median {responsiveness_points} across all users within one week, starting from 2022-06-07?", "Answer": "140"}
+{"Query": "What was the median {exertion_points} across all users within one week, starting from 2022-05-28?", "Answer": "142.5"}
+{"Query": "What was the median {stress_score} across all users within one week, starting from 2022-06-17?", "Answer": "368"}
+{"Query": "What was the median {sleep_points} across all users within one week, starting from 2022-05-25?", "Answer": "157"}
+{"Query": "What was the median {sleep_points} across all users within one week, starting from 2022-06-15?", "Answer": "141.5"}
+{"Query": "Which user had the highest {sleep_points} within one week, starting from 2022-05-26?", "Answer": "A4F_56297"}
+{"Query": "Which user had the highest {exertion_points} within one week, starting from 2022-06-15?", "Answer": "A4F_17419"}
+{"Query": "Which user had the highest {sleep_points} within one week, starting from 2022-06-02?", "Answer": "A4F_97618"}
+{"Query": "Which user had the highest {stress_score} within one week, starting from 2022-06-17?", "Answer": "A4F_97618"}
+{"Query": "Which user had the highest {sleep_points} within one week, starting from 2022-06-04?", "Answer": "A4F_97618"}
+{"Query": "Which user had the highest {responsiveness_points} within one week, starting from 2022-06-15?", "Answer": "A4F_98040"}
+{"Query": "Which user had the highest {exertion_points} within one week, starting from 2022-05-29?", "Answer": "A4F_43794"}
+{"Query": "Which user had the highest {exertion_points} within one week, starting from 2022-05-28?", "Answer": "A4F_53145"}
+{"Query": "Which user had the highest {responsiveness_points} within one week, starting from 2022-05-27?", "Answer": "A4F_65724"}
+{"Query": "Which user had the highest {exertion_points} within one week, starting from 2022-06-10?", "Answer": "A4F_17419"}
+{"Query": "Which user had the highest {responsiveness_points} within one week, starting from 2022-05-30?", "Answer": "A4F_65724"}
+{"Query": "Which user had the highest {stress_score} within one week, starting from 2022-06-05?", "Answer": "A4F_97618"}
+{"Query": "Which user had the highest {exertion_points} within one week, starting from 2022-06-01?", "Answer": "A4F_43794"}
+{"Query": "Which user had the highest {stress_score} within one week, starting from 2022-05-21?", "Answer": "A4F_56297"}
+{"Query": "Which user had the highest {sleep_points} within one week, starting from 2022-05-21?", "Answer": "A4F_56297"}
+{"Query": "Which user had the highest {sleep_points} within one week, starting from 2022-06-13?", "Answer": "A4F_92332"}
+{"Query": "Which user had the highest {stress_score} within one week, starting from 2022-06-06?", "Answer": "A4F_97618"}
+{"Query": "Which user had the highest {exertion_points} within one week, starting from 2022-06-03?", "Answer": "A4F_67757"}
+{"Query": "Which user had the highest {stress_score} within one week, starting from 2022-05-29?", "Answer": "A4F_43794"}
+{"Query": "Which user had the highest {exertion_points} within one week, starting from 2022-06-13?", "Answer": "A4F_17419"}
+{"Query": "Which user had the highest {exertion_points} within one week, starting from 2022-05-26?", "Answer": "A4F_53145"}
+{"Query": "Which user had the highest {responsiveness_points} within one week, starting from 2022-05-20?", "Answer": "A4F_68106"}
+{"Query": "Which user had the highest {responsiveness_points} within one week, starting from 2022-05-22?", "Answer": "A4F_51606"}
+{"Query": "Which user had the highest {exertion_points} within one week, starting from 2022-06-16?", "Answer": "A4F_97618"}
+{"Query": "Which user had the highest {sleep_points} within one week, starting from 2022-06-03?", "Answer": "A4F_97618"}
+{"Query": "Which user had the highest {stress_score} within one week, starting from 2022-06-15?", "Answer": "A4F_97618"}
+{"Query": "Which user had the highest {stress_score} within one week, starting from 2022-05-25?", "Answer": "A4F_56297"}
+{"Query": "Which user had the highest {responsiveness_points} within one week, starting from 2022-06-03?", "Answer": "A4F_97618"}
+{"Query": "Which user had the highest {sleep_points} within one week, starting from 2022-05-28?", "Answer": "A4F_65724"}
+{"Query": "Which user had the highest {sleep_points} within one week, starting from 2022-05-20?", "Answer": "A4F_56297"}
+{"Query": "Which user had the lowest {responsiveness_points} within one week, starting from 2022-06-14?", "Answer": "A4F_28771"}
+{"Query": "Which user had the lowest {exertion_points} within one week, starting from 2022-06-11?", "Answer": "A4F_28771"}
+{"Query": "Which user had the lowest {responsiveness_points} within one week, starting from 2022-05-23?", "Answer": "A4F_69129"}
+{"Query": "Which user had the lowest {sleep_points} within one week, starting from 2022-06-11?", "Answer": "A4F_31033"}
+{"Query": "Which user had the lowest {sleep_points} within one week, starting from 2022-05-24?", "Answer": "A4F_56355"}
+{"Query": "Which user had the lowest {exertion_points} within one week, starting from 2022-06-15?", "Answer": "A4F_28771"}
+{"Query": "Which user had the lowest {responsiveness_points} within one week, starting from 2022-06-13?", "Answer": "A4F_28771"}
+{"Query": "Which user had the lowest {stress_score} within one week, starting from 2022-06-13?", "Answer": "A4F_28771"}
+{"Query": "Which user had the lowest {sleep_points} within one week, starting from 2022-06-01?", "Answer": "A4F_40008"}
+{"Query": "Which user had the lowest {exertion_points} within one week, starting from 2022-06-07?", "Answer": "A4F_65724"}
+{"Query": "Which user had the lowest {sleep_points} within one week, starting from 2022-06-04?", "Answer": "A4F_39976"}
+{"Query": "Which user had the lowest {stress_score} within one week, starting from 2022-06-12?", "Answer": "A4F_28771"}
+{"Query": "Which user had the lowest {exertion_points} within one week, starting from 2022-05-25?", "Answer": "A4F_45863"}
+{"Query": "Which user had the lowest {responsiveness_points} within one week, starting from 2022-05-19?", "Answer": "A4F_70068"}
+{"Query": "Which user had the lowest {exertion_points} within one week, starting from 2022-05-20?", "Answer": "A4F_56355"}
+{"Query": "Which user had the lowest {stress_score} within one week, starting from 2022-05-23?", "Answer": "A4F_69129"}
+{"Query": "Which user had the lowest {sleep_points} within one week, starting from 2022-06-07?", "Answer": "A4F_43794"}
+{"Query": "Which user had the lowest {responsiveness_points} within one week, starting from 2022-06-05?", "Answer": "A4F_94336"}
+{"Query": "Which user had the lowest {stress_score} within one week, starting from 2022-06-01?", "Answer": "A4F_40008"}
+{"Query": "Which user had the lowest {responsiveness_points} within one week, starting from 2022-05-31?", "Answer": "A4F_89897"}
+{"Query": "Which user had the lowest {sleep_points} within one week, starting from 2022-06-02?", "Answer": "A4F_67598"}
+{"Query": "Which user had the lowest {responsiveness_points} within one week, starting from 2022-06-17?", "Answer": "A4F_24211"}
+{"Query": "Which user had the lowest {exertion_points} within one week, starting from 2022-06-02?", "Answer": "A4F_10021"}
+{"Query": "Which user had the lowest {exertion_points} within one week, starting from 2022-05-23?", "Answer": "A4F_69129"}
+{"Query": "Which user had the lowest {exertion_points} within one week, starting from 2022-06-16?", "Answer": "A4F_96181"}
+{"Query": "Which user had the lowest {exertion_points} within one week, starting from 2022-05-31?", "Answer": "A4F_86472"}
+{"Query": "Which user had the lowest {responsiveness_points} within one week, starting from 2022-05-29?", "Answer": "A4F_22119"}
+{"Query": "Which user had the lowest {exertion_points} within one week, starting from 2022-05-29?", "Answer": "A4F_79824"}
+{"Query": "Which user had the lowest {exertion_points} within one week, starting from 2022-05-22?", "Answer": "A4F_69129"}
+{"Query": "Which user had the lowest {stress_score} within one week, starting from 2022-06-05?", "Answer": "A4F_94336"}
+{"Query": "What was A4F_18098's rank among all users for {sleep_points} within one week, starting from 2022-06-07?", "Answer": "13"}
+{"Query": "What was A4F_53145's rank among all users for {responsiveness_points} within one week, starting from 2022-06-01?", "Answer": "15"}
+{"Query": "What was A4F_18098's rank among all users for {sleep_points} within one week, starting from 2022-06-15?", "Answer": "13"}
+{"Query": "What was A4F_97618's rank among all users for {responsiveness_points} within one week, starting from 2022-06-01?", "Answer": "4"}
+{"Query": "What was A4F_35752's rank among all users for {exertion_points} within one week, starting from 2022-06-07?", "Answer": "19"}
+{"Query": "What was A4F_18098's rank among all users for {responsiveness_points} within one week, starting from 2022-06-12?", "Answer": "16"}
+{"Query": "What was A4F_31033's rank among all users for {stress_score} within one week, starting from 2022-06-14?", "Answer": "14"}
+{"Query": "What was A4F_92332's rank among all users for {sleep_points} within one week, starting from 2022-05-30?", "Answer": "24"}
+{"Query": "What was A4F_43794's rank among all users for {sleep_points} within one week, starting from 2022-05-23?", "Answer": "4"}
+{"Query": "What was A4F_39976's rank among all users for {responsiveness_points} within one week, starting from 2022-06-07?", "Answer": "16"}
+{"Query": "What was A4F_71665's rank among all users for {exertion_points} within one week, starting from 2022-06-09?", "Answer": "12"}
+{"Query": "What was A4F_29474's rank among all users for {exertion_points} within one week, starting from 2022-06-06?", "Answer": "3"}
+{"Query": "What was A4F_70068's rank among all users for {sleep_points} within one week, starting from 2022-05-27?", "Answer": "8"}
+{"Query": "What was A4F_79824's rank among all users for {exertion_points} within one week, starting from 2022-06-11?", "Answer": "6"}
+{"Query": "What was A4F_98040's rank among all users for {stress_score} within one week, starting from 2022-06-08?", "Answer": "12"}
+{"Query": "What was A4F_76957's rank among all users for {stress_score} within one week, starting from 2022-05-18?", "Answer": "1"}
+{"Query": "What was A4F_18098's rank among all users for {stress_score} within one week, starting from 2022-06-03?", "Answer": "14"}
+{"Query": "What was A4F_94336's rank among all users for {exertion_points} within one week, starting from 2022-05-22?", "Answer": "3"}
+{"Query": "What was A4F_82994's rank among all users for {responsiveness_points} within one week, starting from 2022-06-09?", "Answer": "18"}
+{"Query": "What was A4F_22119's rank among all users for {stress_score} within one week, starting from 2022-05-31?", "Answer": "22"}
+{"Query": "What was A4F_65724's rank among all users for {sleep_points} within one week, starting from 2022-05-18?", "Answer": "15"}
+{"Query": "What was A4F_77391's rank among all users for {exertion_points} within one week, starting from 2022-05-21?", "Answer": "13"}
+{"Query": "What was A4F_79824's rank among all users for {sleep_points} within one week, starting from 2022-06-16?", "Answer": "6"}
+{"Query": "What was A4F_82994's rank among all users for {stress_score} within one week, starting from 2022-06-07?", "Answer": "18"}
+{"Query": "What was A4F_24211's rank among all users for {sleep_points} within one week, starting from 2022-06-15?", "Answer": "19"}
+{"Query": "What was A4F_77391's rank among all users for {responsiveness_points} within one week, starting from 2022-05-22?", "Answer": "3"}
+{"Query": "What was A4F_67598's rank among all users for {sleep_points} within one week, starting from 2022-05-27?", "Answer": "7"}
+{"Query": "What was A4F_56355's rank among all users for {stress_score} within one week, starting from 2022-05-23?", "Answer": "16"}
+{"Query": "What was A4F_17419's rank among all users for {stress_score} within one week, starting from 2022-06-12?", "Answer": "11"}
+{"Query": "What was A4F_70068's rank among all users for {sleep_points} within one week, starting from 2022-05-19?", "Answer": "16"}
+{"Query": "How many {responsiveness_points} more than the average across all users did A4F_86472 have within one week, starting from 2022-06-05?", "Answer": "36.52"}
+{"Query": "How many {responsiveness_points} more than the average across all users did A4F_10021 have within one week, starting from 2022-06-06?", "Answer": "7.48"}
+{"Query": "How many {exertion_points} more than the average across all users did A4F_56297 have within one week, starting from 2022-05-23?", "Answer": "56.65"}
+{"Query": "How many {sleep_points} more than the average across all users did A4F_79824 have within one week, starting from 2022-06-05?", "Answer": "41.35"}
+{"Query": "How many {sleep_points} more than the average across all users did A4F_53145 have within one week, starting from 2022-05-28?", "Answer": "59.95"}
+{"Query": "How many {stress_score} more than the average across all users did A4F_71665 have within one week, starting from 2022-06-14?", "Answer": "45.75"}
+{"Query": "How many {exertion_points} more than the average across all users did A4F_94336 have within one week, starting from 2022-05-22?", "Answer": "58.53"}
+{"Query": "How many {stress_score} more than the average across all users did A4F_28771 have within one week, starting from 2022-06-03?", "Answer": "138.33"}
+{"Query": "How many {sleep_points} more than the average across all users did A4F_56297 have within one week, starting from 2022-05-29?", "Answer": "31.42"}
+{"Query": "How many {exertion_points} more than the average across all users did A4F_97618 have within one week, starting from 2022-06-13?", "Answer": "66.3"}
+{"Query": "How many {stress_score} more than the average across all users did A4F_65724 have within one week, starting from 2022-05-25?", "Answer": "22.88"}
+{"Query": "How many {exertion_points} more than the average across all users did A4F_67757 have within one week, starting from 2022-06-14?", "Answer": "55.5"}
+{"Query": "How many {stress_score} more than the average across all users did A4F_56297 have within one week, starting from 2022-05-28?", "Answer": "112.82"}
+{"Query": "How many {stress_score} more than the average across all users did A4F_53145 have within one week, starting from 2022-05-22?", "Answer": "22.88"}
+{"Query": "How many {exertion_points} more than the average across all users did A4F_92332 have within one week, starting from 2022-06-06?", "Answer": "71.7"}
+{"Query": "How many {responsiveness_points} more than the average across all users did A4F_82994 have within one week, starting from 2022-06-14?", "Answer": "36.75"}
+{"Query": "How many {sleep_points} more than the average across all users did A4F_28771 have within one week, starting from 2022-05-30?", "Answer": "8.59"}
+{"Query": "How many {stress_score} more than the average across all users did A4F_98040 have within one week, starting from 2022-06-15?", "Answer": "132.7"}
+{"Query": "How many {stress_score} more than the average across all users did A4F_94336 have within one week, starting from 2022-06-02?", "Answer": "18.8"}
+{"Query": "How many {responsiveness_points} more than the average across all users did A4F_40008 have within one week, starting from 2022-06-11?", "Answer": "14.85"}
+{"Query": "How many {stress_score} more than the average across all users did A4F_67757 have within one week, starting from 2022-06-05?", "Answer": "195.3"}
+{"Query": "How many {responsiveness_points} more than the average across all users did A4F_65724 have within one week, starting from 2022-06-03?", "Answer": "38.54"}
+{"Query": "How many {exertion_points} more than the average across all users did A4F_97618 have within one week, starting from 2022-06-11?", "Answer": "59.35"}
+{"Query": "How many {stress_score} more than the average across all users did A4F_43794 have within one week, starting from 2022-06-03?", "Answer": "105.33"}
+{"Query": "How many {exertion_points} more than the average across all users did A4F_70068 have within one week, starting from 2022-05-28?", "Answer": "11.5"}
+{"Query": "How many {responsiveness_points} more than the average across all users did A4F_77391 have within one week, starting from 2022-06-03?", "Answer": "6.54"}
+{"Query": "How many {responsiveness_points} more than the average across all users did A4F_96181 have within one week, starting from 2022-06-11?", "Answer": "23.85"}
+{"Query": "How many {stress_score} more than the average across all users did A4F_68106 have within one week, starting from 2022-05-19?", "Answer": "130.25"}
+{"Query": "How many {exertion_points} more than the average across all users did A4F_28771 have within one week, starting from 2022-06-01?", "Answer": "14.64"}
+{"Query": "How many {stress_score} more than the average across all users did A4F_86472 have within one week, starting from 2022-06-15?", "Answer": "71.7"}
+{"Query": "How many {{col}} more than the median across all users did A4F_65724 have within one week, starting from 2022-05-24?", "Answer": "6"}
+{"Query": "How many {{col}} more than the median across all users did A4F_43794 have within one week, starting from 2022-05-25?", "Answer": "39.5"}
+{"Query": "How many {{col}} more than the median across all users did A4F_92332 have within one week, starting from 2022-06-06?", "Answer": "42"}
+{"Query": "How many {{col}} more than the median across all users did A4F_77391 have within one week, starting from 2022-05-29?", "Answer": "92"}
+{"Query": "How many {{col}} more than the median across all users did A4F_77391 have within one week, starting from 2022-05-23?", "Answer": "43"}
+{"Query": "How many {{col}} more than the median across all users did A4F_97618 have within one week, starting from 2022-06-08?", "Answer": "19"}
+{"Query": "How many {{col}} more than the median across all users did A4F_92332 have within one week, starting from 2022-06-16?", "Answer": "41"}
+{"Query": "How many {{col}} more than the median across all users did A4F_92332 have within one week, starting from 2022-06-11?", "Answer": "47"}
+{"Query": "How many {{col}} more than the median across all users did A4F_73455 have within one week, starting from 2022-06-02?", "Answer": "22"}
+{"Query": "How many {{col}} more than the median across all users did A4F_29474 have within one week, starting from 2022-06-15?", "Answer": "2"}
+{"Query": "How many {{col}} more than the median across all users did A4F_18098 have within one week, starting from 2022-06-08?", "Answer": "10"}
+{"Query": "How many {{col}} more than the median across all users did A4F_77391 have within one week, starting from 2022-05-25?", "Answer": "12"}
+{"Query": "How many {{col}} more than the median across all users did A4F_68106 have within one week, starting from 2022-05-19?", "Answer": "48"}
+{"Query": "How many {{col}} more than the median across all users did A4F_18098 have within one week, starting from 2022-06-04?", "Answer": "58"}
+{"Query": "How many {{col}} more than the median across all users did A4F_70068 have within one week, starting from 2022-05-29?", "Answer": "15.5"}
+{"Query": "How many {{col}} more than the median across all users did A4F_39976 have within one week, starting from 2022-06-13?", "Answer": "55.5"}
+{"Query": "How many {{col}} more than the median across all users did A4F_51606 have within one week, starting from 2022-05-28?", "Answer": "13"}
+{"Query": "How many {{col}} more than the median across all users did A4F_45863 have within one week, starting from 2022-05-22?", "Answer": "8"}
+{"Query": "How many {{col}} more than the median across all users did A4F_43794 have within one week, starting from 2022-05-26?", "Answer": "33"}
+{"Query": "How many {{col}} more than the median across all users did A4F_17419 have within one week, starting from 2022-06-10?", "Answer": "70"}
+{"Query": "How many {{col}} more than the median across all users did A4F_77391 have within one week, starting from 2022-06-01?", "Answer": "63"}
+{"Query": "How many {{col}} more than the median across all users did A4F_24211 have within one week, starting from 2022-06-05?", "Answer": "89"}
+{"Query": "How many {{col}} more than the median across all users did A4F_77391 have within one week, starting from 2022-05-31?", "Answer": "103"}
+{"Query": "How many {{col}} more than the median across all users did A4F_68106 have within one week, starting from 2022-05-25?", "Answer": "3.5"}
+{"Query": "How many {{col}} more than the median across all users did A4F_28771 have within one week, starting from 2022-06-02?", "Answer": "41"}
+{"Query": "How many {{col}} more than the median across all users did A4F_40008 have within one week, starting from 2022-06-17?", "Answer": "30"}
+{"Query": "How many {{col}} more than the median across all users did A4F_27766 have within one week, starting from 2022-06-13?", "Answer": "9"}
+{"Query": "How many {{col}} more than the median across all users did A4F_71665 have within one week, starting from 2022-06-06?", "Answer": "38"}
+{"Query": "How many {{col}} more than the median across all users did A4F_29474 have within one week, starting from 2022-06-07?", "Answer": "61"}
+{"Query": "How many {{col}} more than the median across all users did A4F_18098 have within one week, starting from 2022-06-06?", "Answer": "23"}

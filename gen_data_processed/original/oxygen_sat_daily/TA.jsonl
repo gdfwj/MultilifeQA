@@ -1,0 +1,60 @@
+{"Query": "Did A4F_43794's {upper_bound_oxygen_saturation} during sleeping on 2022-06-04 increase or decrease or remain the same, compared to the previous day?", "Answer": "decrease"}
+{"Query": "Did A4F_48857's {sleep_average_oxygen_saturation} during sleeping on 2022-06-14 increase or decrease or remain the same, compared to the previous day?", "Answer": "increase"}
+{"Query": "Did A4F_31649's {lower_bound_oxygen_saturation} during sleeping on 2022-06-21 increase or decrease or remain the same, compared to the previous day?", "Answer": "decrease"}
+{"Query": "Did A4F_79824's {upper_bound_oxygen_saturation} during sleeping on 2022-06-19 increase or decrease or remain the same, compared to the previous day?", "Answer": "increase"}
+{"Query": "Did A4F_68106's {lower_bound_oxygen_saturation} during sleeping on 2022-05-31 increase or decrease or remain the same, compared to the previous day?", "Answer": "decrease"}
+{"Query": "Did A4F_60429's {upper_bound_oxygen_saturation} during sleeping on 2022-06-16 increase or decrease or remain the same, compared to the previous day?", "Answer": "decrease"}
+{"Query": "Did A4F_60983's {upper_bound_oxygen_saturation} during sleeping on 2022-05-26 increase or decrease or remain the same, compared to the previous day?", "Answer": "decrease"}
+{"Query": "Did A4F_94601's {lower_bound_oxygen_saturation} during sleeping on 2022-05-24 increase or decrease or remain the same, compared to the previous day?", "Answer": "decrease"}
+{"Query": "Did A4F_65060's {sleep_average_oxygen_saturation} during sleeping on 2022-05-31 increase or decrease or remain the same, compared to the previous day?", "Answer": "increase"}
+{"Query": "Did A4F_56297's {upper_bound_oxygen_saturation} during sleeping on 2022-05-29 increase or decrease or remain the same, compared to the previous day?", "Answer": "increase"}
+{"Query": "Did A4F_43794's {upper_bound_oxygen_saturation} during sleeping on 2022-05-25 increase or decrease or remain the same, compared to the previous day?", "Answer": "decrease"}
+{"Query": "Did A4F_37469's {sleep_average_oxygen_saturation} during sleeping on 2022-05-22 increase or decrease or remain the same, compared to the previous day?", "Answer": "increase"}
+{"Query": "Did A4F_99000's {sleep_average_oxygen_saturation} during sleeping on 2022-06-08 increase or decrease or remain the same, compared to the previous day?", "Answer": "increase"}
+{"Query": "Did A4F_45118's {sleep_average_oxygen_saturation} during sleeping on 2022-05-30 increase or decrease or remain the same, compared to the previous day?", "Answer": "increase"}
+{"Query": "Did A4F_70804's {upper_bound_oxygen_saturation} during sleeping on 2022-06-18 increase or decrease or remain the same, compared to the previous day?", "Answer": "increase"}
+{"Query": "Did A4F_18098's {upper_bound_oxygen_saturation} during sleeping on 2022-06-07 increase or decrease or remain the same, compared to the previous day?", "Answer": "increase"}
+{"Query": "Did A4F_73455's {lower_bound_oxygen_saturation} during sleeping on 2022-05-31 increase or decrease or remain the same, compared to the previous day?", "Answer": "decrease"}
+{"Query": "Did A4F_27052's {upper_bound_oxygen_saturation} during sleeping on 2022-05-21 increase or decrease or remain the same, compared to the previous day?", "Answer": "increase"}
+{"Query": "Did A4F_31033's {lower_bound_oxygen_saturation} during sleeping on 2022-06-09 increase or decrease or remain the same, compared to the previous day?", "Answer": "increase"}
+{"Query": "Did A4F_95200's {sleep_average_oxygen_saturation} during sleeping on 2022-06-08 increase or decrease or remain the same, compared to the previous day?", "Answer": "increase"}
+{"Query": "Did A4F_60429's {upper_bound_oxygen_saturation} during sleeping on 2022-06-14 increase or decrease or remain the same, compared to the previous day?", "Answer": "increase"}
+{"Query": "Did A4F_34415's {upper_bound_oxygen_saturation} during sleeping on 2022-06-21 increase or decrease or remain the same, compared to the previous day?", "Answer": "decrease"}
+{"Query": "Did A4F_29474's {upper_bound_oxygen_saturation} during sleeping on 2022-06-04 increase or decrease or remain the same, compared to the previous day?", "Answer": "increase"}
+{"Query": "Did A4F_68106's {lower_bound_oxygen_saturation} during sleeping on 2022-05-25 increase or decrease or remain the same, compared to the previous day?", "Answer": "increase"}
+{"Query": "Did A4F_10355's {sleep_average_oxygen_saturation} during sleeping on 2022-06-05 increase or decrease or remain the same, compared to the previous day?", "Answer": "decrease"}
+{"Query": "Did A4F_98453's {sleep_average_oxygen_saturation} during sleeping on 2022-06-18 increase or decrease or remain the same, compared to the previous day?", "Answer": "decrease"}
+{"Query": "Did A4F_32988's {upper_bound_oxygen_saturation} during sleeping on 2022-05-26 increase or decrease or remain the same, compared to the previous day?", "Answer": "increase"}
+{"Query": "Did A4F_70804's {lower_bound_oxygen_saturation} during sleeping on 2022-06-06 increase or decrease or remain the same, compared to the previous day?", "Answer": "decrease"}
+{"Query": "Did A4F_72388's {sleep_average_oxygen_saturation} during sleeping on 2022-06-21 increase or decrease or remain the same, compared to the previous day?", "Answer": "increase"}
+{"Query": "Did A4F_84962's {upper_bound_oxygen_saturation} during sleeping on 2022-05-25 increase or decrease or remain the same, compared to the previous day?", "Answer": "increase"}
+{"Query": "How many consecutive days did A4F_28689's {upper_bound_oxygen_saturation} during sleeping increase, starting from 2022-05-19?", "Answer": "2"}
+{"Query": "How many consecutive days did A4F_49219's {upper_bound_oxygen_saturation} during sleeping decrease, starting from 2022-05-21?", "Answer": "2"}
+{"Query": "How many consecutive days did A4F_76957's {upper_bound_oxygen_saturation} during sleeping increase, starting from 2022-05-22?", "Answer": "2"}
+{"Query": "How many consecutive days did A4F_94601's {lower_bound_oxygen_saturation} during sleeping increase, starting from 2022-05-19?", "Answer": "3"}
+{"Query": "How many consecutive days did A4F_70954's {upper_bound_oxygen_saturation} during sleeping increase, starting from 2022-06-10?", "Answer": "2"}
+{"Query": "How many consecutive days did A4F_13368's {upper_bound_oxygen_saturation} during sleeping increase, starting from 2022-05-22?", "Answer": "2"}
+{"Query": "How many consecutive days did A4F_24211's {lower_bound_oxygen_saturation} during sleeping increase, starting from 2022-06-06?", "Answer": "3"}
+{"Query": "How many consecutive days did A4F_43794's {lower_bound_oxygen_saturation} during sleeping increase, starting from 2022-05-24?", "Answer": "2"}
+{"Query": "How many consecutive days did A4F_98040's {upper_bound_oxygen_saturation} during sleeping increase, starting from 2022-06-13?", "Answer": "2"}
+{"Query": "How many consecutive days did A4F_32988's {sleep_average_oxygen_saturation} during sleeping increase, starting from 2022-05-22?", "Answer": "2"}
+{"Query": "How many consecutive days did A4F_65060's {upper_bound_oxygen_saturation} during sleeping increase, starting from 2022-05-19?", "Answer": "3"}
+{"Query": "How many consecutive days did A4F_42312's {lower_bound_oxygen_saturation} during sleeping decrease, starting from 2022-05-22?", "Answer": "3"}
+{"Query": "How many consecutive days did A4F_13504's {lower_bound_oxygen_saturation} during sleeping increase, starting from 2022-05-21?", "Answer": "3"}
+{"Query": "How many consecutive days did A4F_31033's {lower_bound_oxygen_saturation} during sleeping increase, starting from 2022-06-12?", "Answer": "2"}
+{"Query": "How many consecutive days did A4F_93308's {sleep_average_oxygen_saturation} during sleeping increase, starting from 2022-05-22?", "Answer": "3"}
+{"Query": "How many consecutive days did A4F_91516's {lower_bound_oxygen_saturation} during sleeping increase, starting from 2022-05-25?", "Answer": "3"}
+{"Query": "How many consecutive days did A4F_18098's {lower_bound_oxygen_saturation} during sleeping increase, starting from 2022-06-14?", "Answer": "2"}
+{"Query": "How many consecutive days did A4F_78358's {sleep_average_oxygen_saturation} during sleeping decrease, starting from 2022-05-21?", "Answer": "3"}
+{"Query": "How many consecutive days did A4F_33497's {sleep_average_oxygen_saturation} during sleeping increase, starting from 2022-05-21?", "Answer": "7"}
+{"Query": "How many consecutive days did A4F_39976's {lower_bound_oxygen_saturation} during sleeping decrease, starting from 2022-06-14?", "Answer": "5"}
+{"Query": "How many consecutive days did A4F_73455's {lower_bound_oxygen_saturation} during sleeping increase, starting from 2022-05-30?", "Answer": "3"}
+{"Query": "How many consecutive days did A4F_17419's {lower_bound_oxygen_saturation} during sleeping increase, starting from 2022-06-10?", "Answer": "3"}
+{"Query": "How many consecutive days did A4F_94601's {sleep_average_oxygen_saturation} during sleeping decrease, starting from 2022-05-21?", "Answer": "5"}
+{"Query": "How many consecutive days did A4F_40008's {sleep_average_oxygen_saturation} during sleeping increase, starting from 2022-06-13?", "Answer": "4"}
+{"Query": "How many consecutive days did A4F_97386's {sleep_average_oxygen_saturation} during sleeping decrease, starting from 2022-06-11?", "Answer": "4"}
+{"Query": "How many consecutive days did A4F_98453's {lower_bound_oxygen_saturation} during sleeping decrease, starting from 2022-06-17?", "Answer": "4"}
+{"Query": "How many consecutive days did A4F_71665's {sleep_average_oxygen_saturation} during sleeping increase, starting from 2022-06-07?", "Answer": "4"}
+{"Query": "How many consecutive days did A4F_43794's {sleep_average_oxygen_saturation} during sleeping increase, starting from 2022-05-22?", "Answer": "4"}
+{"Query": "How many consecutive days did A4F_27052's {upper_bound_oxygen_saturation} during sleeping increase, starting from 2022-05-23?", "Answer": "4"}
+{"Query": "How many consecutive days did A4F_74720's {lower_bound_oxygen_saturation} during sleeping decrease, starting from 2022-06-13?", "Answer": "4"}

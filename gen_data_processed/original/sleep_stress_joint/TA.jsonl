@@ -1,0 +1,540 @@
+{"Query": "Did A4F_27766's minutes_asleep increase on 2022-06-13 compared to the previous day, and did his/her stress_score decrease?", "Answer": "no"}
+{"Query": "Did A4F_67757's minutes_in_deep_sleep increase on 2022-06-06 compared to the previous day, and did his/her stress_score decrease?", "Answer": "no"}
+{"Query": "Did A4F_65724's rmssd increase on 2022-06-06 compared to the previous day, and did his/her stress_score decrease?", "Answer": "no"}
+{"Query": "Did A4F_17419's nrem_hr decrease on 2022-06-15 compared to the previous day, and did his/her stress_score decrease?", "Answer": "no"}
+{"Query": "Did A4F_92332's sleep_average_oxygen_saturation increase on 2022-06-23 compared to the previous day, and did his/her sleep_points decrease?", "Answer": "no"}
+{"Query": "Did A4F_76957's lower_bound_oxygen_saturation decrease on 2022-05-28 compared to the previous day, and did his/her sleep_points increase?", "Answer": "no"}
+{"Query": "Did A4F_43794's deep_sleep_breathing_rate decrease on 2022-06-07 compared to the previous day, and did his/her stress_score decrease?", "Answer": "no"}
+{"Query": "Did A4F_86472's rem_sleep_breathing_rate increase on 2022-06-07 compared to the previous day, and did his/her stress_score increase?", "Answer": "no"}
+{"Query": "Did A4F_39976's nightly_temperature increase on 2022-06-14 compared to the previous day, and did his/her stress_score increase?", "Answer": "no"}
+{"Query": "Did A4F_53145's baseline_relative_nightly_standard_deviation decrease on 2022-06-02 compared to the previous day, and did his/her sleep_points decrease?", "Answer": "no"}
+{"Query": "Did A4F_28771's minutes_asleep increase on 2022-06-09 compared to the previous day, and did his/her stress_score decrease?", "Answer": "no"}
+{"Query": "Did A4F_43794's minutes_in_deep_sleep increase on 2022-05-28 compared to the previous day, and did his/her stress_score decrease?", "Answer": "no"}
+{"Query": "Did A4F_24211's rmssd increase on 2022-06-13 compared to the previous day, and did his/her sleep_points decrease?", "Answer": "no"}
+{"Query": "Did A4F_77391's nrem_hr decrease on 2022-06-02 compared to the previous day, and did his/her sleep_points decrease?", "Answer": "no"}
+{"Query": "Did A4F_67598's sleep_average_oxygen_saturation increase on 2022-05-23 compared to the previous day, and did his/her sleep_points decrease?", "Answer": "no"}
+{"Query": "Did A4F_82994's lower_bound_oxygen_saturation decrease on 2022-06-16 compared to the previous day, and did his/her stress_score increase?", "Answer": "no"}
+{"Query": "Did A4F_92332's deep_sleep_breathing_rate decrease on 2022-06-15 compared to the previous day, and did his/her sleep_points decrease?", "Answer": "no"}
+{"Query": "Did A4F_27766's rem_sleep_breathing_rate increase on 2022-06-09 compared to the previous day, and did his/her sleep_points increase?", "Answer": "no"}
+{"Query": "Did A4F_68106's nightly_temperature increase on 2022-05-23 compared to the previous day, and did his/her stress_score increase?", "Answer": "yes"}
+{"Query": "Did A4F_65724's baseline_relative_nightly_standard_deviation decrease on 2022-05-31 compared to the previous day, and did his/her stress_score decrease?", "Answer": "yes"}
+{"Query": "Did A4F_94336's minutes_asleep increase on 2022-05-30 compared to the previous day, and did his/her stress_score decrease?", "Answer": "no"}
+{"Query": "Did A4F_96181's minutes_in_deep_sleep increase on 2022-06-17 compared to the previous day, and did his/her sleep_points decrease?", "Answer": "no"}
+{"Query": "Did A4F_56718's rmssd increase on 2022-05-20 compared to the previous day, and did his/her sleep_points decrease?", "Answer": "yes"}
+{"Query": "Did A4F_71665's nrem_hr decrease on 2022-06-12 compared to the previous day, and did his/her sleep_points decrease?", "Answer": "no"}
+{"Query": "Did A4F_71665's sleep_average_oxygen_saturation increase on 2022-06-07 compared to the previous day, and did his/her sleep_points decrease?", "Answer": "no"}
+{"Query": "Did A4F_71665's lower_bound_oxygen_saturation decrease on 2022-06-21 compared to the previous day, and did his/her stress_score increase?", "Answer": "no"}
+{"Query": "Did A4F_35752's deep_sleep_breathing_rate decrease on 2022-06-16 compared to the previous day, and did his/her stress_score decrease?", "Answer": "no"}
+{"Query": "Did A4F_17419's rem_sleep_breathing_rate increase on 2022-06-14 compared to the previous day, and did his/her sleep_points increase?", "Answer": "no"}
+{"Query": "Did A4F_56718's nightly_temperature increase on 2022-05-22 compared to the previous day, and did his/her stress_score increase?", "Answer": "no"}
+{"Query": "Did A4F_51606's baseline_relative_nightly_standard_deviation decrease on 2022-05-26 compared to the previous day, and did his/her sleep_points decrease?", "Answer": "no"}
+{"Query": "Did A4F_39976's minutes_asleep increase on 2022-06-17 compared to the previous day, and did his/her sleep_points decrease?", "Answer": "yes"}
+{"Query": "Did A4F_65724's minutes_in_deep_sleep increase on 2022-05-27 compared to the previous day, and did his/her stress_score decrease?", "Answer": "yes"}
+{"Query": "Did A4F_71665's rmssd increase on 2022-06-08 compared to the previous day, and did his/her sleep_points decrease?", "Answer": "no"}
+{"Query": "Did A4F_29474's nrem_hr decrease on 2022-06-21 compared to the previous day, and did his/her stress_score decrease?", "Answer": "no"}
+{"Query": "Did A4F_67757's sleep_average_oxygen_saturation increase on 2022-06-19 compared to the previous day, and did his/her stress_score decrease?", "Answer": "no"}
+{"Query": "Did A4F_71665's lower_bound_oxygen_saturation decrease on 2022-06-13 compared to the previous day, and did his/her stress_score increase?", "Answer": "no"}
+{"Query": "Did A4F_68106's deep_sleep_breathing_rate decrease on 2022-05-30 compared to the previous day, and did his/her sleep_points decrease?", "Answer": "no"}
+{"Query": "Did A4F_97618's rem_sleep_breathing_rate increase on 2022-06-22 compared to the previous day, and did his/her stress_score increase?", "Answer": "no"}
+{"Query": "Did A4F_28771's nightly_temperature increase on 2022-06-15 compared to the previous day, and did his/her stress_score increase?", "Answer": "no"}
+{"Query": "Did A4F_18098's baseline_relative_nightly_standard_deviation decrease on 2022-06-07 compared to the previous day, and did his/her sleep_points decrease?", "Answer": "no"}
+{"Query": "Did A4F_86472's minutes_asleep increase on 2022-06-08 compared to the previous day, and did his/her stress_score decrease?", "Answer": "no"}
+{"Query": "Did A4F_98040's minutes_in_deep_sleep increase on 2022-06-13 compared to the previous day, and did his/her sleep_points decrease?", "Answer": "no"}
+{"Query": "Did A4F_96181's rmssd increase on 2022-06-06 compared to the previous day, and did his/her sleep_points decrease?", "Answer": "no"}
+{"Query": "Did A4F_65724's nrem_hr decrease on 2022-05-25 compared to the previous day, and did his/her stress_score decrease?", "Answer": "no"}
+{"Query": "Did A4F_82994's sleep_average_oxygen_saturation increase on 2022-06-18 compared to the previous day, and did his/her stress_score decrease?", "Answer": "no"}
+{"Query": "Did A4F_77391's lower_bound_oxygen_saturation decrease on 2022-05-31 compared to the previous day, and did his/her stress_score increase?", "Answer": "no"}
+{"Query": "Did A4F_98040's deep_sleep_breathing_rate decrease on 2022-06-15 compared to the previous day, and did his/her sleep_points decrease?", "Answer": "no"}
+{"Query": "Did A4F_40008's rem_sleep_breathing_rate increase on 2022-06-14 compared to the previous day, and did his/her sleep_points increase?", "Answer": "no"}
+{"Query": "Did A4F_71665's nightly_temperature increase on 2022-06-18 compared to the previous day, and did his/her stress_score increase?", "Answer": "no"}
+{"Query": "Did A4F_71665's baseline_relative_nightly_standard_deviation decrease on 2022-06-10 compared to the previous day, and did his/her sleep_points decrease?", "Answer": "no"}
+{"Query": "Did A4F_68106's minutes_asleep increase on 2022-05-25 compared to the previous day, and did his/her stress_score decrease?", "Answer": "yes"}
+{"Query": "Did A4F_56718's minutes_in_deep_sleep increase on 2022-05-22 compared to the previous day, and did his/her sleep_points decrease?", "Answer": "no"}
+{"Query": "Did A4F_10021's rmssd increase on 2022-06-11 compared to the previous day, and did his/her sleep_points decrease?", "Answer": "no"}
+{"Query": "Did A4F_43794's nrem_hr decrease on 2022-05-23 compared to the previous day, and did his/her sleep_points decrease?", "Answer": "yes"}
+{"Query": "Did A4F_65724's sleep_average_oxygen_saturation increase on 2022-05-30 compared to the previous day, and did his/her stress_score decrease?", "Answer": "no"}
+{"Query": "Did A4F_96181's lower_bound_oxygen_saturation decrease on 2022-06-07 compared to the previous day, and did his/her stress_score increase?", "Answer": "no"}
+{"Query": "Did A4F_27766's deep_sleep_breathing_rate decrease on 2022-06-11 compared to the previous day, and did his/her sleep_points decrease?", "Answer": "no"}
+{"Query": "Did A4F_18098's rem_sleep_breathing_rate increase on 2022-06-15 compared to the previous day, and did his/her sleep_points increase?", "Answer": "no"}
+{"Query": "Did A4F_29474's nightly_temperature increase on 2022-06-16 compared to the previous day, and did his/her stress_score increase?", "Answer": "no"}
+{"Query": "Did A4F_56718's baseline_relative_nightly_standard_deviation decrease on 2022-05-22 compared to the previous day, and did his/her stress_score decrease?", "Answer": "yes"}
+{"Query": "Did A4F_40008's minutes_asleep increase on 2022-06-15 compared to the previous day, and did his/her stress_score decrease?", "Answer": "yes"}
+{"Query": "Did A4F_24211's minutes_in_deep_sleep increase on 2022-06-14 compared to the previous day, and did his/her stress_score decrease?", "Answer": "no"}
+{"Query": "Did A4F_67598's rmssd increase on 2022-05-28 compared to the previous day, and did his/her sleep_points decrease?", "Answer": "yes"}
+{"Query": "Did A4F_24211's nrem_hr decrease on 2022-06-10 compared to the previous day, and did his/her sleep_points decrease?", "Answer": "no"}
+{"Query": "Did A4F_40008's sleep_average_oxygen_saturation increase on 2022-06-21 compared to the previous day, and did his/her sleep_points decrease?", "Answer": "yes"}
+{"Query": "Did A4F_43794's lower_bound_oxygen_saturation decrease on 2022-06-02 compared to the previous day, and did his/her stress_score increase?", "Answer": "no"}
+{"Query": "Did A4F_18098's deep_sleep_breathing_rate decrease on 2022-06-18 compared to the previous day, and did his/her sleep_points decrease?", "Answer": "no"}
+{"Query": "Did A4F_29474's rem_sleep_breathing_rate increase on 2022-06-08 compared to the previous day, and did his/her stress_score increase?", "Answer": "yes"}
+{"Query": "Did A4F_65724's nightly_temperature increase on 2022-05-26 compared to the previous day, and did his/her sleep_points increase?", "Answer": "no"}
+{"Query": "Did A4F_86472's baseline_relative_nightly_standard_deviation decrease on 2022-06-13 compared to the previous day, and did his/her sleep_points decrease?", "Answer": "yes"}
+{"Query": "Did A4F_10021's minutes_asleep increase on 2022-06-11 compared to the previous day, and did his/her sleep_points decrease?", "Answer": "yes"}
+{"Query": "Did A4F_31033's minutes_in_deep_sleep increase on 2022-06-16 compared to the previous day, and did his/her sleep_points decrease?", "Answer": "no"}
+{"Query": "Did A4F_89897's rmssd increase on 2022-05-21 compared to the previous day, and did his/her sleep_points decrease?", "Answer": "no"}
+{"Query": "Did A4F_70068's nrem_hr decrease on 2022-05-27 compared to the previous day, and did his/her sleep_points decrease?", "Answer": "no"}
+{"Query": "Did A4F_43794's sleep_average_oxygen_saturation increase on 2022-06-01 compared to the previous day, and did his/her sleep_points decrease?", "Answer": "yes"}
+{"Query": "Did A4F_10021's lower_bound_oxygen_saturation decrease on 2022-06-15 compared to the previous day, and did his/her sleep_points increase?", "Answer": "no"}
+{"Query": "Did A4F_29474's deep_sleep_breathing_rate decrease on 2022-06-08 compared to the previous day, and did his/her sleep_points decrease?", "Answer": "no"}
+{"Query": "Did A4F_29474's rem_sleep_breathing_rate increase on 2022-06-15 compared to the previous day, and did his/her sleep_points increase?", "Answer": "no"}
+{"Query": "Did A4F_92332's nightly_temperature increase on 2022-06-11 compared to the previous day, and did his/her stress_score increase?", "Answer": "no"}
+{"Query": "Did A4F_94336's baseline_relative_nightly_standard_deviation decrease on 2022-05-29 compared to the previous day, and did his/her sleep_points decrease?", "Answer": "no"}
+{"Query": "Did A4F_10021's minutes_asleep increase on 2022-06-10 compared to the previous day, and did his/her stress_score decrease?", "Answer": "no"}
+{"Query": "Did A4F_68106's minutes_in_deep_sleep increase on 2022-05-21 compared to the previous day, and did his/her stress_score decrease?", "Answer": "no"}
+{"Query": "Did A4F_10021's rmssd increase on 2022-06-15 compared to the previous day, and did his/her stress_score decrease?", "Answer": "no"}
+{"Query": "Did A4F_79824's nrem_hr decrease on 2022-06-18 compared to the previous day, and did his/her stress_score decrease?", "Answer": "yes"}
+{"Query": "Did A4F_10021's sleep_average_oxygen_saturation increase on 2022-06-09 compared to the previous day, and did his/her sleep_points decrease?", "Answer": "no"}
+{"Query": "Did A4F_17419's lower_bound_oxygen_saturation decrease on 2022-06-18 compared to the previous day, and did his/her sleep_points increase?", "Answer": "no"}
+{"Query": "Did A4F_70068's deep_sleep_breathing_rate decrease on 2022-05-29 compared to the previous day, and did his/her stress_score decrease?", "Answer": "no"}
+{"Query": "Did A4F_39976's rem_sleep_breathing_rate increase on 2022-06-20 compared to the previous day, and did his/her stress_score increase?", "Answer": "no"}
+{"Query": "Did A4F_92332's nightly_temperature increase on 2022-06-08 compared to the previous day, and did his/her sleep_points increase?", "Answer": "no"}
+{"Query": "Did A4F_76957's baseline_relative_nightly_standard_deviation decrease on 2022-05-30 compared to the previous day, and did his/her stress_score decrease?", "Answer": "no"}
+{"Query": "Did A4F_29474's minutes_asleep increase on 2022-06-19 compared to the previous day, and did his/her stress_score decrease?", "Answer": "no"}
+{"Query": "Did A4F_68106's minutes_in_deep_sleep increase on 2022-05-29 compared to the previous day, and did his/her sleep_points decrease?", "Answer": "no"}
+{"Query": "Did A4F_77391's rmssd increase on 2022-05-27 compared to the previous day, and did his/her sleep_points decrease?", "Answer": "yes"}
+{"Query": "Did A4F_96181's nrem_hr decrease on 2022-06-11 compared to the previous day, and did his/her stress_score decrease?", "Answer": "no"}
+{"Query": "Did A4F_79824's sleep_average_oxygen_saturation increase on 2022-06-11 compared to the previous day, and did his/her stress_score decrease?", "Answer": "yes"}
+{"Query": "Did A4F_67757's lower_bound_oxygen_saturation decrease on 2022-06-09 compared to the previous day, and did his/her stress_score increase?", "Answer": "no"}
+{"Query": "Did A4F_56718's deep_sleep_breathing_rate decrease on 2022-05-28 compared to the previous day, and did his/her sleep_points decrease?", "Answer": "no"}
+{"Query": "Did A4F_29474's rem_sleep_breathing_rate increase on 2022-06-14 compared to the previous day, and did his/her stress_score increase?", "Answer": "no"}
+{"Query": "Did A4F_31033's nightly_temperature increase on 2022-06-17 compared to the previous day, and did his/her stress_score increase?", "Answer": "no"}
+{"Query": "Did A4F_89897's baseline_relative_nightly_standard_deviation decrease on 2022-05-29 compared to the previous day, and did his/her stress_score decrease?", "Answer": "no"}
+{"Query": "Did A4F_56297's minutes_asleep increase on 2022-05-22 compared to the previous day, and did his/her stress_score decrease?", "Answer": "no"}
+{"Query": "Did A4F_28771's minutes_in_deep_sleep increase on 2022-06-04 compared to the previous day, and did his/her stress_score decrease?", "Answer": "yes"}
+{"Query": "Did A4F_24211's rmssd increase on 2022-06-15 compared to the previous day, and did his/her sleep_points decrease?", "Answer": "no"}
+{"Query": "Did A4F_67598's nrem_hr decrease on 2022-05-23 compared to the previous day, and did his/her stress_score decrease?", "Answer": "no"}
+{"Query": "Did A4F_89897's sleep_average_oxygen_saturation increase on 2022-05-28 compared to the previous day, and did his/her sleep_points decrease?", "Answer": "no"}
+{"Query": "Did A4F_92332's lower_bound_oxygen_saturation decrease on 2022-06-22 compared to the previous day, and did his/her sleep_points increase?", "Answer": "no"}
+{"Query": "Did A4F_51606's deep_sleep_breathing_rate decrease on 2022-05-22 compared to the previous day, and did his/her sleep_points decrease?", "Answer": "no"}
+{"Query": "Did A4F_67757's rem_sleep_breathing_rate increase on 2022-06-08 compared to the previous day, and did his/her sleep_points increase?", "Answer": "no"}
+{"Query": "Did A4F_73455's nightly_temperature increase on 2022-06-04 compared to the previous day, and did his/her stress_score increase?", "Answer": "yes"}
+{"Query": "Did A4F_28771's baseline_relative_nightly_standard_deviation decrease on 2022-06-04 compared to the previous day, and did his/her stress_score decrease?", "Answer": "yes"}
+{"Query": "Did A4F_29474's minutes_asleep increase on 2022-06-18 compared to the previous day, and did his/her stress_score decrease?", "Answer": "no"}
+{"Query": "Did A4F_27766's minutes_in_deep_sleep increase on 2022-06-12 compared to the previous day, and did his/her sleep_points decrease?", "Answer": "no"}
+{"Query": "Did A4F_56718's rmssd increase on 2022-05-22 compared to the previous day, and did his/her sleep_points decrease?", "Answer": "yes"}
+{"Query": "Did A4F_82994's nrem_hr decrease on 2022-06-14 compared to the previous day, and did his/her sleep_points decrease?", "Answer": "no"}
+{"Query": "Did A4F_67757's sleep_average_oxygen_saturation increase on 2022-06-10 compared to the previous day, and did his/her stress_score decrease?", "Answer": "no"}
+{"Query": "Did A4F_97618's lower_bound_oxygen_saturation decrease on 2022-06-09 compared to the previous day, and did his/her sleep_points increase?", "Answer": "no"}
+{"Query": "Did A4F_92332's deep_sleep_breathing_rate decrease on 2022-06-10 compared to the previous day, and did his/her sleep_points decrease?", "Answer": "no"}
+{"Query": "Did A4F_97618's rem_sleep_breathing_rate increase on 2022-06-09 compared to the previous day, and did his/her sleep_points increase?", "Answer": "no"}
+{"Query": "Did A4F_70068's nightly_temperature increase on 2022-05-30 compared to the previous day, and did his/her sleep_points increase?", "Answer": "no"}
+{"Query": "Did A4F_49219's baseline_relative_nightly_standard_deviation decrease on 2022-05-26 compared to the previous day, and did his/her stress_score decrease?", "Answer": "no"}
+{"Query": "Did A4F_89897's minutes_asleep increase on 2022-05-19 compared to the previous day, and did his/her sleep_points decrease?", "Answer": "no"}
+{"Query": "Did A4F_67757's minutes_in_deep_sleep increase on 2022-06-09 compared to the previous day, and did his/her stress_score decrease?", "Answer": "no"}
+{"Query": "Did A4F_56718's rmssd increase on 2022-05-25 compared to the previous day, and did his/her sleep_points decrease?", "Answer": "no"}
+{"Query": "Did A4F_71665's nrem_hr decrease on 2022-06-09 compared to the previous day, and did his/her sleep_points decrease?", "Answer": "no"}
+{"Query": "Did A4F_89897's sleep_average_oxygen_saturation increase on 2022-05-21 compared to the previous day, and did his/her sleep_points decrease?", "Answer": "no"}
+{"Query": "Did A4F_10021's lower_bound_oxygen_saturation decrease on 2022-06-11 compared to the previous day, and did his/her sleep_points increase?", "Answer": "no"}
+{"Query": "Did A4F_89897's deep_sleep_breathing_rate decrease on 2022-05-23 compared to the previous day, and did his/her sleep_points decrease?", "Answer": "yes"}
+{"Query": "Did A4F_56718's rem_sleep_breathing_rate increase on 2022-05-25 compared to the previous day, and did his/her sleep_points increase?", "Answer": "yes"}
+{"Query": "Did A4F_76957's nightly_temperature increase on 2022-05-29 compared to the previous day, and did his/her sleep_points increase?", "Answer": "no"}
+{"Query": "Did A4F_17419's baseline_relative_nightly_standard_deviation decrease on 2022-06-19 compared to the previous day, and did his/her sleep_points decrease?", "Answer": "no"}
+{"Query": "Did A4F_10021's minutes_asleep increase on 2022-06-10 compared to the previous day, and did his/her sleep_points decrease?", "Answer": "no"}
+{"Query": "Did A4F_29474's minutes_in_deep_sleep increase on 2022-06-12 compared to the previous day, and did his/her sleep_points decrease?", "Answer": "yes"}
+{"Query": "Did A4F_71665's rmssd increase on 2022-06-11 compared to the previous day, and did his/her sleep_points decrease?", "Answer": "no"}
+{"Query": "Did A4F_10021's nrem_hr decrease on 2022-06-09 compared to the previous day, and did his/her sleep_points decrease?", "Answer": "no"}
+{"Query": "Did A4F_53145's sleep_average_oxygen_saturation increase on 2022-05-24 compared to the previous day, and did his/her stress_score decrease?", "Answer": "no"}
+{"Query": "Did A4F_10021's lower_bound_oxygen_saturation decrease on 2022-06-10 compared to the previous day, and did his/her sleep_points increase?", "Answer": "no"}
+{"Query": "Did A4F_27766's deep_sleep_breathing_rate decrease on 2022-06-17 compared to the previous day, and did his/her stress_score decrease?", "Answer": "no"}
+{"Query": "Did A4F_73455's rem_sleep_breathing_rate increase on 2022-06-05 compared to the previous day, and did his/her sleep_points increase?", "Answer": "yes"}
+{"Query": "Did A4F_65724's nightly_temperature increase on 2022-06-01 compared to the previous day, and did his/her sleep_points increase?", "Answer": "no"}
+{"Query": "Did A4F_56297's baseline_relative_nightly_standard_deviation decrease on 2022-05-22 compared to the previous day, and did his/her sleep_points decrease?", "Answer": "no"}
+{"Query": "Did A4F_67598's minutes_asleep increase on 2022-05-26 compared to the previous day, and did his/her sleep_points decrease?", "Answer": "no"}
+{"Query": "Did A4F_68106's minutes_in_deep_sleep increase on 2022-05-28 compared to the previous day, and did his/her sleep_points decrease?", "Answer": "yes"}
+{"Query": "Did A4F_51606's rmssd increase on 2022-05-25 compared to the previous day, and did his/her stress_score decrease?", "Answer": "no"}
+{"Query": "Did A4F_24211's nrem_hr decrease on 2022-06-16 compared to the previous day, and did his/her sleep_points decrease?", "Answer": "yes"}
+{"Query": "Did A4F_82994's sleep_average_oxygen_saturation increase on 2022-06-17 compared to the previous day, and did his/her stress_score decrease?", "Answer": "yes"}
+{"Query": "Did A4F_67757's lower_bound_oxygen_saturation decrease on 2022-06-15 compared to the previous day, and did his/her sleep_points increase?", "Answer": "no"}
+{"Query": "Did A4F_67757's deep_sleep_breathing_rate decrease on 2022-06-09 compared to the previous day, and did his/her sleep_points decrease?", "Answer": "no"}
+{"Query": "Did A4F_28771's rem_sleep_breathing_rate increase on 2022-06-05 compared to the previous day, and did his/her sleep_points increase?", "Answer": "no"}
+{"Query": "Did A4F_35752's nightly_temperature increase on 2022-06-16 compared to the previous day, and did his/her sleep_points increase?", "Answer": "yes"}
+{"Query": "Did A4F_79824's baseline_relative_nightly_standard_deviation decrease on 2022-06-16 compared to the previous day, and did his/her sleep_points decrease?", "Answer": "no"}
+{"Query": "Did A4F_94336's minutes_asleep increase on 2022-05-28 compared to the previous day, and did his/her sleep_points decrease?", "Answer": "yes"}
+{"Query": "Did A4F_18098's minutes_in_deep_sleep increase on 2022-06-11 compared to the previous day, and did his/her stress_score decrease?", "Answer": "no"}
+{"Query": "Did A4F_35752's rmssd increase on 2022-06-06 compared to the previous day, and did his/her sleep_points decrease?", "Answer": "yes"}
+{"Query": "Did A4F_79824's nrem_hr decrease on 2022-06-20 compared to the previous day, and did his/her sleep_points decrease?", "Answer": "no"}
+{"Query": "Did A4F_31033's sleep_average_oxygen_saturation increase on 2022-06-20 compared to the previous day, and did his/her stress_score decrease?", "Answer": "yes"}
+{"Query": "Did A4F_53145's lower_bound_oxygen_saturation decrease on 2022-05-26 compared to the previous day, and did his/her sleep_points increase?", "Answer": "yes"}
+{"Query": "Did A4F_29474's deep_sleep_breathing_rate decrease on 2022-06-07 compared to the previous day, and did his/her stress_score decrease?", "Answer": "no"}
+{"Query": "Did A4F_43794's rem_sleep_breathing_rate increase on 2022-06-06 compared to the previous day, and did his/her sleep_points increase?", "Answer": "yes"}
+{"Query": "Did A4F_65724's nightly_temperature increase on 2022-06-07 compared to the previous day, and did his/her stress_score increase?", "Answer": "no"}
+{"Query": "Did A4F_24211's baseline_relative_nightly_standard_deviation decrease on 2022-06-16 compared to the previous day, and did his/her stress_score decrease?", "Answer": "no"}
+{"Query": "Did A4F_97618's minutes_asleep increase on 2022-06-06 compared to the previous day, and did his/her stress_score decrease?", "Answer": "no"}
+{"Query": "Did A4F_27766's minutes_in_deep_sleep increase on 2022-06-14 compared to the previous day, and did his/her sleep_points decrease?", "Answer": "no"}
+{"Query": "Did A4F_77391's rmssd increase on 2022-05-30 compared to the previous day, and did his/her sleep_points decrease?", "Answer": "no"}
+{"Query": "Did A4F_68106's nrem_hr decrease on 2022-05-27 compared to the previous day, and did his/her stress_score decrease?", "Answer": "no"}
+{"Query": "Did A4F_39976's sleep_average_oxygen_saturation increase on 2022-06-12 compared to the previous day, and did his/her sleep_points decrease?", "Answer": "yes"}
+{"Query": "Did A4F_28771's lower_bound_oxygen_saturation decrease on 2022-06-03 compared to the previous day, and did his/her stress_score increase?", "Answer": "no"}
+{"Query": "Did A4F_97618's deep_sleep_breathing_rate decrease on 2022-06-22 compared to the previous day, and did his/her sleep_points decrease?", "Answer": "no"}
+{"Query": "Did A4F_28771's rem_sleep_breathing_rate increase on 2022-06-06 compared to the previous day, and did his/her sleep_points increase?", "Answer": "no"}
+{"Query": "Did A4F_53145's nightly_temperature increase on 2022-06-02 compared to the previous day, and did his/her stress_score increase?", "Answer": "no"}
+{"Query": "Did A4F_49219's baseline_relative_nightly_standard_deviation decrease on 2022-05-21 compared to the previous day, and did his/her stress_score decrease?", "Answer": "no"}
+{"Query": "Did A4F_86472's minutes_asleep increase on 2022-06-08 compared to the previous day, and did his/her sleep_points decrease?", "Answer": "no"}
+{"Query": "Did A4F_29474's minutes_in_deep_sleep increase on 2022-06-07 compared to the previous day, and did his/her stress_score decrease?", "Answer": "yes"}
+{"Query": "Did A4F_96181's rmssd increase on 2022-06-16 compared to the previous day, and did his/her stress_score decrease?", "Answer": "no"}
+{"Query": "Did A4F_27766's nrem_hr decrease on 2022-06-11 compared to the previous day, and did his/her stress_score decrease?", "Answer": "no"}
+{"Query": "Did A4F_97618's sleep_average_oxygen_saturation increase on 2022-06-10 compared to the previous day, and did his/her sleep_points decrease?", "Answer": "no"}
+{"Query": "Did A4F_69129's lower_bound_oxygen_saturation decrease on 2022-05-19 compared to the previous day, and did his/her stress_score increase?", "Answer": "yes"}
+{"Query": "Did A4F_68106's deep_sleep_breathing_rate decrease on 2022-05-25 compared to the previous day, and did his/her stress_score decrease?", "Answer": "yes"}
+{"Query": "Did A4F_79824's rem_sleep_breathing_rate increase on 2022-06-11 compared to the previous day, and did his/her stress_score increase?", "Answer": "no"}
+{"Query": "Did A4F_51606's nightly_temperature increase on 2022-05-22 compared to the previous day, and did his/her sleep_points increase?", "Answer": "no"}
+{"Query": "Did A4F_29474's baseline_relative_nightly_standard_deviation decrease on 2022-06-18 compared to the previous day, and did his/her sleep_points decrease?", "Answer": "no"}
+{"Query": "Did A4F_76957's minutes_asleep increase on 2022-05-25 compared to the previous day, and did his/her stress_score decrease?", "Answer": "no"}
+{"Query": "Did A4F_71665's minutes_in_deep_sleep increase on 2022-06-10 compared to the previous day, and did his/her stress_score decrease?", "Answer": "yes"}
+{"Query": "Did A4F_29474's rmssd increase on 2022-06-18 compared to the previous day, and did his/her sleep_points decrease?", "Answer": "yes"}
+{"Query": "Did A4F_17419's nrem_hr decrease on 2022-06-17 compared to the previous day, and did his/her sleep_points decrease?", "Answer": "no"}
+{"Query": "Did A4F_89897's sleep_average_oxygen_saturation increase on 2022-05-25 compared to the previous day, and did his/her stress_score decrease?", "Answer": "no"}
+{"Query": "Did A4F_51606's lower_bound_oxygen_saturation decrease on 2022-05-29 compared to the previous day, and did his/her stress_score increase?", "Answer": "no"}
+{"Query": "Did A4F_89897's deep_sleep_breathing_rate decrease on 2022-05-30 compared to the previous day, and did his/her sleep_points decrease?", "Answer": "no"}
+{"Query": "Did A4F_45863's rem_sleep_breathing_rate increase on 2022-06-02 compared to the previous day, and did his/her sleep_points increase?", "Answer": "no"}
+{"Query": "Did A4F_40008's nightly_temperature increase on 2022-06-08 compared to the previous day, and did his/her stress_score increase?", "Answer": "no"}
+{"Query": "Did A4F_28771's baseline_relative_nightly_standard_deviation decrease on 2022-06-14 compared to the previous day, and did his/her stress_score decrease?", "Answer": "no"}
+{"Query": "Did A4F_17419's minutes_asleep increase on 2022-06-20 compared to the previous day, and did his/her stress_score decrease?", "Answer": "no"}
+{"Query": "Did A4F_94336's minutes_in_deep_sleep increase on 2022-06-04 compared to the previous day, and did his/her stress_score decrease?", "Answer": "no"}
+{"Query": "Did A4F_43794's rmssd increase on 2022-05-27 compared to the previous day, and did his/her sleep_points decrease?", "Answer": "no"}
+{"Query": "Did A4F_56297's nrem_hr decrease on 2022-05-26 compared to the previous day, and did his/her stress_score decrease?", "Answer": "no"}
+{"Query": "Did A4F_97618's sleep_average_oxygen_saturation increase on 2022-06-20 compared to the previous day, and did his/her sleep_points decrease?", "Answer": "no"}
+{"Query": "Did A4F_24211's lower_bound_oxygen_saturation decrease on 2022-06-14 compared to the previous day, and did his/her sleep_points increase?", "Answer": "yes"}
+{"Query": "Did A4F_31033's deep_sleep_breathing_rate decrease on 2022-06-20 compared to the previous day, and did his/her sleep_points decrease?", "Answer": "yes"}
+{"Query": "Did A4F_92332's rem_sleep_breathing_rate increase on 2022-06-23 compared to the previous day, and did his/her sleep_points increase?", "Answer": "yes"}
+{"Query": "Did A4F_76957's nightly_temperature increase on 2022-05-25 compared to the previous day, and did his/her sleep_points increase?", "Answer": "yes"}
+{"Query": "Did A4F_76957's baseline_relative_nightly_standard_deviation decrease on 2022-05-25 compared to the previous day, and did his/her sleep_points decrease?", "Answer": "no"}
+{"Query": "Did A4F_10021's minutes_asleep increase on 2022-06-09 compared to the previous day, and did his/her stress_score decrease?", "Answer": "no"}
+{"Query": "Did A4F_94336's minutes_in_deep_sleep increase on 2022-05-29 compared to the previous day, and did his/her sleep_points decrease?", "Answer": "no"}
+{"Query": "Did A4F_43794's rmssd increase on 2022-05-31 compared to the previous day, and did his/her stress_score decrease?", "Answer": "no"}
+{"Query": "Did A4F_71665's nrem_hr decrease on 2022-06-19 compared to the previous day, and did his/her sleep_points decrease?", "Answer": "no"}
+{"Query": "Did A4F_92332's sleep_average_oxygen_saturation increase on 2022-06-15 compared to the previous day, and did his/her sleep_points decrease?", "Answer": "no"}
+{"Query": "Did A4F_65724's lower_bound_oxygen_saturation decrease on 2022-05-26 compared to the previous day, and did his/her sleep_points increase?", "Answer": "yes"}
+{"Query": "Did A4F_97618's deep_sleep_breathing_rate decrease on 2022-06-18 compared to the previous day, and did his/her sleep_points decrease?", "Answer": "no"}
+{"Query": "Did A4F_96181's rem_sleep_breathing_rate increase on 2022-06-04 compared to the previous day, and did his/her stress_score increase?", "Answer": "yes"}
+{"Query": "Did A4F_39976's nightly_temperature increase on 2022-06-16 compared to the previous day, and did his/her sleep_points increase?", "Answer": "no"}
+{"Query": "Did A4F_35752's baseline_relative_nightly_standard_deviation decrease on 2022-06-16 compared to the previous day, and did his/her stress_score decrease?", "Answer": "no"}
+{"Query": "Did A4F_96181's minutes_asleep increase on 2022-06-06 compared to the previous day, and did his/her stress_score decrease?", "Answer": "no"}
+{"Query": "Did A4F_17419's minutes_in_deep_sleep increase on 2022-06-12 compared to the previous day, and did his/her sleep_points decrease?", "Answer": "yes"}
+{"Query": "Did A4F_89897's rmssd increase on 2022-05-31 compared to the previous day, and did his/her sleep_points decrease?", "Answer": "no"}
+{"Query": "Did A4F_92332's nrem_hr decrease on 2022-06-08 compared to the previous day, and did his/her stress_score decrease?", "Answer": "no"}
+{"Query": "Did A4F_29474's sleep_average_oxygen_saturation increase on 2022-06-09 compared to the previous day, and did his/her stress_score decrease?", "Answer": "yes"}
+{"Query": "Did A4F_98040's lower_bound_oxygen_saturation decrease on 2022-06-10 compared to the previous day, and did his/her sleep_points increase?", "Answer": "yes"}
+{"Query": "Did A4F_68106's deep_sleep_breathing_rate decrease on 2022-05-29 compared to the previous day, and did his/her stress_score decrease?", "Answer": "no"}
+{"Query": "Did A4F_28771's rem_sleep_breathing_rate increase on 2022-06-11 compared to the previous day, and did his/her sleep_points increase?", "Answer": "no"}
+{"Query": "Did A4F_49219's nightly_temperature increase on 2022-05-21 compared to the previous day, and did his/her stress_score increase?", "Answer": "yes"}
+{"Query": "Did A4F_92332's baseline_relative_nightly_standard_deviation decrease on 2022-06-17 compared to the previous day, and did his/her sleep_points decrease?", "Answer": "no"}
+{"Query": "Did A4F_94336's minutes_asleep increase on 2022-05-23 compared to the previous day, and did his/her stress_score decrease?", "Answer": "no"}
+{"Query": "Did A4F_24211's minutes_in_deep_sleep increase on 2022-06-14 compared to the previous day, and did his/her sleep_points decrease?", "Answer": "no"}
+{"Query": "Did A4F_69129's rmssd increase on 2022-05-19 compared to the previous day, and did his/her sleep_points decrease?", "Answer": "no"}
+{"Query": "Did A4F_92332's nrem_hr decrease on 2022-06-07 compared to the previous day, and did his/her sleep_points decrease?", "Answer": "no"}
+{"Query": "Did A4F_56297's sleep_average_oxygen_saturation increase on 2022-05-28 compared to the previous day, and did his/her sleep_points decrease?", "Answer": "no"}
+{"Query": "Did A4F_77391's lower_bound_oxygen_saturation decrease on 2022-05-24 compared to the previous day, and did his/her stress_score increase?", "Answer": "no"}
+{"Query": "Did A4F_79824's deep_sleep_breathing_rate decrease on 2022-06-07 compared to the previous day, and did his/her stress_score decrease?", "Answer": "no"}
+{"Query": "Did A4F_86472's rem_sleep_breathing_rate increase on 2022-06-16 compared to the previous day, and did his/her sleep_points increase?", "Answer": "no"}
+{"Query": "Did A4F_86472's nightly_temperature increase on 2022-06-09 compared to the previous day, and did his/her stress_score increase?", "Answer": "yes"}
+{"Query": "Did A4F_27766's baseline_relative_nightly_standard_deviation decrease on 2022-06-16 compared to the previous day, and did his/her sleep_points decrease?", "Answer": "no"}
+{"Query": "Did A4F_65724's minutes_asleep increase on 2022-05-25 compared to the previous day, and did his/her stress_score decrease?", "Answer": "no"}
+{"Query": "Did A4F_56297's minutes_in_deep_sleep increase on 2022-05-21 compared to the previous day, and did his/her stress_score decrease?", "Answer": "no"}
+{"Query": "Did A4F_65724's rmssd increase on 2022-05-27 compared to the previous day, and did his/her stress_score decrease?", "Answer": "no"}
+{"Query": "Did A4F_68106's nrem_hr decrease on 2022-05-28 compared to the previous day, and did his/her sleep_points decrease?", "Answer": "yes"}
+{"Query": "Did A4F_27766's sleep_average_oxygen_saturation increase on 2022-06-15 compared to the previous day, and did his/her stress_score decrease?", "Answer": "no"}
+{"Query": "Did A4F_28771's lower_bound_oxygen_saturation decrease on 2022-06-15 compared to the previous day, and did his/her stress_score increase?", "Answer": "no"}
+{"Query": "Did A4F_56718's deep_sleep_breathing_rate decrease on 2022-05-29 compared to the previous day, and did his/her sleep_points decrease?", "Answer": "yes"}
+{"Query": "Did A4F_24211's rem_sleep_breathing_rate increase on 2022-06-09 compared to the previous day, and did his/her sleep_points increase?", "Answer": "no"}
+{"Query": "Did A4F_73455's nightly_temperature increase on 2022-06-04 compared to the previous day, and did his/her sleep_points increase?", "Answer": "yes"}
+{"Query": "Did A4F_18098's baseline_relative_nightly_standard_deviation decrease on 2022-06-11 compared to the previous day, and did his/her stress_score decrease?", "Answer": "no"}
+{"Query": "Did A4F_82994's minutes_asleep increase on 2022-06-15 compared to the previous day, and did his/her sleep_points decrease?", "Answer": "no"}
+{"Query": "Did A4F_17419's minutes_in_deep_sleep increase on 2022-06-17 compared to the previous day, and did his/her sleep_points decrease?", "Answer": "no"}
+{"Query": "Did A4F_51606's rmssd increase on 2022-05-24 compared to the previous day, and did his/her sleep_points decrease?", "Answer": "no"}
+{"Query": "Did A4F_82994's nrem_hr decrease on 2022-06-22 compared to the previous day, and did his/her stress_score decrease?", "Answer": "no"}
+{"Query": "Did A4F_68106's sleep_average_oxygen_saturation increase on 2022-05-25 compared to the previous day, and did his/her stress_score decrease?", "Answer": "yes"}
+{"Query": "Did A4F_10021's lower_bound_oxygen_saturation decrease on 2022-06-12 compared to the previous day, and did his/her stress_score increase?", "Answer": "no"}
+{"Query": "Did A4F_98040's deep_sleep_breathing_rate decrease on 2022-06-13 compared to the previous day, and did his/her sleep_points decrease?", "Answer": "no"}
+{"Query": "Did A4F_70068's rem_sleep_breathing_rate increase on 2022-05-29 compared to the previous day, and did his/her stress_score increase?", "Answer": "no"}
+{"Query": "Did A4F_17419's nightly_temperature increase on 2022-06-20 compared to the previous day, and did his/her sleep_points increase?", "Answer": "no"}
+{"Query": "Did A4F_27766's baseline_relative_nightly_standard_deviation decrease on 2022-06-10 compared to the previous day, and did his/her stress_score decrease?", "Answer": "yes"}
+{"Query": "Did A4F_29474's minutes_asleep increase on 2022-06-07 compared to the previous day, and did his/her stress_score decrease?", "Answer": "yes"}
+{"Query": "Did A4F_77391's minutes_in_deep_sleep increase on 2022-05-28 compared to the previous day, and did his/her stress_score decrease?", "Answer": "no"}
+{"Query": "Did A4F_27766's rmssd increase on 2022-06-16 compared to the previous day, and did his/her sleep_points decrease?", "Answer": "yes"}
+{"Query": "Did A4F_51606's nrem_hr decrease on 2022-05-24 compared to the previous day, and did his/her stress_score decrease?", "Answer": "no"}
+{"Query": "Did A4F_51606's sleep_average_oxygen_saturation increase on 2022-05-29 compared to the previous day, and did his/her sleep_points decrease?", "Answer": "no"}
+{"Query": "Did A4F_67757's lower_bound_oxygen_saturation decrease on 2022-06-07 compared to the previous day, and did his/her sleep_points increase?", "Answer": "no"}
+{"Query": "Did A4F_43794's deep_sleep_breathing_rate decrease on 2022-06-07 compared to the previous day, and did his/her sleep_points decrease?", "Answer": "no"}
+{"Query": "Did A4F_27766's rem_sleep_breathing_rate increase on 2022-06-09 compared to the previous day, and did his/her stress_score increase?", "Answer": "no"}
+{"Query": "Did A4F_92332's nightly_temperature increase on 2022-06-14 compared to the previous day, and did his/her stress_score increase?", "Answer": "yes"}
+{"Query": "Did A4F_68106's baseline_relative_nightly_standard_deviation decrease on 2022-05-24 compared to the previous day, and did his/her stress_score decrease?", "Answer": "no"}
+{"Query": "Did A4F_27766's minutes_asleep increase on 2022-06-17 compared to the previous day, and did his/her stress_score decrease?", "Answer": "no"}
+{"Query": "Did A4F_28771's minutes_in_deep_sleep increase on 2022-06-03 compared to the previous day, and did his/her stress_score decrease?", "Answer": "no"}
+{"Query": "Did A4F_45863's rmssd increase on 2022-06-03 compared to the previous day, and did his/her sleep_points decrease?", "Answer": "no"}
+{"Query": "Did A4F_98040's nrem_hr decrease on 2022-06-10 compared to the previous day, and did his/her sleep_points decrease?", "Answer": "no"}
+{"Query": "Did A4F_98040's sleep_average_oxygen_saturation increase on 2022-06-10 compared to the previous day, and did his/her stress_score decrease?", "Answer": "no"}
+{"Query": "Did A4F_65724's lower_bound_oxygen_saturation decrease on 2022-06-03 compared to the previous day, and did his/her sleep_points increase?", "Answer": "no"}
+{"Query": "Did A4F_45863's deep_sleep_breathing_rate decrease on 2022-06-02 compared to the previous day, and did his/her sleep_points decrease?", "Answer": "yes"}
+{"Query": "Did A4F_76957's rem_sleep_breathing_rate increase on 2022-05-26 compared to the previous day, and did his/her sleep_points increase?", "Answer": "no"}
+{"Query": "Did A4F_31033's nightly_temperature increase on 2022-06-21 compared to the previous day, and did his/her stress_score increase?", "Answer": "no"}
+{"Query": "Did A4F_79824's baseline_relative_nightly_standard_deviation decrease on 2022-06-16 compared to the previous day, and did his/her stress_score decrease?", "Answer": "no"}
+{"Query": "Did A4F_28771's minutes_asleep increase on 2022-06-06 compared to the previous day, and did his/her sleep_points decrease?", "Answer": "no"}
+{"Query": "Did A4F_89897's minutes_in_deep_sleep increase on 2022-05-28 compared to the previous day, and did his/her stress_score decrease?", "Answer": "yes"}
+{"Query": "Did A4F_70068's rmssd increase on 2022-05-26 compared to the previous day, and did his/her stress_score decrease?", "Answer": "yes"}
+{"Query": "Did A4F_79824's nrem_hr decrease on 2022-06-19 compared to the previous day, and did his/her stress_score decrease?", "Answer": "no"}
+{"Query": "Did A4F_43794's sleep_average_oxygen_saturation increase on 2022-05-29 compared to the previous day, and did his/her stress_score decrease?", "Answer": "no"}
+{"Query": "Did A4F_39976's lower_bound_oxygen_saturation decrease on 2022-06-16 compared to the previous day, and did his/her stress_score increase?", "Answer": "no"}
+{"Query": "Did A4F_92332's deep_sleep_breathing_rate decrease on 2022-06-18 compared to the previous day, and did his/her sleep_points decrease?", "Answer": "no"}
+{"Query": "Did A4F_51606's rem_sleep_breathing_rate increase on 2022-05-23 compared to the previous day, and did his/her stress_score increase?", "Answer": "no"}
+{"Query": "Did A4F_92332's nightly_temperature increase on 2022-06-16 compared to the previous day, and did his/her stress_score increase?", "Answer": "no"}
+{"Query": "Did A4F_49219's baseline_relative_nightly_standard_deviation decrease on 2022-06-02 compared to the previous day, and did his/her sleep_points decrease?", "Answer": "no"}
+{"Query": "Did A4F_49219's minutes_asleep increase on 2022-05-27 compared to the previous day, and did his/her sleep_points decrease?", "Answer": "yes"}
+{"Query": "Did A4F_92332's minutes_in_deep_sleep increase on 2022-06-20 compared to the previous day, and did his/her sleep_points decrease?", "Answer": "no"}
+{"Query": "Did A4F_82994's rmssd increase on 2022-06-18 compared to the previous day, and did his/her stress_score decrease?", "Answer": "no"}
+{"Query": "Did A4F_92332's nrem_hr decrease on 2022-06-06 compared to the previous day, and did his/her stress_score decrease?", "Answer": "yes"}
+{"Query": "Did A4F_17419's sleep_average_oxygen_saturation increase on 2022-06-18 compared to the previous day, and did his/her sleep_points decrease?", "Answer": "yes"}
+{"Query": "Did A4F_39976's lower_bound_oxygen_saturation decrease on 2022-06-11 compared to the previous day, and did his/her stress_score increase?", "Answer": "yes"}
+{"Query": "Did A4F_27766's deep_sleep_breathing_rate decrease on 2022-06-18 compared to the previous day, and did his/her sleep_points decrease?", "Answer": "no"}
+{"Query": "Did A4F_27766's rem_sleep_breathing_rate increase on 2022-06-16 compared to the previous day, and did his/her stress_score increase?", "Answer": "no"}
+{"Query": "Did A4F_53145's nightly_temperature increase on 2022-05-29 compared to the previous day, and did his/her stress_score increase?", "Answer": "no"}
+{"Query": "Did A4F_86472's baseline_relative_nightly_standard_deviation decrease on 2022-06-15 compared to the previous day, and did his/her stress_score decrease?", "Answer": "yes"}
+{"Query": "Did A4F_10021's minutes_asleep increase on 2022-06-16 compared to the previous day, and did his/her sleep_points decrease?", "Answer": "no"}
+{"Query": "Did A4F_82994's minutes_in_deep_sleep increase on 2022-06-20 compared to the previous day, and did his/her stress_score decrease?", "Answer": "yes"}
+{"Query": "Did A4F_39976's rmssd increase on 2022-06-20 compared to the previous day, and did his/her stress_score decrease?", "Answer": "yes"}
+{"Query": "Did A4F_49219's nrem_hr decrease on 2022-05-27 compared to the previous day, and did his/her stress_score decrease?", "Answer": "no"}
+{"Query": "Did A4F_18098's sleep_average_oxygen_saturation increase on 2022-06-19 compared to the previous day, and did his/her stress_score decrease?", "Answer": "no"}
+{"Query": "Did A4F_29474's lower_bound_oxygen_saturation decrease on 2022-06-08 compared to the previous day, and did his/her sleep_points increase?", "Answer": "yes"}
+{"Query": "Did A4F_76957's deep_sleep_breathing_rate decrease on 2022-05-28 compared to the previous day, and did his/her sleep_points decrease?", "Answer": "no"}
+{"Query": "Did A4F_79824's rem_sleep_breathing_rate increase on 2022-06-20 compared to the previous day, and did his/her stress_score increase?", "Answer": "no"}
+{"Query": "Did A4F_67598's nightly_temperature increase on 2022-05-26 compared to the previous day, and did his/her sleep_points increase?", "Answer": "no"}
+{"Query": "Did A4F_27766's baseline_relative_nightly_standard_deviation decrease on 2022-06-11 compared to the previous day, and did his/her sleep_points decrease?", "Answer": "no"}
+{"Query": "How many consecutive days did A4F_17419's minutes_in_rem decrease while his/her sleep_points increase, starting from 2022-06-12?", "Answer": "2"}
+{"Query": "How many consecutive days did A4F_56297's entropy increase while his/her stress_score decrease, starting from 2022-05-19?", "Answer": "2"}
+{"Query": "How many consecutive days did A4F_27766's upper_bound_oxygen_saturation increase while his/her stress_score decrease, starting from 2022-06-08?", "Answer": "2"}
+{"Query": "How many consecutive days did A4F_27766's full_sleep_breathing_rate increase while his/her stress_score increase, starting from 2022-06-11?", "Answer": "2"}
+{"Query": "How many consecutive days did A4F_76957's nightly_temperature increase while his/her stress_score decrease, starting from 2022-05-25?", "Answer": "2"}
+{"Query": "How many consecutive days did A4F_68106's minutes_in_rem decrease while his/her sleep_points increase, starting from 2022-05-23?", "Answer": "2"}
+{"Query": "How many consecutive days did A4F_67757's entropy increase while his/her stress_score decrease, starting from 2022-06-13?", "Answer": "2"}
+{"Query": "How many consecutive days did A4F_39976's upper_bound_oxygen_saturation increase while his/her stress_score decrease, starting from 2022-06-09?", "Answer": "2"}
+{"Query": "How many consecutive days did A4F_39976's full_sleep_breathing_rate increase while his/her stress_score increase, starting from 2022-06-14?", "Answer": "2"}
+{"Query": "How many consecutive days did A4F_65724's nightly_temperature increase while his/her stress_score decrease, starting from 2022-06-01?", "Answer": "2"}
+{"Query": "How many consecutive days did A4F_86472's minutes_in_rem decrease while his/her stress_score increase, starting from 2022-06-12?", "Answer": "3"}
+{"Query": "How many consecutive days did A4F_94336's entropy increase while his/her stress_score decrease, starting from 2022-05-27?", "Answer": "3"}
+{"Query": "How many consecutive days did A4F_68106's upper_bound_oxygen_saturation increase while his/her sleep_points decrease, starting from 2022-05-24?", "Answer": "3"}
+{"Query": "How many consecutive days did A4F_97618's full_sleep_breathing_rate increase while his/her stress_score increase, starting from 2022-06-11?", "Answer": "3"}
+{"Query": "How many consecutive days did A4F_76957's nightly_temperature increase while his/her sleep_points decrease, starting from 2022-05-23?", "Answer": "3"}
+{"Query": "How many consecutive days did A4F_24211's minutes_in_rem decrease while his/her sleep_points increase, starting from 2022-06-03?", "Answer": "3"}
+{"Query": "How many consecutive days did A4F_77391's entropy increase while his/her stress_score decrease, starting from 2022-05-31?", "Answer": "3"}
+{"Query": "How many consecutive days did A4F_68106's upper_bound_oxygen_saturation increase while his/her stress_score decrease, starting from 2022-05-22?", "Answer": "3"}
+{"Query": "How many consecutive days did A4F_35752's full_sleep_breathing_rate increase while his/her stress_score increase, starting from 2022-06-11?", "Answer": "3"}
+{"Query": "How many consecutive days did A4F_67757's nightly_temperature increase while his/her stress_score decrease, starting from 2022-06-10?", "Answer": "3"}
+{"Query": "How many consecutive days did A4F_35752's minutes_in_rem decrease while his/her stress_score increase, starting from 2022-06-10?", "Answer": "2"}
+{"Query": "How many consecutive days did A4F_92332's entropy increase while his/her sleep_points decrease, starting from 2022-06-05?", "Answer": "2"}
+{"Query": "How many consecutive days did A4F_40008's upper_bound_oxygen_saturation increase while his/her sleep_points decrease, starting from 2022-06-10?", "Answer": "2"}
+{"Query": "How many consecutive days did A4F_29474's full_sleep_breathing_rate increase while his/her stress_score increase, starting from 2022-06-15?", "Answer": "4"}
+{"Query": "How many consecutive days did A4F_27766's nightly_temperature increase while his/her sleep_points decrease, starting from 2022-06-07?", "Answer": "3"}
+{"Query": "How many consecutive days did A4F_86472's minutes_in_rem decrease while his/her sleep_points increase, starting from 2022-06-14?", "Answer": "3"}
+{"Query": "How many consecutive days did A4F_71665's entropy increase while his/her stress_score decrease, starting from 2022-06-10?", "Answer": "2"}
+{"Query": "How many consecutive days did A4F_68106's upper_bound_oxygen_saturation increase while his/her stress_score decrease, starting from 2022-05-19?", "Answer": "2"}
+{"Query": "How many consecutive days did A4F_27766's full_sleep_breathing_rate increase while his/her sleep_points increase, starting from 2022-06-14?", "Answer": "2"}
+{"Query": "How many consecutive days did A4F_24211's nightly_temperature increase while his/her stress_score decrease, starting from 2022-06-03?", "Answer": "2"}
+{"Query": "How many consecutive days did A4F_51606's minutes_in_rem decrease while his/her stress_score increase, starting from 2022-05-18?", "Answer": "2"}
+{"Query": "How many consecutive days did A4F_45863's entropy increase while his/her sleep_points decrease, starting from 2022-05-21?", "Answer": "2"}
+{"Query": "How many consecutive days did A4F_53145's upper_bound_oxygen_saturation increase while his/her sleep_points decrease, starting from 2022-05-21?", "Answer": "2"}
+{"Query": "How many consecutive days did A4F_56718's full_sleep_breathing_rate increase while his/her sleep_points increase, starting from 2022-05-24?", "Answer": "3"}
+{"Query": "How many consecutive days did A4F_43794's nightly_temperature increase while his/her sleep_points decrease, starting from 2022-05-22?", "Answer": "2"}
+{"Query": "How many consecutive days did A4F_53145's minutes_in_rem decrease while his/her sleep_points increase, starting from 2022-05-23?", "Answer": "2"}
+{"Query": "How many consecutive days did A4F_92332's entropy increase while his/her sleep_points decrease, starting from 2022-06-17?", "Answer": "2"}
+{"Query": "How many consecutive days did A4F_67757's upper_bound_oxygen_saturation increase while his/her stress_score decrease, starting from 2022-06-04?", "Answer": "2"}
+{"Query": "How many consecutive days did A4F_29474's full_sleep_breathing_rate increase while his/her sleep_points increase, starting from 2022-06-15?", "Answer": "4"}
+{"Query": "How many consecutive days did A4F_17419's nightly_temperature increase while his/her sleep_points decrease, starting from 2022-06-11?", "Answer": "3"}
+{"Query": "How many consecutive days did A4F_53145's minutes_in_rem decrease while his/her sleep_points increase, starting from 2022-05-22?", "Answer": "2"}
+{"Query": "How many consecutive days did A4F_65724's entropy increase while his/her sleep_points decrease, starting from 2022-05-26?", "Answer": "2"}
+{"Query": "How many consecutive days did A4F_79824's upper_bound_oxygen_saturation increase while his/her sleep_points decrease, starting from 2022-06-15?", "Answer": "2"}
+{"Query": "How many consecutive days did A4F_76957's full_sleep_breathing_rate increase while his/her stress_score increase, starting from 2022-05-20?", "Answer": "2"}
+{"Query": "How many consecutive days did A4F_56718's nightly_temperature increase while his/her stress_score decrease, starting from 2022-05-19?", "Answer": "2"}
+{"Query": "How many consecutive days did A4F_24211's minutes_in_rem decrease while his/her stress_score increase, starting from 2022-06-06?", "Answer": "2"}
+{"Query": "How many consecutive days did A4F_92332's entropy increase while his/her sleep_points decrease, starting from 2022-06-13?", "Answer": "2"}
+{"Query": "How many consecutive days did A4F_35752's upper_bound_oxygen_saturation increase while his/her sleep_points decrease, starting from 2022-06-12?", "Answer": "2"}
+{"Query": "How many consecutive days did A4F_29474's full_sleep_breathing_rate increase while his/her sleep_points increase, starting from 2022-06-08?", "Answer": "2"}
+{"Query": "How many consecutive days did A4F_67598's nightly_temperature increase while his/her sleep_points decrease, starting from 2022-05-27?", "Answer": "2"}
+{"Query": "How many consecutive days did A4F_49219's minutes_in_rem decrease while his/her stress_score increase, starting from 2022-05-24?", "Answer": "2"}
+{"Query": "How many consecutive days did A4F_68106's entropy increase while his/her stress_score decrease, starting from 2022-05-24?", "Answer": "2"}
+{"Query": "How many consecutive days did A4F_18098's upper_bound_oxygen_saturation increase while his/her sleep_points decrease, starting from 2022-06-13?", "Answer": "2"}
+{"Query": "How many consecutive days did A4F_39976's full_sleep_breathing_rate increase while his/her sleep_points increase, starting from 2022-06-12?", "Answer": "2"}
+{"Query": "How many consecutive days did A4F_69129's nightly_temperature increase while his/her sleep_points decrease, starting from 2022-05-17?", "Answer": "2"}
+{"Query": "How many consecutive days did A4F_53145's minutes_in_rem decrease while his/her stress_score increase, starting from 2022-05-23?", "Answer": "2"}
+{"Query": "How many consecutive days did A4F_40008's entropy increase while his/her sleep_points decrease, starting from 2022-06-06?", "Answer": "2"}
+{"Query": "How many consecutive days did A4F_40008's upper_bound_oxygen_saturation increase while his/her sleep_points decrease, starting from 2022-06-07?", "Answer": "2"}
+{"Query": "How many consecutive days did A4F_56718's full_sleep_breathing_rate increase while his/her stress_score increase, starting from 2022-05-25?", "Answer": "2"}
+{"Query": "How many consecutive days did A4F_56355's nightly_temperature increase while his/her stress_score decrease, starting from 2022-05-25?", "Answer": "2"}
+{"Query": "How many consecutive days did A4F_17419's minutes_in_rem decrease while his/her sleep_points increase, starting from 2022-06-07?", "Answer": "2"}
+{"Query": "How many consecutive days did A4F_69129's entropy increase while his/her sleep_points decrease, starting from 2022-05-17?", "Answer": "2"}
+{"Query": "How many consecutive days did A4F_24211's upper_bound_oxygen_saturation increase while his/her sleep_points decrease, starting from 2022-06-05?", "Answer": "2"}
+{"Query": "How many consecutive days did A4F_18098's full_sleep_breathing_rate increase while his/her stress_score increase, starting from 2022-06-10?", "Answer": "3"}
+{"Query": "How many consecutive days did A4F_67598's nightly_temperature increase while his/her stress_score decrease, starting from 2022-05-27?", "Answer": "2"}
+{"Query": "How many consecutive days did A4F_71665's minutes_in_rem decrease while his/her stress_score increase, starting from 2022-06-11?", "Answer": "3"}
+{"Query": "How many consecutive days did A4F_71665's entropy increase while his/her stress_score decrease, starting from 2022-06-12?", "Answer": "2"}
+{"Query": "How many consecutive days did A4F_65724's upper_bound_oxygen_saturation increase while his/her stress_score decrease, starting from 2022-05-30?", "Answer": "2"}
+{"Query": "How many consecutive days did A4F_68106's full_sleep_breathing_rate increase while his/her stress_score increase, starting from 2022-05-19?", "Answer": "2"}
+{"Query": "How many consecutive days did A4F_27766's nightly_temperature increase while his/her sleep_points decrease, starting from 2022-06-13?", "Answer": "2"}
+{"Query": "How many consecutive days did A4F_77391's minutes_in_rem decrease while his/her stress_score increase, starting from 2022-05-31?", "Answer": "2"}
+{"Query": "How many consecutive days did A4F_82994's entropy increase while his/her stress_score decrease, starting from 2022-06-16?", "Answer": "3"}
+{"Query": "How many consecutive days did A4F_92332's upper_bound_oxygen_saturation increase while his/her sleep_points decrease, starting from 2022-06-14?", "Answer": "2"}
+{"Query": "How many consecutive days did A4F_39976's full_sleep_breathing_rate increase while his/her stress_score increase, starting from 2022-06-08?", "Answer": "2"}
+{"Query": "How many consecutive days did A4F_82994's nightly_temperature increase while his/her sleep_points decrease, starting from 2022-06-09?", "Answer": "2"}
+{"Query": "How many consecutive days did A4F_98040's minutes_in_rem decrease while his/her sleep_points increase, starting from 2022-06-13?", "Answer": "2"}
+{"Query": "How many consecutive days did A4F_40008's entropy increase while his/her sleep_points decrease, starting from 2022-06-14?", "Answer": "2"}
+{"Query": "How many consecutive days did A4F_18098's upper_bound_oxygen_saturation increase while his/her sleep_points decrease, starting from 2022-06-10?", "Answer": "2"}
+{"Query": "How many consecutive days did A4F_18098's full_sleep_breathing_rate increase while his/her sleep_points increase, starting from 2022-06-04?", "Answer": "2"}
+{"Query": "How many consecutive days did A4F_79824's nightly_temperature increase while his/her sleep_points decrease, starting from 2022-06-03?", "Answer": "2"}
+{"Query": "How many consecutive days did A4F_39976's minutes_in_rem decrease while his/her sleep_points increase, starting from 2022-06-12?", "Answer": "2"}
+{"Query": "How many consecutive days did A4F_56718's entropy increase while his/her sleep_points decrease, starting from 2022-05-18?", "Answer": "2"}
+{"Query": "How many consecutive days did A4F_89897's upper_bound_oxygen_saturation increase while his/her stress_score decrease, starting from 2022-05-21?", "Answer": "2"}
+{"Query": "How many consecutive days did A4F_94336's full_sleep_breathing_rate increase while his/her stress_score increase, starting from 2022-05-28?", "Answer": "2"}
+{"Query": "How many consecutive days did A4F_86472's nightly_temperature increase while his/her stress_score decrease, starting from 2022-06-15?", "Answer": "3"}
+{"Query": "How many consecutive days did A4F_71665's minutes_in_rem decrease while his/her stress_score increase, starting from 2022-06-04?", "Answer": "2"}
+{"Query": "How many consecutive days did A4F_18098's entropy increase while his/her stress_score decrease, starting from 2022-06-07?", "Answer": "2"}
+{"Query": "How many consecutive days did A4F_40008's upper_bound_oxygen_saturation increase while his/her stress_score decrease, starting from 2022-06-10?", "Answer": "2"}
+{"Query": "How many consecutive days did A4F_29474's full_sleep_breathing_rate increase while his/her stress_score increase, starting from 2022-06-05?", "Answer": "2"}
+{"Query": "How many consecutive days did A4F_39976's nightly_temperature increase while his/her sleep_points decrease, starting from 2022-06-07?", "Answer": "2"}
+{"Query": "How many consecutive days did A4F_49219's minutes_in_rem decrease while his/her sleep_points increase, starting from 2022-05-22?", "Answer": "2"}
+{"Query": "How many consecutive days did A4F_17419's entropy increase while his/her sleep_points decrease, starting from 2022-06-09?", "Answer": "3"}
+{"Query": "How many consecutive days did A4F_40008's upper_bound_oxygen_saturation increase while his/her stress_score decrease, starting from 2022-06-06?", "Answer": "2"}
+{"Query": "How many consecutive days did A4F_31033's full_sleep_breathing_rate increase while his/her stress_score increase, starting from 2022-06-15?", "Answer": "2"}
+{"Query": "How many consecutive days did A4F_28771's nightly_temperature increase while his/her stress_score decrease, starting from 2022-06-03?", "Answer": "2"}
+{"Query": "How many consecutive days did A4F_77391's minutes_in_rem decrease while his/her sleep_points increase, starting from 2022-05-23?", "Answer": "2"}
+{"Query": "How many consecutive days did A4F_92332's entropy increase while his/her stress_score decrease, starting from 2022-06-13?", "Answer": "2"}
+{"Query": "How many consecutive days did A4F_79824's upper_bound_oxygen_saturation increase while his/her sleep_points decrease, starting from 2022-06-04?", "Answer": "2"}
+{"Query": "How many consecutive days did A4F_69129's full_sleep_breathing_rate increase while his/her sleep_points increase, starting from 2022-05-17?", "Answer": "2"}
+{"Query": "How many consecutive days did A4F_18098's nightly_temperature increase while his/her stress_score decrease, starting from 2022-06-05?", "Answer": "2"}
+{"Query": "How many consecutive days did A4F_98040's minutes_in_rem decrease while his/her stress_score increase, starting from 2022-06-14?", "Answer": "2"}
+{"Query": "How many consecutive days did A4F_68106's entropy increase while his/her sleep_points decrease, starting from 2022-05-24?", "Answer": "2"}
+{"Query": "How many consecutive days did A4F_29474's upper_bound_oxygen_saturation increase while his/her stress_score decrease, starting from 2022-06-13?", "Answer": "2"}
+{"Query": "How many consecutive days did A4F_35752's full_sleep_breathing_rate increase while his/her sleep_points increase, starting from 2022-06-05?", "Answer": "2"}
+{"Query": "How many consecutive days did A4F_18098's nightly_temperature increase while his/her stress_score decrease, starting from 2022-06-15?", "Answer": "3"}
+{"Query": "How many consecutive days did A4F_43794's minutes_in_rem decrease while his/her stress_score increase, starting from 2022-05-30?", "Answer": "2"}
+{"Query": "How many consecutive days did A4F_89897's entropy increase while his/her sleep_points decrease, starting from 2022-05-21?", "Answer": "2"}
+{"Query": "How many consecutive days did A4F_18098's upper_bound_oxygen_saturation increase while his/her stress_score decrease, starting from 2022-06-07?", "Answer": "2"}
+{"Query": "How many consecutive days did A4F_17419's full_sleep_breathing_rate increase while his/her sleep_points increase, starting from 2022-06-13?", "Answer": "2"}
+{"Query": "How many consecutive days did A4F_70068's nightly_temperature increase while his/her stress_score decrease, starting from 2022-05-22?", "Answer": "3"}
+{"Query": "How many consecutive days did A4F_79824's minutes_in_rem decrease while his/her stress_score increase, starting from 2022-06-06?", "Answer": "2"}
+{"Query": "How many consecutive days did A4F_40008's entropy increase while his/her sleep_points decrease, starting from 2022-06-12?", "Answer": "2"}
+{"Query": "How many consecutive days did A4F_67598's upper_bound_oxygen_saturation increase while his/her stress_score decrease, starting from 2022-05-24?", "Answer": "3"}
+{"Query": "How many consecutive days did A4F_45863's full_sleep_breathing_rate increase while his/her stress_score increase, starting from 2022-05-27?", "Answer": "2"}
+{"Query": "How many consecutive days did A4F_18098's nightly_temperature increase while his/her stress_score decrease, starting from 2022-06-06?", "Answer": "2"}
+{"Query": "How many consecutive days did A4F_56355's minutes_in_rem decrease while his/her stress_score increase, starting from 2022-05-26?", "Answer": "2"}
+{"Query": "How many consecutive days did A4F_98040's entropy increase while his/her sleep_points decrease, starting from 2022-06-12?", "Answer": "2"}
+{"Query": "How many consecutive days did A4F_65724's upper_bound_oxygen_saturation increase while his/her stress_score decrease, starting from 2022-05-25?", "Answer": "2"}
+{"Query": "How many consecutive days did A4F_18098's full_sleep_breathing_rate increase while his/her sleep_points increase, starting from 2022-06-10?", "Answer": "3"}
+{"Query": "How many consecutive days did A4F_17419's nightly_temperature increase while his/her sleep_points decrease, starting from 2022-06-07?", "Answer": "2"}
+{"Query": "How many consecutive days did A4F_29474's minutes_in_rem decrease while his/her stress_score increase, starting from 2022-06-05?", "Answer": "2"}
+{"Query": "How many consecutive days did A4F_86472's entropy increase while his/her sleep_points decrease, starting from 2022-06-05?", "Answer": "2"}
+{"Query": "How many consecutive days did A4F_97618's upper_bound_oxygen_saturation increase while his/her stress_score decrease, starting from 2022-06-07?", "Answer": "2"}
+{"Query": "How many consecutive days did A4F_29474's full_sleep_breathing_rate increase while his/her stress_score increase, starting from 2022-06-12?", "Answer": "2"}
+{"Query": "How many consecutive days did A4F_56297's nightly_temperature increase while his/her sleep_points decrease, starting from 2022-05-18?", "Answer": "2"}
+{"Query": "How many consecutive days did A4F_71665's minutes_in_rem decrease while his/her sleep_points increase, starting from 2022-06-04?", "Answer": "2"}
+{"Query": "How many consecutive days did A4F_68106's entropy increase while his/her sleep_points decrease, starting from 2022-05-21?", "Answer": "2"}
+{"Query": "How many consecutive days did A4F_94336's upper_bound_oxygen_saturation increase while his/her sleep_points decrease, starting from 2022-05-25?", "Answer": "2"}
+{"Query": "How many consecutive days did A4F_24211's full_sleep_breathing_rate increase while his/her stress_score increase, starting from 2022-06-10?", "Answer": "2"}
+{"Query": "How many consecutive days did A4F_79824's nightly_temperature increase while his/her sleep_points decrease, starting from 2022-06-07?", "Answer": "2"}
+{"Query": "How many consecutive days did A4F_56355's minutes_in_rem decrease while his/her sleep_points increase, starting from 2022-05-25?", "Answer": "2"}
+{"Query": "How many consecutive days did A4F_89897's entropy increase while his/her sleep_points decrease, starting from 2022-05-19?", "Answer": "2"}
+{"Query": "How many consecutive days did A4F_82994's upper_bound_oxygen_saturation increase while his/her sleep_points decrease, starting from 2022-06-11?", "Answer": "2"}
+{"Query": "How many consecutive days did A4F_51606's full_sleep_breathing_rate increase while his/her stress_score increase, starting from 2022-05-25?", "Answer": "2"}
+{"Query": "How many consecutive days did A4F_49219's nightly_temperature increase while his/her sleep_points decrease, starting from 2022-05-19?", "Answer": "2"}
+{"Query": "How many consecutive days did A4F_53145's minutes_in_rem decrease while his/her sleep_points increase, starting from 2022-05-24?", "Answer": "2"}
+{"Query": "How many consecutive days did A4F_17419's entropy increase while his/her stress_score decrease, starting from 2022-06-12?", "Answer": "3"}
+{"Query": "How many consecutive days did A4F_97618's upper_bound_oxygen_saturation increase while his/her sleep_points decrease, starting from 2022-06-05?", "Answer": "2"}
+{"Query": "How many consecutive days did A4F_27766's full_sleep_breathing_rate increase while his/her stress_score increase, starting from 2022-06-09?", "Answer": "2"}
+{"Query": "How many consecutive days did A4F_69129's nightly_temperature increase while his/her stress_score decrease, starting from 2022-05-17?", "Answer": "2"}
+{"Query": "How many consecutive days did A4F_86472's minutes_in_rem decrease while his/her sleep_points increase, starting from 2022-06-15?", "Answer": "3"}
+{"Query": "How many consecutive days did A4F_17419's entropy increase while his/her sleep_points decrease, starting from 2022-06-11?", "Answer": "2"}
+{"Query": "How many consecutive days did A4F_86472's upper_bound_oxygen_saturation increase while his/her stress_score decrease, starting from 2022-06-05?", "Answer": "2"}
+{"Query": "How many consecutive days did A4F_96181's full_sleep_breathing_rate increase while his/her stress_score increase, starting from 2022-06-09?", "Answer": "2"}
+{"Query": "How many consecutive days did A4F_24211's nightly_temperature increase while his/her sleep_points decrease, starting from 2022-06-03?", "Answer": "2"}
+{"Query": "How many consecutive days did A4F_45863's minutes_in_rem decrease while his/her stress_score increase, starting from 2022-05-20?", "Answer": "2"}
+{"Query": "How many consecutive days did A4F_56297's entropy increase while his/her stress_score decrease, starting from 2022-05-22?", "Answer": "2"}
+{"Query": "How many consecutive days did A4F_53145's upper_bound_oxygen_saturation increase while his/her sleep_points decrease, starting from 2022-05-28?", "Answer": "2"}
+{"Query": "How many consecutive days did A4F_71665's full_sleep_breathing_rate increase while his/her sleep_points increase, starting from 2022-06-08?", "Answer": "2"}
+{"Query": "How many consecutive days did A4F_79824's nightly_temperature increase while his/her sleep_points decrease, starting from 2022-06-16?", "Answer": "2"}
+{"Query": "Did A4F_86472's minutes_asleep increase, rmssd increase on 2022-06-08, and his/her sleep_points decrease?", "Answer": "no"}
+{"Query": "How many consecutive days did A4F_17419's entropy increase and rem_sleep_breathing_rate decrease, and his/her sleep_points decrease, starting from 2022-06-07?", "Answer": "2"}
+{"Query": "Did A4F_96181's minutes_in_deep_sleep increase, nightly_temperature decrease on 2022-06-13, and his/her stress_score decrease?", "Answer": "no"}
+{"Query": "Did A4F_82994's minutes_asleep increase, rmssd increase on 2022-06-15, and his/her stress_score decrease?", "Answer": "no"}
+{"Query": "How many consecutive days did A4F_86472's entropy increase and rem_sleep_breathing_rate decrease, and his/her sleep_points decrease, starting from 2022-06-06?", "Answer": "2"}
+{"Query": "Did A4F_89897's minutes_in_deep_sleep increase, nightly_temperature decrease on 2022-05-24, and his/her stress_score decrease?", "Answer": "no"}
+{"Query": "Did A4F_65724's minutes_asleep increase, rmssd increase on 2022-05-28, and his/her sleep_points decrease?", "Answer": "no"}
+{"Query": "How many consecutive days did A4F_56718's entropy increase and rem_sleep_breathing_rate decrease, and his/her sleep_points decrease, starting from 2022-05-23?", "Answer": "2"}
+{"Query": "Did A4F_71665's minutes_in_deep_sleep increase, nightly_temperature decrease on 2022-06-18, and his/her stress_score decrease?", "Answer": "no"}
+{"Query": "Did A4F_68106's minutes_asleep increase, rmssd increase on 2022-05-26, and his/her sleep_points decrease?", "Answer": "yes"}
+{"Query": "How many consecutive days did A4F_97618's entropy increase and rem_sleep_breathing_rate decrease, and his/her stress_score decrease, starting from 2022-06-10?", "Answer": "2"}
+{"Query": "Did A4F_29474's minutes_in_deep_sleep increase, nightly_temperature decrease on 2022-06-20, and his/her stress_score decrease?", "Answer": "no"}
+{"Query": "Did A4F_89897's minutes_asleep increase, rmssd increase on 2022-05-22, and his/her stress_score decrease?", "Answer": "yes"}
+{"Query": "How many consecutive days did A4F_18098's entropy increase and rem_sleep_breathing_rate decrease, and his/her stress_score decrease, starting from 2022-06-15?", "Answer": "2"}
+{"Query": "Did A4F_28771's minutes_in_deep_sleep increase, nightly_temperature decrease on 2022-06-15, and his/her stress_score decrease?", "Answer": "no"}
+{"Query": "Did A4F_53145's minutes_asleep increase, rmssd increase on 2022-05-25, and his/her stress_score decrease?", "Answer": "no"}
+{"Query": "How many consecutive days did A4F_70068's entropy increase and rem_sleep_breathing_rate decrease, and his/her sleep_points decrease, starting from 2022-05-23?", "Answer": "2"}
+{"Query": "Did A4F_51606's minutes_in_deep_sleep increase, nightly_temperature decrease on 2022-05-28, and his/her sleep_points decrease?", "Answer": "yes"}
+{"Query": "Did A4F_67598's minutes_asleep increase, rmssd increase on 2022-05-25, and his/her sleep_points decrease?", "Answer": "no"}
+{"Query": "How many consecutive days did A4F_97618's entropy increase and rem_sleep_breathing_rate decrease, and his/her sleep_points decrease, starting from 2022-06-10?", "Answer": "2"}
+{"Query": "Did A4F_97618's minutes_in_deep_sleep increase, nightly_temperature decrease on 2022-06-19, and his/her sleep_points decrease?", "Answer": "yes"}
+{"Query": "Did A4F_40008's minutes_asleep increase, rmssd increase on 2022-06-18, and his/her sleep_points decrease?", "Answer": "yes"}
+{"Query": "How many consecutive days did A4F_82994's entropy increase and rem_sleep_breathing_rate decrease, and his/her sleep_points decrease, starting from 2022-06-13?", "Answer": "2"}
+{"Query": "Did A4F_76957's minutes_in_deep_sleep increase, nightly_temperature decrease on 2022-05-29, and his/her sleep_points decrease?", "Answer": "no"}
+{"Query": "Did A4F_94336's minutes_asleep increase, rmssd increase on 2022-05-24, and his/her sleep_points decrease?", "Answer": "no"}
+{"Query": "How many consecutive days did A4F_97618's entropy increase and rem_sleep_breathing_rate decrease, and his/her stress_score decrease, starting from 2022-06-07?", "Answer": "2"}
+{"Query": "Did A4F_76957's minutes_in_deep_sleep increase, nightly_temperature decrease on 2022-05-28, and his/her sleep_points decrease?", "Answer": "yes"}
+{"Query": "Did A4F_53145's minutes_asleep increase, rmssd increase on 2022-05-28, and his/her sleep_points decrease?", "Answer": "yes"}
+{"Query": "How many consecutive days did A4F_28771's entropy increase and rem_sleep_breathing_rate decrease, and his/her stress_score decrease, starting from 2022-06-07?", "Answer": "2"}
+{"Query": "Did A4F_92332's minutes_in_deep_sleep increase, nightly_temperature decrease on 2022-06-18, and his/her sleep_points decrease?", "Answer": "no"}
+{"Query": "Did A4F_79824's minutes_asleep increase, rmssd increase on 2022-06-08, and his/her sleep_points decrease?", "Answer": "yes"}
+{"Query": "How many consecutive days did A4F_69129's entropy increase and rem_sleep_breathing_rate decrease, and his/her sleep_points decrease, starting from 2022-05-17?", "Answer": "2"}
+{"Query": "Did A4F_92332's minutes_in_deep_sleep increase, nightly_temperature decrease on 2022-06-09, and his/her sleep_points decrease?", "Answer": "yes"}
+{"Query": "Did A4F_53145's minutes_asleep increase, rmssd increase on 2022-05-28, and his/her stress_score decrease?", "Answer": "no"}
+{"Query": "How many consecutive days did A4F_86472's entropy increase and rem_sleep_breathing_rate decrease, and his/her stress_score decrease, starting from 2022-06-06?", "Answer": "2"}
+{"Query": "Did A4F_45863's minutes_in_deep_sleep increase, nightly_temperature decrease on 2022-05-25, and his/her stress_score decrease?", "Answer": "yes"}
+{"Query": "Did A4F_68106's minutes_asleep increase, rmssd increase on 2022-05-30, and his/her stress_score decrease?", "Answer": "no"}
+{"Query": "How many consecutive days did A4F_82994's entropy increase and rem_sleep_breathing_rate decrease, and his/her sleep_points decrease, starting from 2022-06-15?", "Answer": "2"}
+{"Query": "Did A4F_53145's minutes_in_deep_sleep increase, nightly_temperature decrease on 2022-05-25, and his/her stress_score decrease?", "Answer": "no"}
+{"Query": "Did A4F_67757's minutes_asleep increase, rmssd increase on 2022-06-07, and his/her stress_score decrease?", "Answer": "no"}
+{"Query": "How many consecutive days did A4F_18098's entropy increase and rem_sleep_breathing_rate decrease, and his/her stress_score decrease, starting from 2022-06-04?", "Answer": "2"}
+{"Query": "Did A4F_17419's minutes_in_deep_sleep increase, nightly_temperature decrease on 2022-06-12, and his/her stress_score decrease?", "Answer": "no"}
+{"Query": "Did A4F_56297's minutes_asleep increase, rmssd increase on 2022-05-28, and his/her sleep_points decrease?", "Answer": "no"}
+{"Query": "How many consecutive days did A4F_17419's entropy increase and rem_sleep_breathing_rate decrease, and his/her sleep_points decrease, starting from 2022-06-09?", "Answer": "2"}
+{"Query": "Did A4F_56297's minutes_in_deep_sleep increase, nightly_temperature decrease on 2022-05-25, and his/her stress_score decrease?", "Answer": "yes"}
+{"Query": "Did A4F_98040's minutes_asleep increase, rmssd increase on 2022-06-12, and his/her sleep_points decrease?", "Answer": "yes"}
+{"Query": "How many consecutive days did A4F_39976's entropy increase and rem_sleep_breathing_rate decrease, and his/her stress_score decrease, starting from 2022-06-13?", "Answer": "2"}
+{"Query": "Did A4F_77391's minutes_in_deep_sleep increase, nightly_temperature decrease on 2022-06-04, and his/her sleep_points decrease?", "Answer": "yes"}
+{"Query": "Did A4F_77391's minutes_asleep increase, rmssd increase on 2022-05-23, and his/her sleep_points decrease?", "Answer": "no"}
+{"Query": "How many consecutive days did A4F_67757's entropy increase and rem_sleep_breathing_rate decrease, and his/her stress_score decrease, starting from 2022-06-13?", "Answer": "2"}
+{"Query": "Did A4F_39976's minutes_in_deep_sleep increase, nightly_temperature decrease on 2022-06-16, and his/her stress_score decrease?", "Answer": "yes"}
+{"Query": "Did A4F_65724's minutes_asleep increase, rmssd increase on 2022-05-29, and his/her stress_score decrease?", "Answer": "yes"}
+{"Query": "How many consecutive days did A4F_69129's entropy increase and rem_sleep_breathing_rate decrease, and his/her stress_score decrease, starting from 2022-05-17?", "Answer": "2"}
+{"Query": "Did A4F_24211's minutes_in_deep_sleep increase, nightly_temperature decrease on 2022-06-15, and his/her sleep_points decrease?", "Answer": "yes"}
+{"Query": "Did A4F_77391's minutes_asleep increase, rmssd increase on 2022-05-25, and his/her stress_score decrease?", "Answer": "yes"}
+{"Query": "How many consecutive days did A4F_86472's entropy increase and rem_sleep_breathing_rate decrease, and his/her sleep_points decrease, starting from 2022-06-05?", "Answer": "2"}
+{"Query": "Did A4F_40008's minutes_in_deep_sleep increase, nightly_temperature decrease on 2022-06-15, and his/her stress_score decrease?", "Answer": "yes"}
+{"Query": "Did A4F_98040's minutes_asleep increase, rmssd increase on 2022-06-11, and his/her stress_score decrease?", "Answer": "no"}
+{"Query": "How many consecutive days did A4F_56718's entropy increase and rem_sleep_breathing_rate decrease, and his/her sleep_points decrease, starting from 2022-05-19?", "Answer": "2"}
+{"Query": "Did A4F_65724's minutes_in_deep_sleep increase, nightly_temperature decrease on 2022-06-07, and his/her stress_score decrease?", "Answer": "no"}
+{"Query": "Did A4F_68106's minutes_asleep increase, rmssd increase on 2022-05-27, and his/her sleep_points decrease?", "Answer": "no"}
+{"Query": "How many consecutive days did A4F_51606's entropy increase and rem_sleep_breathing_rate decrease, and his/her sleep_points decrease, starting from 2022-05-22?", "Answer": "2"}
+{"Query": "Did A4F_67598's minutes_in_deep_sleep increase, nightly_temperature decrease on 2022-05-31, and his/her stress_score decrease?", "Answer": "no"}
+{"Query": "Did A4F_29474's minutes_asleep increase, rmssd increase on 2022-06-15, and his/her sleep_points decrease?", "Answer": "yes"}
+{"Query": "How many consecutive days did A4F_77391's entropy increase and rem_sleep_breathing_rate decrease, and his/her sleep_points decrease, starting from 2022-05-31?", "Answer": "2"}
+{"Query": "Did A4F_31033's minutes_in_deep_sleep increase, nightly_temperature decrease on 2022-06-15, and his/her stress_score decrease?", "Answer": "no"}
+{"Query": "Did A4F_43794's minutes_asleep increase, rmssd increase on 2022-06-07, and his/her stress_score decrease?", "Answer": "yes"}
+{"Query": "How many consecutive days did A4F_86472's entropy increase and rem_sleep_breathing_rate decrease, and his/her sleep_points decrease, starting from 2022-06-08?", "Answer": "2"}
+{"Query": "Did A4F_28771's minutes_in_deep_sleep increase, nightly_temperature decrease on 2022-06-13, and his/her stress_score decrease?", "Answer": "yes"}
+{"Query": "Did A4F_43794's minutes_asleep increase, rmssd increase on 2022-06-06, and his/her stress_score decrease?", "Answer": "no"}
+{"Query": "How many consecutive days did A4F_89897's entropy increase and rem_sleep_breathing_rate decrease, and his/her sleep_points decrease, starting from 2022-05-25?", "Answer": "2"}
+{"Query": "Did A4F_97618's minutes_in_deep_sleep increase, nightly_temperature decrease on 2022-06-08, and his/her stress_score decrease?", "Answer": "yes"}
+{"Query": "Did A4F_86472's minutes_asleep increase, rmssd increase on 2022-06-08, and his/her stress_score decrease?", "Answer": "no"}
+{"Query": "How many consecutive days did A4F_28771's entropy increase and rem_sleep_breathing_rate decrease, and his/her stress_score decrease, starting from 2022-06-02?", "Answer": "2"}
+{"Query": "Did A4F_96181's minutes_in_deep_sleep increase, nightly_temperature decrease on 2022-06-17, and his/her sleep_points decrease?", "Answer": "no"}
+{"Query": "Did A4F_49219's minutes_asleep increase, rmssd increase on 2022-05-21, and his/her sleep_points decrease?", "Answer": "no"}
+{"Query": "How many consecutive days did A4F_18098's entropy increase and rem_sleep_breathing_rate decrease, and his/her sleep_points decrease, starting from 2022-06-02?", "Answer": "2"}
+{"Query": "Did A4F_71665's minutes_in_deep_sleep increase, nightly_temperature decrease on 2022-06-13, and his/her stress_score decrease?", "Answer": "yes"}
+{"Query": "Did A4F_67757's minutes_asleep increase, rmssd increase on 2022-06-18, and his/her stress_score decrease?", "Answer": "no"}
+{"Query": "How many consecutive days did A4F_77391's entropy increase and rem_sleep_breathing_rate decrease, and his/her sleep_points decrease, starting from 2022-05-30?", "Answer": "2"}
+{"Query": "Did A4F_67598's minutes_in_deep_sleep increase, nightly_temperature decrease on 2022-05-23, and his/her sleep_points decrease?", "Answer": "no"}
+{"Query": "Did A4F_76957's minutes_asleep increase, rmssd increase on 2022-05-28, and his/her stress_score decrease?", "Answer": "yes"}
+{"Query": "How many consecutive days did A4F_29474's entropy increase and rem_sleep_breathing_rate decrease, and his/her sleep_points decrease, starting from 2022-06-08?", "Answer": "2"}
+{"Query": "Did A4F_53145's minutes_in_deep_sleep increase, nightly_temperature decrease on 2022-05-25, and his/her sleep_points decrease?", "Answer": "no"}
+{"Query": "Did A4F_27766's minutes_asleep increase, rmssd increase on 2022-06-11, and his/her stress_score decrease?", "Answer": "no"}
+{"Query": "How many consecutive days did A4F_79824's entropy increase and rem_sleep_breathing_rate decrease, and his/her stress_score decrease, starting from 2022-06-14?", "Answer": "2"}
+{"Query": "Did A4F_67598's minutes_in_deep_sleep increase, nightly_temperature decrease on 2022-05-25, and his/her stress_score decrease?", "Answer": "no"}
+{"Query": "Did A4F_56718's minutes_asleep increase, rmssd increase on 2022-05-25, and his/her stress_score decrease?", "Answer": "no"}
+{"Query": "How many consecutive days did A4F_96181's entropy increase and rem_sleep_breathing_rate decrease, and his/her stress_score decrease, starting from 2022-06-04?", "Answer": "2"}
+{"Query": "Did A4F_65724's minutes_in_deep_sleep increase, nightly_temperature decrease on 2022-06-07, and his/her sleep_points decrease?", "Answer": "no"}

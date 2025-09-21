@@ -1,0 +1,90 @@
+{"Query": "How many times did A4F_95200 eat category='Traditional Mediterranean Dishes' within one week, starting from 2022-06-08?", "Answer": "2"}
+{"Query": "How many times did A4F_44160 eat subcategory='Battered and Fried Foods' within one week, starting from 2022-05-22?", "Answer": "1"}
+{"Query": "How many times did A4F_22119 eat subcategory='Processed Dairy' within one week, starting from 2022-05-20?", "Answer": "1"}
+{"Query": "How many times did A4F_10660 eat category='Dairy and Plant-Based Drinks' within one week, starting from 2022-06-10?", "Answer": "11"}
+{"Query": "How many times did A4F_76068 eat subcategory='Raw or Roasted Nuts' within one week, starting from 2022-05-17?", "Answer": "3"}
+{"Query": "How many times did A4F_94120 eat category='Dairy and Plant-Based Drinks' within one week, starting from 2022-06-07?", "Answer": "10"}
+{"Query": "How many times did A4F_99000 eat category='Snacks and Appetizers' within one week, starting from 2022-06-11?", "Answer": "1"}
+{"Query": "How many times did A4F_65060 eat cooking_style='Boiled or Steamed' within one week, starting from 2022-05-25?", "Answer": "9"}
+{"Query": "How many times did A4F_51606 eat subcategory='Other Meats' within one week, starting from 2022-05-23?", "Answer": "9"}
+{"Query": "How many times did A4F_71665 eat category='Traditional Mediterranean Dishes' within one week, starting from 2022-06-06?", "Answer": "3"}
+{"Query": "How many times did A4F_67757 eat subcategory='Eggs' within one week, starting from 2022-06-03?", "Answer": "2"}
+{"Query": "How many times did A4F_95200 eat subcategory='Fruits' within one week, starting from 2022-06-06?", "Answer": "4"}
+{"Query": "How many times did A4F_96181 eat subcategory='Other Cereals (Quinoa and Others)' within one week, starting from 2022-06-04?", "Answer": "4"}
+{"Query": "How many times did A4F_86472 eat category='Cereals and Legumes' within one week, starting from 2022-06-12?", "Answer": "7"}
+{"Query": "How many times did A4F_31649 eat subcategory='Poultry' within one week, starting from 2022-06-09?", "Answer": "1"}
+{"Query": "How many times did A4F_96181 eat cooking_style='Preserved (Canned or Jarred)' within one week, starting from 2022-06-04?", "Answer": "7"}
+{"Query": "How many times did A4F_74742 eat category='Oils and Fats' within one week, starting from 2022-06-06?", "Answer": "7"}
+{"Query": "How many times did A4F_70068 eat cooking_style='Boiled or Steamed' within one week, starting from 2022-05-20?", "Answer": "12"}
+{"Query": "How many times did A4F_10660 eat subcategory='Sliced Bread' within one week, starting from 2022-06-09?", "Answer": "5"}
+{"Query": "How many times did A4F_70068 eat cooking_style='Boiled or Steamed' within one week, starting from 2022-06-07?", "Answer": "5"}
+{"Query": "How many times did A4F_91516 eat subcategory='Bread' within one week, starting from 2022-05-21?", "Answer": "9"}
+{"Query": "How many times did A4F_86472 eat subcategory='Fruits' within one week, starting from 2022-06-09?", "Answer": "1"}
+{"Query": "How many times did A4F_40008 eat category='Traditional Mediterranean Dishes' within one week, starting from 2022-06-09?", "Answer": "6"}
+{"Query": "How many times did A4F_27766 eat subcategory='Soup' within one week, starting from 2022-06-07?", "Answer": "1"}
+{"Query": "How many times did A4F_70954 eat category='Dairy and Plant-Based Drinks' within one week, starting from 2022-06-11?", "Answer": "7"}
+{"Query": "How many times did A4F_13504 eat category='Fast Food' within one week, starting from 2022-05-25?", "Answer": "3"}
+{"Query": "How many times did A4F_91594 eat subcategory='Olive Oil' within one week, starting from 2022-06-04?", "Answer": "1"}
+{"Query": "How many times did A4F_28771 eat category='Vegetables and Fruits' within one week, starting from 2022-05-31?", "Answer": "13"}
+{"Query": "How many times did A4F_99000 eat subcategory='Alcoholic Beverages' within one week, starting from 2022-06-09?", "Answer": "2"}
+{"Query": "How many times did A4F_48857 eat cooking_style='Fresh' within one week, starting from 2022-06-13?", "Answer": "28"}
+{"Query": "What percentage of meals were subcategory='Sauces and Condiments' for A4F_25413 within one week, starting from 2022-06-09?", "Answer": "6.25"}
+{"Query": "What percentage of meals were cooking_style='Fermented' for A4F_82994 within one week, starting from 2022-06-12?", "Answer": "10"}
+{"Query": "What percentage of meals were category='Sweets and Pastries' for A4F_93973 within one week, starting from 2022-06-12?", "Answer": "7.69"}
+{"Query": "What percentage of meals were category='Beverages' for A4F_67598 within one week, starting from 2022-05-22?", "Answer": "28.57"}
+{"Query": "What percentage of meals were category='Beverages' for A4F_28771 within one week, starting from 2022-06-01?", "Answer": "16.67"}
+{"Query": "What percentage of meals were subcategory='Gazpacho/Salmorejo' for A4F_99000 within one week, starting from 2022-06-12?", "Answer": "16.67"}
+{"Query": "What percentage of meals were cooking_style='Boiled or Steamed' for A4F_89897 within one week, starting from 2022-05-18?", "Answer": "14.44"}
+{"Query": "What percentage of meals were subcategory='Whole Grains' for A4F_51606 within one week, starting from 2022-05-19?", "Answer": "1.61"}
+{"Query": "What percentage of meals were category='Cereals and Legumes' for A4F_78358 within one week, starting from 2022-05-23?", "Answer": "19.78"}
+{"Query": "What percentage of meals were category='Beverages' for A4F_22119 within one week, starting from 2022-05-19?", "Answer": "75"}
+{"Query": "What percentage of meals were subcategory='Fruits' for A4F_56296 within one week, starting from 2022-06-13?", "Answer": "6.45"}
+{"Query": "What percentage of meals were subcategory='Vegetables and Greens' for A4F_56718 within one week, starting from 2022-05-17?", "Answer": "53.85"}
+{"Query": "What percentage of meals were subcategory='Paella' for A4F_91362 within one week, starting from 2022-05-23?", "Answer": "2.86"}
+{"Query": "What percentage of meals were category='Vegetables and Fruits' for A4F_84740 within one week, starting from 2022-05-17?", "Answer": "53.33"}
+{"Query": "What percentage of meals were category='Cereals and Legumes' for A4F_84740 within one week, starting from 2022-05-19?", "Answer": "66.67"}
+{"Query": "What percentage of meals were subcategory='Cured Meats and Cold Cuts' for A4F_44160 within one week, starting from 2022-05-22?", "Answer": "4.55"}
+{"Query": "What percentage of meals were cooking_style='Fermented' for A4F_94336 within one week, starting from 2022-05-29?", "Answer": "18.18"}
+{"Query": "What percentage of meals were subcategory='Vegetables and Greens' for A4F_94601 within one week, starting from 2022-05-25?", "Answer": "20.51"}
+{"Query": "What percentage of meals were cooking_style='Grilled' for A4F_89897 within one week, starting from 2022-05-22?", "Answer": "8.14"}
+{"Query": "What percentage of meals were subcategory='Yogurt and Fresh Cheese' for A4F_99000 within one week, starting from 2022-06-12?", "Answer": "16.67"}
+{"Query": "What percentage of meals were subcategory='Olive Oil' for A4F_60728 within one week, starting from 2022-06-11?", "Answer": "6.25"}
+{"Query": "What percentage of meals were cooking_style='Oven-Baked' for A4F_17419 within one week, starting from 2022-06-13?", "Answer": "32.98"}
+{"Query": "What percentage of meals were subcategory='Raw or Roasted Nuts' for A4F_41207 within one week, starting from 2022-06-11?", "Answer": "3.85"}
+{"Query": "What percentage of meals were subcategory='Whole Grains' for A4F_56718 within one week, starting from 2022-05-22?", "Answer": "14.29"}
+{"Query": "What percentage of meals were subcategory='Breakfast Cereals' for A4F_60728 within one week, starting from 2022-06-11?", "Answer": "4.17"}
+{"Query": "What percentage of meals were subcategory='Rice' for A4F_24211 within one week, starting from 2022-06-03?", "Answer": "2.7"}
+{"Query": "What percentage of meals were subcategory='Croquettes' for A4F_74742 within one week, starting from 2022-06-11?", "Answer": "2.04"}
+{"Query": "What percentage of meals were subcategory='Sandwiches' for A4F_44929 within one week, starting from 2022-06-02?", "Answer": "2.82"}
+{"Query": "What percentage of meals were subcategory='Bread' for A4F_39976 within one week, starting from 2022-06-10?", "Answer": "20"}
+{"Query": "What percentage of meals were category='Sweets and Pastries' for A4F_29474 within one week, starting from 2022-06-14?", "Answer": "0.94"}
+{"Query": "What are the top 5 categories for A4F_89897 within one week, starting from 2022-05-20?", "Answer": "Vegetables and Fruits; Beverages; Cereals and Legumes; Protein Sources; Dairy and Plant-Based Drinks"}
+{"Query": "What are the top 5 categories for A4F_18098 within one week, starting from 2022-06-06?", "Answer": "Protein Sources; Cereals and Legumes; Vegetables and Fruits; Oils and Fats; Dairy and Plant-Based Drinks"}
+{"Query": "What are the top 5 cooking styles for A4F_91362 within one week, starting from 2022-05-25?", "Answer": "Fresh; Boiled or Steamed; Grilled; Preserved (Canned or Jarred); Oven-Baked"}
+{"Query": "What are the top 5 subcategories for A4F_68106 within one week, starting from 2022-05-19?", "Answer": "Fruits; Bread; Vegetables and Greens; Yogurt and Fresh Cheese; Processed Dairy"}
+{"Query": "What are the top 5 categories for A4F_70954 within one week, starting from 2022-06-13?", "Answer": "Vegetables and Fruits; Beverages; Protein Sources; Cereals and Legumes; Dairy and Plant-Based Drinks"}
+{"Query": "What are the top 5 subcategories for A4F_65060 within one week, starting from 2022-05-22?", "Answer": "Fruits; Vegetables and Greens; Yogurt and Fresh Cheese; Cured Meats and Cold Cuts; Bread"}
+{"Query": "What are the top 5 categories for A4F_28689 within one week, starting from 2022-05-23?", "Answer": "Vegetables and Fruits; Dairy and Plant-Based Drinks; Cereals and Legumes; Protein Sources; Fast Food"}
+{"Query": "What are the top 5 cooking styles for A4F_22483 within one week, starting from 2022-05-31?", "Answer": "Fresh; Boiled or Steamed; Oven-Baked; Fermented; Preserved (Canned or Jarred)"}
+{"Query": "What are the top 5 categories for A4F_34415 within one week, starting from 2022-06-11?", "Answer": "Vegetables and Fruits; Protein Sources; Dairy and Plant-Based Drinks; Beverages; Cereals and Legumes"}
+{"Query": "What are the top 5 subcategories for A4F_70804 within one week, starting from 2022-06-11?", "Answer": "Fruits; Other Cereals (Quinoa and Others); Processed Dairy; Yogurt and Fresh Cheese; Infusions (Coffee and Others)"}
+{"Query": "What are the top 5 categories for A4F_89897 within one week, starting from 2022-05-18?", "Answer": "Vegetables and Fruits; Beverages; Cereals and Legumes; Protein Sources; Dairy and Plant-Based Drinks"}
+{"Query": "What are the top 5 categories for A4F_33497 within one week, starting from 2022-05-19?", "Answer": "Beverages; Cereals and Legumes; Vegetables and Fruits; Oils and Fats; Dairy and Plant-Based Drinks"}
+{"Query": "What are the top 5 categories for A4F_68106 within one week, starting from 2022-05-20?", "Answer": "Vegetables and Fruits; Cereals and Legumes; Beverages; Dairy and Plant-Based Drinks; Protein Sources"}
+{"Query": "What are the top 5 subcategories for A4F_98453 within one week, starting from 2022-06-16?", "Answer": "Sauces and Condiments; Vegetables and Greens; Burgers; Infusions (Coffee and Others); Other Meats"}
+{"Query": "What are the top 5 categories for A4F_79824 within one week, starting from 2022-06-07?", "Answer": "Vegetables and Fruits; Dairy and Plant-Based Drinks; Cereals and Legumes; Protein Sources; Oils and Fats"}
+{"Query": "What are the top 5 cooking styles for A4F_37469 within one week, starting from 2022-05-22?", "Answer": "Fresh; Boiled or Steamed; Oven-Baked; Grilled; Fried"}
+{"Query": "What are the top 5 cooking styles for A4F_98040 within one week, starting from 2022-06-07?", "Answer": "Fresh; Oven-Baked; Grilled; Boiled or Steamed; Stewed"}
+{"Query": "What are the top 5 subcategories for A4F_70068 within one week, starting from 2022-06-16?", "Answer": "Vegetables and Greens; Fruits; Bread; Sliced Bread; Legumes"}
+{"Query": "What are the top 5 subcategories for A4F_42312 within one week, starting from 2022-05-24?", "Answer": "Fruits; Vegetables and Greens; Bread; Olive Oil; Fish"}
+{"Query": "What are the top 5 categories for A4F_28689 within one week, starting from 2022-05-26?", "Answer": "Vegetables and Fruits; Dairy and Plant-Based Drinks; Cereals and Legumes; Protein Sources; Fast Food"}
+{"Query": "What are the top 5 subcategories for A4F_22643 within one week, starting from 2022-06-07?", "Answer": "Bread; Fruits; Vegetables and Greens; Soft Drinks; Yogurt and Fresh Cheese"}
+{"Query": "What are the top 5 cooking styles for A4F_60983 within one week, starting from 2022-05-24?", "Answer": "Fresh; Oven-Baked; Grilled; Boiled or Steamed; Fermented"}
+{"Query": "What are the top 5 subcategories for A4F_17419 within one week, starting from 2022-06-12?", "Answer": "Fruits; Bread; Biscuits; Vegetables and Greens; Infusions (Coffee and Others)"}
+{"Query": "What are the top 5 cooking styles for A4F_60728 within one week, starting from 2022-06-02?", "Answer": "Fresh; Boiled or Steamed; Grilled; Oven-Baked; Fried"}
+{"Query": "What are the top 5 cooking styles for A4F_69129 within one week, starting from 2022-05-23?", "Answer": "Grilled; Boiled or Steamed; Fresh; Oven-Baked; Fermented"}
+{"Query": "What are the top 5 categories for A4F_17705 within one week, starting from 2022-05-26?", "Answer": "Vegetables and Fruits; Protein Sources; Cereals and Legumes; Dairy and Plant-Based Drinks; Beverages"}
+{"Query": "What are the top 5 cooking styles for A4F_17419 within one week, starting from 2022-06-09?", "Answer": "Fresh; Oven-Baked; Boiled or Steamed; Grilled; Fermented"}
+{"Query": "What are the top 5 categories for A4F_97386 within one week, starting from 2022-06-08?", "Answer": "Protein Sources; Vegetables and Fruits; Cereals and Legumes; Fast Food; Oils and Fats"}
+{"Query": "What are the top 5 cooking styles for A4F_96181 within one week, starting from 2022-06-05?", "Answer": "Fresh; Oven-Baked; Boiled or Steamed; Fermented; Grilled"}
+{"Query": "What are the top 5 categories for A4F_92332 within one week, starting from 2022-06-07?", "Answer": "Vegetables and Fruits; Cereals and Legumes; Dairy and Plant-Based Drinks; Protein Sources; Oils and Fats"}

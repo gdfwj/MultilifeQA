@@ -1,0 +1,100 @@
+{"Query": "What is the average minutes_asleep and the average rmssd of A4F_69129 within one week, starting from 2022-05-17?", "Answer": "339; 38.7"}
+{"Query": "What is the average minutes_asleep and the average rmssd of A4F_97386 within one week, starting from 2022-06-04?", "Answer": "463.29; 89.59"}
+{"Query": "What is the average minutes_asleep and the average rmssd of A4F_71665 within one week, starting from 2022-06-06?", "Answer": "349.14; 26.97"}
+{"Query": "What is the average minutes_asleep and the average rmssd of A4F_56718 within one week, starting from 2022-05-20?", "Answer": "232.14; 27.26"}
+{"Query": "What is the average minutes_in_deep_sleep and the average nrem_hr of A4F_31649 within one week, starting from 2022-06-13?", "Answer": "74.86; 62.33"}
+{"Query": "What is the average minutes_in_deep_sleep and the average nrem_hr of A4F_53145 within one week, starting from 2022-05-27?", "Answer": "62.43; 50.9"}
+{"Query": "What is the average minutes_in_deep_sleep and the average nrem_hr of A4F_84534 within one week, starting from 2022-05-26?", "Answer": "80.14; 49.98"}
+{"Query": "What is the average minutes_in_deep_sleep and the average nrem_hr of A4F_20573 within one week, starting from 2022-06-14?", "Answer": "39.86; 49.95"}
+{"Query": "What is the average minutes_in_rem and the average entropy of A4F_13368 within one week, starting from 2022-05-24?", "Answer": "79.86; 2.1"}
+{"Query": "What is the average minutes_in_rem and the average entropy of A4F_43794 within one week, starting from 2022-05-25?", "Answer": "76.86; 2.27"}
+{"Query": "What is the average minutes_in_rem and the average entropy of A4F_94336 within one week, starting from 2022-05-29?", "Answer": "12.71; 1.73"}
+{"Query": "What is the average minutes_in_rem and the average entropy of A4F_10355 within one week, starting from 2022-06-13?", "Answer": "69.57; 1.16"}
+{"Query": "What is the total minutes_in_light_sleep and the average sleep_average_oxygen_saturation of A4F_48857 within one week, starting from 2022-06-11?", "Answer": "1845; 89.7"}
+{"Query": "What is the total minutes_in_light_sleep and the average sleep_average_oxygen_saturation of A4F_13368 within one week, starting from 2022-05-22?", "Answer": "1285; 95.43"}
+{"Query": "What is the total minutes_in_light_sleep and the average sleep_average_oxygen_saturation of A4F_10660 within one week, starting from 2022-06-09?", "Answer": "1549; 67.81"}
+{"Query": "What is the total minutes_in_light_sleep and the average sleep_average_oxygen_saturation of A4F_79824 within one week, starting from 2022-06-07?", "Answer": "1566; 93.41"}
+{"Query": "What is the average minutes_awake and the average lower_bound_oxygen_saturation of A4F_18098 within one week, starting from 2022-06-12?", "Answer": "54.71; 65.49"}
+{"Query": "What is the average minutes_awake and the average lower_bound_oxygen_saturation of A4F_52749 within one week, starting from 2022-06-08?", "Answer": "66.71; 90.97"}
+{"Query": "What is the average minutes_awake and the average lower_bound_oxygen_saturation of A4F_74742 within one week, starting from 2022-06-12?", "Answer": "61; 77.9"}
+{"Query": "What is the average minutes_awake and the average lower_bound_oxygen_saturation of A4F_86472 within one week, starting from 2022-06-15?", "Answer": "54.29; 91.51"}
+{"Query": "What is the average minutes_in_bed and the average upper_bound_oxygen_saturation of A4F_95200 within one week, starting from 2022-06-07?", "Answer": "421.43; 83.09"}
+{"Query": "What is the average minutes_in_bed and the average upper_bound_oxygen_saturation of A4F_25413 within one week, starting from 2022-06-04?", "Answer": "438.57; 96.63"}
+{"Query": "What is the average minutes_in_bed and the average upper_bound_oxygen_saturation of A4F_10355 within one week, starting from 2022-06-04?", "Answer": "481; 95.84"}
+{"Query": "What is the average minutes_in_bed and the average upper_bound_oxygen_saturation of A4F_42312 within one week, starting from 2022-05-23?", "Answer": "360.71; 70.41"}
+{"Query": "What is the average minutes_in_deep_sleep and the average deep_sleep_breathing_rate of A4F_48857 within one week, starting from 2022-06-14?", "Answer": "47; 13.6"}
+{"Query": "What is the average minutes_in_deep_sleep and the average deep_sleep_breathing_rate of A4F_53145 within one week, starting from 2022-05-28?", "Answer": "60; 6.6"}
+{"Query": "What is the average minutes_in_deep_sleep and the average deep_sleep_breathing_rate of A4F_10141 within one week, starting from 2022-06-06?", "Answer": "33.86; 12.11"}
+{"Query": "What is the average minutes_in_deep_sleep and the average deep_sleep_breathing_rate of A4F_51606 within one week, starting from 2022-05-23?", "Answer": "62.43; 12.43"}
+{"Query": "What is the average minutes_in_light_sleep and the average light_sleep_breathing_rate of A4F_10141 within one week, starting from 2022-06-07?", "Answer": "192.14; 13.6"}
+{"Query": "What is the average minutes_in_light_sleep and the average light_sleep_breathing_rate of A4F_44160 within one week, starting from 2022-05-21?", "Answer": "350.57; 12.56"}
+{"Query": "What is the average minutes_in_light_sleep and the average light_sleep_breathing_rate of A4F_10660 within one week, starting from 2022-06-11?", "Answer": "220.43; 14.2"}
+{"Query": "What is the average minutes_in_light_sleep and the average light_sleep_breathing_rate of A4F_22643 within one week, starting from 2022-06-06?", "Answer": "186; 9.17"}
+{"Query": "What is the average minutes_in_rem and the average rem_sleep_breathing_rate of A4F_65724 within one week, starting from 2022-06-01?", "Answer": "80; 13.74"}
+{"Query": "What is the average minutes_in_rem and the average rem_sleep_breathing_rate of A4F_95200 within one week, starting from 2022-06-11?", "Answer": "102.14; 13.77"}
+{"Query": "What is the average minutes_in_rem and the average rem_sleep_breathing_rate of A4F_34415 within one week, starting from 2022-06-09?", "Answer": "61.29; 13.91"}
+{"Query": "What is the average minutes_in_rem and the average rem_sleep_breathing_rate of A4F_60429 within one week, starting from 2022-06-13?", "Answer": "26.57; -0.86"}
+{"Query": "What is the total minutes_asleep and the average full_sleep_breathing_rate of A4F_65724 within one week, starting from 2022-05-29?", "Answer": "2749; 7.69"}
+{"Query": "What is the total minutes_asleep and the average full_sleep_breathing_rate of A4F_97618 within one week, starting from 2022-06-17?", "Answer": "2616; 16.74"}
+{"Query": "What is the total minutes_asleep and the average full_sleep_breathing_rate of A4F_10021 within one week, starting from 2022-06-10?", "Answer": "2406; 13.46"}
+{"Query": "What is the total minutes_asleep and the average full_sleep_breathing_rate of A4F_62344 within one week, starting from 2022-05-30?", "Answer": "2331; 8.91"}
+{"Query": "What is the total minutes_asleep and the average nightly_temperature of A4F_73455 within one week, starting from 2022-05-21?", "Answer": "2233; 33.56"}
+{"Query": "What is the total minutes_asleep and the average nightly_temperature of A4F_24211 within one week, starting from 2022-06-09?", "Answer": "2326; 28.49"}
+{"Query": "What is the total minutes_asleep and the average nightly_temperature of A4F_69129 within one week, starting from 2022-05-17?", "Answer": "2373; 14.44"}
+{"Query": "What is the total minutes_asleep and the average nightly_temperature of A4F_60983 within one week, starting from 2022-05-22?", "Answer": "3015; 29.06"}
+{"Query": "What is the average minutes_in_bed and the average baseline_relative_sample_sum of A4F_97618 within one week, starting from 2022-06-10?", "Answer": "364.86; -16.15"}
+{"Query": "What is the average minutes_in_bed and the average baseline_relative_sample_sum of A4F_49219 within one week, starting from 2022-05-20?", "Answer": "420; -75.93"}
+{"Query": "What is the average minutes_in_bed and the average baseline_relative_sample_sum of A4F_98040 within one week, starting from 2022-06-11?", "Answer": "475.57; -26.53"}
+{"Query": "What is the average minutes_in_bed and the average baseline_relative_sample_sum of A4F_56718 within one week, starting from 2022-05-22?", "Answer": "319.71; -111.82"}
+{"Query": "What is the average minutes_awake and the average baseline_relative_nightly_standard_deviation of A4F_91362 within one week, starting from 2022-05-20?", "Answer": "37.86; 0.34"}
+{"Query": "What is the average minutes_awake and the average baseline_relative_nightly_standard_deviation of A4F_22643 within one week, starting from 2022-06-06?", "Answer": "54.43; 0.28"}
+{"Query": "What is the average minutes_awake and the average baseline_relative_nightly_standard_deviation of A4F_33497 within one week, starting from 2022-05-21?", "Answer": "61; 0.38"}
+{"Query": "What is the average minutes_awake and the average baseline_relative_nightly_standard_deviation of A4F_91516 within one week, starting from 2022-05-25?", "Answer": "37.14; 0.71"}
+{"Query": "What is the average rmssd and the average sleep_average_oxygen_saturation of A4F_45863 within one week, starting from 2022-05-28?", "Answer": "52.16; 68.39"}
+{"Query": "What is the average rmssd and the average sleep_average_oxygen_saturation of A4F_65695 within one week, starting from 2022-05-18?", "Answer": "62.56; 41.14"}
+{"Query": "What is the average rmssd and the average sleep_average_oxygen_saturation of A4F_37469 within one week, starting from 2022-05-21?", "Answer": "37.48; 79.8"}
+{"Query": "What is the average rmssd and the average sleep_average_oxygen_saturation of A4F_70954 within one week, starting from 2022-06-08?", "Answer": "25.49; 78.01"}
+{"Query": "What is the average nrem_hr and the average lower_bound_oxygen_saturation of A4F_94601 within one week, starting from 2022-05-17?", "Answer": "60.06; 92.86"}
+{"Query": "What is the average nrem_hr and the average lower_bound_oxygen_saturation of A4F_10660 within one week, starting from 2022-06-10?", "Answer": "58.57; 66.31"}
+{"Query": "What is the average nrem_hr and the average lower_bound_oxygen_saturation of A4F_74720 within one week, starting from 2022-06-14?", "Answer": "40.89; 89.16"}
+{"Query": "What is the average nrem_hr and the average lower_bound_oxygen_saturation of A4F_94601 within one week, starting from 2022-05-26?", "Answer": "47.82; 52.6"}
+{"Query": "What is the average entropy and the average upper_bound_oxygen_saturation of A4F_10021 within one week, starting from 2022-06-09?", "Answer": "2.26; 80.63"}
+{"Query": "What is the average entropy and the average upper_bound_oxygen_saturation of A4F_56297 within one week, starting from 2022-05-19?", "Answer": "2.49; 27.3"}
+{"Query": "What is the average entropy and the average upper_bound_oxygen_saturation of A4F_65695 within one week, starting from 2022-05-20?", "Answer": "2.88; 56.61"}
+{"Query": "What is the average entropy and the average upper_bound_oxygen_saturation of A4F_41207 within one week, starting from 2022-06-08?", "Answer": "3.49; 99.39"}
+{"Query": "What is the average rmssd and the average full_sleep_breathing_rate of A4F_74742 within one week, starting from 2022-06-09?", "Answer": "18.28; 12.6"}
+{"Query": "What is the average rmssd and the average full_sleep_breathing_rate of A4F_25413 within one week, starting from 2022-06-07?", "Answer": "24.75; 14.51"}
+{"Query": "What is the average rmssd and the average full_sleep_breathing_rate of A4F_97618 within one week, starting from 2022-06-10?", "Answer": "58.16; 16.21"}
+{"Query": "What is the average rmssd and the average full_sleep_breathing_rate of A4F_91516 within one week, starting from 2022-05-24?", "Answer": "24.99; 14.54"}
+{"Query": "What is the average nrem_hr and the average deep_sleep_breathing_rate of A4F_10355 within one week, starting from 2022-06-07?", "Answer": "74.45; 13.94"}
+{"Query": "What is the average nrem_hr and the average deep_sleep_breathing_rate of A4F_65695 within one week, starting from 2022-05-21?", "Answer": "51.4; 16.91"}
+{"Query": "What is the average nrem_hr and the average deep_sleep_breathing_rate of A4F_29474 within one week, starting from 2022-06-03?", "Answer": "56.27; 12.6"}
+{"Query": "What is the average nrem_hr and the average deep_sleep_breathing_rate of A4F_10141 within one week, starting from 2022-06-09?", "Answer": "61.14; 13.83"}
+{"Query": "What is the average entropy and the average rem_sleep_breathing_rate of A4F_69129 within one week, starting from 2022-05-17?", "Answer": "2.58; 12.23"}
+{"Query": "What is the average entropy and the average rem_sleep_breathing_rate of A4F_50227 within one week, starting from 2022-06-13?", "Answer": "2.51; 12.14"}
+{"Query": "What is the average entropy and the average rem_sleep_breathing_rate of A4F_86472 within one week, starting from 2022-06-07?", "Answer": "2.72; 11.54"}
+{"Query": "What is the average entropy and the average rem_sleep_breathing_rate of A4F_68106 within one week, starting from 2022-05-24?", "Answer": "3.12; 11.97"}
+{"Query": "What is the average sleep_average_oxygen_saturation and the average full_sleep_breathing_rate of A4F_98040 within one week, starting from 2022-06-13?", "Answer": "92.57; 14.17"}
+{"Query": "What is the average sleep_average_oxygen_saturation and the average full_sleep_breathing_rate of A4F_68106 within one week, starting from 2022-05-20?", "Answer": "94.21; 11.09"}
+{"Query": "What is the average sleep_average_oxygen_saturation and the average full_sleep_breathing_rate of A4F_24211 within one week, starting from 2022-06-02?", "Answer": "80.36; 13.74"}
+{"Query": "What is the average sleep_average_oxygen_saturation and the average full_sleep_breathing_rate of A4F_29474 within one week, starting from 2022-06-14?", "Answer": "67.04; 13.94"}
+{"Query": "What is the average lower_bound_oxygen_saturation and the average deep_sleep_breathing_rate of A4F_56718 within one week, starting from 2022-05-21?", "Answer": "78.2; 13.67"}
+{"Query": "What is the average lower_bound_oxygen_saturation and the average deep_sleep_breathing_rate of A4F_10660 within one week, starting from 2022-06-13?", "Answer": "66.34; 14.63"}
+{"Query": "What is the average lower_bound_oxygen_saturation and the average deep_sleep_breathing_rate of A4F_52749 within one week, starting from 2022-06-11?", "Answer": "91.03; 10.4"}
+{"Query": "What is the average lower_bound_oxygen_saturation and the average deep_sleep_breathing_rate of A4F_91516 within one week, starting from 2022-05-24?", "Answer": "90.76; 14.54"}
+{"Query": "What is the average upper_bound_oxygen_saturation and the average rem_sleep_breathing_rate of A4F_25413 within one week, starting from 2022-06-16?", "Answer": "68.63; 8.77"}
+{"Query": "What is the average upper_bound_oxygen_saturation and the average rem_sleep_breathing_rate of A4F_10660 within one week, starting from 2022-06-12?", "Answer": "55.19; 12.4"}
+{"Query": "What is the average upper_bound_oxygen_saturation and the average rem_sleep_breathing_rate of A4F_31649 within one week, starting from 2022-06-13?", "Answer": "40.44; 13.2"}
+{"Query": "What is the average upper_bound_oxygen_saturation and the average rem_sleep_breathing_rate of A4F_97618 within one week, starting from 2022-06-12?", "Answer": "96.37; 10.15"}
+{"Query": "What is the total minutes_in_deep_sleep, the average nrem_hr, and the average deep_sleep_breathing_rate of A4F_51606 within one week, starting from 2022-05-19?", "Answer": "382; 56.48; 12.71"}
+{"Query": "What is the total minutes_in_deep_sleep, the average nrem_hr, and the average deep_sleep_breathing_rate of A4F_97386 within one week, starting from 2022-06-07?", "Answer": "551; 50.37; 12.6"}
+{"Query": "What is the total minutes_in_deep_sleep, the average nrem_hr, and the average deep_sleep_breathing_rate of A4F_34415 within one week, starting from 2022-06-08?", "Answer": "347; 68; 11.66"}
+{"Query": "What is the total minutes_in_deep_sleep, the average nrem_hr, and the average deep_sleep_breathing_rate of A4F_67757 within one week, starting from 2022-06-03?", "Answer": "443; 51.14; 15.97"}
+{"Query": "What is the total minutes_in_rem, the average entropy, and the average rem_sleep_breathing_rate of A4F_60728 within one week, starting from 2022-06-02?", "Answer": "717; 1.68; 10.63"}
+{"Query": "What is the total minutes_in_rem, the average entropy, and the average rem_sleep_breathing_rate of A4F_70068 within one week, starting from 2022-05-22?", "Answer": "748; 3.43; 13.63"}
+{"Query": "What is the total minutes_in_rem, the average entropy, and the average rem_sleep_breathing_rate of A4F_67757 within one week, starting from 2022-06-06?", "Answer": "444; 3.27; 13.66"}
+{"Query": "What is the total minutes_in_rem, the average entropy, and the average rem_sleep_breathing_rate of A4F_86472 within one week, starting from 2022-06-15?", "Answer": "544; 2.68; 9.77"}
+{"Query": "What is the average minutes_asleep, the average sleep_average_oxygen_saturation, and the average nightly_temperature of A4F_13368 within one week, starting from 2022-05-25?", "Answer": "450.71; 95.06; 33.88"}
+{"Query": "What is the average minutes_asleep, the average sleep_average_oxygen_saturation, and the average nightly_temperature of A4F_17419 within one week, starting from 2022-06-09?", "Answer": "396.86; 68.11; 24.11"}
+{"Query": "What is the average minutes_asleep, the average sleep_average_oxygen_saturation, and the average nightly_temperature of A4F_28689 within one week, starting from 2022-05-19?", "Answer": "381.43; 40.5; 24.8"}
+{"Query": "What is the average minutes_asleep, the average sleep_average_oxygen_saturation, and the average nightly_temperature of A4F_45118 within one week, starting from 2022-05-23?", "Answer": "394.43; 95.63; 28.48"}
