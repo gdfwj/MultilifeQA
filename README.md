@@ -61,7 +61,7 @@ The `simple` folder stores QA pairs generated with Context Prompting.
 - `"Query"`: the question.  
 - `"Answer"`: the ground-truth answer.  
 
-Run evaluation with:  
+Run our evaluation with:  
 
 ```bash
 python eval_simple.py \
@@ -102,6 +102,15 @@ The structure should look like:
 2. Update the `user` fields in `load_mysql_db.py` and `load_food_db.py` to your local settings, then run both scripts.
 
 ### Run Evaluation
+
+Each `.jsonl` file in the `sql` folder contains the following fields:
+- `"Query_sql"`: the base question for SQL generation, where constraints need to be added.  
+- `"Query_base"`: the base question for generating the final answer from the executed SQL results, where the specific SQL and result should be appended.  
+- `"Answer"`: the ground-truth answer.  
+
+For usage examples, please refer to `eval_sql.py`.
+
+Run our evaluation with:  
 
 ```
 python eval_sql.py \

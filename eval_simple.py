@@ -1,5 +1,3 @@
-# eval_simple.py  (Transformers-only, with progress bar, graceful stop, and eval/<model>/ outputs)
-
 import argparse
 import json
 import os
@@ -10,7 +8,6 @@ import signal
 from dataclasses import dataclass
 from typing import Dict, List, Tuple, Optional
 
-# --- quiet transformers logging ---
 from transformers.utils import logging as hf_logging
 hf_logging.set_verbosity_error()
 
@@ -19,14 +16,12 @@ import re
 def select_loading_strategy(model_name: str):
     name = model_name.lower()
 
-    # 精确覆盖
     if name == "qwen/qwen2.5-14b-instruct":
-        return {"mode": "bnb-8bit"}  # ← 改这里：14B 改为 8-bit
+        return {"mode": "bnb-8bit"} 
     
     if re.search(r"(16b)", name):
         return {"mode": "bnb-8bit"}
 
-    # 其余大模型仍然 4-bit，已测小模型 FP16
     if re.search(r"(70b|72b|32b|28b|20b|16b|mixtral-8x7b)", name):
         return {"mode": "bnb-4bit", "max_memory_gi": 46}
     return {"mode": "fp16"}
@@ -44,7 +39,7 @@ class OpenAIClient:
         if "insufficient_quota" in msg or "RateLimitError" in msg or "429" in msg:
             print("\n[ERR] OpenAI API quota exceeded or rate limited. "
                   "Please check your billing/plan. Stopping benchmark.", file=sys.stderr)
-            sys.exit(99)   # 特殊退出码
+            sys.exit(99) 
         raise e
     
     @staticmethod
@@ -58,7 +53,7 @@ class OpenAIClient:
         import sys, json
 
         is_reasoning = self._is_reasoning_model(self.model)
-        target_tokens = max(1, int(self.max_new_tokens))  # 尊重 --max-new-tokens
+        target_tokens = max(1, int(self.max_new_tokens)) 
 
         base_kwargs = {
             "model": self.model,
@@ -68,7 +63,7 @@ class OpenAIClient:
             ],
         }
         if not is_reasoning:
-            base_kwargs["temperature"] = 0  # reasoning 模型不要传 temperature
+            base_kwargs["temperature"] = 0 
 
         primary_param   = "max_completion_tokens" if is_reasoning else "max_tokens"
 
@@ -91,41 +86,22 @@ class OpenAIClient:
             resp = self.client.chat.completions.create(**kwargs)
             text, dbg = _extract_text(resp)
             if not text:
-                # 二次尝试：翻转参数名（兼容未来 API 差异）
-                # kwargs = dict(base_kwargs)
-                # resp2 = self.client.chat.completions.create(**kwargs)
-                # text2, dbg2 = _extract_text(resp2)
-                # if not text2:
                 print(f"[WARN] Empty model output. Debug1={json.dumps(dbg, ensure_ascii=False)} "
                         f"Debug2={json.dumps(dbg, ensure_ascii=False)}", file=sys.stderr)
-                return ""  # 保持你原有写入格式
+                return "" 
             return text
 
         except Exception as e:
             msg = str(e)
-            # if "unsupported_parameter" in msg and primary_param in msg:
-            #     try:
-            #         kwargs = dict(base_kwargs)
-            #         resp = self.client.chat.completions.create(**kwargs)
-            #         text, dbg = _extract_text(resp)
-            #         if not text:
-            #             print(f"[WARN] Empty model output after fallback. Debug={json.dumps(dbg, ensure_ascii=False)}",
-            #                   file=sys.stderr)
-            #             return ""
-            #         return text
-            #     except Exception as e2:
-            #         self._handle_error(e2)
             self._handle_error(e)
             
             
-# --- Claude (Anthropic) client ---
-# --- Claude (Anthropic) client with rate limiter & retry ---
 class ClaudeClient:
     def __init__(self, api_key: str, model_name: str, max_new_tokens: int = 64,
                  max_retries: int = 10,
-                 max_tpm: int = 50000,   # 输入 token/min 软上限（保守起步）
-                 max_rpm: int = 60,      # 请求/min 软上限
-                 ramp_factor: float = 1.3):  # 相比上一分钟，TPM 允许的最大增长倍数
+                 max_tpm: int = 50000,  
+                 max_rpm: int = 60,   
+                 ramp_factor: float = 1.3): 
         from anthropic import Anthropic
         from collections import deque
         import time
@@ -134,20 +110,16 @@ class ClaudeClient:
         self.max_new_tokens = max_new_tokens
         self.max_retries = max_retries
 
-        # rate-limit state
         self.max_tpm = max_tpm
         self.max_rpm = max_rpm
         self.ramp_factor = ramp_factor
-        self.req_times = deque()   # 每次请求时间戳
-        self.tok_times = deque()   # (ts, input_tokens)
-        self.last_minute_toks = 0  # 上一分钟真实消耗（用于爬坡）
+        self.req_times = deque() 
+        self.tok_times = deque() 
+        self.last_minute_toks = 0  
         self.last_minute_start = int(time.time() // 60)
 
-    # ===== helpers =====
     @staticmethod
     def _rough_token_estimate(text: str) -> int:
-        # 粗估：英文平均 ~4 chars/token；中英混合保守用 3.5-4
-        # 只为限速用，宁可偏大
         return max(1, int(len(text) / 4))
 
     @staticmethod
@@ -159,7 +131,6 @@ class ClaudeClient:
         return ("\n".join(parts)).strip()
 
     def _slide_windows(self, now):
-        # 清理 60s 之外的窗口
         from collections import deque
         while self.req_times and now - self.req_times[0] > 60:
             self.req_times.popleft()
@@ -174,10 +145,8 @@ class ClaudeClient:
         import time
         now_min = int(time.time() // 60)
         if now_min != self.last_minute_start:
-            # 进入新的一分钟，记录上一分钟真实消耗
             self.last_minute_toks = self._current_tpm()
             self.last_minute_start = now_min
-        # 基于上一分钟消耗，限制当前分钟目标上限
         allowed_by_ramp = max(self.max_tpm, int(self.last_minute_toks * self.ramp_factor))
         return allowed_by_ramp
 
@@ -196,9 +165,7 @@ class ClaudeClient:
             will_tpm = curr_tpm + est_input_tokens
 
             if will_rpm <= self.max_rpm and will_tpm <= hard_tpm_cap:
-                # ok to send
                 return
-            # 计算需要等待多久
             sleep_candidates = [0.1]
             if will_rpm > self.max_rpm and self.req_times:
                 sleep_candidates.append(60 - (now - self.req_times[0]) + 0.01)
@@ -213,12 +180,9 @@ class ClaudeClient:
         for attempt in range(1, self.max_retries + 1):
             try:
                 resp = self.client.messages.create(**kwargs)
-                # 记录窗口
                 now = time.time()
                 self.req_times.append(now)
-                # 估算输入 token 计入窗口（Anthropic返回usage也可以用，但有时不可用）
                 prompt_text = ""
-                # 从 messages 里抽取输入文本，越保守越好
                 for m in kwargs.get("messages", []):
                     if m.get("role") == "user":
                         c = m.get("content")
@@ -232,7 +196,6 @@ class ClaudeClient:
                 self.tok_times.append((now, est))
                 return resp
             except RateLimitError as e:
-                # 429：读 retry-after 或指数退避
                 retry_after = None
                 try:
                     retry_after = float(getattr(e, "response", None).headers.get("retry-after", ""))
@@ -260,9 +223,7 @@ class ClaudeClient:
 
     # === simple 版本用 ===
     def infer(self, prompt: str) -> str:
-        # 预估输入 token，先限速
-        est = self._rough_token_estimate(prompt) + 64  # +系统提示余量
-        # self._rate_limit(est)
+        est = self._rough_token_estimate(prompt) + 64  
         resp = self._request_with_retry(
             model=self.model,
             max_tokens=self.max_new_tokens,
@@ -272,24 +233,21 @@ class ClaudeClient:
         )
         return self._extract_text(resp)
             
-# --- Gemini (google-genai) client ---
 class GeminiClient:
     def __init__(self, api_key: str, model_name: str, max_new_tokens: int = 32):
         from google import genai
         from google.genai import types
         self.genai = genai
         self.types = types
-        # 如果你已经 export 了 GOOGLE_API_KEY，也可以写成 genai.Client()
         self.client = genai.Client(api_key=api_key)
         self.model = model_name
         self.max_new_tokens = max_new_tokens
 
     def _handle_error(self, e: Exception):
-        # 官方抛错类型为 errors.APIError，含 code/message
         try:
             from google.genai import errors
             if isinstance(e, errors.APIError):
-                if getattr(e, "code", None) in (429, 403):  # 限流/配额
+                if getattr(e, "code", None) in (429, 403): 
                     print("\n[ERR] Gemini API quota exceeded or rate limited. "
                           "Please check your plan/billing. Stopping benchmark.",
                           file=sys.stderr)
@@ -300,7 +258,6 @@ class GeminiClient:
 
     def infer(self, prompt: str) -> str:
         try:
-            # 与 OpenAI 的 system+user 语义对齐
             cfg = self.types.GenerateContentConfig(
                 system_instruction="You are a concise evaluator. Reply with ONLY the final answer (no explanation).",
                 max_output_tokens=self.max_new_tokens,
@@ -308,23 +265,18 @@ class GeminiClient:
             )
             resp = self.client.models.generate_content(
                 model=self.model,
-                contents=prompt,   # 纯文本会被SDK包装成 user 内容
+                contents=prompt,
                 config=cfg,
             )
-            # SDK 直接给出 .text
             return (resp.text or "").strip()
         except Exception as e:
             self._handle_error(e)
 
-
-
-# --- tqdm for progress bar ---
 try:
     from tqdm import tqdm
 except Exception:
     tqdm = None
 
-# --- global stop flag (SIGINT/SIGTERM) ---
 STOP = False
 def _handle_stop(signum, frame):
     global STOP
@@ -338,9 +290,6 @@ signal.signal(signal.SIGINT,  _handle_stop)
 signal.signal(signal.SIGTERM, _handle_stop)
 
 
-# ----------------------------
-# IO helpers
-# ----------------------------
 def read_jsonl(path: str):
     with open(path, "r", encoding="utf-8") as f:
         for ln, line in enumerate(f, 1):
@@ -395,12 +344,9 @@ def find_jsonl_files(data_root: str) -> List[Tuple[str, str, str]]:
     return found
 
 
-# ----------------------------
-# Matching / evaluation utils
-# ----------------------------
 def normalize_text(s: str) -> str:
     s = str(s).strip().lower()
-    s = re.sub(r"^(final\s+answer|answer|a)\s*[:\-]\s*", "", s)  # strip leading labels
+    s = re.sub(r"^(final\s+answer|answer|a)\s*[:\-]\s*", "", s) 
     s = s.replace("\u200b", " ")
     s = re.sub(r"\s+", " ", s)
     s = re.sub(r"[\"'`]", "", s)
@@ -480,17 +426,12 @@ class Stat:
     def acc(self) -> float:
         return 0.0 if self.total == 0 else self.correct / self.total
 
-
-# ----------------------------
-# HF Transformers client
-# ----------------------------
 class HFClient:
     def __init__(self, model_name: str, max_new_tokens: int = 32):
         from transformers import AutoModelForCausalLM, AutoTokenizer
         from transformers.utils import logging as hf_logging
         import torch, os
 
-        # hf_logging.set_verbosity_error()
 
         self.tokenizer = AutoTokenizer.from_pretrained(model_name, use_fast=True)
         if self.tokenizer.pad_token is None:
@@ -500,7 +441,6 @@ class HFClient:
         mode = strat["mode"]
 
         if mode == "bnb-4bit":
-            # 延迟导入，只有需要时才依赖 bitsandbytes
             from transformers import BitsAndBytesConfig
 
             bnb_cfg = BitsAndBytesConfig(
@@ -510,57 +450,43 @@ class HFClient:
                 bnb_4bit_compute_dtype=torch.bfloat16 if torch.cuda.is_available() else torch.float32,
             )
             num = torch.cuda.device_count() if torch.cuda.is_available() else 0
-            max_gi = strat.get("max_memory_gi", 46)  # A6000(48G) 给每卡留 2GiB 缓冲
+            max_gi = strat.get("max_memory_gi", 46) 
             max_mem = {i: f"{max_gi}GiB" for i in range(num)} if num else None
 
             self.model = AutoModelForCausalLM.from_pretrained(
                 model_name,
                 quantization_config=bnb_cfg,
-                device_map="balanced",     # 或 "balanced_low_0"，更积极地跨卡切分
+                device_map="balanced",  
                 max_memory=max_mem,
-                # 可选：若已安装 flash-attn 2，解注释下面一行提速注意匹配 CUDA 版本
                 attn_implementation="flash_attention_2",
             )
         elif mode == "bnb-8bit":
             from transformers import BitsAndBytesConfig
             bnb_cfg = BitsAndBytesConfig(
                 load_in_8bit=True,
-                # LLM.int8() 默认混合精度；compute dtype 交给默认即可
             )
             num = torch.cuda.device_count() if torch.cuda.is_available() else 0
-            # A6000 48GB，给每卡留点余量；如果你上下文很短，也可以设 47GiB
             max_mem = {i: "46GiB" for i in range(num)} if num else None
             self.model = AutoModelForCausalLM.from_pretrained(
                 model_name,
                 quantization_config=bnb_cfg,
-                device_map="balanced",   # 14B 8-bit 单卡足够；保留 auto 以防万一
-                # attn_implementation="flash_attention_2",
+                device_map="balanced", 
+                attn_implementation="flash_attention_2",
             )
         else:
-            # 小模型直接 FP16/BF16/FP32（按设备选择）
-            if torch.cuda.is_available():
-                dtype = torch.float16  # 4090上足够；也可换 bfloat16
-            elif getattr(torch.backends, "mps", None) and torch.backends.mps.is_available():
-                dtype = torch.float32
-            else:
-                dtype = torch.float32
-
             num = torch.cuda.device_count() if torch.cuda.is_available() else 0
-            # A6000 48GB，给每卡留点余量；如果你上下文很短，也可以设 47GiB
             max_mem = {i: "46GiB" for i in range(num)} if num else None
 
             self.model = AutoModelForCausalLM.from_pretrained(
                 model_name,
-                torch_dtype=torch.float16,     # 小模型走 fp16
-                device_map="auto",         # 关键：跨卡均衡切分
-                max_memory=max_mem,            # 关键：给出每卡可用显存上限
-                low_cpu_mem_usage=True,        # 可选：减少 CPU 内存峰值
-                # 可选：如果你已安装 flash-attn 2 且版本匹配，可解开下一行提速
+                torch_dtype=torch.float16, 
+                device_map="auto",   
+                max_memory=max_mem,        
+                low_cpu_mem_usage=True,        
                 attn_implementation="flash_attention_2",
             )
 
 
-        # 通用：抑制采样参数告警 & 设置 pad
         self.model.config.pad_token_id = self.tokenizer.eos_token_id
         gen_cfg = self.model.generation_config
         for k in ("temperature", "top_p", "top_k", "typical_p", "penalty_alpha"):
@@ -601,12 +527,7 @@ class HFClient:
         return out.strip()
 
 
-
-# ----------------------------
-# Utils
-# ----------------------------
 def sanitize_model_name(name: str) -> str:
-    # map "meta-llama/Meta-Llama-3.1-8B-Instruct" -> "meta-llama__Meta-Llama-3.1-8B-Instruct"
     name = name.replace("/", "__")
     name = re.sub(r"[^A-Za-z0-9_.\-]+", "_", name)
     return name
@@ -616,9 +537,6 @@ def ensure_dir(p: str):
     os.makedirs(p, exist_ok=True)
 
 
-# ----------------------------
-# Main
-# ----------------------------
 def main():
     global STOP
     ap = argparse.ArgumentParser()
@@ -639,7 +557,6 @@ def main():
         print(f"[ERR] No JSONL files found under: {args.data_root}", file=sys.stderr)
         sys.exit(1)
 
-    # Count total valid examples for global progress
     file_entries = []
     total_examples = 0
     for fpath, outer, kind in files:
@@ -653,12 +570,10 @@ def main():
 
     target_total = args.limit if (args.limit and args.limit < total_examples) else total_examples
 
-    # Prepare output dirs
     model_dir = sanitize_model_name(args.model)
     base_out_dir = os.path.join(args.eval_root, model_dir)
     ensure_dir(base_out_dir)
 
-    # Open aggregate jsonl
     all_out_path = os.path.join(base_out_dir, "all_outputs.jsonl")
     all_out_f = open(all_out_path, "w", encoding="utf-8")
 
@@ -677,7 +592,6 @@ def main():
     by_joint: Dict[str, Stat] = {"joint": Stat(), "non-joint": Stat()}
     by_answer_kind: Dict[str, Stat] = {"yes_no": Stat(), "other": Stat()}
 
-    # Progress bar
     if tqdm is not None:
         pbar = tqdm(total=target_total, unit="ex", dynamic_ncols=True)
     else:
@@ -705,14 +619,12 @@ def main():
 
             joint_key = "joint" if "joint" in outer.lower() else "non-joint"
 
-            # collect outputs for this single input file; write to ./eval/<model>/<outer>/<kind>.json
             per_file_records = []
             out_dir = os.path.join(base_out_dir, outer)
             ensure_dir(out_dir)
             out_file_path = os.path.join(out_dir, f"{kind}.json")
             
             
-            # ---- RESUME: 若已经有完整结果文件，读取并计入统计，然后跳过生成 ----
             stop_resume = False
             if args.resume_existing and not args.overwrite and os.path.exists(out_file_path):
                 try:
@@ -722,9 +634,7 @@ def main():
                     prev_records = []
                     print(f"[WARN] Failed reading existing {out_file_path}: {e}", file=sys.stderr)
 
-                # 只有当记录条数 >= 这次要评测的样本数时，才认为完整并跳过生成
                 if len(prev_records) >= n_examples:
-                    # 统计这些已有记录
                     for rec in prev_records:
                         q  = rec.get("Query", "")
                         gt = rec.get("Answer", "")
@@ -738,7 +648,6 @@ def main():
                         gt_is_yesno = normalize_text(gt) in {"yes", "no"}
                         by_answer_kind["yes_no" if gt_is_yesno else "other"].add(ok)
 
-                        # 也把这些历史样本写进本轮的 all_outputs.jsonl
                         all_out_f.write(json.dumps({
                             "folder": outer,
                             "type": kind,
@@ -760,7 +669,6 @@ def main():
                     print(f"[RESUME] Use existing {out_file_path}: {len(prev_records)} records; folder acc so far {pct(by_outer[outer].acc)}")
                     if stop_resume:
                         break
-                    # 跳过生成，继续下一个文件
                     continue
                 else:
                     print(f"[RESUME] Found {out_file_path} but incomplete ({len(prev_records)}/{n_examples}), will regenerate...")
@@ -788,14 +696,12 @@ def main():
                 gt_is_yesno = normalize_text(gt) in {"yes", "no"}  # NEW
                 by_answer_kind["yes_no" if gt_is_yesno else "other"].add(ok)
 
-                # append for per-file JSON
                 per_file_records.append({
                     "Query": q,
                     "Answer": gt,
-                    "ModelOutput": pred,  # 保留原问题/答案，并添加模型输出
+                    "ModelOutput": pred, 
                 })
 
-                # write to aggregate jsonl
                 all_out_f.write(json.dumps({
                     "folder": outer,
                     "type": kind,
@@ -820,7 +726,6 @@ def main():
                 if args.sleep > 0:
                     time.sleep(args.sleep)
 
-            # write per-file JSON immediately (mirror structure)
             try:
                 with open(out_file_path, "w", encoding="utf-8") as wf:
                     json.dump(per_file_records, wf, ensure_ascii=False, indent=2)
@@ -837,7 +742,6 @@ def main():
         try: all_out_f.close()
         except Exception: pass
 
-    # Save summary under ./eval/<model>/summary.json
     summary = {
         "model": args.model,
         "data_root": args.data_root,
@@ -845,7 +749,7 @@ def main():
         "by_type": {k: {"total": v.total, "correct": v.correct, "acc": v.acc} for k, v in sorted(by_type.items())},
         "by_outer": {k: {"total": v.total, "correct": v.correct, "acc": v.acc} for k, v in sorted(by_outer.items())},
         "by_joint": {k: {"total": v.total, "correct": v.correct, "acc": v.acc} for k, v in by_joint.items()},
-        "by_answer_kind": {  # NEW
+        "by_answer_kind": {  
             k: {"total": v.total, "correct": v.correct, "acc": v.acc}
             for k, v in by_answer_kind.items()
         },
@@ -854,7 +758,6 @@ def main():
     with open(summary_path, "w", encoding="utf-8") as f:
         json.dump(summary, f, ensure_ascii=False, indent=2)
 
-    # Final prints
     print("\n=== ACCURACY SUMMARY ===")
     def pct(x): return f"{x*100:.2f}%"
     print(f"Overall: {overall.correct}/{overall.total} = {pct(overall.acc)}\n")
@@ -871,11 +774,10 @@ def main():
     for k, v in by_joint.items():
         print(f"  {k:>9}: {v.correct:>5}/{v.total:<5} = {pct(v.acc)}")
         
-    print("\nYes/No vs Other (by GT):")  # NEW
-    for k, v in by_answer_kind.items():  # NEW
+    print("\nYes/No vs Other (by GT):") 
+    for k, v in by_answer_kind.items():
         lab = "Yes/No" if k == "yes_no" else "Other"
-        print(f"  {lab:>6}: {v.correct:>5}/{v.total:<5} = {pct(v.acc)}")  # NEW
-
+        print(f"  {lab:>6}: {v.correct:>5}/{v.total:<5} = {pct(v.acc)}") 
     print(f"\nSaved per-file outputs under: {base_out_dir}/<folder>/<type>.json")
     print(f"Saved all outputs (jsonl):     {all_out_path}")
     print(f"Saved summary:                 {summary_path}")

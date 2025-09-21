@@ -1,15 +1,3 @@
-# eval_sql.py  — Evaluate LLM on gen_data_processed/sql
-# Flow per sample:
-#   1) LLM -> SQL (read-only, one SELECT)
-#   2) Risk check; if safe: execute on MySQL (PyMySQL)
-#   3) Append SQL + result to Query_base -> LLM -> final answer
-#   4) Compare with Answer; aggregate ACC (overall/by_type/by_folder) + SQL success rate
-#
-# Outputs under: ./eval/<model_sanitized>/sql/
-#   - <folder>/<type>.json  (list of dicts with Query_sql, Query_base, SQL, SQLStatus, SQLResultSnippet, ModelOutput, Correct)
-#   - all_outputs.jsonl
-#   - summary.json
-
 import argparse
 import json
 import os
@@ -20,12 +8,10 @@ import signal
 from dataclasses import dataclass
 from typing import Dict, List, Tuple, Optional
 
-# quiet transformers logs
 from transformers.utils import logging as hf_logging
 hf_logging.set_verbosity_error()
 import socket
 
-# progress bar
 try:
     from tqdm import tqdm
 except Exception:
@@ -45,7 +31,7 @@ class OpenAIClient:
         if "insufficient_quota" in msg or "RateLimitError" in msg or "429" in msg:
             print("\n[ERR] OpenAI API quota exceeded or rate limited. "
                   "Please check your billing/plan. Stopping benchmark.", file=sys.stderr)
-            sys.exit(99)   # 特殊退出码
+            sys.exit(99)   
         raise e
     
     @staticmethod
@@ -58,7 +44,6 @@ class OpenAIClient:
     def chat(self, system_prompt: str, user_prompt: str, max_new_tokens: Optional[int] = None) -> str:
         is_reasoning = self._is_reasoning_model(self.model)
         if is_reasoning:
-            # reasoning 系列，直接用 chat.completions.create
             try:
                 resp = self.client.chat.completions.create(
                     model=self.model,
@@ -86,13 +71,12 @@ class OpenAIClient:
             except Exception as e:
                 self._handle_error(e)
                 
-# --- Claude (Anthropic) client with rate limiter & retry ---
 class ClaudeClient:
     def __init__(self, api_key: str, model_name: str, max_new_tokens: int = 480,
                  max_retries: int = 6,
-                 max_tpm: int = 30000,   # 输入 token/min 软上限（保守起步）
-                 max_rpm: int = 60,      # 请求/min 软上限
-                 ramp_factor: float = 1.3):  # 相比上一分钟，TPM 允许的最大增长倍数
+                 max_tpm: int = 30000,  
+                 max_rpm: int = 60,    
+                 ramp_factor: float = 1.3):  
         from anthropic import Anthropic
         from collections import deque
         import time
@@ -105,16 +89,13 @@ class ClaudeClient:
         self.max_tpm = max_tpm
         self.max_rpm = max_rpm
         self.ramp_factor = ramp_factor
-        self.req_times = deque()   # 每次请求时间戳
-        self.tok_times = deque()   # (ts, input_tokens)
-        self.last_minute_toks = 0  # 上一分钟真实消耗（用于爬坡）
+        self.req_times = deque()  
+        self.tok_times = deque()   
+        self.last_minute_toks = 0  
         self.last_minute_start = int(time.time() // 60)
 
-    # ===== helpers =====
     @staticmethod
     def _rough_token_estimate(text: str) -> int:
-        # 粗估：英文平均 ~4 chars/token；中英混合保守用 3.5-4
-        # 只为限速用，宁可偏大
         return max(1, int(len(text) / 4))
 
     @staticmethod
@@ -126,7 +107,6 @@ class ClaudeClient:
         return ("\n".join(parts)).strip()
 
     def _slide_windows(self, now):
-        # 清理 60s 之外的窗口
         from collections import deque
         while self.req_times and now - self.req_times[0] > 60:
             self.req_times.popleft()
@@ -141,10 +121,8 @@ class ClaudeClient:
         import time
         now_min = int(time.time() // 60)
         if now_min != self.last_minute_start:
-            # 进入新的一分钟，记录上一分钟真实消耗
             self.last_minute_toks = self._current_tpm()
             self.last_minute_start = now_min
-        # 基于上一分钟消耗，限制当前分钟目标上限
         allowed_by_ramp = max(self.max_tpm, int(self.last_minute_toks * self.ramp_factor))
         return allowed_by_ramp
 
@@ -165,7 +143,6 @@ class ClaudeClient:
             if will_rpm <= self.max_rpm and will_tpm <= hard_tpm_cap:
                 # ok to send
                 return
-            # 计算需要等待多久
             sleep_candidates = [0.1]
             if will_rpm > self.max_rpm and self.req_times:
                 sleep_candidates.append(60 - (now - self.req_times[0]) + 0.01)
@@ -179,12 +156,9 @@ class ClaudeClient:
         for attempt in range(1, self.max_retries + 1):
             try:
                 resp = self.client.messages.create(**kwargs)
-                # 记录窗口
                 now = time.time()
                 self.req_times.append(now)
-                # 估算输入 token 计入窗口（Anthropic返回usage也可以用，但有时不可用）
                 prompt_text = ""
-                # 从 messages 里抽取输入文本，越保守越好
                 for m in kwargs.get("messages", []):
                     if m.get("role") == "user":
                         c = m.get("content")
@@ -198,7 +172,6 @@ class ClaudeClient:
                 self.tok_times.append((now, est))
                 return resp
             except RateLimitError as e:
-                # 429：读 retry-after 或指数退避
                 retry_after = None
                 try:
                     retry_after = float(getattr(e, "response", None).headers.get("retry-after", ""))
@@ -224,7 +197,6 @@ class ClaudeClient:
 
         raise RuntimeError("Claude request exceeded max retries")
 
-    # === sql 版本用 ===
     def chat(self, system_prompt: str, user_prompt: str, max_new_tokens: Optional[int] = None) -> str:
         est = self._rough_token_estimate(system_prompt + user_prompt)
         self._rate_limit(est)
@@ -238,8 +210,6 @@ class ClaudeClient:
         return self._extract_text(resp)
 
 
-            
-# --- Gemini (google-genai) client ---
 class GeminiClient:
     """
     Wrap google-genai to share the same interface as OpenAIClient:
@@ -249,13 +219,11 @@ class GeminiClient:
         from google import genai
         from google.genai import types
         self.types = types
-        # 如果已 export GOOGLE_API_KEY，也可直接 genai.Client() 无参初始化
         self.client = genai.Client(api_key=api_key)
         self.model = model_name
         self.max_new_tokens = max_new_tokens
 
     def _handle_error(self, e: Exception):
-        # 与 OpenAI 的限流/配额行为对齐：发现 429/403 就退出 99
         try:
             from google.genai import errors
             if isinstance(e, errors.APIError):
@@ -277,7 +245,7 @@ class GeminiClient:
             )
             resp = self.client.models.generate_content(
                 model=self.model,
-                contents=user_prompt,  # 纯文本会被视为单轮 user 内容
+                contents=user_prompt,  
                 config=cfg,
             )
             return (resp.text or "").strip()
@@ -293,7 +261,7 @@ def _sleep_backoff(attempt: int, base: float, cap: float, jitter: bool = True):
     """指数退避 + 抖动"""
     delay = min(cap, base * (2 ** max(0, attempt - 1)))
     if jitter:
-        delay *= (0.5 + random.random() * 0.5)  # 0.5x ~ 1.0x 抖动
+        delay *= (0.5 + random.random() * 0.5)  
     _time.sleep(delay)
 
 def connect_with_retry(cfg: dict,
@@ -320,7 +288,6 @@ def exec_sql_with_retry(conn, sql: str,
     last_err = None
     for i in range(1, max_tries + 1):
         try:
-            # 执行前保底 ping（如果断了会抛异常）
             conn.ping(reconnect=True)
             with conn.cursor() as cur:
                 cur.execute(sql)
@@ -329,28 +296,20 @@ def exec_sql_with_retry(conn, sql: str,
             return ("success", rows, cols, "")
         except Exception as e:
             last_err = e
-            # 典型连接类错误，尝试重连后再试
             if isinstance(e, (pymysql.err.OperationalError, pymysql.err.InterfaceError)):
                 try:
-                    # 关闭旧连接，重建
                     try:
                         conn.close()
                     except Exception:
                         pass
                     conn = connect_with_retry(DB_CFG)
-                    # 下一轮重试由 for 循环负责
                 except Exception as _e_reconn:
                     last_err = _e_reconn
-            # 是否还可重试
             if i == max_tries:
                 err_text = f"{type(last_err).__name__} args={getattr(last_err,'args',None)!r} repr={last_err!r}"
                 return ("failed", None, None, err_text)
             _sleep_backoff(i, base_delay, max_delay, jitter=True)
 
-
-# ----------------------------
-# DB CONFIG (env override)
-# ----------------------------
 import pymysql
 
 DB_CFG = dict(
@@ -361,7 +320,6 @@ DB_CFG = dict(
     database="MultilifeQA",
     charset="utf8mb4",
     autocommit=True,
-    # NEW: fast timeouts (秒)
     connect_timeout=int(os.getenv("MYSQL_CONNECT_TIMEOUT", 10)),
     read_timeout=int(os.getenv("MYSQL_READ_TIMEOUT", 120)),
     write_timeout=int(os.getenv("MYSQL_WRITE_TIMEOUT", 60)),
@@ -376,7 +334,6 @@ def quick_port_check(host: str, port: int, timeout: float = 3.0):
         raise RuntimeError(f"DB port not reachable: {host}:{port} ({e})")
 
 
-# global stop flag
 STOP = False
 def _handle_stop(signum, frame):
     global STOP
@@ -389,9 +346,7 @@ def _handle_stop(signum, frame):
 signal.signal(signal.SIGINT,  _handle_stop)
 signal.signal(signal.SIGTERM, _handle_stop)
 
-# ----------------------------
-# IO helpers
-# ----------------------------
+
 def read_jsonl(path: str):
     with open(path, "r", encoding="utf-8") as f:
         for ln, line in enumerate(f, 1):
@@ -443,9 +398,7 @@ def find_jsonl_files(data_root: str) -> List[Tuple[str, str, str]]:
     found.sort()
     return found
 
-# ----------------------------
-# Text/Answer compare utils
-# ----------------------------
+
 def normalize_text(s: str) -> str:
     s = str(s).strip().lower()
     s = re.sub(r"^(final\s+answer|answer|a)\s*[:\-]\s*", "", s)
@@ -484,11 +437,7 @@ def contains_number(pred_norm: str, gt_num: float) -> bool:
         return any(abs(n - gt_num) <= tol for n in nums)
 
 def compare_multi_answer(pred_raw: str, gt_raw: str) -> bool:
-    """
-    Robust compare when GT may have multiple fields like "X; 16".
-    Strategy: split GT by ';' into parts; each part must be present in pred (text contains)
-              or a number within tolerance must be found.
-    """
+    # not the compare method in paper
     gt_norm = normalize_text(gt_raw)
     pred_norm = normalize_text(pred_raw)
 
@@ -496,20 +445,15 @@ def compare_multi_answer(pred_raw: str, gt_raw: str) -> bool:
     for part in gt_parts:
         if not part:
             continue
-        # numeric?
         nums = extract_numbers(part)
         if len(nums) == 1 and re.fullmatch(r"[-+]?\d*\.?\d+(?:[eE][-+]?\d+)?", part.replace(",", "")):
             if not contains_number(pred_norm, nums[0]):
                 return False
         else:
-            # textual containment
             if part not in pred_norm:
                 return False
     return True
 
-# ----------------------------
-# ACC & SQL stats
-# ----------------------------
 @dataclass
 class Stat:
     total: int = 0
@@ -523,10 +467,10 @@ class Stat:
 
 @dataclass
 class SQLStat:
-    attempted: int = 0     # #samples that produced an SQL string (LLM responded non-empty)
+    attempted: int = 0    
     risky: int = 0
-    failed: int = 0        # safe but execution failed (DB error)
-    success: int = 0       # safe & executed
+    failed: int = 0       
+    success: int = 0      
     def add_attempt(self): self.attempted += 1
     def add_risky(self):   self.risky += 1
     def add_failed(self):  self.failed += 1
@@ -535,13 +479,7 @@ class SQLStat:
     def success_rate(self) -> float:
         return 0.0 if self.attempted == 0 else self.success / self.attempted
 
-# ----------------------------
-# SQL safety check & formatting
-# ----------------------------
-# 原来：
-# FORBIDDEN = re.compile(r"\b(INSERT|UPDATE|DELETE|DROP|ALTER|CREATE|TRUNCATE|REPLACE|GRANT|REVOKE|SET|USE|DESCRIBE|DESC)\b", re.IGNORECASE)
 
-# 新版：
 FORBIDDEN = re.compile(
     r"\b(INSERT|UPDATE|DELETE|DROP|ALTER|CREATE|TRUNCATE|REPLACE|GRANT|REVOKE|SET|USE|DESCRIBE|EXPLAIN)\b",
     re.IGNORECASE
@@ -550,23 +488,18 @@ EXTRA_FORBID = re.compile(r"\b(INTO\s+OUTFILE|LOAD_FILE)\b", re.IGNORECASE)  # �
 
 def extract_sql_from_text(text: str) -> str:
     t = text.strip()
-    # 如果有三引号且闭合，优先取里面
     m = re.search(r"```(?:sql|mysql)?\s*(.*?)```", t, flags=re.S | re.I)
     if m:
         t = m.group(1).strip()
     else:
-        # 若只出现了开头 ```sql 没闭合，剪掉头部直到第一个 SELECT/WITH
-        # 以及把可能的 'sql\n' 前缀去掉
         t = re.sub(r"^\s*```(?:sql|mysql)?\s*", "", t, flags=re.I)
         t = re.sub(r"^\s*sql\s*\n", "", t, flags=re.I)
 
-    # 从第一个 SELECT/WITH 开始截取
     m = re.search(r"\b(SELECT|WITH)\b", t, flags=re.I)
     if not m:
         return t.strip()
     t = t[m.start():].strip()
 
-    # 截到第一个分号（若无分号就返回全文）
     semi = t.find(";")
     if semi != -1:
         t = t[:semi + 1]
@@ -576,29 +509,22 @@ def is_sql_likely_incomplete(sql: str) -> Tuple[bool, str]:
     s = strip_sql_comments(sql).strip()
     if not s:
         return True, "empty"
-    # 必须以 SELECT/WITH 开头
     head = s.split(None, 1)[0].upper()
     if head not in {"SELECT", "WITH"}:
         return True, "not starting with SELECT/WITH"
-    # 缺分号
     if not s.endswith(";"):
         return True, "missing semicolon"
-    # 括号不平衡
     if s.count("(") != s.count(")"):
         return True, "unbalanced parentheses"
-    # 以不完整关键字/运算符结尾
     if re.search(r"(?:\bAND|\bOR|\bJOIN|\bON|,|=|\+|-|\*|/|\(|CONCAT|COALESCE|CASE|WHEN|THEN|ELSE)\s*;\s*$", s, flags=re.I):
         return True, "trailing operator/keyword"
-    # 一般需要 FROM（允许 SELECT 1; 这种极简，但你这套题基本有 FROM）
     if not re.search(r"\bFROM\b", s, flags=re.I) and not s.upper().startswith("WITH"):
-        # 如果确实是 SELECT 1; 我们仍然放行
         if not re.match(r"^SELECT\s+\d+\s*;\s*$", s, flags=re.I):
             return True, "missing FROM"
     return False, "ok"
 
 
 def strip_sql_comments(sql: str) -> str:
-    # remove -- ... and /* ... */ comments
     s = re.sub(r"--[^\n]*", "", sql)
     s = re.sub(r"/\*.*?\*/", "", s, flags=re.S)
     return s.strip()
@@ -609,18 +535,15 @@ def is_sql_risky(sql: str) -> Tuple[bool, str]:
 
     s = strip_sql_comments(sql).strip()
 
-    # 只要第一个词不是 SELECT/WITH 就拦
     head = s.split(None, 1)[0].upper() if s else ""
     if head not in {"SELECT", "WITH"}:
         return True, f"not a SELECT/WITH: {head}"
 
-    # 拦常见危险关键字
     if FORBIDDEN.search(s):
         return True, "contains forbidden keyword"
     if EXTRA_FORBID.search(s):  # 可选
         return True, "contains file IO keyword"
 
-    # “多语句”判定：分号数量 > 1 才算多语句（末尾有/没有分号都 OK）
     semis = s.count(";")
     if semis > 1:
         return True, "multiple statements"
@@ -654,23 +577,19 @@ def format_sql_rows(columns: List[str], rows: List[Tuple], max_rows: int = 50, m
 
 def is_yesno_gt(ans: str) -> bool:
     """Return True if GT is a boolean yes/no style answer"""
-    s = normalize_text(ans)  # already lowercased & stripped
+    s = normalize_text(ans)  
     return s in {"yes", "no", "true", "false"}
 
-# ----------------------------
-# LLM client (auto 4-bit for big models)
-# ----------------------------
+
 def select_loading_strategy(model_name: str):
     name = model_name.lower()
 
-    # 精确覆盖
     if name == "qwen/qwen2.5-14b-instruct":
-        return {"mode": "bnb-8bit"}  # ← 改这里：14B 改为 8-bit
+        return {"mode": "bnb-8bit"} 
     
     if re.search(r"(16b)", name):
         return {"mode": "bnb-8bit"}
 
-    # 其余大模型仍然 4-bit，已测小模型 FP16
     if re.search(r"(70b|72b|32b|28b|20b|16b|mixtral-8x7b)", name):
         return {"mode": "bnb-4bit", "max_memory_gi": 46}
     return {"mode": "fp16"}
@@ -687,7 +606,6 @@ class HFClient:
         strat = select_loading_strategy(model_name)
         mode = strat["mode"]
         if mode == "bnb-4bit":
-            # 延迟导入，只有需要时才依赖 bitsandbytes
             from transformers import BitsAndBytesConfig
 
             bnb_cfg = BitsAndBytesConfig(
@@ -697,56 +615,42 @@ class HFClient:
                 bnb_4bit_compute_dtype=torch.bfloat16 if torch.cuda.is_available() else torch.float32,
             )
             num = torch.cuda.device_count() if torch.cuda.is_available() else 0
-            max_gi = strat.get("max_memory_gi", 46)  # A6000(48G) 给每卡留 2GiB 缓冲
+            max_gi = strat.get("max_memory_gi", 46) 
             max_mem = {i: f"{max_gi}GiB" for i in range(num)} if num else None
 
             self.model = AutoModelForCausalLM.from_pretrained(
                 model_name,
                 quantization_config=bnb_cfg,
-                device_map="balanced",     # 或 "balanced_low_0"，更积极地跨卡切分
+                device_map="balanced", 
                 max_memory=max_mem,
-                # 可选：若已安装 flash-attn 2，解注释下面一行提速注意匹配 CUDA 版本
                 attn_implementation="flash_attention_2",
             )
         elif mode == "bnb-8bit":
             from transformers import BitsAndBytesConfig
             bnb_cfg = BitsAndBytesConfig(
                 load_in_8bit=True,
-                # LLM.int8() 默认混合精度；compute dtype 交给默认即可
             )
             num = torch.cuda.device_count() if torch.cuda.is_available() else 0
-            # A6000 48GB，给每卡留点余量；如果你上下文很短，也可以设 47GiB
             max_mem = {i: "46GiB" for i in range(num)} if num else None
             self.model = AutoModelForCausalLM.from_pretrained(
                 model_name,
                 quantization_config=bnb_cfg,
-                device_map="auto",   # 14B 8-bit 单卡足够；保留 auto 以防万一
+                device_map="auto", 
                 attn_implementation="flash_attention_2",
             )
         else:
-            # 小模型直接 FP16/BF16/FP32（按设备选择）
-            if torch.cuda.is_available():
-                dtype = torch.float16  # 4090上足够；也可换 bfloat16
-            elif getattr(torch.backends, "mps", None) and torch.backends.mps.is_available():
-                dtype = torch.float32
-            else:
-                dtype = torch.float32
-
             num = torch.cuda.device_count() if torch.cuda.is_available() else 0
-            # A6000 48GB，给每卡留点余量；如果你上下文很短，也可以设 47GiB
             max_mem = {i: "46GiB" for i in range(num)} if num else None
 
             self.model = AutoModelForCausalLM.from_pretrained(
                 model_name,
-                torch_dtype=torch.float16,     # 小模型走 fp16
-                device_map="auto",         # 关键：跨卡均衡切分
-                max_memory=max_mem,            # 关键：给出每卡可用显存上限
-                low_cpu_mem_usage=True,        # 可选：减少 CPU 内存峰值
-                # 可选：如果你已安装 flash-attn 2 且版本匹配，可解开下一行提速
+                torch_dtype=torch.float16,
+                device_map="auto",       
+                max_memory=max_mem,          
+                low_cpu_mem_usage=True,      
                 attn_implementation="flash_attention_2",
             )
 
-        # generation config cleanup
         self.model.config.pad_token_id = self.tokenizer.eos_token_id
         gen_cfg = self.model.generation_config
         for k in ("temperature", "top_p", "top_k", "typical_p", "penalty_alpha"):
@@ -786,9 +690,6 @@ class HFClient:
         )
         return out.strip()
 
-# ----------------------------
-# Misc utils
-# ----------------------------
 def sanitize_model_name(name: str) -> str:
     name = name.replace("/", "__")
     name = re.sub(r"[^A-Za-z0-9_.\-]+", "_", name)
@@ -797,9 +698,6 @@ def sanitize_model_name(name: str) -> str:
 def ensure_dir(p: str):
     os.makedirs(p, exist_ok=True)
 
-# ----------------------------
-# Main
-# ----------------------------
 def main():
     global STOP
     ap = argparse.ArgumentParser()
@@ -823,7 +721,6 @@ def main():
         print(f"[ERR] No JSONL files found under: {args.data_root}", file=sys.stderr)
         sys.exit(1)
 
-    # count examples
     file_entries = []
     total_examples = 0
     for fpath, outer, kind in files:
@@ -837,16 +734,13 @@ def main():
 
     target_total = args.limit if (args.limit and args.limit < total_examples) else total_examples
 
-    # output dir (under /sql to avoid clobbering simple results)
     model_dir = sanitize_model_name(args.model)
     base_out_dir = os.path.join(args.eval_root, model_dir)
     ensure_dir(base_out_dir)
 
-    # aggregate jsonl
     all_out_path = os.path.join(base_out_dir, "all_outputs.jsonl")
     all_out_f = open(all_out_path, "w", encoding="utf-8")
 
-    # connect DB once (with fast precheck)
     try:
         print(f"[INFO] Prechecking DB {DB_CFG['host']}:{DB_CFG['port']} ...", flush=True)
         quick_port_check(DB_CFG["host"], DB_CFG["port"], timeout=float(DB_CFG.get("connect_timeout", 5)))
@@ -881,12 +775,10 @@ def main():
     
     yesno_overall = Stat()
     other_overall = Stat()
-        # OPTIONAL: 分类 ACC（只统计 SQL 成功样本）
     yesno_on_success = Stat()
     other_on_success = Stat()
 
 
-    # progress
     if tqdm is not None:
         pbar = tqdm(total=target_total, unit="ex", dynamic_ncols=True)
     else:
@@ -897,7 +789,6 @@ def main():
     total_seen = 0
     def pct(x): return f"{x*100:.2f}%"
 
-    # prompts
     SYS_SQL = (
         "You are an expert MySQL analyst. The database is already connected and available. "
         "Write ONE and only ONE read-only SQL query to answer the question. "
@@ -930,13 +821,11 @@ def main():
             except Exception:
                 pass
 
-            # per-file outputs
             per_file_records = []
             out_dir = os.path.join(base_out_dir, outer)
             ensure_dir(out_dir)
             out_file_path = os.path.join(out_dir, f"{kind}.json")
             
-            # ---- RESUME: 若该类型文件已有完整结果，则读取并计入统计，然后跳过生成 ----
             stop_resume = False
             if args.resume_existing and not args.overwrite and os.path.exists(out_file_path):
                 try:
@@ -946,14 +835,12 @@ def main():
                     prev_records = []
                     print(f"[WARN] Failed reading existing {out_file_path}: {e}", file=sys.stderr)
 
-                # 只有当记录条数 >= 本次要评测的样本数时，才认为“完整”并跳过生成
                 if len(prev_records) >= n_examples:
                     for rec in prev_records:
                         gt         = rec.get("Answer", "")
                         sql_status = rec.get("SQLStatus", "")
                         ok_flag    = bool(rec.get("Correct", False))
 
-                        # SQL 统计：只要本条有生成 SQL（或有 SQLStatus 字段）就计一次 attempt
                         if rec.get("GeneratedSQL", "") or sql_status:
                             sql_overall.add_attempt()
                             sql_by_outer[outer].add_attempt()
@@ -965,7 +852,6 @@ def main():
                             elif sql_status == "success":
                                 sql_overall.add_success(); sql_by_outer[outer].add_success(); sql_by_type[kind].add_success()
 
-                        # ACC 统计口径与在线路径一致
                         overall.add(ok_flag)
                         by_outer[outer].add(ok_flag)
                         by_type[kind].add(ok_flag)
@@ -978,10 +864,8 @@ def main():
                             if sql_status == "success":
                                 other_on_success.add(ok_flag)
 
-                        # 汇入本轮 all_outputs.jsonl
                         all_out_f.write(json.dumps(rec, ensure_ascii=False) + "\n")
 
-                        # 进度条与限制
                         total_seen += 1
                         if pbar is not None:
                             pbar.set_description(f"{outer}/{kind}")
@@ -998,7 +882,6 @@ def main():
                         f"folder ACC so far {overall.acc:.2%}, SQL ok {sql_overall.success_rate:.2%}")
                     if stop_resume:
                         break
-                    # 跳过该类型文件的生成，转到下一个 (outer, kind)
                     continue
                 else:
                     print(f"[RESUME] Found {out_file_path} but incomplete ({len(prev_records)}/{n_examples}), will regenerate...")
@@ -1026,28 +909,6 @@ def main():
                     sql_out = f"[ERROR] {type(e).__name__}: {e}"
 
                 sql_str = extract_sql_from_text(sql_out)
-
-                # # 若不完整则自动重试（放大量）
-                # for _ in range(max(0, args.sql_retries)):
-                #     inc, reason = is_sql_likely_incomplete(sql_str)
-                #     if not inc:
-                #         break
-                #     # 再生成一次，要求“补全/完整”
-                #     retry_prompt = (
-                #         "Your previous SQL seems incomplete. Please output ONE complete MySQL SELECT/CTE statement only, "
-                #         "end with a semicolon. No comments, no code fences.\n\n"
-                #         "Question (same as before):\n" + q_sql
-                #     )
-                #     try:
-                #         sql_out2 = client.chat(SYS_SQL, retry_prompt, max_new_tokens=max(args.sql_max_new_tokens, 256))
-                #         sql_str2 = extract_sql_from_text(sql_out2)
-                #         # 如果新更好（更长、且看起来更完整）就替换
-                #         if len(sql_str2) > len(sql_str):
-                #             sql_str = sql_str2
-                #     except Exception as e:
-                #         pass
-
-                # 记录一次尝试（非空才算尝试）\
                 sql_error = ""
                 if sql_str:
                     sql_overall.add_attempt()
@@ -1061,13 +922,11 @@ def main():
                     sql_by_outer[outer].add_risky()
                     sql_by_type[kind].add_risky()
                 else:
-                    # try execute...
-                    # —— 原处：try: with conn.cursor() as cur: cur.execute(sql_str) ...
                     sql_status, rows, cols, err = exec_sql_with_retry(
                         conn, sql_str,
-                        max_tries=2,        # 执行失败最多再试一次
-                        base_delay=0.25,    # 首次等待
-                        max_delay=2.0       # 等待上限
+                        max_tries=1,        
+                        base_delay=0.25,   
+                        max_delay=2.0       
                     )
                     if sql_status == "success":
                         executed_rows = rows
@@ -1081,7 +940,6 @@ def main():
                 if sql_status == "success":
                     sql_result_preview = format_sql_rows(executed_cols, executed_rows, max_rows=50, max_chars=4000)
 
-                # === Step 3: if success -> build base with SQL+result and ask for final answer ===
                 pred_final = ""
                 if sql_status == "success":
                     base_prompt = (
@@ -1097,10 +955,8 @@ def main():
                     except Exception as e:
                         pred_final = f"[ERROR] {type(e).__name__}: {e}"
                 else:
-                    # if risky/failed,没有结果可供回答，可选择空或错误占位
                     pred_final = "[NO_ANSWER_DUE_TO_SQL]"
 
-                # === Step 4: compare with ground truth (only count ACC when we have a final answer from success path) ===
                 ok = False
                 if sql_status == "success":
                     ok = compare_multi_answer(pred_final, gt)
@@ -1137,7 +993,6 @@ def main():
                 per_file_records.append(rec)
                 all_out_f.write(json.dumps(rec, ensure_ascii=False) + "\n")
 
-                # progress
                 total_seen += 1
                 if pbar is not None:
                     pbar.set_description(f"{outer}/{kind}")
@@ -1156,7 +1011,6 @@ def main():
                 if args.sleep > 0:
                     time.sleep(args.sleep)
 
-            # flush per-file json
             try:
                 with open(out_file_path, "w", encoding="utf-8") as wf:
                     json.dump(per_file_records, wf, ensure_ascii=False, indent=2)
@@ -1218,7 +1072,6 @@ def main():
     with open(summary_path, "w", encoding="utf-8") as f:
         json.dump(summary, f, ensure_ascii=False, indent=2)
 
-    # prints
     def pct(x): return f"{x*100:.2f}%"
     print("\n=== ACCURACY (final answer) ===")
     print(f"Overall: {overall.correct}/{overall.total} = {pct(overall.acc)}\n")
@@ -1243,7 +1096,6 @@ def main():
     print(f"  yes/no: {yesno_overall.correct}/{yesno_overall.total} = {pct(yesno_overall.acc)}")
     print(f"  other : {other_overall.correct}/{other_overall.total} = {pct(other_overall.acc)}")
 
-    # OPTIONAL:
     print("\nBy Answer Kind (on SQL success only):")
     print(f"  yes/no: {yesno_on_success.correct}/{yesno_on_success.total} = {pct(yesno_on_success.acc)}")
     print(f"  other : {other_on_success.correct}/{other_on_success.total} = {pct(other_on_success.acc)}")
