@@ -7,7 +7,7 @@ The `gen_data_processed` folder package contains the complete QA dataset.
 - The **simple** folder provides QA pairs under **Context Prompting**.  
 - The **sql** folder provides QA pairs under **Database-augmented Prompting**.  
 
-The dataset (≈30 MB) is hosted via **Git LFS** in this repository.  
+The dataset is hosted via **Git LFS** in this repository.  
 Clone with LFS enabled to obtain the `gen_data_processed` folder:
 
 ```bash
