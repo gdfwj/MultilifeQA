@@ -2,54 +2,72 @@
 
 ## Download and Usage  
 
-The `.zip` package contains the complete QA dataset.  
+The `gen_data_processed` folder package contains the complete QA dataset.  
 - The **original** folder provides all raw questions and answers.  
 - The **simple** folder provides QA pairs under **Context Prompting**.  
 - The **sql** folder provides QA pairs under **Database-augmented Prompting**.  
 
-The dataset (≈300 MB) is hosted via **Git LFS** in this repository.  
-Clone with LFS enabled to obtain the `.zip` file:
+The dataset (≈30 MB) is hosted via **Git LFS** in this repository.  
+Clone with LFS enabled to obtain the `gen_data_processed` folder:
 
 ```bash
 git lfs install
 ```
 
-If Git LFS bandwidth is exceeded or unavailable, you can alternatively download the dataset directly from the following anonymous link: https://osf.io/dvrbz/?view_only=0e6eb442abf64aaaa6c504200b6140f6
+If Git LFS bandwidth is exceeded or unavailable, you can alternatively download the `.zip` package of dataset directly from the following anonymous link: https://files.osf.io/v1/resources/dvrbz/providers/osfstorage/?view_only=0e6eb442abf64aaaa6c504200b6140f6&zip=
 
 Each folder contains multiple subfolders, where the folder name indicates the table category.  
+**In addition, we provide three summary files: `all_prompts.jsonl` (all questions) is placed in the root of the `original`, `simple`, and `sql` folders; and `single_user.jsonl` / `multi_user.jsonl` (single-user and multi-user question collections) are placed in the root of the `original` and `sql` folders.** 
 
 ### Folder Structure and Description  
 
-- **activity_food_joint**: Joint tables combining **activity** and **diet** domains (single-user, cross-domain).  
-- **all_joint_multi**: All domains combined into a joint multi-table setting (**multi-user, cross-domain**).  
-- **heart_rate_variability**: Single table from the **sleep** domain (single-user).  
-- **pa_active_minutes_multi**: Active minutes table from the **activity** domain (**multi-user**).  
-- **pa_reports_multi**: Reports table from the **activity** domain (**multi-user**).  
-- **skin_temp_sleep_nightly_multi**: Nightly skin temperature table from the **sleep** domain (**multi-user**).  
-- **activity_sleep_joint**: Joint tables combining **activity** and **sleep** domains (single-user, cross-domain).  
-- **emotion_food_joint**: Joint tables combining **emotion** and **diet** domains (single-user, cross-domain).  
-- **heart_rate_variability_multi**: Heart rate variability table from the **activity** domain (**multi-user**).  
-- **pa_daily_summary**: Daily summary table from the **activity** domain (single-user).  
-- **physical_activity_joint**: Joint tables within the **activity** domain (single-user, multi-table).  
-- **sleep_joint**: Joint tables within the **sleep** domain (single-user, multi-table).  
-- **additional_sleep**: Additional table from the **sleep** domain (single-user).  
-- **food_meal_labels**: Meal label table from the **diet** domain (single-user).  
-- **oxygen_sat_daily**: Daily oxygen saturation table from the **activity** domain (single-user).  
-- **pa_daily_summary_multi**: Daily summary table from the **activity** domain (**multi-user**).  
-- **respiratory_rate**: Respiratory rate table from the **sleep** domain (single-user).  
-- **sleep_stress_joint**: Joint tables combining **sleep** and **emotion** domains (single-user, cross-domain).  
-- **additional_sleep_multi**: Additional table from the **sleep** domain (**multi-user**).  
-- **food_meal_labels_multi**: Meal label table from the **diet** domain (**multi-user**).  
-- **oxygen_sat_daily_multi**: Daily oxygen saturation table from the **sleep** domain (**multi-user**).  
-- **pa_emotion_joint**: Joint tables combining **activity** and **emotion** domains (single-user, cross-domain).  
-- **respiratory_rate_multi**: Respiratory rate table from the **activity** domain (**multi-user**).  
-- **stress_daily_scores**: Daily stress scores table from the **emotion** domain (single-user).  
-- **all_joint**: All domains combined into a joint multi-table setting (single-user, cross-domain).  
-- **food_sleep_joint**: Joint tables combining **diet** and **sleep** domains (single-user, cross-domain).  
-- **pa_active_minutes**: Active minutes table from the **activity** domain (single-user).  
-- **pa_reports**: Reports table from the **activity** domain (single-user).  
-- **skin_temp_sleep_nightly**: Nightly skin temperature table from the **sleep** domain (single-user).  
-- **stress_daily_scores_multi**: Daily stress scores table from the **emotion** domain (**multi-user**).  
+We organize the health reasoning tasks in a hierarchical manner: **single-dimension → intra-domain multi-dimension → cross-domain multi-dimension**.  
+- **single**: Single-dimension tasks within only one domain (diet, activity, sleep, or emotion). The folder name corresponds to the table name.  
+- **activity_joint, sleep_joint**: Since activity and sleep domains contain multiple fine-grained indicators stored in separate relational tables, we design intra-domain multi-dimension reasoning tasks (M-activity, M-sleep).  
+- **\*_\*_joint**: Cross-domain multi-dimension reasoning tasks, combining tables from two different domains (e.g., activity + sleep).  
+- **all_joint**: Comprehensive reasoning tasks across all four domains, which is the most challenging setup.  
+- **\*_multi**: Indicates the **multi-user** setting of the corresponding table.  
+
+#### Single (single-dimension tasks)  
+- additional_sleep  
+- additional_sleep_multi  
+- food_meal_labels  
+- food_meal_labels_multi  
+- pa_active_minutes  
+- pa_active_minutes_multi  
+- pa_daily_summary  
+- pa_daily_summary_multi  
+- pa_reports  
+- pa_reports_multi  
+- respiratory_rate  
+- respiratory_rate_multi  
+- skin_temp_sleep_nightly  
+- skin_temp_sleep_nightly_multi  
+- stress_daily_scores  
+- stress_daily_scores_multi  
+- heart_rate_variability  
+- heart_rate_variability_multi  
+- oxygen_sat_daily  
+- oxygen_sat_daily_multi  
+
+#### Activity Joint (intra-domain multi-dimension)  
+- physical_activity_joint  
+
+#### Sleep Joint (intra-domain multi-dimension)  
+- sleep_joint  
+
+#### Cross-domain Joint (\*_\*_joint)  
+- activity_food_joint  
+- activity_sleep_joint  
+- emotion_food_joint  
+- food_sleep_joint  
+- pa_emotion_joint  
+- sleep_stress_joint  
+
+#### All Joint (cross all four domains)  
+- all_joint  
+- all_joint_multi  
+
 
 Each subfolder contains five `.jsonl` files: **FQ**, **AS**, **CQ**, **NC**, and **TA**, where each line corresponds to a QA pair.  
 
