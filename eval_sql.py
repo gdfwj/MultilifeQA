@@ -377,26 +377,47 @@ def count_valid_jsonl_lines(path: str) -> int:
                 pass
     return cnt
 
-def find_jsonl_files(data_root: str) -> List[Tuple[str, str, str]]:
+LEAF_KINDS = {"AS", "CQ", "FQ", "NC", "TA"}
+ALLOWED_BUCKETS_SINGLE_USER = {"single", "M-sleep", "M-activity", "M-C2", "M-C4"}
+ALLOWED_BUCKETS_MULTI_USER  = {"single", "M-C4"}
+
+def find_jsonl_files(data_root: str):
     """
-    Return list of (file_path, outer_folder, kind) where kind in {AS,CQ,FQ,NC,TA}.
-    'outer_folder' is the immediate child folder of data_root.
+    适配新结构：遍历 sql/{single_user|multi_user}/{bucket}/{dataset}/AS.jsonl 等。
+    outer_key = "<scope>/<bucket>/<dataset>"，例如：
+      single_user/M-C2/activity_sleep_joint
+      multi_user/single/pa_active_minutes_multi
     """
-    kinds = {"AS", "CQ", "FQ", "NC", "TA"}
     found = []
     for root, dirs, files in os.walk(data_root):
+        rel = os.path.relpath(root, data_root)
+        parts = rel.split(os.sep)
+        if len(parts) < 3:
+            continue
+
+        scope, bucket, dataset = parts[0], parts[1], parts[2]
+        if scope == "single_user":
+            if bucket not in ALLOWED_BUCKETS_SINGLE_USER:
+                continue
+        elif scope == "multi_user":
+            if bucket not in ALLOWED_BUCKETS_MULTI_USER:
+                continue
+        else:
+            continue  # 忽略其他目录（如根下 prompts）
+
         for fn in files:
             if not fn.lower().endswith(".jsonl"):
                 continue
             kind = os.path.splitext(fn)[0].upper()
-            if kind not in kinds:
+            if kind not in LEAF_KINDS:
                 continue
-            rel = os.path.relpath(os.path.join(root, fn), data_root)
-            parts = rel.split(os.sep)
-            outer = parts[0] if len(parts) >= 2 else "."
-            found.append((os.path.join(root, fn), outer, kind))
+            fpath = os.path.join(root, fn)
+            outer_key = "/".join([scope, bucket, dataset])
+            found.append((fpath, outer_key, kind))
+
     found.sort()
     return found
+
 
 
 def normalize_text(s: str) -> str:

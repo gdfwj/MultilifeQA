@@ -14,64 +14,42 @@ Clone with LFS enabled to obtain the `gen_data_processed` folder:
 git lfs install
 ```
 
-If Git LFS bandwidth is exceeded or unavailable, you can alternatively download the `.zip` package of dataset directly from the following anonymous link: https://osf.io/download/68d23cac87759129021e4648/?view_only=6b74757f20be4b2b8d1db5c9b5e9d551
+If Git LFS bandwidth is exceeded or unavailable, you can alternatively download the `.zip` package of dataset directly from the following anonymous link: https://osf.io/download/68d24e75d6b887c60e3b7f08/?view_only=6b74757f20be4b2b8d1db5c9b5e9d551
 
 Each folder contains multiple subfolders, where the folder name indicates the table category.  
 **In addition, we provide three summary files: `all_prompts.jsonl` (all questions) is placed in the root of the `original`, `simple`, and `sql` folders; and `single_user.jsonl` / `multi_user.jsonl` (single-user and multi-user question collections) are placed in the root of the `original` and `sql` folders.** 
 
 ### Folder Structure and Description  
 
-We organize the health reasoning tasks in a hierarchical manner: **single-dimension → intra-domain multi-dimension → cross-domain multi-dimension**.  
-- **single**: Single-dimension tasks within only one domain (diet, activity, sleep, or emotion). The folder name corresponds to the table name.  
-- **activity_joint, sleep_joint**: Since activity and sleep domains contain multiple fine-grained indicators stored in separate relational tables, we design intra-domain multi-dimension reasoning tasks (M-activity, M-sleep).  
-- **\*_\*_joint**: Cross-domain multi-dimension reasoning tasks, combining tables from two different domains (e.g., activity + sleep).  
-- **all_joint**: Comprehensive reasoning tasks across all four domains, which is the most challenging setup.  
-- **\*_multi**: Indicates the **multi-user** setting of the corresponding table.  
+The processed dataset under `gen_data_processed` is organized in a **hierarchical structure** according to user scope (single-user vs. multi-user) and task complexity (single table vs. multi-table).  
 
-#### Single (single-dimension tasks)  
-- additional_sleep  
-- additional_sleep_multi  
-- food_meal_labels  
-- food_meal_labels_multi  
-- pa_active_minutes  
-- pa_active_minutes_multi  
-- pa_daily_summary  
-- pa_daily_summary_multi  
-- pa_reports  
-- pa_reports_multi  
-- respiratory_rate  
-- respiratory_rate_multi  
-- skin_temp_sleep_nightly  
-- skin_temp_sleep_nightly_multi  
-- stress_daily_scores  
-- stress_daily_scores_multi  
-- heart_rate_variability  
-- heart_rate_variability_multi  
-- oxygen_sat_daily  
-- oxygen_sat_daily_multi  
+- **single_user**: QA tasks for a single user.  
+  - **single**: Single-table tasks from one domain (diet, activity, sleep, or emotion).  
+  - **M-sleep**: Intra-domain multi-table tasks from the sleep domain (`sleep_joint`).  
+  - **M-activity**: Intra-domain multi-table tasks from the activity domain (`physical_activity_joint`).  
+  - **M-C2**: Cross-domain two-domain multi-table tasks (all `*_*_joint`, e.g., `activity_food_joint`, `sleep_stress_joint`).  
+  - **M-C4**: Multi-table tasks across all four domains (`all_joint`).  
 
-#### Activity Joint (intra-domain multi-dimension)  
-- physical_activity_joint  
+- **multi_user**: QA tasks requiring reasoning over multiple users.  
+  - **single**: Single-table multi-user tasks (all `*_multi` datasets, e.g., `pa_active_minutes_multi`).  
+  - **M-C4**: Multi-user tasks across all four domains (`all_joint_multi`).  
 
-#### Sleep Joint (intra-domain multi-dimension)  
-- sleep_joint  
+- **Summary files**:  
+  - `all_prompts.jsonl`: all questions in this split.  
+  - `single_user.jsonl`: all single-user questions in this split.  
+  - `multi_user.jsonl`: all multi-user questions in this split.  
+  
+- Both `original` and `sql` splits contain **single_user** and **multi_user** subdirectories, and include all three summary files.  
+- The `simple` split contains only **single_user** tasks and thus only has `all_prompts.jsonl` and `single_user.jsonl` at its root (no `multi_user`).  
 
-#### Cross-domain Joint (\*_\*_joint)  
-- activity_food_joint  
-- activity_sleep_joint  
-- emotion_food_joint  
-- food_sleep_joint  
-- pa_emotion_joint  
-- sleep_stress_joint  
+Each dataset subfolder (e.g., `pa_active_minutes`, `activity_food_joint`, `all_joint`) contains five `.jsonl` files:  
+- **FQ** (factual questions)  
+- **AS** (aggregation/statistical questions)  
+- **CQ** (counting/consecutive reasoning)  
+- **NC** (numerical comparison)  
+- **TA** (trend analysis)  
 
-#### All Joint (cross all four domains)  
-- all_joint  
-- all_joint_multi  
-
-
-Each subfolder contains five `.jsonl` files: **FQ**, **AS**, **CQ**, **NC**, and **TA**, where each line corresponds to a QA pair.  
-
----
+Each line in these `.jsonl` files corresponds to one QA pair.
 
 ## Evaluating Context Prompting  
 
@@ -111,6 +89,30 @@ The structure should look like:
     -A4F_10021
     ...
     -A4F_99000
+- gen_data_processed
+  - original
+  - simple
+  - sql
+    - single_user
+      - single
+      - M-sleep
+      - M-activity
+      - M-C2
+        - activity_food_joint 
+          - AS.jsonl
+          - CQ.jsonl
+          - ...
+          - TA.jsonl
+        - activity_sleep_joint 
+        - ...
+        - sleep_stress_joint
+      - M-C4
+    - multi_user
+      - single
+      - M-C4
+    - all_prompts.jsonl
+    - multi_user.jsonl
+    - single_user.jsonl
 - schema.sql
 - load_mysql_db.py
 - load_food_db.py

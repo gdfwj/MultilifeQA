@@ -321,26 +321,42 @@ def count_valid_jsonl_lines(path: str) -> int:
     return cnt
 
 
-def find_jsonl_files(data_root: str) -> List[Tuple[str, str, str]]:
+# 放在 eval_simple.py 顶部常量区（若已有可复用）
+LEAF_KINDS = {"AS", "CQ", "FQ", "NC", "TA"}
+ALLOWED_BUCKETS_SINGLE_USER = {"single", "M-sleep", "M-activity", "M-C2", "M-C4"}
+
+def find_jsonl_files(data_root: str):
     """
-    Return list of (file_path, outer_folder, kind) where kind in {AS,CQ,FQ,NC,TA}.
-    'outer_folder' is the immediate child folder of data_root.
+    适配新结构：只遍历 simple/single_user/{bucket}/{dataset}/AS.jsonl 等。
+    返回列表元素：(file_path, outer_key, kind)，
+    其中 outer_key = "single_user/<bucket>/<dataset>"，用于分组统计与输出目录。
     """
-    kinds = {"AS", "CQ", "FQ", "NC", "TA"}
     found = []
     for root, dirs, files in os.walk(data_root):
+        # 只接收 single_user/*/* 层级
+        rel = os.path.relpath(root, data_root)
+        parts = rel.split(os.sep)
+        if len(parts) < 3:
+            continue
+        scope, bucket, dataset = parts[0], parts[1], parts[2]
+        if scope != "single_user":
+            continue
+        if bucket not in ALLOWED_BUCKETS_SINGLE_USER:
+            continue
+
         for fn in files:
             if not fn.lower().endswith(".jsonl"):
                 continue
             kind = os.path.splitext(fn)[0].upper()
-            if kind not in kinds:
+            if kind not in LEAF_KINDS:
                 continue
-            rel = os.path.relpath(os.path.join(root, fn), data_root)
-            parts = rel.split(os.sep)
-            outer = parts[0] if len(parts) >= 2 else "."
-            found.append((os.path.join(root, fn), outer, kind))
+            fpath = os.path.join(root, fn)
+            outer_key = "/".join([scope, bucket, dataset])
+            found.append((fpath, outer_key, kind))
+
     found.sort()
     return found
+
 
 
 def normalize_text(s: str) -> str:

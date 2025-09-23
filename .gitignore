@@ -3,3 +3,4 @@ eval
 eval_sql
 gen_all.py
 *.zip
+classify.py
