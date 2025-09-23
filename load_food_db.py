@@ -47,7 +47,7 @@ def create_db_and_table():
         with conn.cursor() as cur:
             cur.execute(ddl_table)
         conn.commit()
-        print("[OK] 数据库与数据表已就绪。")
+        print("[OK] connected")
     finally:
         conn.close()
 
@@ -82,7 +82,7 @@ def load_folder(user_dir: str) -> List[Tuple[str, datetime, str, str, str, str]]
     time_csv    = os.path.join(user_dir, f"{user_id}_timestamps.csv")
 
     if not (os.path.exists(labeled_csv) and os.path.exists(time_csv)):
-        print(f"[WARN] 缺少 CSV，跳过: {user_dir}")
+        print(f"[WARN] no csv, skip: {user_dir}")
         return []
 
     df_lab = read_csv_auto(labeled_csv)
@@ -117,21 +117,21 @@ def load_folder(user_dir: str) -> List[Tuple[str, datetime, str, str, str, str]]
 def load_all_rows(root: str) -> List[Tuple[str, datetime, str, str, str, str]]:
     all_rows: List[Tuple[str, datetime, str, str, str, str]] = []
     if not os.path.isdir(root):
-        raise FileNotFoundError(f"数据目录不存在: {root}")
+        raise FileNotFoundError(f"not found: {root}")
 
     for entry in os.scandir(root):
         if entry.is_dir():
             rows = load_folder(entry.path)
             if rows:
                 all_rows.extend(rows)
-                print(f"[OK] {entry.name}: {len(rows)} 条")
-    print(f"[INFO] 汇总待写入: {len(all_rows)} 条")
+                print(f"[OK] {entry.name}: {len(rows)}")
+    print(f"[INFO] writing {len(all_rows)}")
     return all_rows
 
 
 def insert_rows(rows: List[Tuple[str, datetime, str, str, str, str]]):
     if not rows:
-        print("[INFO] 无数据可写入。")
+        print("[INFO] no data")
         return
 
     sql = f"""
@@ -147,8 +147,8 @@ def insert_rows(rows: List[Tuple[str, datetime, str, str, str, str]]):
                 batch = rows[i:i+BATCH_SIZE]
                 cur.executemany(sql, batch)
                 conn.commit()
-                print(f"[BATCH] 已写入 {min(i+BATCH_SIZE, total)}/{total}")
-        print("[OK] 全部写入完成。")
+                print(f"[BATCH] {min(i+BATCH_SIZE, total)}/{total}")
+        print("[OK]")
     finally:
         conn.close()
 

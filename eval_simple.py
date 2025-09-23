@@ -44,7 +44,6 @@ class OpenAIClient:
     
     @staticmethod
     def _is_reasoning_model(model_name: str) -> bool:
-        """简单的模型名判定：gpt-5 / gpt-4.1 / o1 / o3 等视为 reasoning 系列。"""
         m = model_name.lower()
         return any(tag in m for tag in ["gpt-5", "gpt-4.1", "o1", "o3"])
     
@@ -141,7 +140,6 @@ class ClaudeClient:
         return sum(x for _, x in self.tok_times)
 
     def _apply_warmup(self, need_tokens: int):
-        """爬坡：限制当前分钟的可用 TPM 不超过上一分钟 * ramp_factor"""
         import time
         now_min = int(time.time() // 60)
         if now_min != self.last_minute_start:
@@ -151,7 +149,6 @@ class ClaudeClient:
         return allowed_by_ramp
 
     def _rate_limit(self, est_input_tokens: int):
-        """在发请求前限速：遵守 RPM、TPM、以及爬坡限制"""
         import time, math
         while True:
             now = time.time()
@@ -321,19 +318,12 @@ def count_valid_jsonl_lines(path: str) -> int:
     return cnt
 
 
-# 放在 eval_simple.py 顶部常量区（若已有可复用）
 LEAF_KINDS = {"AS", "CQ", "FQ", "NC", "TA"}
 ALLOWED_BUCKETS_SINGLE_USER = {"single", "M-sleep", "M-activity", "M-C2", "M-C4"}
 
 def find_jsonl_files(data_root: str):
-    """
-    适配新结构：只遍历 simple/single_user/{bucket}/{dataset}/AS.jsonl 等。
-    返回列表元素：(file_path, outer_key, kind)，
-    其中 outer_key = "single_user/<bucket>/<dataset>"，用于分组统计与输出目录。
-    """
     found = []
     for root, dirs, files in os.walk(data_root):
-        # 只接收 single_user/*/* 层级
         rel = os.path.relpath(root, data_root)
         parts = rel.split(os.sep)
         if len(parts) < 3:

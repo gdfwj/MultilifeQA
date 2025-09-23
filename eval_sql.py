@@ -36,7 +36,6 @@ class OpenAIClient:
     
     @staticmethod
     def _is_reasoning_model(model_name: str) -> bool:
-        """简单的模型名判定：gpt-5 / gpt-4.1 / o1 / o3 等视为 reasoning 系列。"""
         m = model_name.lower()
         return any(tag in m for tag in ["gpt-5", "gpt-4.1", "o1", "o3"])
     
@@ -117,7 +116,6 @@ class ClaudeClient:
         return sum(x for _, x in self.tok_times)
 
     def _apply_warmup(self, need_tokens: int):
-        """爬坡：限制当前分钟的可用 TPM 不超过上一分钟 * ramp_factor"""
         import time
         now_min = int(time.time() // 60)
         if now_min != self.last_minute_start:
@@ -127,7 +125,6 @@ class ClaudeClient:
         return allowed_by_ramp
 
     def _rate_limit(self, est_input_tokens: int):
-        """在发请求前限速：遵守 RPM、TPM、以及爬坡限制"""
         import time, math
         while True:
             now = time.time()
@@ -258,7 +255,6 @@ import random
 import time as _time
 
 def _sleep_backoff(attempt: int, base: float, cap: float, jitter: bool = True):
-    """指数退避 + 抖动"""
     delay = min(cap, base * (2 ** max(0, attempt - 1)))
     if jitter:
         delay *= (0.5 + random.random() * 0.5)  
@@ -268,7 +264,6 @@ def connect_with_retry(cfg: dict,
                        max_tries: int = 5,
                        base_delay: float = 0.5,
                        max_delay: float = 8.0):
-    """带重试的 MySQL 连接"""
     last_err = None
     for i in range(1, max_tries + 1):
         try:
@@ -283,7 +278,6 @@ def exec_sql_with_retry(conn, sql: str,
                         max_tries: int = 2,
                         base_delay: float = 0.25,
                         max_delay: float = 2.0):
-    """执行只读 SQL，失败自动重连并重试一次"""
     import pymysql
     last_err = None
     for i in range(1, max_tries + 1):
@@ -326,7 +320,6 @@ DB_CFG = dict(
 )
 
 def quick_port_check(host: str, port: int, timeout: float = 3.0):
-    """快速 TCP 探测，避免 pymysql.connect 在网络层长时间阻塞。"""
     try:
         with socket.create_connection((host, port), timeout=timeout):
             return True
@@ -382,12 +375,6 @@ ALLOWED_BUCKETS_SINGLE_USER = {"single", "M-sleep", "M-activity", "M-C2", "M-C4"
 ALLOWED_BUCKETS_MULTI_USER  = {"single", "M-C4"}
 
 def find_jsonl_files(data_root: str):
-    """
-    适配新结构：遍历 sql/{single_user|multi_user}/{bucket}/{dataset}/AS.jsonl 等。
-    outer_key = "<scope>/<bucket>/<dataset>"，例如：
-      single_user/M-C2/activity_sleep_joint
-      multi_user/single/pa_active_minutes_multi
-    """
     found = []
     for root, dirs, files in os.walk(data_root):
         rel = os.path.relpath(root, data_root)
@@ -403,7 +390,7 @@ def find_jsonl_files(data_root: str):
             if bucket not in ALLOWED_BUCKETS_MULTI_USER:
                 continue
         else:
-            continue  # 忽略其他目录（如根下 prompts）
+            continue
 
         for fn in files:
             if not fn.lower().endswith(".jsonl"):

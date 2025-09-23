@@ -862,7 +862,7 @@ def generate_TA(cols, rows, per_id_tsv, prompts, ddl):
             consec_count[inc_days]+=1
             if consec_count[inc_days] > 10 and not all(count > 10 for count in consec_count.values()) and not tries < 100:
                 continue
-            if inc_days == 1:  # 无效
+            if inc_days == 1:
                 continue
             ans = fmt_num(inc_days)
             q = f"How many consecutive days did {uid}'s {{{c}}} increase, starting from {to_date_str(d)}?"
