@@ -221,7 +221,6 @@ class ClaudeClient:
 
         raise RuntimeError("Claude request exceeded max retries")
 
-    # === simple 版本用 ===
     def infer(self, prompt: str) -> str:
         est = self._rough_token_estimate(prompt) + 64  
         resp = self._request_with_retry(
@@ -517,7 +516,7 @@ class HFClient:
             gen_ids = self.model.generate(
                 **inputs,
                 max_new_tokens=self.max_new_tokens,
-                do_sample=False,  # 贪心
+                do_sample=False,  # greedy
                 eos_token_id=self.tokenizer.eos_token_id,
                 pad_token_id=self.tokenizer.eos_token_id,
             )
@@ -693,7 +692,7 @@ def main():
                 by_type[kind].add(ok)
                 by_outer[outer].add(ok)
                 by_joint[joint_key].add(ok)
-                gt_is_yesno = normalize_text(gt) in {"yes", "no"}  # NEW
+                gt_is_yesno = normalize_text(gt) in {"yes", "no"}
                 by_answer_kind["yes_no" if gt_is_yesno else "other"].add(ok)
 
                 per_file_records.append({

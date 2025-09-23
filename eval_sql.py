@@ -484,7 +484,7 @@ FORBIDDEN = re.compile(
     r"\b(INSERT|UPDATE|DELETE|DROP|ALTER|CREATE|TRUNCATE|REPLACE|GRANT|REVOKE|SET|USE|DESCRIBE|EXPLAIN)\b",
     re.IGNORECASE
 )
-EXTRA_FORBID = re.compile(r"\b(INTO\s+OUTFILE|LOAD_FILE)\b", re.IGNORECASE)  # 可选
+EXTRA_FORBID = re.compile(r"\b(INTO\s+OUTFILE|LOAD_FILE)\b", re.IGNORECASE)
 
 def extract_sql_from_text(text: str) -> str:
     t = text.strip()
@@ -541,7 +541,7 @@ def is_sql_risky(sql: str) -> Tuple[bool, str]:
 
     if FORBIDDEN.search(s):
         return True, "contains forbidden keyword"
-    if EXTRA_FORBID.search(s):  # 可选
+    if EXTRA_FORBID.search(s):
         return True, "contains file IO keyword"
 
     semis = s.count(";")

@@ -139,3 +139,30 @@ python eval_sql.py \
   --ans-max-new-tokens 48 \
   --api-key  ""
 ```
+
+
+## How to Build Your Own Dataset
+
+We provide not only the processed dataset, but also a **generalizable pipeline** for automatic QA generation.  
+If you are interested in exploring **new reasoning problems** or **customized question types**, you can easily extend our framework:
+
+1. **Prepare and Load Your Data into MySQL**  
+   - First, organize your dataset into structured CSV or relational tables.  
+   - Then, follow the workflow in `load_mysql.py`:  
+     - Check how the constructor and helper functions define table names, data paths, and schema mappings.  
+     - Adapt these functions for your own dataset by modifying the corresponding names and paths.  
+   - Once adjusted, run the script to load your dataset into MySQL, which ensures compatibility.  
+
+2. **Apply your own template**  
+   - Define the question style and reasoning constraints you want to study.  
+   - You can create new templates under the same schema (FQ, AS, CQ, NC, TA), or design entirely new categories.  
+   - Once the template is prepared, simply replace the corresponding part in provided sample `build.py`. 
+
+We encourage the community to:  
+- Extend to **new reasoning challenges** (e.g., more complex questions, longitudinal trend analysis, causal reasoning).  
+- Explore **new prompting strategies** beyond Context and Database-augmented Prompting.  
+- Share and compare results on customized datasets built upon our framework.  
+
+By doing so, you can continually push the boundary of how LLMs reason over complex, multi-domain data.
+
+
