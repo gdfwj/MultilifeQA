@@ -68,6 +68,17 @@ python eval_simple.py \
   --api-key  "" 
 ```
 
+After running, the original QA pairs with model's outputs will be saved under the same relative path inside your specified eval/model_name folder. In addition, an all_outputs.jsonl file will be created in that folder, which records all model outputs together with their classifications. 
+
+To compute summary statistics, run: 
+
+```bash
+python stat_simple.py \
+  eval/model_name/all_outputs.jsonl
+```
+
+This will generate a file `statistic.json` containing the overall evaluation results.
+
 ## Evaluating Database-augmented Prompting
 
 ### Build the MySQL Database
@@ -142,6 +153,24 @@ python eval_sql.py \
   --api-key  ""
 ```
 
+The outputs saved under eval_sql/model_name with the same structure as the case above, with each line including:
+
+1) the generated SQL queries,
+
+2) whether each SQL query executed successfully,
+
+3) the returned results from the database (for successfully executed queries), and
+
+4) the model’s final answers.
+
+To compute summary statistics, run:
+
+```bash
+python stat_sql.py \
+  eval_sql/model_name/all_outputs.jsonl
+```
+
+This will generate a file statistic.json containing the overall evaluation results.
 
 ## How to Build Your Own Dataset
 
